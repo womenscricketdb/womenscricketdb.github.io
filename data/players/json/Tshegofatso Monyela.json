@@ -1,0 +1,288 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "-",
+        "Strike-Rate": "24.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "23.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "2",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "23.73"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammanskraal Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "15",
+        "High Score": "7",
+        "Average": "5.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "21.13"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "33.33"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/02/23",
+        "Opposition": "Dolphins",
+        "Position": "3",
+        "Runs": "7*",
+        "Balls": "29",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "24.14"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/02/26",
+        "Opposition": "Iinyathi",
+        "Position": "3",
+        "Runs": "7",
+        "Balls": "30",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "23.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/02/04",
+        "Opposition": "Titans",
+        "Position": "4",
+        "Runs": "1",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/27",
+        "Opposition": "Lions",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/28",
+        "Opposition": "Titans",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/27",
+        "Opposition": "Lions",
+        "Position": "9",
+        "Runs": "4*",
+        "Balls": "12",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/02",
+        "Opposition": "Western Province",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "5.25",
+        "Economy": "2.63"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Baytopp",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "11.25",
+        "Economy": "4.09"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "11.25",
+        "Economy": "4.09",
+        "Best Figures": "4/21",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/10/27",
+        "Opposition": "Lions",
+        "Figures": "4-21",
+        "Overs": "8",
+        "Economy": "2.62"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/28",
+        "Opposition": "Titans",
+        "Figures": "0-24",
+        "Overs": "3",
+        "Economy": "8"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "5",
+        "First Match": "2021/02/23",
+        "Last Match": "2023/02/04",
+        "Career Span": "2021 - 2023"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Dragons",
+        "Total Matches": "2",
+        "First Match": "2022/03/27",
+        "Last Match": "2022/10/02",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "7",
+        "First Match": "2021/02/23",
+        "Last Match": "2023/02/04",
+        "Career Span": "2021 - 2023"
+      }
+    ]
+  }
+}

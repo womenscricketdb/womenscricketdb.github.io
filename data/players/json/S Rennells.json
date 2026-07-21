@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "46.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Groenkloof Oval",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "46.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "7",
+        "High Score": "7",
+        "Average": "7.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "46.67"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/10/23",
+        "Opposition": "Titans",
+        "Position": "9",
+        "Runs": "7",
+        "Balls": "15",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "46.67"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Best Figures": "0/7",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/10/23",
+        "Opposition": "Titans",
+        "Figures": "0-7",
+        "Overs": "1",
+        "Economy": "7"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "1",
+        "First Match": "2005/10/23",
+        "Last Match": "2005/10/23",
+        "Career Span": "2005 - 2005"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "1",
+        "First Match": "2005/10/23",
+        "Last Match": "2005/10/23",
+        "Career Span": "2005 - 2005"
+      }
+    ]
+  }
+}

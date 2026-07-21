@@ -1,0 +1,152 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Woodlands",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "0.33",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "4.55"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/11/10",
+        "Opposition": "Warriors",
+        "Position": "8",
+        "Runs": "1",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/10/14",
+        "Opposition": "Western Province",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/11/03",
+        "Opposition": "Dolphins",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "17.00",
+        "Economy": "4.25"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "17.00",
+        "Economy": "4.25"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "17.00",
+        "Economy": "4.25",
+        "Best Figures": "1/17",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/11/03",
+        "Opposition": "Dolphins",
+        "Figures": "1-17",
+        "Overs": "4",
+        "Economy": "4.25"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "3",
+        "First Match": "2007/10/14",
+        "Last Match": "2007/11/10",
+        "Career Span": "2007 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "3",
+        "First Match": "2007/10/14",
+        "Last Match": "2007/11/10",
+        "Career Span": "2007 - 2007"
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "200.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "T20",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "200.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "8",
+        "High Score": "8",
+        "Average": "8.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "200.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/10/01",
+        "Opposition": "Boland",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/02",
+        "Opposition": "Boland",
+        "Position": "6",
+        "Runs": "8",
+        "Balls": "4",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "200"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Kei",
+        "Total Matches": "1",
+        "First Match": "2022/10/01",
+        "Last Match": "2022/10/01",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Kei",
+        "Total Matches": "1",
+        "First Match": "2022/10/02",
+        "Last Match": "2022/10/02",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Kei",
+        "Total Matches": "2",
+        "First Match": "2022/10/01",
+        "Last Match": "2022/10/02",
+        "Career Span": "2022 - 2022"
+      }
+    ]
+  }
+}

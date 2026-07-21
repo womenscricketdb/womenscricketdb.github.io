@@ -1,0 +1,276 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "133.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "90.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Westering High School",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "10",
+        "High Score": "8",
+        "Average": "3.33",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "83.33"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2020/01/18",
+        "Opposition": "Badgers",
+        "Position": "6",
+        "Runs": "8",
+        "Balls": "6",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "133.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/10/26",
+        "Opposition": "Iinyathi",
+        "Position": "7",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Warriors",
+        "Position": "8",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Warriors",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/10/27",
+        "Opposition": "Iinyathi",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/01/19",
+        "Opposition": "Badgers",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.67",
+        "Best Figures": "0/20",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Best Figures": "0/7",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Warriors",
+        "Figures": "0-20",
+        "Overs": "2",
+        "Economy": "10"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/01/18",
+        "Opposition": "Badgers",
+        "Figures": "0-32",
+        "Overs": "4",
+        "Economy": "8"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/10/27",
+        "Opposition": "Iinyathi",
+        "Figures": "0-7",
+        "Overs": "1",
+        "Economy": "7"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Kei",
+        "Total Matches": "3",
+        "First Match": "2019/10/26",
+        "Last Match": "2022/02/05",
+        "Career Span": "2019 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Kei",
+        "Total Matches": "3",
+        "First Match": "2019/10/27",
+        "Last Match": "2022/02/06",
+        "Career Span": "2019 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Kei",
+        "Total Matches": "6",
+        "First Match": "2019/10/26",
+        "Last Match": "2022/02/06",
+        "Career Span": "2019 - 2022"
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "13.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Constantia Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "13.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "The Vineyard",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "10.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "3",
+        "High Score": "2",
+        "Average": "3.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "11.11"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/27",
+        "Opposition": "Badgers",
+        "Position": "8",
+        "Runs": "2",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "13.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/11",
+        "Opposition": "Iinyathi",
+        "Position": "10",
+        "Runs": "1*",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/24",
+        "Opposition": "Heat",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/13",
+        "Opposition": "Heat",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/18",
+        "Opposition": "Boland",
+        "Position": "11",
+        "Runs": "0*",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.25"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.78"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.85",
+        "Best Figures": "0/16",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/13",
+        "Opposition": "Heat",
+        "Figures": "0-16",
+        "Overs": "9",
+        "Economy": "1.78"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/27",
+        "Opposition": "Badgers",
+        "Figures": "0-21",
+        "Overs": "4",
+        "Economy": "5.25"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Western Province",
+        "Total Matches": "5",
+        "First Match": "2007/01/13",
+        "Last Match": "2007/03/18",
+        "Career Span": "2007 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Western Province",
+        "Total Matches": "5",
+        "First Match": "2007/01/13",
+        "Last Match": "2007/03/18",
+        "Career Span": "2007 - 2007"
+      }
+    ]
+  }
+}

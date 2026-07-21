@@ -1,0 +1,560 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "11.90"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "10.26"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "6.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "5.88"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "3.51"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "8.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "12.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 4 Oval",
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "18.52"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 2 Oval",
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "8.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Johan Volsteedt Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "7.14"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.88"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St Andrews A",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.88"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. George's Outer Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.14"
+      },
+      {
+        "Format": "T20",
+        "Venue": "UFS 2 Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "8.33"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Old Mutual Sports Club Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "21",
+        "Runs": "23",
+        "High Score": "4",
+        "Average": "1.21",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "8.49"
+      },
+      {
+        "Format": "T20",
+        "Innings": "4",
+        "Runs": "4",
+        "High Score": "2",
+        "Average": "2.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "14.81"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/10/22",
+        "Opposition": "Knights",
+        "Position": "3",
+        "Runs": "4",
+        "Balls": "41",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "9.76"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/02/25",
+        "Opposition": "Western Province",
+        "Position": "8",
+        "Runs": "4*",
+        "Balls": "21",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "19.05"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/04/01",
+        "Opposition": "Titans",
+        "Position": "3",
+        "Runs": "4",
+        "Balls": "16",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/03/30",
+        "Opposition": "Dragons",
+        "Position": "9",
+        "Runs": "3",
+        "Balls": "16",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "18.75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/04/01",
+        "Opposition": "Lions",
+        "Position": "3",
+        "Runs": "2",
+        "Balls": "28",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "7.14"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/10/23",
+        "Opposition": "Knights",
+        "Position": "10",
+        "Runs": "2*",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/02/28",
+        "Opposition": "Western Province",
+        "Position": "5",
+        "Runs": "1",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/01/22",
+        "Opposition": "Lions",
+        "Position": "9",
+        "Runs": "1*",
+        "Balls": "12",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "8.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/03/29",
+        "Opposition": "Lions",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/02/26",
+        "Opposition": "Western Province",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "14.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "11.00",
+        "Economy": "11.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "T20",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "8.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.36",
+        "Best Figures": "0/5",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "8.33",
+        "Best Figures": "1/11",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2015/04/08",
+        "Opposition": "Lions",
+        "Figures": "0-5",
+        "Overs": "1",
+        "Economy": "5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2015/04/07",
+        "Opposition": "Dragons",
+        "Figures": "0-7",
+        "Overs": "1",
+        "Economy": "7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2015/04/09",
+        "Opposition": "Dolphins",
+        "Figures": "0-7",
+        "Overs": "1",
+        "Economy": "7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/01/16",
+        "Opposition": "Titans",
+        "Figures": "0-7",
+        "Overs": "0.3",
+        "Economy": "14"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/01/30",
+        "Opposition": "Knights",
+        "Figures": "0-8",
+        "Overs": "1",
+        "Economy": "8"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/03/29",
+        "Opposition": "Lions",
+        "Figures": "1-11",
+        "Overs": "1",
+        "Economy": "11"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/01/17",
+        "Opposition": "Titans",
+        "Figures": "0-6",
+        "Overs": "1",
+        "Economy": "6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/01/31",
+        "Opposition": "Knights",
+        "Figures": "0-8",
+        "Overs": "1",
+        "Economy": "8"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "6",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      },
+      {
+        "Format": "T20",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Boland",
+        "Total Matches": "29",
+        "First Match": "2015/03/28",
+        "Last Match": "2018/04/07",
+        "Career Span": "2015 - 2018"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Boland",
+        "Total Matches": "11",
+        "First Match": "2015/03/29",
+        "Last Match": "2018/02/04",
+        "Career Span": "2015 - 2018"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Boland",
+        "Total Matches": "40",
+        "First Match": "2015/03/28",
+        "Last Match": "2018/04/07",
+        "Career Span": "2015 - 2018"
+      }
+    ]
+  }
+}

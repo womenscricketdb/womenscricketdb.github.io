@@ -1,0 +1,149 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "63.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "85.71"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "2",
+        "Runs": "25",
+        "Average": "12.50",
+        "Strike-Rate": "67.57"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "25",
+        "High Score": "19",
+        "Average": "12.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "67.57"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/11/05",
+        "Opposition": "Tuskers",
+        "Position": "7",
+        "Runs": "19",
+        "Balls": "30",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "63.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/08",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "6",
+        "Balls": "7",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "85.71"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "6.00",
+        "Economy": "2.08"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "14.33",
+        "Economy": "2.30"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "14.33",
+        "Economy": "2.30",
+        "Best Figures": "3/18",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/10/08",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "3-18",
+        "Overs": "8.4",
+        "Economy": "2.08"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/11/05",
+        "Opposition": "Tuskers",
+        "Figures": "0-25",
+        "Overs": "10",
+        "Economy": "2.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Titans",
+        "Total Matches": "2",
+        "First Match": "2006/10/08",
+        "Last Match": "2006/11/05",
+        "Career Span": "2006 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Titans",
+        "Total Matches": "2",
+        "First Match": "2006/10/08",
+        "Last Match": "2006/11/05",
+        "Career Span": "2006 - 2006"
+      }
+    ]
+  }
+}

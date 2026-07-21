@@ -1,0 +1,124 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Braam Fisherville Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "1.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "20.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/10/07",
+        "Opposition": "Dragons",
+        "Position": "5",
+        "Runs": "1",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/03",
+        "Opposition": "Limpopo Lillies",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50",
+        "Best Figures": "0/22",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/10/07",
+        "Opposition": "Dragons",
+        "Figures": "0-22",
+        "Overs": "4",
+        "Economy": "5.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "2",
+        "First Match": "2006/10/07",
+        "Last Match": "2007/02/03",
+        "Career Span": "2006 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "2",
+        "First Match": "2006/10/07",
+        "Last Match": "2007/02/03",
+        "Career Span": "2006 - 2007"
+      }
+    ]
+  }
+}

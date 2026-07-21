@@ -1,0 +1,149 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "35.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "40.74"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "11",
+        "High Score": "6",
+        "Average": "5.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "40.74"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2014/02/08",
+        "Opposition": "Lions",
+        "Position": "6",
+        "Runs": "6",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "35.29"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/02/22",
+        "Opposition": "Eastern Storm",
+        "Position": "6",
+        "Runs": "5",
+        "Balls": "10",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.67",
+        "Economy": "5.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "12.00",
+        "Economy": "7.20"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "12.00",
+        "Economy": "7.20",
+        "Best Figures": "3/17",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2014/02/22",
+        "Opposition": "Eastern Storm",
+        "Figures": "3-17",
+        "Overs": "3",
+        "Economy": "5.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/02/08",
+        "Opposition": "Lions",
+        "Figures": "0-19",
+        "Overs": "2",
+        "Economy": "9.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2014/02/08",
+        "Last Match": "2014/02/22",
+        "Career Span": "2014 - 2014"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2014/02/08",
+        "Last Match": "2014/02/22",
+        "Career Span": "2014 - 2014"
+      }
+    ]
+  }
+}

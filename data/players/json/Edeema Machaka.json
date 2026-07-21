@@ -1,0 +1,162 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/02/13",
+        "Opposition": "Heat",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/10/30",
+        "Opposition": "Tuskers",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/02/14",
+        "Opposition": "Heat",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Badgers",
+        "Total Matches": "1",
+        "First Match": "2016/02/13",
+        "Last Match": "2016/02/13",
+        "Career Span": "2016 - 2016"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Badgers",
+        "Total Matches": "2",
+        "First Match": "2016/02/14",
+        "Last Match": "2016/10/30",
+        "Career Span": "2016 - 2016"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Badgers",
+        "Total Matches": "3",
+        "First Match": "2016/02/13",
+        "Last Match": "2016/10/30",
+        "Career Span": "2016 - 2016"
+      }
+    ]
+  }
+}

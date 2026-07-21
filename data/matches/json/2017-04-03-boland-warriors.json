@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Tournament": "16-17 CSA Women's Provincial League",
+      "Match_Date": "2017/04/03",
+      "Venue_Name": "UFS 4 Oval",
+      "Season": "16/17",
+      "Format": "List A",
+      "Team_Home_Name": "Boland",
+      "Team_Away_Name": "Warriors",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Team_Name": "Boland",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "6",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "106",
+      "Team_Wickets_Lost": "4",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Team_Name": "Warriors",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "105",
+      "Team_Wickets_Lost": "6",
+      "Team_Overs_Faced": "28",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Innings_Number": "1",
+      "Player": "Dané van Niekerk",
+      "Runs": "22",
+      "Balls": "28"
+    },
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Innings_Number": "1",
+      "Player": "Eloise Webb",
+      "Runs": "22",
+      "Balls": "37"
+    },
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Innings_Number": "2",
+      "Player": "Simone Marais",
+      "Runs": "34",
+      "Balls": "66"
+    },
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Innings_Number": "2",
+      "Player": "Stacey Lackay",
+      "Runs": "38",
+      "Balls": "29"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Innings_Number": "1",
+      "Player": "Alicia Smith",
+      "Wickets": "2",
+      "Runs": "13"
+    },
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Innings_Number": "1",
+      "Player": "Veronique Smith",
+      "Wickets": "2",
+      "Runs": "15"
+    },
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Innings_Number": "2",
+      "Player": "Dané van Niekerk",
+      "Wickets": "1",
+      "Runs": "10"
+    },
+    {
+      "Match_Slug": "2017-04-03-boland-warriors",
+      "Innings_Number": "2",
+      "Player": "Eloise Webb",
+      "Wickets": "2",
+      "Runs": "14"
+    }
+  ]
+}

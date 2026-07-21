@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/11/13",
+        "Opposition": "Titans",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "5.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Groenkloof Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "5.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "5.00",
+        "Best Figures": "1/10",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/11/13",
+        "Opposition": "Titans",
+        "Figures": "1-10",
+        "Overs": "2",
+        "Economy": "5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "1",
+        "First Match": "2005/11/13",
+        "Last Match": "2005/11/13",
+        "Career Span": "2005 - 2005"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "1",
+        "First Match": "2005/11/13",
+        "Last Match": "2005/11/13",
+        "Career Span": "2005 - 2005"
+      }
+    ]
+  }
+}

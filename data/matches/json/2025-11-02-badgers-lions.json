@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Tournament": "25-26 Pro 20",
+      "Match_Date": "2025/11/02",
+      "Venue_Name": "Recreation Ground",
+      "Season": "25/26",
+      "Format": "T20",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Team_Name": "Badgers",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "103",
+      "Team_Wickets_Lost": "7",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Won",
+      "Win_Margin": "6",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "109",
+      "Team_Wickets_Lost": "7",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Diara Ramlakan",
+      "Runs": "28",
+      "Balls": "23"
+    },
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Sunette Viljoen-Louw",
+      "Runs": "20",
+      "Balls": "19"
+    },
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Izel Cilliers",
+      "Runs": "40",
+      "Balls": "39"
+    },
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Julia Hoal",
+      "Runs": "30",
+      "Balls": "43"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Gizelle Abrahams",
+      "Wickets": "2",
+      "Runs": "22"
+    },
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Zintle Kula",
+      "Wickets": "2",
+      "Runs": "11"
+    },
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Fay Cowling",
+      "Wickets": "2",
+      "Runs": "14"
+    },
+    {
+      "Match_Slug": "2025-11-02-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Kgomotso Rapoo",
+      "Wickets": "1",
+      "Runs": "16"
+    }
+  ]
+}

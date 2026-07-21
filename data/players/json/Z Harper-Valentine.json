@@ -1,0 +1,189 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "17.00",
+        "Strike-Rate": "27.42"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "-",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Mohadin Oval",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "-",
+        "Strike-Rate": "36.84"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "-",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sturrock Park",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "12.50"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "29",
+        "High Score": "14",
+        "Average": "29.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "25.66"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/01/29",
+        "Opposition": "Dragons",
+        "Position": "5",
+        "Runs": "14*",
+        "Balls": "38",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "36.84"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/08",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "12*",
+        "Balls": "51",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/22",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "3",
+        "Balls": "24",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "12.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/02",
+        "Opposition": "Rhinos",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/14",
+        "Opposition": "Rhinos",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Best Figures": "0/10",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/01/14",
+        "Opposition": "Rhinos",
+        "Figures": "0-10",
+        "Overs": "2",
+        "Economy": "5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "5",
+        "First Match": "2005/10/02",
+        "Last Match": "2006/01/29",
+        "Career Span": "2005 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "5",
+        "First Match": "2005/10/02",
+        "Last Match": "2006/01/29",
+        "Career Span": "2005 - 2006"
+      }
+    ]
+  }
+}

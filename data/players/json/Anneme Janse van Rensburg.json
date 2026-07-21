@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "47.06"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "T20",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "47.06"
+      }
+    ],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "8",
+        "High Score": "8",
+        "Average": "8.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "47.06"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2022/03/27",
+        "Opposition": "Lions",
+        "Position": "8",
+        "Runs": "8",
+        "Balls": "17",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "47.06"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "T20",
+        "Teams Represented": "Dragons",
+        "Total Matches": "1",
+        "First Match": "2022/03/27",
+        "Last Match": "2022/03/27",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "1",
+        "First Match": "2022/03/27",
+        "Last Match": "2022/03/27",
+        "Career Span": "2022 - 2022"
+      }
+    ]
+  }
+}

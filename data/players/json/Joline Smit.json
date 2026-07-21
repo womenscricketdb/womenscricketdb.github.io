@@ -1,0 +1,233 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "25",
+        "Average": "25.00",
+        "Strike-Rate": "89.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "30.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "55",
+        "Average": "55.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "42.86"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "25",
+        "Average": "25.00",
+        "Strike-Rate": "89.29"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "30.43"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Runs": "55",
+        "Average": "55.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "42.86"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "32",
+        "High Score": "25",
+        "Average": "10.67",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "61.54"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "70",
+        "High Score": "55",
+        "Average": "35.00",
+        "50s": "1",
+        "100s": "0",
+        "Strike Rate*": "77.78"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/10/08",
+        "Opposition": "Limpopo Lillies",
+        "Position": "3",
+        "Runs": "25",
+        "Balls": "28",
+        "Fours": "6",
+        "Sixes": "0",
+        "Strike-Rate": "89.29"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/11/26",
+        "Opposition": "Rhinos",
+        "Position": "4",
+        "Runs": "7",
+        "Balls": "23",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30.43"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/10/07",
+        "Opposition": "Dragons",
+        "Position": "4",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/02",
+        "Opposition": "Tuskers",
+        "Position": "4",
+        "Runs": "55",
+        "Balls": "55",
+        "Fours": "10",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/09",
+        "Opposition": "Limpopo Lillies",
+        "Position": "3",
+        "Runs": "15",
+        "Balls": "35",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "42.86"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "3",
+        "First Match": "2022/10/08",
+        "Last Match": "2023/10/07",
+        "Career Span": "2022 - 2023"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "2",
+        "First Match": "2022/10/02",
+        "Last Match": "2022/10/09",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "5",
+        "First Match": "2022/10/02",
+        "Last Match": "2023/10/07",
+        "Career Span": "2022 - 2023"
+      }
+    ]
+  }
+}

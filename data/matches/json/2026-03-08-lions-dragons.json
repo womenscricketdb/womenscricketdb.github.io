@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Tournament": "25-26 Pro 20",
+      "Match_Date": "2026/03/08",
+      "Venue_Name": "Steyn City",
+      "Season": "25/26",
+      "Format": "T20",
+      "Team_Home_Name": "Lions",
+      "Team_Away_Name": "Dragons",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Team_Name": "Dragons",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "30",
+      "Team_Wickets_Lost": "2",
+      "Team_Overs_Faced": "6",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "10",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "34",
+      "Team_Wickets_Lost": "0",
+      "Team_Overs_Faced": "4.1",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Innings_Number": "1",
+      "Player": "Lizri de Villiers",
+      "Runs": "9",
+      "Balls": "15"
+    },
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Innings_Number": "1",
+      "Player": "Mignon du Preez",
+      "Runs": "17",
+      "Balls": "18"
+    },
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Innings_Number": "2",
+      "Player": "Karabo Meso",
+      "Runs": "18",
+      "Balls": "18"
+    },
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Innings_Number": "2",
+      "Player": "Tazmin Brits",
+      "Runs": "12",
+      "Balls": "7"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Innings_Number": "1",
+      "Player": "Kgomotso Rapoo",
+      "Wickets": "1",
+      "Runs": "10"
+    },
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Innings_Number": "1",
+      "Player": "Tumi Sekhukhune",
+      "Wickets": "1",
+      "Runs": "5"
+    },
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Innings_Number": "2",
+      "Player": "Alyssa Erxleben",
+      "Wickets": "0",
+      "Runs": "11"
+    },
+    {
+      "Match_Slug": "2026-03-08-lions-dragons",
+      "Innings_Number": "2",
+      "Player": "Katlego Sethlodi",
+      "Wickets": "0",
+      "Runs": "3"
+    }
+  ]
+}

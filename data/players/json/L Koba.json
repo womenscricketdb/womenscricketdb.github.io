@@ -1,0 +1,151 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "10.53"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "SU Main Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "10.53"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Victoria Pirates Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "3",
+        "High Score": "2",
+        "Average": "1.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "10.34"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2008/11/29",
+        "Opposition": "Boland",
+        "Position": "10",
+        "Runs": "2",
+        "Balls": "19",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10.53"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/17",
+        "Opposition": "Knights",
+        "Position": "10",
+        "Runs": "1",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/11/01",
+        "Opposition": "Lions",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Warriors",
+        "Total Matches": "3",
+        "First Match": "2008/11/01",
+        "Last Match": "2009/01/17",
+        "Career Span": "2008 - 2009"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Warriors",
+        "Total Matches": "3",
+        "First Match": "2008/11/01",
+        "Last Match": "2009/01/17",
+        "Career Span": "2008 - 2009"
+      }
+    ]
+  }
+}

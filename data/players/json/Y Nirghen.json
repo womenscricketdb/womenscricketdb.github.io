@@ -1,0 +1,237 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "12.86"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "9.09"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "8.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval 2",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "7.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "8.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "13.04"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Carter High School",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "9",
+        "Runs": "16",
+        "High Score": "4",
+        "Average": "2.29",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "10.60"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/10/04",
+        "Opposition": "Knights",
+        "Position": "9",
+        "Runs": "4",
+        "Balls": "22",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/22",
+        "Opposition": "Dragons",
+        "Position": "9",
+        "Runs": "3*",
+        "Balls": "23",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "13.04"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/01/09",
+        "Opposition": "Heat",
+        "Position": "7",
+        "Runs": "3*",
+        "Balls": "40",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "7.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/01/10",
+        "Opposition": "Knights",
+        "Position": "6",
+        "Runs": "3",
+        "Balls": "36",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "8.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/11/06",
+        "Opposition": "Knights",
+        "Position": "6",
+        "Runs": "2",
+        "Balls": "12",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.50"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.25",
+        "Best Figures": "0/17",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/10/03",
+        "Opposition": "Heat",
+        "Figures": "0-17",
+        "Overs": "2",
+        "Economy": "8.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/10/31",
+        "Opposition": "Dolphins",
+        "Figures": "0-24",
+        "Overs": "2",
+        "Economy": "12"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "4",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "13",
+        "First Match": "2009/10/03",
+        "Last Match": "2011/02/13",
+        "Career Span": "2009 - 2011"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "13",
+        "First Match": "2009/10/03",
+        "Last Match": "2011/02/13",
+        "Career Span": "2009 - 2011"
+      }
+    ]
+  }
+}

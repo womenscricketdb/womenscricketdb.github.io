@@ -1,0 +1,406 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "9.23"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "3.45"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "17.24"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "200.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Langenhoven Gimnasium",
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "8.57"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Westering High School",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "9.09"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bridgton Sports Grounds",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "3.45"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St Dominic's Priory School",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.26"
+      },
+      {
+        "Format": "T20",
+        "Venue": "SU Main Oval",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "17.24"
+      },
+      {
+        "Format": "T20",
+        "Venue": "St Dominic's Priory School",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "11.76"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "200.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "7",
+        "Runs": "10",
+        "High Score": "3",
+        "Average": "1.43",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "7.87"
+      },
+      {
+        "Format": "T20",
+        "Innings": "4",
+        "Runs": "9",
+        "High Score": "5",
+        "Average": "3.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "18.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Warriors",
+        "Position": "2",
+        "Runs": "3",
+        "Balls": "33",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "9.09"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/01/18",
+        "Opposition": "Badgers",
+        "Position": "2",
+        "Runs": "2",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/07",
+        "Opposition": "Warriors",
+        "Position": "2",
+        "Runs": "2",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "15.38"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/02/01",
+        "Opposition": "Warriors",
+        "Position": "1",
+        "Runs": "1",
+        "Balls": "19",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "5.26"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/04",
+        "Opposition": "Knights",
+        "Position": "2",
+        "Runs": "1",
+        "Balls": "29",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "3.45"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/12/01",
+        "Opposition": "Boland",
+        "Position": "2",
+        "Runs": "5",
+        "Balls": "29",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "17.24"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/01/19",
+        "Opposition": "Badgers",
+        "Position": "2",
+        "Runs": "2*",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "200"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/02/02",
+        "Opposition": "Warriors",
+        "Position": "1",
+        "Runs": "2",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "11.76"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Warriors",
+        "Position": "2",
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "21.67",
+        "Economy": "6.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "37.00",
+        "Economy": "12.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Langenhoven Gimnasium",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "21.67",
+        "Economy": "6.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "37.00",
+        "Economy": "12.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "39.00",
+        "Economy": "8.21",
+        "Best Figures": "3/65",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00",
+        "Best Figures": "0/9",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/03/06",
+        "Opposition": "Boland",
+        "Figures": "3-65",
+        "Overs": "10",
+        "Economy": "6.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/01/18",
+        "Opposition": "Badgers",
+        "Figures": "1-37",
+        "Overs": "3",
+        "Economy": "12.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Warriors",
+        "Figures": "0-19",
+        "Overs": "2",
+        "Economy": "9.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/02/01",
+        "Opposition": "Warriors",
+        "Figures": "0-35",
+        "Overs": "4",
+        "Economy": "8.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/12/01",
+        "Opposition": "Boland",
+        "Figures": "0-9",
+        "Overs": "1",
+        "Economy": "9"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Kei",
+        "Total Matches": "7",
+        "First Match": "2020/01/18",
+        "Last Match": "2022/02/05",
+        "Career Span": "2020 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Kei",
+        "Total Matches": "4",
+        "First Match": "2019/12/01",
+        "Last Match": "2022/02/06",
+        "Career Span": "2019 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Kei",
+        "Total Matches": "11",
+        "First Match": "2019/12/01",
+        "Last Match": "2022/02/06",
+        "Career Span": "2019 - 2022"
+      }
+    ]
+  }
+}

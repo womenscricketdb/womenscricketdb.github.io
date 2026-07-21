@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Tournament": "24-25 Pro 20",
+      "Match_Date": "2024/10/06",
+      "Venue_Name": "Bloemfontein Oval",
+      "Season": "24/25",
+      "Format": "T20",
+      "Team_Home_Name": "Knights",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Team_Name": "Knights",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "6",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "119",
+      "Team_Wickets_Lost": "4",
+      "Team_Overs_Faced": "19.4",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "115",
+      "Team_Wickets_Lost": "5",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Innings_Number": "1",
+      "Player": "Jenna Evans",
+      "Runs": "23",
+      "Balls": "19"
+    },
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Innings_Number": "1",
+      "Player": "Nonkhululeko Thabethe",
+      "Runs": "52",
+      "Balls": "56"
+    },
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Innings_Number": "2",
+      "Player": "Anica Swart",
+      "Runs": "19",
+      "Balls": "31"
+    },
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Innings_Number": "2",
+      "Player": "Izel Cilliers",
+      "Runs": "54",
+      "Balls": "55"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Innings_Number": "1",
+      "Player": "Gezelle Jansen van Rensburg",
+      "Wickets": "1",
+      "Runs": "15"
+    },
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Innings_Number": "1",
+      "Player": "Lucian Swartz",
+      "Wickets": "1",
+      "Runs": "14"
+    },
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Innings_Number": "2",
+      "Player": "Fay Cowling",
+      "Wickets": "2",
+      "Runs": "8"
+    },
+    {
+      "Match_Slug": "2024-10-06-knights-lions",
+      "Innings_Number": "2",
+      "Player": "Kgomotso Rapoo",
+      "Wickets": "1",
+      "Runs": "19"
+    }
+  ]
+}

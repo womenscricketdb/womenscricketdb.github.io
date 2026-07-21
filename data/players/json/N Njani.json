@@ -1,0 +1,560 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Runs": "30",
+        "Average": "30.00",
+        "Strike-Rate": "44.78"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "78.26"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "-",
+        "Strike-Rate": "37.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "83.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "44.44"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "26.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Westering High School",
+        "Innings": "1",
+        "Runs": "23",
+        "Average": "-",
+        "Strike-Rate": "46.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Oval",
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "78.26"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "2",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "27.78"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. George's Outer Oval",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "41.18"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "42.86"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Pearson High School",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Kimberley Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "44.44"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "62",
+        "High Score": "23",
+        "Average": "15.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "45.26"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Runs": "19",
+        "High Score": "6",
+        "Average": "3.80",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "47.50"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Warriors",
+        "Position": "7",
+        "Runs": "23*",
+        "Balls": "50",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "46"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/02/10",
+        "Opposition": "Heat",
+        "Position": "5",
+        "Runs": "18",
+        "Balls": "23",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "78.26"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/01/20",
+        "Opposition": "Warriors",
+        "Position": "7",
+        "Runs": "7",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "41.18"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/11/25",
+        "Opposition": "Badgers",
+        "Position": "8",
+        "Runs": "6*",
+        "Balls": "16",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "37.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/10/15",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "4",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/01/21",
+        "Opposition": "Warriors",
+        "Position": "3",
+        "Runs": "6",
+        "Balls": "9",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/11/26",
+        "Opposition": "Badgers",
+        "Position": "4",
+        "Runs": "5",
+        "Balls": "6",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "83.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/02/26",
+        "Opposition": "Tuskers",
+        "Position": "3",
+        "Runs": "4",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "26.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/02/11",
+        "Opposition": "Heat",
+        "Position": "3",
+        "Runs": "4",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "44.44"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/10/16",
+        "Opposition": "Dolphins",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "7",
+        "Average": "3.43",
+        "Economy": "2.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "38.50",
+        "Economy": "4.81"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "30.00",
+        "Economy": "7.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "5.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "9.00",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "2",
+        "Wickets": "7",
+        "Average": "9.86",
+        "Economy": "3.63"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Westering High School",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "47.00",
+        "Economy": "4.70"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. George's Outer Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "30.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "19.50",
+        "Economy": "6.50"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "5.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Wickets": "9",
+        "Average": "26.44",
+        "Economy": "5.06",
+        "Best Figures": "7/24",
+        "3-fors": "1",
+        "5-fors": "1"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "29.67",
+        "Economy": "6.36",
+        "Best Figures": "1/9",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2017/02/25",
+        "Opposition": "Tuskers",
+        "Figures": "7-24",
+        "Overs": "9",
+        "Economy": "2.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/01/20",
+        "Opposition": "Warriors",
+        "Figures": "1-30",
+        "Overs": "6",
+        "Economy": "5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Warriors",
+        "Figures": "1-47",
+        "Overs": "10",
+        "Economy": "4.7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/10/15",
+        "Opposition": "Dolphins",
+        "Figures": "0-11",
+        "Overs": "3",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/11/25",
+        "Opposition": "Badgers",
+        "Figures": "0-45",
+        "Overs": "10",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/02/26",
+        "Opposition": "Tuskers",
+        "Figures": "1-9",
+        "Overs": "2",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/10/16",
+        "Opposition": "Dolphins",
+        "Figures": "1-23",
+        "Overs": "4",
+        "Economy": "5.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/11/26",
+        "Opposition": "Badgers",
+        "Figures": "1-30",
+        "Overs": "4",
+        "Economy": "7.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/01/21",
+        "Opposition": "Warriors",
+        "Figures": "0-10",
+        "Overs": "2",
+        "Economy": "5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/02/11",
+        "Opposition": "Heat",
+        "Figures": "0-17",
+        "Overs": "2",
+        "Economy": "8.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "1"
+      },
+      {
+        "Format": "T20",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "1"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Kei",
+        "Total Matches": "6",
+        "First Match": "2016/10/15",
+        "Last Match": "2022/02/05",
+        "Career Span": "2016 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Kei",
+        "Total Matches": "5",
+        "First Match": "2016/10/16",
+        "Last Match": "2018/02/11",
+        "Career Span": "2016 - 2018"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Kei",
+        "Total Matches": "11",
+        "First Match": "2016/10/15",
+        "Last Match": "2022/02/05",
+        "Career Span": "2016 - 2022"
+      }
+    ]
+  }
+}

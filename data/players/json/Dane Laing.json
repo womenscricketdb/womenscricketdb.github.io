@@ -1,0 +1,190 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "30",
+        "Average": "30.00",
+        "Strike-Rate": "37.97"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "21.05"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "11.54"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "15.38"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "4",
+        "Runs": "37",
+        "Average": "9.25",
+        "Strike-Rate": "28.24"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bridgton Sports Grounds",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "24.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "43",
+        "High Score": "30",
+        "Average": "8.60",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "27.56"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/10/21",
+        "Opposition": "Knights",
+        "Position": "4",
+        "Runs": "30",
+        "Balls": "79",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "37.97"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/27",
+        "Opposition": "Heat",
+        "Position": "2",
+        "Runs": "6",
+        "Balls": "25",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "24"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/11/19",
+        "Opposition": "Western Province",
+        "Position": "2",
+        "Runs": "3",
+        "Balls": "26",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "11.54"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/12",
+        "Opposition": "Boland",
+        "Position": "2",
+        "Runs": "2",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "15.38"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/22",
+        "Opposition": "Heat",
+        "Position": "4",
+        "Runs": "2",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "15.38"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "5.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "5.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "5.67",
+        "Best Figures": "2/17",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/11/19",
+        "Opposition": "Western Province",
+        "Figures": "2-17",
+        "Overs": "3",
+        "Economy": "5.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Badgers",
+        "Total Matches": "5",
+        "First Match": "2005/11/12",
+        "Last Match": "2006/11/19",
+        "Career Span": "2005 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Badgers",
+        "Total Matches": "5",
+        "First Match": "2005/11/12",
+        "Last Match": "2006/11/19",
+        "Career Span": "2005 - 2006"
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "36.11"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "-",
+        "Strike-Rate": "42.86"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "4",
+        "Runs": "19",
+        "Average": "-",
+        "Strike-Rate": "31.15"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Freeman Park Ground",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "26.92"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "26",
+        "High Score": "12",
+        "Average": "26.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "29.89"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2014/02/08",
+        "Opposition": "Eastern Storm",
+        "Position": "7",
+        "Runs": "12*",
+        "Balls": "28",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "42.86"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/01/11",
+        "Opposition": "Lions",
+        "Position": "6",
+        "Runs": "7",
+        "Balls": "26",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "26.92"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/02/09",
+        "Opposition": "Lions",
+        "Position": "9",
+        "Runs": "6*",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "60"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/01/25",
+        "Opposition": "Rhinos",
+        "Position": "7",
+        "Runs": "1*",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/23",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "0*",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "35.50",
+        "Economy": "5.46"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "11.50",
+        "Economy": "4.60"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "3.13"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.30"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "30.25",
+        "Economy": "4.17"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Freeman Park Ground",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "41.00",
+        "Economy": "5.86"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Wickets": "5",
+        "Average": "32.40",
+        "Economy": "4.50",
+        "Best Figures": "2/23",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2014/01/25",
+        "Opposition": "Rhinos",
+        "Figures": "2-23",
+        "Overs": "5",
+        "Economy": "4.6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/02/08",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-25",
+        "Overs": "8",
+        "Economy": "3.12"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/02/09",
+        "Opposition": "Lions",
+        "Figures": "1-30",
+        "Overs": "6",
+        "Economy": "5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/01/11",
+        "Opposition": "Lions",
+        "Figures": "1-41",
+        "Overs": "7",
+        "Economy": "5.86"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/23",
+        "Opposition": "Titans",
+        "Figures": "0-43",
+        "Overs": "10",
+        "Economy": "4.3"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "5",
+        "First Match": "2013/11/23",
+        "Last Match": "2014/02/09",
+        "Career Span": "2013 - 2014"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "5",
+        "First Match": "2013/11/23",
+        "Last Match": "2014/02/09",
+        "Career Span": "2013 - 2014"
+      }
+    ]
+  }
+}

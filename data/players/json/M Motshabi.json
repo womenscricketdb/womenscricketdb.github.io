@@ -1,0 +1,553 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "12.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "37.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "5",
+        "Runs": "15",
+        "Average": "3.75",
+        "Strike-Rate": "15.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.14"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Witbank High School Ground",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "9",
+        "Runs": "16",
+        "High Score": "7",
+        "Average": "2.29",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "13.11"
+      },
+      {
+        "Format": "T20",
+        "Innings": "7",
+        "Runs": "2",
+        "High Score": "2",
+        "Average": "0.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "4.65"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2014/02/08",
+        "Opposition": "Eastern Storm",
+        "Position": "6",
+        "Runs": "7",
+        "Balls": "48",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.58"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/23",
+        "Opposition": "Titans",
+        "Position": "10",
+        "Runs": "3",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "42.86"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/11/10",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "3*",
+        "Balls": "18",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/10/26",
+        "Opposition": "Eastern Storm",
+        "Position": "10",
+        "Runs": "2",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "13.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/10/27",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "1",
+        "Balls": "14",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "7.14"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/11/24",
+        "Opposition": "Rhinos",
+        "Position": "10",
+        "Runs": "2*",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/05",
+        "Opposition": "Dragons",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/06",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/12",
+        "Opposition": "Eastern Storm",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/19",
+        "Opposition": "Lions",
+        "Position": "4",
+        "Runs": "0",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "2",
+        "Wickets": "5",
+        "Average": "13.40",
+        "Economy": "3.94"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "10.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "2.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "44.00",
+        "Economy": "5.08"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "42.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "37.00",
+        "Economy": "4.63"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "7.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "23.00",
+        "Economy": "4.16"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "6.50",
+        "Economy": "3.25"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "2.33"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "5",
+        "Wickets": "2",
+        "Average": "32.00",
+        "Economy": "5.12"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "5.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Wickets": "10",
+        "Average": "14.80",
+        "Economy": "3.83",
+        "Best Figures": "4/26",
+        "3-fors": "2",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "9",
+        "Wickets": "4",
+        "Average": "34.00",
+        "Economy": "5.33",
+        "Best Figures": "1/13",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2019/01/19",
+        "Opposition": "Eastern Storm",
+        "Figures": "4-26",
+        "Overs": "8",
+        "Economy": "3.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/11/10",
+        "Opposition": "Tuskers",
+        "Figures": "3-30",
+        "Overs": "10",
+        "Economy": "3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/10/27",
+        "Opposition": "Dolphins",
+        "Figures": "1-7",
+        "Overs": "3",
+        "Economy": "2.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/10/26",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-41",
+        "Overs": "9",
+        "Economy": "4.56"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/23",
+        "Opposition": "Titans",
+        "Figures": "1-44",
+        "Overs": "8.4",
+        "Economy": "5.08"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/03",
+        "Opposition": "Rhinos",
+        "Figures": "1-13",
+        "Overs": "4",
+        "Economy": "3.25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/06",
+        "Opposition": "Titans",
+        "Figures": "1-15",
+        "Overs": "2",
+        "Economy": "7.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/10/28",
+        "Opposition": "Dolphins",
+        "Figures": "1-16",
+        "Overs": "4",
+        "Economy": "4"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/01/20",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-20",
+        "Overs": "4",
+        "Economy": "5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/19",
+        "Opposition": "Lions",
+        "Figures": "0-6",
+        "Overs": "0.3",
+        "Economy": "12"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "T20",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons, Limpopo Lillies",
+        "Total Matches": "10",
+        "First Match": "2007/01/28",
+        "Last Match": "2019/10/26",
+        "Career Span": "2007 - 2019"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "10",
+        "First Match": "2013/10/05",
+        "Last Match": "2019/11/24",
+        "Career Span": "2013 - 2019"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons, Limpopo Lillies",
+        "Total Matches": "20",
+        "First Match": "2007/01/28",
+        "Last Match": "2019/11/24",
+        "Career Span": "2007 - 2019"
+      }
+    ]
+  }
+}

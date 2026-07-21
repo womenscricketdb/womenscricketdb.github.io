@@ -1,0 +1,161 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "2.86"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "2.86"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "1.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "2.86"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/02/10",
+        "Opposition": "Western Province",
+        "Position": "2",
+        "Runs": "1",
+        "Balls": "35",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "2.86"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/11/26",
+        "Opposition": "Knights",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "11.00",
+        "Economy": "11.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "T20",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "11.00",
+        "Economy": "11.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "11.00",
+        "Economy": "11.00",
+        "Best Figures": "2/22",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2023/11/26",
+        "Opposition": "Knights",
+        "Figures": "2-22",
+        "Overs": "2",
+        "Economy": "11"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Badgers",
+        "Total Matches": "1",
+        "First Match": "2024/02/10",
+        "Last Match": "2024/02/10",
+        "Career Span": "2024 - 2024"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Badgers",
+        "Total Matches": "1",
+        "First Match": "2023/11/26",
+        "Last Match": "2023/11/26",
+        "Career Span": "2023 - 2023"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Badgers",
+        "Total Matches": "2",
+        "First Match": "2023/11/26",
+        "Last Match": "2024/02/10",
+        "Career Span": "2023 - 2024"
+      }
+    ]
+  }
+}

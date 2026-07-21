@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Tournament": "22-23 CSA Women's Provincial Programme",
+      "Match_Date": "2022/10/01",
+      "Venue_Name": "Centurion Park",
+      "Season": "22/23",
+      "Format": "List A",
+      "Team_Home_Name": "Titans",
+      "Team_Away_Name": "Badgers",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "200",
+      "Team_Wickets_Lost": "9",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Team_Name": "Titans",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "9",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "209",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "48.2",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Innings_Number": "1",
+      "Player": "Eliz-Mari Marx",
+      "Runs": "40",
+      "Balls": "33"
+    },
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Innings_Number": "1",
+      "Player": "Sunette Viljoen-Louw",
+      "Runs": "45",
+      "Balls": "85"
+    },
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Innings_Number": "2",
+      "Player": "Haroline Rhodes",
+      "Runs": "72",
+      "Balls": "104"
+    },
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Innings_Number": "2",
+      "Player": "Mochelle May",
+      "Runs": "26",
+      "Balls": "47"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Innings_Number": "1",
+      "Player": "Jané Winster",
+      "Wickets": "2",
+      "Runs": "30"
+    },
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Innings_Number": "1",
+      "Player": "Mariana Breedt",
+      "Wickets": "2",
+      "Runs": "40"
+    },
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Innings_Number": "2",
+      "Player": "Eliz-Mari Marx",
+      "Wickets": "2",
+      "Runs": "37"
+    },
+    {
+      "Match_Slug": "2022-10-01-titans-badgers",
+      "Innings_Number": "2",
+      "Player": "Ricea Coetzer",
+      "Wickets": "5",
+      "Runs": "39"
+    }
+  ]
+}

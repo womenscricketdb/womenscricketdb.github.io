@@ -1,0 +1,140 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      }
+    ],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "1.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "7.69"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2019/02/03",
+        "Opposition": "Rhinos",
+        "Position": "4",
+        "Runs": "1",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/01/20",
+        "Opposition": "Eastern Storm",
+        "Position": "8",
+        "Runs": "0*",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.25"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Best Figures": "0/13",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2019/01/20",
+        "Opposition": "Eastern Storm",
+        "Figures": "0-13",
+        "Overs": "2",
+        "Economy": "6.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/03",
+        "Opposition": "Rhinos",
+        "Figures": "0-17",
+        "Overs": "4",
+        "Economy": "4.25"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2019/01/20",
+        "Last Match": "2019/02/03",
+        "Career Span": "2019 - 2019"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2019/01/20",
+        "Last Match": "2019/02/03",
+        "Career Span": "2019 - 2019"
+      }
+    ]
+  }
+}

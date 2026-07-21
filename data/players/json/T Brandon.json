@@ -1,0 +1,157 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "25",
+        "Average": "-",
+        "Strike-Rate": "92.59"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Walter Milton Oval",
+        "Innings": "1",
+        "Runs": "25",
+        "Average": "-",
+        "Strike-Rate": "92.59"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "27",
+        "High Score": "25",
+        "Average": "27.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "75.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/11/05",
+        "Opposition": "Dolphins",
+        "Position": "9",
+        "Runs": "25*",
+        "Balls": "27",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "92.59"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/04",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "2",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "22.22"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "11.00",
+        "Economy": "3.30"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.86"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "11.00",
+        "Economy": "3.30"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "15.33",
+        "Economy": "2.71",
+        "Best Figures": "3/33",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/02/04",
+        "Opposition": "Titans",
+        "Figures": "3-33",
+        "Overs": "10",
+        "Economy": "3.3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/11/05",
+        "Opposition": "Dolphins",
+        "Figures": "0-13",
+        "Overs": "7",
+        "Economy": "1.86"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "2",
+        "First Match": "2006/11/05",
+        "Last Match": "2007/02/04",
+        "Career Span": "2006 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "2",
+        "First Match": "2006/11/05",
+        "Last Match": "2007/02/04",
+        "Career Span": "2006 - 2007"
+      }
+    ]
+  }
+}

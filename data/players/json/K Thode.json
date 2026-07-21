@@ -1,0 +1,189 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "26.47"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "26.47"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Braam Fisherville Ground",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "20.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "11",
+        "High Score": "9",
+        "Average": "2.75",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "24.44"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/02/04",
+        "Opposition": "Titans",
+        "Position": "9",
+        "Runs": "9",
+        "Balls": "33",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "27.27"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/07",
+        "Opposition": "Dragons",
+        "Position": "9",
+        "Runs": "2",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/02",
+        "Opposition": "Rhinos",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/03",
+        "Opposition": "Limpopo Lillies",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/21",
+        "Opposition": "Rhinos",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "10",
+        "First Match": "2005/10/02",
+        "Last Match": "2007/02/04",
+        "Career Span": "2005 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "10",
+        "First Match": "2005/10/02",
+        "Last Match": "2007/02/04",
+        "Career Span": "2005 - 2007"
+      }
+    ]
+  }
+}

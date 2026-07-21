@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Tournament": "20-21 CSA Women's Provincial Programme",
+      "Match_Date": "2021/03/06",
+      "Venue_Name": "Recreation Ground",
+      "Season": "20/21",
+      "Format": "List A",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Knights",
+      "Match_Division": "Cross-Div"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "7",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "80",
+      "Team_Wickets_Lost": "3",
+      "Team_Overs_Faced": "16.5",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Team_Name": "Knights",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "79",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "31.1",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Innings_Number": "1",
+      "Player": "Christen van Wyk",
+      "Runs": "26",
+      "Balls": "48"
+    },
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Innings_Number": "1",
+      "Player": "Delmari Hoffman",
+      "Runs": "25",
+      "Balls": "34"
+    },
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Innings_Number": "2",
+      "Player": "Bianca Figeland",
+      "Runs": "18",
+      "Balls": "34"
+    },
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Innings_Number": "2",
+      "Player": "Mochelle May",
+      "Runs": "19",
+      "Balls": "17"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Innings_Number": "1",
+      "Player": "Haroline Rhodes",
+      "Wickets": "5",
+      "Runs": "14"
+    },
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Innings_Number": "1",
+      "Player": "Jané Winster",
+      "Wickets": "2",
+      "Runs": "10"
+    },
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Innings_Number": "2",
+      "Player": "Gezelle Jansen van Rensburg",
+      "Wickets": "1",
+      "Runs": "24"
+    },
+    {
+      "Match_Slug": "2021-03-06-badgers-knights",
+      "Innings_Number": "2",
+      "Player": "Zintle Kula",
+      "Wickets": "2",
+      "Runs": "19"
+    }
+  ]
+}

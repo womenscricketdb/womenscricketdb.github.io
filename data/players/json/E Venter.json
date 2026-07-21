@@ -1,0 +1,143 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "43",
+        "Average": "43.00",
+        "Strike-Rate": "78.18"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Jameson",
+        "Innings": "2",
+        "Runs": "46",
+        "Average": "23.00",
+        "Strike-Rate": "60.53"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "46",
+        "High Score": "43",
+        "Average": "15.33",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "59.74"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/10/28",
+        "Opposition": "Dolphins",
+        "Position": "1",
+        "Runs": "43",
+        "Balls": "55",
+        "Fours": "7",
+        "Sixes": "1",
+        "Strike-Rate": "78.18"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/27",
+        "Opposition": "Western Province",
+        "Position": "5",
+        "Runs": "3",
+        "Balls": "21",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/25",
+        "Opposition": "Titans",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "3",
+        "First Match": "2021/10/25",
+        "Last Match": "2021/10/28",
+        "Career Span": "2021 - 2021"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "3",
+        "First Match": "2021/10/25",
+        "Last Match": "2021/10/28",
+        "Career Span": "2021 - 2021"
+      }
+    ]
+  }
+}

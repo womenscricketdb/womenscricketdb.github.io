@@ -1,0 +1,124 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.56"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "1.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "5.56"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/11/17",
+        "Opposition": "Titans",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "18",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "5.56"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/11/24",
+        "Opposition": "Rhinos",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "2",
+        "First Match": "2007/11/17",
+        "Last Match": "2007/11/24",
+        "Career Span": "2007 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "2",
+        "First Match": "2007/11/17",
+        "Last Match": "2007/11/24",
+        "Career Span": "2007 - 2007"
+      }
+    ]
+  }
+}

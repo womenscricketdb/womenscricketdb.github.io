@@ -1,0 +1,140 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "26",
+        "Average": "26.00",
+        "Strike-Rate": "31.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "19.57"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Runs": "26",
+        "Average": "26.00",
+        "Strike-Rate": "31.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "19.57"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "35",
+        "High Score": "26",
+        "Average": "17.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "27.13"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/11/25",
+        "Opposition": "Tuskers",
+        "Position": "1",
+        "Runs": "26",
+        "Balls": "83",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "31.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/14",
+        "Opposition": "Titans",
+        "Position": "1",
+        "Runs": "9",
+        "Balls": "46",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "19.57"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "0",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "2",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2006/11/25",
+        "Last Match": "2007/01/14",
+        "Career Span": "2006 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2006/11/25",
+        "Last Match": "2007/01/14",
+        "Career Span": "2006 - 2007"
+      }
+    ]
+  }
+}

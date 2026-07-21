@@ -1,0 +1,176 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "12.12"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "-",
+        "Strike-Rate": "60.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "12.12"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "-",
+        "Strike-Rate": "60.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "4.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "12.12"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "6",
+        "High Score": "6",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "60.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Limpopo Lillies",
+        "Position": "7",
+        "Runs": "4",
+        "Balls": "33",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "12.12"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Limpopo Lillies",
+        "Position": "7",
+        "Runs": "6*",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "60"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33",
+        "Best Figures": "0/44",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Best Figures": "0/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-44",
+        "Overs": "6",
+        "Economy": "7.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-12",
+        "Overs": "2",
+        "Economy": "6"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "1",
+        "First Match": "2022/02/05",
+        "Last Match": "2022/02/05",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "1",
+        "First Match": "2022/02/06",
+        "Last Match": "2022/02/06",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2022/02/05",
+        "Last Match": "2022/02/06",
+        "Career Span": "2022 - 2022"
+      }
+    ]
+  }
+}

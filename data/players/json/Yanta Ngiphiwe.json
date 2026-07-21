@@ -1,0 +1,124 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "71.43"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Johan Volsteedt Oval",
+        "Innings": "2",
+        "Runs": "24",
+        "Average": "12.00",
+        "Strike-Rate": "26.37"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "24",
+        "High Score": "14",
+        "Average": "12.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "26.37"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/04/02",
+        "Opposition": "Western Province",
+        "Position": "4",
+        "Runs": "14",
+        "Balls": "77",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/04/01",
+        "Opposition": "Boland",
+        "Position": "3",
+        "Runs": "10",
+        "Balls": "14",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "71.43"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "2",
+        "First Match": "2016/04/01",
+        "Last Match": "2016/04/02",
+        "Career Span": "2016 - 2016"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "2",
+        "First Match": "2016/04/01",
+        "Last Match": "2016/04/02",
+        "Career Span": "2016 - 2016"
+      }
+    ]
+  }
+}

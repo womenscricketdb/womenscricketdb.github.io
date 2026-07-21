@@ -1,0 +1,160 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "26.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "61.54"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Newlands Stadium",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "26.67"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Newlands Stadium",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "61.54"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "8",
+        "High Score": "8",
+        "Average": "8.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "26.67"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "8",
+        "High Score": "8",
+        "Average": "8.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "61.54"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/02/21",
+        "Opposition": "Lions",
+        "Position": "7",
+        "Runs": "8",
+        "Balls": "30",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "26.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/22",
+        "Opposition": "Lions",
+        "Position": "10",
+        "Runs": "8",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "61.54"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Western Province",
+        "Total Matches": "1",
+        "First Match": "2026/02/21",
+        "Last Match": "2026/02/21",
+        "Career Span": "2026 - 2026"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Western Province",
+        "Total Matches": "1",
+        "First Match": "2026/02/22",
+        "Last Match": "2026/02/22",
+        "Career Span": "2026 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Western Province",
+        "Total Matches": "2",
+        "First Match": "2026/02/21",
+        "Last Match": "2026/02/22",
+        "Career Span": "2026 - 2026"
+      }
+    ]
+  }
+}

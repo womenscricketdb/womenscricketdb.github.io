@@ -1,0 +1,928 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "8",
+        "Runs": "324",
+        "Average": "54.00",
+        "Strike-Rate": "82.44"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "10",
+        "Runs": "250",
+        "Average": "31.25",
+        "Strike-Rate": "57.74"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "9",
+        "Runs": "248",
+        "Average": "35.43",
+        "Strike-Rate": "59.76"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "4",
+        "Runs": "171",
+        "Average": "85.50",
+        "Strike-Rate": "77.73"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "163",
+        "Average": "-",
+        "Strike-Rate": "153.77"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "6",
+        "Runs": "111",
+        "Average": "37.00",
+        "Strike-Rate": "59.04"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "97",
+        "Average": "97.00",
+        "Strike-Rate": "151.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "4",
+        "Runs": "95",
+        "Average": "23.75",
+        "Strike-Rate": "57.93"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "90",
+        "Average": "-",
+        "Strike-Rate": "73.77"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "5",
+        "Runs": "88",
+        "Average": "22.00",
+        "Strike-Rate": "63.77"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "53",
+        "Average": "-",
+        "Strike-Rate": "80.30"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "48",
+        "Average": "48.00",
+        "Strike-Rate": "69.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "47",
+        "Average": "47.00",
+        "Strike-Rate": "114.63"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "200.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "41",
+        "Average": "41.00",
+        "Strike-Rate": "136.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Runs": "25",
+        "Average": "25.00",
+        "Strike-Rate": "147.06"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "-",
+        "Strike-Rate": "114.29"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "142.86"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Despatch Oval",
+        "Innings": "10",
+        "Runs": "262",
+        "Average": "37.43",
+        "Strike-Rate": "53.47"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Ngumbela Park",
+        "Innings": "1",
+        "Runs": "163",
+        "Average": "-",
+        "Strike-Rate": "153.77"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP 2 Oval",
+        "Innings": "3",
+        "Runs": "157",
+        "Average": "157.00",
+        "Strike-Rate": "70.09"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Heatherbank Cricket Club",
+        "Innings": "1",
+        "Runs": "125",
+        "Average": "-",
+        "Strike-Rate": "100.81"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SU Main Oval",
+        "Innings": "3",
+        "Runs": "120",
+        "Average": "60.00",
+        "Strike-Rate": "70.18"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kemsley Park",
+        "Innings": "2",
+        "Runs": "111",
+        "Average": "111.00",
+        "Strike-Rate": "91.74"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Aberdare Sports Ground",
+        "Innings": "3",
+        "Runs": "107",
+        "Average": "107.00",
+        "Strike-Rate": "66.46"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Centurion Park",
+        "Innings": "1",
+        "Runs": "106",
+        "Average": "106.00",
+        "Strike-Rate": "66.25"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Freeman Park Ground",
+        "Innings": "1",
+        "Runs": "100",
+        "Average": "100.00",
+        "Strike-Rate": "91.74"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "97",
+        "Average": "97.00",
+        "Strike-Rate": "151.56"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "2",
+        "Runs": "67",
+        "Average": "33.50",
+        "Strike-Rate": "69.07"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Old Mutual Sports Club Ground",
+        "Innings": "1",
+        "Runs": "50",
+        "Average": "-",
+        "Strike-Rate": "92.59"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Runs": "47",
+        "Average": "47.00",
+        "Strike-Rate": "114.63"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bridgton Sports Grounds",
+        "Innings": "1",
+        "Runs": "41",
+        "Average": "41.00",
+        "Strike-Rate": "62.12"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "2",
+        "Runs": "37",
+        "Average": "18.50",
+        "Strike-Rate": "61.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "31",
+        "Average": "31.00",
+        "Strike-Rate": "91.18"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UCT Bowl",
+        "Innings": "1",
+        "Runs": "29",
+        "Average": "29.00",
+        "Strike-Rate": "54.72"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "2",
+        "Runs": "28",
+        "Average": "14.00",
+        "Strike-Rate": "50.91"
+      },
+      {
+        "Format": "T20",
+        "Venue": "St. George's Outer Oval",
+        "Innings": "1",
+        "Runs": "41",
+        "Average": "41.00",
+        "Strike-Rate": "136.67"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Kemsley Park",
+        "Innings": "2",
+        "Runs": "41",
+        "Average": "-",
+        "Strike-Rate": "141.38"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Muir Old Boys Club Ground",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "142.86"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "53",
+        "Runs": "1789",
+        "High Score": "163",
+        "Average": "48.35",
+        "50s": "14",
+        "100s": "4",
+        "Strike Rate*": "73.90"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Runs": "92",
+        "High Score": "41",
+        "Average": "30.67",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "135.29"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/01/16",
+        "Opposition": "Kei",
+        "Position": "3",
+        "Runs": "163*",
+        "Balls": "106",
+        "Fours": "16",
+        "Sixes": "0",
+        "Strike-Rate": "153.77"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/23",
+        "Opposition": "Iinyathi",
+        "Position": "4",
+        "Runs": "125*",
+        "Balls": "124",
+        "Fours": "10",
+        "Sixes": "1",
+        "Strike-Rate": "100.81"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/04/07",
+        "Opposition": "Western Province",
+        "Position": "3",
+        "Runs": "106",
+        "Balls": "160",
+        "Fours": "7",
+        "Sixes": "0",
+        "Strike-Rate": "66.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/03/24",
+        "Opposition": "Lions",
+        "Position": "3",
+        "Runs": "100",
+        "Balls": "109",
+        "Fours": "7",
+        "Sixes": "3",
+        "Strike-Rate": "91.74"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/27",
+        "Opposition": "Limpopo Lillies",
+        "Position": "1",
+        "Runs": "97",
+        "Balls": "64",
+        "Fours": "13",
+        "Sixes": "1",
+        "Strike-Rate": "151.56"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/11/08",
+        "Opposition": "Badgers",
+        "Position": "3",
+        "Runs": "41",
+        "Balls": "30",
+        "Fours": "6",
+        "Sixes": "0",
+        "Strike-Rate": "136.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/11/01",
+        "Opposition": "Heat",
+        "Position": "3",
+        "Runs": "25*",
+        "Balls": "15",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "166.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/02/08",
+        "Opposition": "Iinyathi",
+        "Position": "3",
+        "Runs": "16*",
+        "Balls": "14",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "114.29"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/02/04",
+        "Opposition": "Boland",
+        "Position": "5",
+        "Runs": "10",
+        "Balls": "7",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "142.86"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/19",
+        "Opposition": "Kei",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "7",
+        "Wickets": "15",
+        "Average": "5.00",
+        "Economy": "1.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "3",
+        "Wickets": "13",
+        "Average": "1.31",
+        "Economy": "1.15"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "8",
+        "Wickets": "12",
+        "Average": "15.00",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "9",
+        "Wickets": "11",
+        "Average": "17.82",
+        "Economy": "2.72"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "9",
+        "Wickets": "11",
+        "Average": "11.82",
+        "Economy": "2.55"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "3",
+        "Wickets": "9",
+        "Average": "1.67",
+        "Economy": "0.80"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "3",
+        "Wickets": "8",
+        "Average": "5.75",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "7.83",
+        "Economy": "2.04"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "6",
+        "Average": "1.00",
+        "Economy": "0.86"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "5",
+        "Wickets": "4",
+        "Average": "34.75",
+        "Economy": "3.27"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "2.33",
+        "Economy": "1.17"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "29.33",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.17"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.88"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "0.00",
+        "Economy": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.00",
+        "Economy": "1.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "11.00",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Despatch Oval",
+        "Innings": "11",
+        "Wickets": "12",
+        "Average": "15.00",
+        "Economy": "2.35"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Columbus Oval",
+        "Innings": "1",
+        "Wickets": "8",
+        "Average": "0.25",
+        "Economy": "0.52"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "4",
+        "Wickets": "8",
+        "Average": "6.00",
+        "Economy": "2.09"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Ngumbela Park",
+        "Innings": "1",
+        "Wickets": "6",
+        "Average": "1.00",
+        "Economy": "0.86"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "2",
+        "Wickets": "6",
+        "Average": "2.17",
+        "Economy": "1.13"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Old Mutual Sports Club Ground",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "0.50",
+        "Economy": "0.40"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "3.00",
+        "Economy": "1.20"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Gelvandale Oval",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "9.00",
+        "Economy": "2.20"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "11.50",
+        "Economy": "2.71"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "13.75",
+        "Economy": "2.89"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Aberdare Sports Ground",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "26.00",
+        "Economy": "3.65"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hertzog High School",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "2.00",
+        "Economy": "1.20"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP Main Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.00",
+        "Economy": "1.36"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP 2 Oval",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "8.67",
+        "Economy": "1.53"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Yorkshire Cricket Club Ground",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.67",
+        "Economy": "1.70"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.33",
+        "Economy": "1.86"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP 3 Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "6.00",
+        "Economy": "2.57"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "10.00",
+        "Economy": "2.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SU Main Oval",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "39.50",
+        "Economy": "3.43"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Muir Old Boys Club Ground",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "0.00",
+        "Economy": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Victoria Park High School",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.00",
+        "Economy": "1.50"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Kemsley Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "11.00",
+        "Economy": "2.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "58",
+        "Wickets": "101",
+        "Average": "9.82",
+        "Economy": "2.42",
+        "Best Figures": "8/2",
+        "3-fors": "16",
+        "5-fors": "3"
+      },
+      {
+        "Format": "T20",
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "5.40",
+        "Economy": "2.22",
+        "Best Figures": "2/0",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2012/02/25",
+        "Opposition": "Rhinos",
+        "Figures": "8-2",
+        "Overs": "3.5",
+        "Economy": "0.52"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/01/16",
+        "Opposition": "Kei",
+        "Figures": "6-6",
+        "Overs": "7",
+        "Economy": "0.86"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/03/05",
+        "Opposition": "Badgers",
+        "Figures": "6-9",
+        "Overs": "6.3",
+        "Economy": "1.38"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/11/24",
+        "Opposition": "Western Province",
+        "Figures": "4-2",
+        "Overs": "5",
+        "Economy": "0.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/10",
+        "Opposition": "Badgers",
+        "Figures": "4-6",
+        "Overs": "6.2",
+        "Economy": "0.95"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/02/04",
+        "Opposition": "Boland",
+        "Figures": "2-0",
+        "Overs": "1.1",
+        "Economy": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/19",
+        "Opposition": "Kei",
+        "Figures": "2-6",
+        "Overs": "4",
+        "Economy": "1.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/11/01",
+        "Opposition": "Heat",
+        "Figures": "1-11",
+        "Overs": "4",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/11/08",
+        "Opposition": "Badgers",
+        "Figures": "0-10",
+        "Overs": "3",
+        "Economy": "3.33"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "19",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "1"
+      },
+      {
+        "Format": "T20",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Titans, Warriors",
+        "Total Matches": "64",
+        "First Match": "2006/01/15",
+        "Last Match": "2015/11/07",
+        "Career Span": "2006 - 2015"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Warriors",
+        "Total Matches": "6",
+        "First Match": "2013/10/19",
+        "Last Match": "2018/02/04",
+        "Career Span": "2013 - 2018"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Titans, Warriors",
+        "Total Matches": "70",
+        "First Match": "2006/01/15",
+        "Last Match": "2018/02/04",
+        "Career Span": "2006 - 2018"
+      }
+    ]
+  }
+}

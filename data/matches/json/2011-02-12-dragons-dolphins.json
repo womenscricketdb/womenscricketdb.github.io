@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Tournament": "10-11 CSA Women's Provincial League",
+      "Match_Date": "2011/02/12",
+      "Venue_Name": "SANDF Oval",
+      "Season": "10/11",
+      "Format": "List A",
+      "Team_Home_Name": "Dragons",
+      "Team_Away_Name": "Dolphins",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Team_Name": "Dolphins",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "10",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "57",
+      "Team_Wickets_Lost": "0",
+      "Team_Overs_Faced": "10.5",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Team_Name": "Dragons",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "56",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "23.4",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Innings_Number": "1",
+      "Player": "KL McKay",
+      "Runs": "3",
+      "Balls": "30"
+    },
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Innings_Number": "1",
+      "Player": "Rentia de Kock",
+      "Runs": "28",
+      "Balls": "33"
+    },
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Innings_Number": "2",
+      "Player": "Nikita Solé",
+      "Runs": "21",
+      "Balls": "36"
+    },
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Innings_Number": "2",
+      "Player": "Trisha Chetty",
+      "Runs": "17",
+      "Balls": "29"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Innings_Number": "1",
+      "Player": "Chloé Tryon",
+      "Wickets": "5",
+      "Runs": "9"
+    },
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Innings_Number": "1",
+      "Player": "Rasika Maharaj",
+      "Wickets": "3",
+      "Runs": "12"
+    },
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Innings_Number": "2",
+      "Player": "Lizelle Lee",
+      "Wickets": "0",
+      "Runs": "2"
+    },
+    {
+      "Match_Slug": "2011-02-12-dragons-dolphins",
+      "Innings_Number": "2",
+      "Player": "Rentia de Kock",
+      "Wickets": "0",
+      "Runs": "10"
+    }
+  ]
+}

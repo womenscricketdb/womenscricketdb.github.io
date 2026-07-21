@@ -1,0 +1,198 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "66.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "2.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "36.36"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/12/10",
+        "Opposition": "Iinyathi",
+        "Position": "9",
+        "Runs": "4",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/12/11",
+        "Opposition": "Warriors",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/07",
+        "Opposition": "Knights",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/19",
+        "Opposition": "Heat",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/12",
+        "Opposition": "Badgers",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "0.00",
+        "Economy": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "0.00",
+        "Economy": "0.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "0.00",
+        "Economy": "0.00",
+        "Best Figures": "1/0",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/01/07",
+        "Opposition": "Knights",
+        "Figures": "1-0",
+        "Overs": "3",
+        "Economy": "0"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Boland",
+        "Total Matches": "6",
+        "First Match": "2005/11/12",
+        "Last Match": "2006/01/07",
+        "Career Span": "2005 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Boland",
+        "Total Matches": "6",
+        "First Match": "2005/11/12",
+        "Last Match": "2006/01/07",
+        "Career Span": "2005 - 2006"
+      }
+    ]
+  }
+}

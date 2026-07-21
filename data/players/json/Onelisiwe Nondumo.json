@@ -1,0 +1,159 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "32.26"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "32.26"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 3 Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "16",
+        "High Score": "10",
+        "Average": "5.33",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "32.65"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/11/16",
+        "Opposition": "Warriors",
+        "Position": "6",
+        "Runs": "10",
+        "Balls": "31",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "32.26"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/03/30",
+        "Opposition": "Dragons",
+        "Position": "8",
+        "Runs": "3",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/04/02",
+        "Opposition": "Limpopo Lillies",
+        "Position": "7",
+        "Runs": "3",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Best Figures": "0/10",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/11/16",
+        "Opposition": "Warriors",
+        "Figures": "0-10",
+        "Overs": "2",
+        "Economy": "5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "3",
+        "First Match": "2024/11/16",
+        "Last Match": "2025/04/02",
+        "Career Span": "2024 - 2025"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "3",
+        "First Match": "2024/11/16",
+        "Last Match": "2025/04/02",
+        "Career Span": "2024 - 2025"
+      }
+    ]
+  }
+}

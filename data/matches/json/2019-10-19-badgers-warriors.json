@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Tournament": "19-20 CSA Women's Provincial League",
+      "Match_Date": "2019/10/19",
+      "Venue_Name": "Recreation Ground",
+      "Season": "19/20",
+      "Format": "List A",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Warriors",
+      "Match_Division": "Div 2"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "112",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "35.3",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Team_Name": "Warriors",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "1",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "113",
+      "Team_Wickets_Lost": "9",
+      "Team_Overs_Faced": "38.4",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Innings_Number": "1",
+      "Player": "Jané Winster",
+      "Runs": "22",
+      "Balls": "54"
+    },
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Innings_Number": "1",
+      "Player": "Micaela Andrews",
+      "Runs": "29",
+      "Balls": "31"
+    },
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Innings_Number": "2",
+      "Player": "Lanette Pienaar",
+      "Runs": "27",
+      "Balls": "76"
+    },
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Innings_Number": "2",
+      "Player": "Mieke de Ridder",
+      "Runs": "18",
+      "Balls": "29"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Innings_Number": "1",
+      "Player": "Anneke Kapp",
+      "Wickets": "4",
+      "Runs": "17"
+    },
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Innings_Number": "1",
+      "Player": "Jana Nell",
+      "Wickets": "4",
+      "Runs": "10"
+    },
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Innings_Number": "2",
+      "Player": "Jané Winster",
+      "Wickets": "4",
+      "Runs": "29"
+    },
+    {
+      "Match_Slug": "2019-10-19-badgers-warriors",
+      "Innings_Number": "2",
+      "Player": "Julandi Saayman",
+      "Wickets": "2",
+      "Runs": "13"
+    }
+  ]
+}

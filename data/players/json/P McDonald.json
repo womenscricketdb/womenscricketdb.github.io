@@ -1,0 +1,197 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "22",
+        "Average": "22.00",
+        "Strike-Rate": "73.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "46.34"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "18",
+        "Average": "9.00",
+        "Strike-Rate": "62.07"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sturrock Park",
+        "Innings": "1",
+        "Runs": "22",
+        "Average": "22.00",
+        "Strike-Rate": "73.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "TUT Witbank",
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "46.34"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Groenkloof Oval",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "63.16"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "60.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "59",
+        "High Score": "22",
+        "Average": "14.75",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "59.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/10/29",
+        "Opposition": "Lions",
+        "Position": "6",
+        "Runs": "22",
+        "Balls": "30",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "73.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/13",
+        "Opposition": "Rhinos",
+        "Position": "7",
+        "Runs": "19",
+        "Balls": "41",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "46.34"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/23",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "12",
+        "Balls": "19",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "63.16"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/29",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "6",
+        "Balls": "10",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "60"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/05",
+        "Opposition": "Lions",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "0",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "1",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "5",
+        "First Match": "2005/10/23",
+        "Last Match": "2006/02/05",
+        "Career Span": "2005 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "5",
+        "First Match": "2005/10/23",
+        "Last Match": "2006/02/05",
+        "Career Span": "2005 - 2006"
+      }
+    ]
+  }
+}

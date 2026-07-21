@@ -1,0 +1,403 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "3",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "41.94"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "6",
+        "Runs": "11",
+        "Average": "1.83",
+        "Strike-Rate": "18.03"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "23.08"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "28.13"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammondfield",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "30.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "14.81"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Carter High School",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "12.50"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "11",
+        "Runs": "33",
+        "High Score": "8",
+        "Average": "3.67",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "25.19"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/11/02",
+        "Opposition": "Dolphins",
+        "Position": "7",
+        "Runs": "8",
+        "Balls": "24",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/15",
+        "Opposition": "Heat",
+        "Position": "10",
+        "Runs": "7*",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "87.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2015/01/17",
+        "Opposition": "Dragons",
+        "Position": "7",
+        "Runs": "6",
+        "Balls": "20",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "30"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/02/01",
+        "Opposition": "Heat",
+        "Position": "8",
+        "Runs": "4*",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/01/13",
+        "Opposition": "Dragons",
+        "Position": "10",
+        "Runs": "3",
+        "Balls": "19",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "15.79"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/09/29",
+        "Opposition": "Dolphins",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/01/17",
+        "Opposition": "Dolphins",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/01/18",
+        "Opposition": "Dragons",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "58.50",
+        "Economy": "7.02"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "5",
+        "Wickets": "1",
+        "Average": "105.00",
+        "Economy": "5.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.75"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "33.00",
+        "Economy": "6.83"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "63.00",
+        "Economy": "6.30"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "10",
+        "Wickets": "3",
+        "Average": "82.33",
+        "Economy": "6.33",
+        "Best Figures": "2/24",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.71",
+        "Best Figures": "0/10",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2015/01/17",
+        "Opposition": "Dragons",
+        "Figures": "2-24",
+        "Overs": "2.4",
+        "Economy": "9"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/03/02",
+        "Opposition": "Dolphins",
+        "Figures": "1-49",
+        "Overs": "7",
+        "Economy": "7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/03/24",
+        "Opposition": "Dolphins",
+        "Figures": "0-11",
+        "Overs": "1",
+        "Economy": "11"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/13",
+        "Opposition": "Heat",
+        "Figures": "0-12",
+        "Overs": "1",
+        "Economy": "12"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/02",
+        "Opposition": "Dolphins",
+        "Figures": "0-13",
+        "Overs": "3.5",
+        "Economy": "3.39"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/09/29",
+        "Opposition": "Dolphins",
+        "Figures": "0-10",
+        "Overs": "1",
+        "Economy": "10"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/01/17",
+        "Opposition": "Dolphins",
+        "Figures": "0-17",
+        "Overs": "2",
+        "Economy": "8.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/01/18",
+        "Opposition": "Dragons",
+        "Figures": "0-27",
+        "Overs": "4",
+        "Economy": "6.75"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "17",
+        "First Match": "2011/02/12",
+        "Last Match": "2016/01/16",
+        "Career Span": "2011 - 2016"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "3",
+        "First Match": "2013/09/29",
+        "Last Match": "2016/01/17",
+        "Career Span": "2013 - 2016"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "20",
+        "First Match": "2011/02/12",
+        "Last Match": "2016/01/17",
+        "Career Span": "2011 - 2016"
+      }
+    ]
+  }
+}

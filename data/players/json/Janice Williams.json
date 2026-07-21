@@ -1,0 +1,143 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "90.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "90.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "9",
+        "High Score": "9",
+        "Average": "4.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "75.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/11/20",
+        "Opposition": "Knights",
+        "Position": "8",
+        "Runs": "9",
+        "Balls": "10",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "90"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/07",
+        "Opposition": "Knights",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/19",
+        "Opposition": "Heat",
+        "Position": "2",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Boland",
+        "Total Matches": "3",
+        "First Match": "2005/11/19",
+        "Last Match": "2006/01/07",
+        "Career Span": "2005 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Boland",
+        "Total Matches": "3",
+        "First Match": "2005/11/19",
+        "Last Match": "2006/01/07",
+        "Career Span": "2005 - 2006"
+      }
+    ]
+  }
+}

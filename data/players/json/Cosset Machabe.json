@@ -1,0 +1,328 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "-",
+        "Strike-Rate": "47.83"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "28.57"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Bridgton Sports Grounds",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Uplands College",
+        "Innings": "2",
+        "Runs": "15",
+        "Average": "-",
+        "Strike-Rate": "41.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "2",
+        "High Score": "1",
+        "Average": "0.67",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "16.67"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Runs": "15",
+        "High Score": "11",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "40.54"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/04/02",
+        "Opposition": "Iinyathi",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/05",
+        "Opposition": "Heat",
+        "Position": "7",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/03",
+        "Opposition": "Warriors",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/03/10",
+        "Opposition": "Dragons",
+        "Position": "9",
+        "Runs": "11*",
+        "Balls": "23",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "47.83"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/10/27",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "4*",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30.77"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/10/29",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "0*",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/02/16",
+        "Opposition": "Dragons",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "9.00",
+        "Economy": "2.25"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "22.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "14.50",
+        "Economy": "7.25"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Bridgton Sports Grounds",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "9.00",
+        "Economy": "2.25"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "6.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "24.00",
+        "Economy": "5.14",
+        "Best Figures": "1/9",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "27.00",
+        "Economy": "6.75",
+        "Best Figures": "2/18",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/04/02",
+        "Opposition": "Iinyathi",
+        "Figures": "1-9",
+        "Overs": "4",
+        "Economy": "2.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/03",
+        "Opposition": "Warriors",
+        "Figures": "0-15",
+        "Overs": "0.4",
+        "Economy": "22.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/10/29",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "2-18",
+        "Overs": "3",
+        "Economy": "6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/10/27",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-11",
+        "Overs": "1",
+        "Economy": "11"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/02/16",
+        "Opposition": "Dragons",
+        "Figures": "0-11",
+        "Overs": "1",
+        "Economy": "11"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/03/10",
+        "Opposition": "Dragons",
+        "Figures": "0-14",
+        "Overs": "3",
+        "Economy": "4.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "T20",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "3",
+        "First Match": "2024/04/02",
+        "Last Match": "2024/04/05",
+        "Career Span": "2024 - 2024"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "4",
+        "First Match": "2023/10/29",
+        "Last Match": "2025/02/16",
+        "Career Span": "2023 - 2025"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "7",
+        "First Match": "2023/10/29",
+        "Last Match": "2025/02/16",
+        "Career Span": "2023 - 2025"
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seasons - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/seasons.html">
+    <meta name="description" content="League tables and results for every season, format and division since 2005/06.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Seasons - Women's Provincial Cricket Database">
+    <meta property="og:description" content="League tables and results for every season, format and division since 2005/06.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/seasons.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Seasons - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="League tables and results for every season, format and division since 2005/06.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-standings-selectors {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-bottom: 0.75rem;
+            font-family: var(--wca-font-body);
+        }
+        .wca-standings-selectors .wca-filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+        .wca-standings-selectors .form-label {
+            font-size: 0.8rem;
+            color: var(--wca-text-dim);
+            margin-bottom: 0;
+        }
+        .wca-standings-selectors select {
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text);
+            border-radius: 8px;
+            padding: 0.5rem 0.75rem;
+            font-family: var(--wca-font-body);
+            font-size: 0.9rem;
+            min-width: 160px;
+        }
+        .wca-tournament-heading {
+            font-family: var(--wca-font-body);
+            color: var(--wca-text-dim);
+            font-size: 0.9rem;
+            margin-bottom: 1.25rem;
+        }
+        .wca-pool-heading {
+            font-family: var(--wca-font-display);
+            font-weight: 700;
+            color: var(--wca-gold);
+            font-size: 1rem;
+            margin: 1.5rem 0 0.5rem;
+        }
+        .wca-pool-heading:first-of-type { margin-top: 0; }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<main class="container py-4">
+    <div class="wca-breadcrumb"><a href="index.html">Home</a> / Seasons</div>
+    <h1 class="wca-section-title">Seasons</h1>
+    <p class="text-secondary" style="font-family: var(--wca-font-body); font-size:0.9rem;">
+        League tables season by season. Pick a season, format and division below.
+    </p>
+
+    <div class="wca-standings-selectors">
+        <div class="wca-filter-group">
+            <label class="form-label fw-bold" for="seasonSelect">Season</label>
+            <select id="seasonSelect" aria-label="Season"></select>
+        </div>
+        <div class="wca-filter-group">
+            <label class="form-label fw-bold" for="formatSelect">Format</label>
+            <select id="formatSelect" aria-label="Format"></select>
+        </div>
+        <div class="wca-filter-group">
+            <label class="form-label fw-bold" for="divisionSelect">Division</label>
+            <select id="divisionSelect" aria-label="Division"></select>
+        </div>
+    </div>
+
+    <p class="text-secondary" style="font-family: var(--wca-font-body); font-size:0.85rem;">
+        <i class="bi bi-info-circle-fill text-warning me-1" data-bs-toggle="tooltip" data-bs-placement="top"
+           title="Position reflects final on-field outcomes, including any playoffs, not just the round-robin points table, so it can differ from a simple points/NRR ranking."></i>
+        Position accounts for playoffs, not just points.
+    </p>
+
+    <div id="standingsRoot">
+        <div class="wca-loading"><div class="wca-spinner"></div> Loading standings…</div>
+    </div>
+
+    <h2 class="wca-section-title" style="font-size:1.3rem; margin-top:2rem;">Matches</h2>
+    <div id="matchesRoot">
+        <div class="wca-loading"><div class="wca-spinner"></div> Loading matches…</div>
+    </div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-loader.js"></script>
+<script src="assets/js/table-render.js"></script>
+<script>
+    WCA_NAV.render("seasons");
+    WCA_NAV.renderFooter();
+
+    document.querySelectorAll('[data-bs-toggle="tooltip"]').forEach(el => new bootstrap.Tooltip(el));
+
+    let allStandings = [];
+    let allMatches = [];
+
+    // A row displayed on this page always has a fixed Season/Format/Division
+    // (chosen via the selectors above), so those columns are dropped rather
+    // than shown per-row, only what varies within the table survives.
+    function toDisplayRow(r) {
+        return {
+            Position: r.Position,
+            Team: r.Team,
+            Result: WCA.finishTypeLabel(r.Finish_Type),
+            M: r.Matches_Played,
+            W: r.Wins,
+            L: r.Losses,
+            T: r.Ties,
+            NR: r.No_Results,
+            Pts: r.Points,
+            NRR: r.Net_Run_Rate,
+        };
+    }
+
+    function setUrl(season, format, division) {
+        const p = new URLSearchParams();
+        p.set("season", season);
+        p.set("format", format);
+        p.set("division", division);
+        history.replaceState(null, "", `seasons.html?${p.toString()}`);
+    }
+
+    function matchToDisplayRow(m) {
+        return {
+            Date: m.date,
+            Team_Home: m.team_home,
+            Team_Away: m.team_away,
+            // m.outcome carries the match-level status ("No Result",
+            // "Abandoned") for matches with no winner - not yet present in
+            // MatchIndex.json as of this fix, pending a consolidate.py
+            // change (see handover); harmless no-op fallback to "Result
+            // not recorded" until then.
+            Result: WCA.resultLabel(m.winner, m.win_margin, m.win_margin_type, m.outcome),
+        };
+    }
+
+    // "Division 1"/"Division 2" (the selector's values, matching Standings.json's
+    // Division field) vs "Div 1"/"Div 2"/"Cross-Div" (Match_Division's actual
+    // export values) - two different string formats for the same idea. This
+    // maps between them, and treats Cross-Div matches as belonging to BOTH
+    // division filters rather than neither, since a cross-division match is
+    // relevant to fans of either side's own division.
+    function matchBelongsToDivision(matchDivision, selectedDivision) {
+        if (matchDivision === "Cross-Div") return true;
+        const short = selectedDivision === "Division 1" ? "Div 1" : "Div 2";
+        return matchDivision === short;
+    }
+
+    function renderMatches() {
+        const season = document.getElementById("seasonSelect").value;
+        const format = document.getElementById("formatSelect").value;
+        const division = document.getElementById("divisionSelect").value;
+
+        const root = document.getElementById("matchesRoot");
+        const rows = allMatches.filter(m =>
+            m.season === season && m.format === format &&
+            matchBelongsToDivision(m.division, division)
+        );
+
+        if (!rows.length) {
+            root.innerHTML = `<div class="wca-empty-state">No matches recorded for this selection.</div>`;
+            return;
+        }
+
+        const sorted = [...rows].sort((a, b) => (a.date || "").localeCompare(b.date || ""));
+        root.innerHTML = "";
+        const tableRoot = document.createElement("div");
+        root.appendChild(tableRoot);
+
+        WCA_TABLE.render(tableRoot, sorted.map(matchToDisplayRow), {
+            compact: true, noFilters: true, defaultSort: { col: "Date", dir: "asc" },
+        });
+
+        // Date cell -> match.html, using the row's own slug rather than the
+        // generic (Date, Opposition) lookup used on record tables - here we
+        // already know the exact match, no ambiguity to resolve.
+        tableRoot.querySelectorAll("tbody tr").forEach((tr, i) => {
+            const cell = tr.querySelector("td:first-child");
+            if (cell && sorted[i]) cell.innerHTML = `<a class="wca-entity-link" href="${WCA.matchUrl(sorted[i].slug)}">${WCA.escapeHtml(sorted[i].date)}</a>`;
+        });
+    }
+
+    function render() {
+        const season = document.getElementById("seasonSelect").value;
+        const format = document.getElementById("formatSelect").value;
+        const division = document.getElementById("divisionSelect").value;
+        setUrl(season, format, division);
+
+        const root = document.getElementById("standingsRoot");
+        const rows = allStandings.filter(r => r.Season === season && r.Format === format && r.Division === division);
+
+        if (!rows.length) {
+            root.innerHTML = `<div class="wca-empty-state">No standings recorded for ${WCA.escapeHtml(format)} ${WCA.escapeHtml(division)} in the ${WCA.escapeHtml(season)} season.</div>`;
+            return;
+        }
+
+        root.innerHTML = `<p class="wca-tournament-heading">${WCA.escapeHtml(rows[0].Tournament)}</p><div id="standingsTables"></div>`;
+        const tablesRoot = document.getElementById("standingsTables");
+
+        const pools = Array.from(new Set(rows.map(r => r.Pool))).sort();
+        const hasPools = pools.length > 1 || (pools.length === 1 && pools[0] !== "");
+
+        if (!hasPools) {
+            const sorted = [...rows].sort((a, b) => (a.Position ?? 999) - (b.Position ?? 999));
+            const tableRoot = document.createElement("div");
+            tablesRoot.appendChild(tableRoot);
+            WCA_TABLE.render(tableRoot, sorted.map(toDisplayRow), { compact: true, noFilters: true, defaultSort: { col: "Position", dir: "asc" } });
+            return;
+        }
+
+        pools.forEach(pool => {
+            const heading = document.createElement("div");
+            heading.className = "wca-pool-heading";
+            heading.textContent = pool || "Ungrouped";
+            tablesRoot.appendChild(heading);
+
+            const sorted = rows.filter(r => r.Pool === pool).sort((a, b) => (a.Position ?? 999) - (b.Position ?? 999));
+            const tableRoot = document.createElement("div");
+            tablesRoot.appendChild(tableRoot);
+            WCA_TABLE.render(tableRoot, sorted.map(toDisplayRow), { compact: true, noFilters: true, defaultSort: { col: "Position", dir: "asc" } });
+        });
+    }
+
+    // Format/Division options are pruned to only what actually has standings
+    // for the given Season (and Format, for Division) - previously these
+    // were static <option> lists in the markup, meaning a user could select
+    // a combination guaranteed to be empty before even picking it.
+    function validFormatsFor(season) {
+        return Array.from(new Set(allStandings.filter(r => r.Season === season).map(r => r.Format))).sort();
+    }
+    function validDivisionsFor(season, format) {
+        return Array.from(new Set(allStandings.filter(r => r.Season === season && r.Format === format).map(r => r.Division))).sort();
+    }
+    function updateFormatOptions(season, preferredValue) {
+        const formatSelect = document.getElementById("formatSelect");
+        const options = validFormatsFor(season);
+        if (!options.length) return; // shouldn't happen - season itself came from allStandings - but don't wipe a working dropdown over it
+        formatSelect.innerHTML = options.map(f => `<option value="${WCA.escapeHtml(f)}">${WCA.escapeHtml(f)}</option>`).join("");
+        formatSelect.value = (preferredValue && options.includes(preferredValue)) ? preferredValue
+            : (options.includes("List A") ? "List A" : options[0]);
+    }
+    function updateDivisionOptions(season, format, preferredValue) {
+        const divisionSelect = document.getElementById("divisionSelect");
+        const options = validDivisionsFor(season, format);
+        if (!options.length) return;
+        divisionSelect.innerHTML = options.map(d => `<option value="${WCA.escapeHtml(d)}">${WCA.escapeHtml(d)}</option>`).join("");
+        divisionSelect.value = (preferredValue && options.includes(preferredValue)) ? preferredValue
+            : (options.includes("Division 1") ? "Division 1" : options[0]);
+    }
+
+    async function load() {
+        allStandings = await WCA.fetchStandings() || [];
+        allMatches = await WCA.fetchMatchIndex() || [];
+
+        const seasons = Array.from(new Set(allStandings.map(r => r.Season))).sort();
+        const seasonSelect = document.getElementById("seasonSelect");
+        seasonSelect.innerHTML = seasons.map(s => `<option value="${s}">${s}</option>`).join("");
+
+        const params = new URLSearchParams(location.search);
+        const defaultSeason = seasons.includes(params.get("season")) ? params.get("season") : seasons[seasons.length - 1];
+        seasonSelect.value = defaultSeason;
+
+        updateFormatOptions(defaultSeason, params.get("format"));
+        updateDivisionOptions(defaultSeason, document.getElementById("formatSelect").value, params.get("division"));
+
+        const formatSelect = document.getElementById("formatSelect");
+        const divisionSelect = document.getElementById("divisionSelect");
+
+        seasonSelect.addEventListener("change", () => {
+            updateFormatOptions(seasonSelect.value);
+            updateDivisionOptions(seasonSelect.value, formatSelect.value);
+            render(); renderMatches();
+        });
+        formatSelect.addEventListener("change", () => {
+            updateDivisionOptions(seasonSelect.value, formatSelect.value);
+            render(); renderMatches();
+        });
+        divisionSelect.addEventListener("change", () => { render(); renderMatches(); });
+
+        render();
+        renderMatches();
+    }
+
+    load();
+</script>
+</body>
+</html>

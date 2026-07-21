@@ -1,0 +1,318 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "70.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "200.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Yorkshire Cricket Club Ground",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "70.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "200.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potch Boys High Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "19",
+        "High Score": "14",
+        "Average": "9.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "76.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/01/11",
+        "Opposition": "Rhinos",
+        "Position": "10",
+        "Runs": "14",
+        "Balls": "20",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "70"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/22",
+        "Opposition": "Tuskers",
+        "Position": "11",
+        "Runs": "4*",
+        "Balls": "2",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "200"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/21",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "1",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/10",
+        "Opposition": "Eastern Storm",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/10/31",
+        "Opposition": "Knights",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "3.40"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "64.00",
+        "Economy": "7.11"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "2.00",
+        "Economy": "1.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Yorkshire Cricket Club Ground",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "3.40"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "2.00",
+        "Economy": "1.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "91.00",
+        "Economy": "5.35"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "8",
+        "Wickets": "4",
+        "Average": "32.50",
+        "Economy": "4.08",
+        "Best Figures": "2/17",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/01/11",
+        "Opposition": "Rhinos",
+        "Figures": "2-17",
+        "Overs": "5",
+        "Economy": "3.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/10/31",
+        "Opposition": "Knights",
+        "Figures": "1-2",
+        "Overs": "1.3",
+        "Economy": "1.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/14",
+        "Opposition": "Badgers",
+        "Figures": "1-64",
+        "Overs": "9",
+        "Economy": "7.11"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/21",
+        "Opposition": "Dolphins",
+        "Figures": "0-4",
+        "Overs": "3",
+        "Economy": "1.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/10",
+        "Opposition": "Eastern Storm",
+        "Figures": "0-5",
+        "Overs": "2",
+        "Economy": "2.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "8",
+        "First Match": "2009/01/10",
+        "Last Match": "2009/11/22",
+        "Career Span": "2009 - 2009"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "8",
+        "First Match": "2009/01/10",
+        "Last Match": "2009/11/22",
+        "Career Span": "2009 - 2009"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "20",
+        "Average": "-",
+        "Strike-Rate": "90.91"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Runs": "20",
+        "Average": "-",
+        "Strike-Rate": "90.91"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "1.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "20",
+        "High Score": "20",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "90.91"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/10/01",
+        "Opposition": "Limpopo Lillies",
+        "Position": "4",
+        "Runs": "1",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/02",
+        "Opposition": "Limpopo Lillies",
+        "Position": "7",
+        "Runs": "20*",
+        "Balls": "22",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "90.91"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "1",
+        "First Match": "2022/10/01",
+        "Last Match": "2022/10/01",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "1",
+        "First Match": "2022/10/02",
+        "Last Match": "2022/10/02",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2022/10/01",
+        "Last Match": "2022/10/02",
+        "Career Span": "2022 - 2022"
+      }
+    ]
+  }
+}

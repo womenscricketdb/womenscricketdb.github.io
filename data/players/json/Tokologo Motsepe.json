@@ -1,0 +1,341 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "-",
+        "Strike-Rate": "36.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "71.43"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "-",
+        "Strike-Rate": "36.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "71.43"
+      },
+      {
+        "Format": "T20",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "14",
+        "High Score": "9",
+        "Average": "7.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "26.42"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "11",
+        "High Score": "10",
+        "Average": "5.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "61.11"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/02/07",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "9*",
+        "Balls": "25",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "36"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/10/18",
+        "Opposition": "Rhinos",
+        "Position": "11",
+        "Runs": "5",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/02/14",
+        "Opposition": "Eastern Storm",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/15",
+        "Opposition": "Eastern Storm",
+        "Position": "9",
+        "Runs": "10",
+        "Balls": "14",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "71.43"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/08",
+        "Opposition": "Tuskers",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/10/19",
+        "Opposition": "Rhinos",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "3.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.83"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "3.57"
+      },
+      {
+        "Format": "T20",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "7.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "85.00",
+        "Economy": "5.00",
+        "Best Figures": "1/25",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "28.00",
+        "Economy": "7.00",
+        "Best Figures": "1/7",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2025/10/18",
+        "Opposition": "Rhinos",
+        "Figures": "1-25",
+        "Overs": "7",
+        "Economy": "3.57"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/02/07",
+        "Opposition": "Tuskers",
+        "Figures": "0-25",
+        "Overs": "4",
+        "Economy": "6.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/02/14",
+        "Opposition": "Eastern Storm",
+        "Figures": "0-35",
+        "Overs": "6",
+        "Economy": "5.83"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/08",
+        "Opposition": "Tuskers",
+        "Figures": "1-7",
+        "Overs": "1",
+        "Economy": "7"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/10/19",
+        "Opposition": "Rhinos",
+        "Figures": "0-21",
+        "Overs": "3",
+        "Economy": "7"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Knights",
+        "Total Matches": "3",
+        "First Match": "2025/10/18",
+        "Last Match": "2026/02/14",
+        "Career Span": "2025 - 2026"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Knights",
+        "Total Matches": "3",
+        "First Match": "2025/10/19",
+        "Last Match": "2026/02/15",
+        "Career Span": "2025 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Knights",
+        "Total Matches": "6",
+        "First Match": "2025/10/18",
+        "Last Match": "2026/02/15",
+        "Career Span": "2025 - 2026"
+      }
+    ]
+  }
+}

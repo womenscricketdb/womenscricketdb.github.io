@@ -1,0 +1,505 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Runs": "23",
+        "Average": "23.00",
+        "Strike-Rate": "92.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "11.11"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "-",
+        "Strike-Rate": "47.83"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "-",
+        "Strike-Rate": "47.83"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "9.09"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "26",
+        "High Score": "18",
+        "Average": "5.20",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "60.47"
+      },
+      {
+        "Format": "T20",
+        "Innings": "6",
+        "Runs": "12",
+        "High Score": "11",
+        "Average": "2.40",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "32.43"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2018/02/24",
+        "Opposition": "Tuskers",
+        "Position": "9",
+        "Runs": "18*",
+        "Balls": "18",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/11/10",
+        "Opposition": "Tuskers",
+        "Position": "9",
+        "Runs": "5",
+        "Balls": "7",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "71.43"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/10/21",
+        "Opposition": "Eastern Storm",
+        "Position": "7",
+        "Runs": "1",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "11.11"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/01/27",
+        "Opposition": "Rhinos",
+        "Position": "8",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/10/27",
+        "Opposition": "Dolphins",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/02/25",
+        "Opposition": "Tuskers",
+        "Position": "7",
+        "Runs": "11*",
+        "Balls": "23",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "47.83"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/10/22",
+        "Opposition": "Eastern Storm",
+        "Position": "6",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/03",
+        "Opposition": "Rhinos",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/10/28",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/11/11",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "96.00",
+        "Economy": "7.38"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "55.00",
+        "Economy": "5.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.30"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "20.00",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "4.64"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "10.00",
+        "Economy": "3.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "6.00",
+        "Economy": "2.40"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "75.00",
+        "Economy": "5.77"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "4",
+        "Wickets": "6",
+        "Average": "8.83",
+        "Economy": "4.97"
+      },
+      {
+        "Format": "T20",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "4.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "24.00",
+        "Economy": "8.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Wickets": "3",
+        "Average": "68.00",
+        "Economy": "5.83",
+        "Best Figures": "1/10",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "7",
+        "Wickets": "8",
+        "Average": "11.13",
+        "Economy": "4.53",
+        "Best Figures": "2/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2018/01/27",
+        "Opposition": "Rhinos",
+        "Figures": "1-10",
+        "Overs": "2",
+        "Economy": "5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/10/21",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-55",
+        "Overs": "10",
+        "Economy": "5.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/11/11",
+        "Opposition": "Dolphins",
+        "Figures": "1-69",
+        "Overs": "10",
+        "Economy": "6.9"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/02/24",
+        "Opposition": "Tuskers",
+        "Figures": "0-17",
+        "Overs": "4",
+        "Economy": "4.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/11/10",
+        "Opposition": "Tuskers",
+        "Figures": "0-26",
+        "Overs": "6",
+        "Economy": "4.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/03",
+        "Opposition": "Rhinos",
+        "Figures": "2-12",
+        "Overs": "2",
+        "Economy": "6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/10/22",
+        "Opposition": "Eastern Storm",
+        "Figures": "2-17",
+        "Overs": "3.4",
+        "Economy": "4.64"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/02/25",
+        "Opposition": "Tuskers",
+        "Figures": "1-4",
+        "Overs": "2",
+        "Economy": "2"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/11/11",
+        "Opposition": "Tuskers",
+        "Figures": "1-8",
+        "Overs": "3",
+        "Economy": "2.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/11/12",
+        "Opposition": "Dolphins",
+        "Figures": "1-16",
+        "Overs": "2",
+        "Economy": "8"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "6",
+        "First Match": "2017/10/21",
+        "Last Match": "2018/11/10",
+        "Career Span": "2017 - 2018"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "7",
+        "First Match": "2017/10/22",
+        "Last Match": "2019/02/03",
+        "Career Span": "2017 - 2019"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "13",
+        "First Match": "2017/10/21",
+        "Last Match": "2019/02/03",
+        "Career Span": "2017 - 2019"
+      }
+    ]
+  }
+}

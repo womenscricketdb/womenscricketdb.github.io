@@ -1,0 +1,479 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Runs": "22",
+        "Average": "11.00",
+        "Strike-Rate": "27.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "106.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "3",
+        "Runs": "16",
+        "Average": "5.33",
+        "Strike-Rate": "23.19"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "28.21"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "84.62"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "19.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "36.84"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "29.17"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "11.11"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "The Vineyard",
+        "Innings": "4",
+        "Runs": "25",
+        "Average": "6.25",
+        "Strike-Rate": "22.12"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "70.83"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Baytopp",
+        "Innings": "2",
+        "Runs": "15",
+        "Average": "7.50",
+        "Strike-Rate": "42.86"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "22.41"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Langenhoven Gimnasium",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "28.21"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Oudtshoorn High School",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "84.62"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "36.84"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "9.09"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "88.89"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "16",
+        "Runs": "116",
+        "High Score": "16",
+        "Average": "7.25",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Runs": "12",
+        "High Score": "8",
+        "Average": "2.40",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "42.86"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2023/10/28",
+        "Opposition": "Rhinos",
+        "Position": "4",
+        "Runs": "16",
+        "Balls": "15",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "106.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/04",
+        "Opposition": "Heat",
+        "Position": "4",
+        "Runs": "16",
+        "Balls": "32",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/03/23",
+        "Opposition": "Dragons",
+        "Position": "3",
+        "Runs": "13",
+        "Balls": "58",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "22.41"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/05",
+        "Opposition": "Boland",
+        "Position": "5",
+        "Runs": "11",
+        "Balls": "39",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "28.21"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/06",
+        "Opposition": "Iinyathi",
+        "Position": "6",
+        "Runs": "11",
+        "Balls": "13",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "84.62"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/10/29",
+        "Opposition": "Rhinos",
+        "Position": "3",
+        "Runs": "8",
+        "Balls": "8",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/11/12",
+        "Opposition": "Eastern Storm",
+        "Position": "4",
+        "Runs": "2",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/03/24",
+        "Opposition": "Dragons",
+        "Position": "3",
+        "Runs": "1",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/12/07",
+        "Opposition": "Dolphins",
+        "Position": "6",
+        "Runs": "1",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/12/03",
+        "Opposition": "Tuskers",
+        "Position": "4",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "5",
+        "Matches as Wicketkeeper": "9",
+        "Matches as Captain": "1"
+      },
+      {
+        "Format": "T20",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "3",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies, Titans",
+        "Total Matches": "16",
+        "First Match": "2021/03/18",
+        "Last Match": "2025/12/06",
+        "Career Span": "2021 - 2025"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies, Titans",
+        "Total Matches": "7",
+        "First Match": "2023/10/29",
+        "Last Match": "2026/02/15",
+        "Career Span": "2023 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies, Titans",
+        "Total Matches": "23",
+        "First Match": "2021/03/18",
+        "Last Match": "2026/02/15",
+        "Career Span": "2021 - 2026"
+      }
+    ]
+  }
+}

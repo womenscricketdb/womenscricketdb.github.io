@@ -1,0 +1,269 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "26.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.88"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "8.70"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bridgton Sports Grounds",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "40.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "6",
+        "High Score": "2",
+        "Average": "1.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "12.77"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/01/29",
+        "Opposition": "Iinyathi",
+        "Position": "9",
+        "Runs": "2",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "40"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/12",
+        "Opposition": "Iinyathi",
+        "Position": "9",
+        "Runs": "2",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/01/16",
+        "Opposition": "Boland",
+        "Position": "10",
+        "Runs": "1",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/13",
+        "Opposition": "Warriors",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "5.88"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/11/10",
+        "Opposition": "Kei",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/07",
+        "Opposition": "Western Province",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "1.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "1.50"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "1.50",
+        "Best Figures": "1/3",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.33",
+        "Best Figures": "0/7",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2012/11/10",
+        "Opposition": "Kei",
+        "Figures": "1-3",
+        "Overs": "2",
+        "Economy": "1.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/07",
+        "Opposition": "Western Province",
+        "Figures": "0-7",
+        "Overs": "3",
+        "Economy": "2.33"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Badgers",
+        "Total Matches": "7",
+        "First Match": "2010/10/09",
+        "Last Match": "2012/11/10",
+        "Career Span": "2010 - 2012"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Badgers",
+        "Total Matches": "1",
+        "First Match": "2012/10/07",
+        "Last Match": "2012/10/07",
+        "Career Span": "2012 - 2012"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Badgers",
+        "Total Matches": "8",
+        "First Match": "2010/10/09",
+        "Last Match": "2012/11/10",
+        "Career Span": "2010 - 2012"
+      }
+    ]
+  }
+}

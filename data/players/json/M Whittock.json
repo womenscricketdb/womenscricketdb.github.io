@@ -1,0 +1,341 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "54.17"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "80.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "42.31"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "120.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "2",
+        "Runs": "15",
+        "Average": "7.50",
+        "Strike-Rate": "55.56"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "80.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "42.31"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammondfield",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "46.15"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Grootvlei Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "120.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "44",
+        "High Score": "13",
+        "Average": "8.80",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "54.32"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "6",
+        "High Score": "6",
+        "Average": "6.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "120.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2014/11/15",
+        "Opposition": "Limpopo Lillies",
+        "Position": "4",
+        "Runs": "13",
+        "Balls": "24",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "54.17"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/02/01",
+        "Opposition": "Heat",
+        "Position": "7",
+        "Runs": "12",
+        "Balls": "15",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "80"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/02/23",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "11",
+        "Balls": "26",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "42.31"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/02",
+        "Opposition": "Dolphins",
+        "Position": "6",
+        "Runs": "6",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "46.15"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/03/02",
+        "Opposition": "Dolphins",
+        "Position": "6",
+        "Runs": "2",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/13",
+        "Opposition": "Knights",
+        "Position": "7",
+        "Runs": "6",
+        "Balls": "5",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "120"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "10.25",
+        "Economy": "5.86"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "15.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "6.67",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "21.00",
+        "Economy": "7.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Wickets": "4",
+        "Average": "22.25",
+        "Economy": "5.93",
+        "Best Figures": "3/20",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "15.00",
+        "Best Figures": "0/15",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2014/02/23",
+        "Opposition": "Dragons",
+        "Figures": "3-20",
+        "Overs": "4",
+        "Economy": "5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/23",
+        "Opposition": "Dragons",
+        "Figures": "1-21",
+        "Overs": "3",
+        "Economy": "7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/11/15",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-6",
+        "Overs": "1",
+        "Economy": "6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/02/01",
+        "Opposition": "Heat",
+        "Figures": "0-8",
+        "Overs": "3",
+        "Economy": "2.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/02",
+        "Opposition": "Dolphins",
+        "Figures": "0-10",
+        "Overs": "1",
+        "Economy": "10"
+      },
+      {
+        "Format": "T20",
+        "Date": "2013/10/13",
+        "Opposition": "Knights",
+        "Figures": "0-15",
+        "Overs": "1",
+        "Economy": "15"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "6",
+        "First Match": "2013/11/02",
+        "Last Match": "2014/11/15",
+        "Career Span": "2013 - 2014"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "1",
+        "First Match": "2013/10/13",
+        "Last Match": "2013/10/13",
+        "Career Span": "2013 - 2013"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "7",
+        "First Match": "2013/10/13",
+        "Last Match": "2014/11/15",
+        "Career Span": "2013 - 2014"
+      }
+    ]
+  }
+}

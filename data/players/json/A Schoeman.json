@@ -1,0 +1,122 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "48.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "48.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "12",
+        "High Score": "12",
+        "Average": "12.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "48.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/10/04",
+        "Opposition": "Titans",
+        "Position": "3",
+        "Runs": "12",
+        "Balls": "25",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "48"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "46.00",
+        "Economy": "5.11"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "46.00",
+        "Economy": "5.11"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "46.00",
+        "Economy": "5.11",
+        "Best Figures": "1/46",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/10/04",
+        "Opposition": "Titans",
+        "Figures": "1-46",
+        "Overs": "9",
+        "Economy": "5.11"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "1",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "1",
+        "First Match": "2009/10/04",
+        "Last Match": "2009/10/04",
+        "Career Span": "2009 - 2009"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "1",
+        "First Match": "2009/10/04",
+        "Last Match": "2009/10/04",
+        "Career Span": "2009 - 2009"
+      }
+    ]
+  }
+}

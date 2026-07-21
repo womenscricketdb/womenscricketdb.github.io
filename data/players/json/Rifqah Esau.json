@@ -1,0 +1,449 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "31.58"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Newlands Stadium",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "30.43"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "10",
+        "High Score": "6",
+        "Average": "3.33",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "31.25"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/10/12",
+        "Opposition": "Knights",
+        "Position": "10",
+        "Runs": "6",
+        "Balls": "19",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "31.58"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/12/14",
+        "Opposition": "Badgers",
+        "Position": "10",
+        "Runs": "3",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/02/22",
+        "Opposition": "Lions",
+        "Position": "10",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/06",
+        "Opposition": "Titans",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/11/30",
+        "Opposition": "Titans",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/04/07",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/03/01",
+        "Opposition": "Dragons",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/11/02",
+        "Opposition": "Dragons",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/15",
+        "Opposition": "Titans",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/12/01",
+        "Opposition": "Titans",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "22.00",
+        "Economy": "8.25"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "30.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "36.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.67",
+        "Economy": "4.25"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "29.50",
+        "Economy": "5.90"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "44.00",
+        "Economy": "6.29"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Newlands Stadium",
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "37.00",
+        "Economy": "3.47"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "22.00",
+        "Economy": "8.25"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.67",
+        "Economy": "4.25"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Newlands Stadium",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "23.33",
+        "Economy": "5.83"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Wickets": "6",
+        "Average": "29.50",
+        "Economy": "4.43",
+        "Best Figures": "3/66",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "6",
+        "Wickets": "6",
+        "Average": "20.00",
+        "Economy": "5.71",
+        "Best Figures": "3/17",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/12/14",
+        "Opposition": "Badgers",
+        "Figures": "3-66",
+        "Overs": "8",
+        "Economy": "8.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/06",
+        "Opposition": "Titans",
+        "Figures": "1-24",
+        "Overs": "10",
+        "Economy": "2.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/11/30",
+        "Opposition": "Titans",
+        "Figures": "1-36",
+        "Overs": "10",
+        "Economy": "3.6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/02/22",
+        "Opposition": "Lions",
+        "Figures": "1-36",
+        "Overs": "6",
+        "Economy": "6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/10/12",
+        "Opposition": "Knights",
+        "Figures": "0-15",
+        "Overs": "6",
+        "Economy": "2.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/12/15",
+        "Opposition": "Badgers",
+        "Figures": "3-17",
+        "Overs": "4",
+        "Economy": "4.25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/04/07",
+        "Opposition": "Titans",
+        "Figures": "2-17",
+        "Overs": "4",
+        "Economy": "4.25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/03/01",
+        "Opposition": "Dragons",
+        "Figures": "1-28",
+        "Overs": "4",
+        "Economy": "7"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/11/02",
+        "Opposition": "Dragons",
+        "Figures": "0-16",
+        "Overs": "3",
+        "Economy": "5.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/15",
+        "Opposition": "Titans",
+        "Figures": "0-17",
+        "Overs": "2",
+        "Economy": "8.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Western Province",
+        "Total Matches": "5",
+        "First Match": "2024/04/06",
+        "Last Match": "2025/02/22",
+        "Career Span": "2024 - 2025"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Western Province",
+        "Total Matches": "6",
+        "First Match": "2024/04/07",
+        "Last Match": "2026/03/01",
+        "Career Span": "2024 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Western Province",
+        "Total Matches": "11",
+        "First Match": "2024/04/06",
+        "Last Match": "2026/03/01",
+        "Career Span": "2024 - 2026"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "28",
+        "Average": "28.00",
+        "Strike-Rate": "51.85"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "28",
+        "Average": "28.00",
+        "Strike-Rate": "51.85"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "28",
+        "High Score": "28",
+        "Average": "28.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "51.85"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/12/11",
+        "Opposition": "Rhinos",
+        "Position": "5",
+        "Runs": "28",
+        "Balls": "54",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "51.85"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "6.00",
+        "Economy": "2.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "6.00",
+        "Economy": "2.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "6.00",
+        "Economy": "2.00",
+        "Best Figures": "1/6",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/12/11",
+        "Opposition": "Rhinos",
+        "Figures": "1-6",
+        "Overs": "3",
+        "Economy": "2"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "1",
+        "First Match": "2005/12/11",
+        "Last Match": "2005/12/11",
+        "Career Span": "2005 - 2005"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "1",
+        "First Match": "2005/12/11",
+        "Last Match": "2005/12/11",
+        "Career Span": "2005 - 2005"
+      }
+    ]
+  }
+}

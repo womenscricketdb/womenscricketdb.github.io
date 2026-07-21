@@ -1,0 +1,131 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2023/10/29",
+        "Opposition": "Rhinos",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/03/19",
+        "Opposition": "Heat",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.33",
+        "Best Figures": "0/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2023/10/29",
+        "Opposition": "Rhinos",
+        "Figures": "0-12",
+        "Overs": "1",
+        "Economy": "12"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/03/19",
+        "Opposition": "Heat",
+        "Figures": "0-16",
+        "Overs": "2",
+        "Economy": "8"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2023/03/19",
+        "Last Match": "2023/10/29",
+        "Career Span": "2023 - 2023"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2023/03/19",
+        "Last Match": "2023/10/29",
+        "Career Span": "2023 - 2023"
+      }
+    ]
+  }
+}

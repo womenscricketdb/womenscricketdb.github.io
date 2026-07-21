@@ -1,0 +1,237 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Runs": "35",
+        "Average": "17.50",
+        "Strike-Rate": "62.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "30.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "30.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "15.15"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "16.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "35",
+        "Average": "35.00",
+        "Strike-Rate": "64.81"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "35.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Laudium Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "21.05"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Columbus Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.14"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammondfield",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "10",
+        "Runs": "56",
+        "High Score": "35",
+        "Average": "6.22",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "38.10"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/13",
+        "Opposition": "Tuskers",
+        "Position": "5",
+        "Runs": "35",
+        "Balls": "54",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "64.81"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/18",
+        "Opposition": "Dolphins",
+        "Position": "7",
+        "Runs": "6",
+        "Balls": "19",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "31.58"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/17",
+        "Opposition": "Rhinos",
+        "Position": "4",
+        "Runs": "5*",
+        "Balls": "14",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "35.71"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/28",
+        "Opposition": "Titans",
+        "Position": "5",
+        "Runs": "4",
+        "Balls": "19",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "21.05"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/03/12",
+        "Opposition": "Rhinos",
+        "Position": "5",
+        "Runs": "2",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "22.22"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.86"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.86",
+        "Best Figures": "0/16",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/03/25",
+        "Opposition": "Lions",
+        "Figures": "0-16",
+        "Overs": "2.2",
+        "Economy": "6.86"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "1"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "10",
+        "First Match": "2005/10/29",
+        "Last Match": "2007/03/25",
+        "Career Span": "2005 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "10",
+        "First Match": "2005/10/29",
+        "Last Match": "2007/03/25",
+        "Career Span": "2005 - 2007"
+      }
+    ]
+  }
+}

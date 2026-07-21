@@ -1,0 +1,198 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "37.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "37.50"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "3",
+        "High Score": "3",
+        "Average": "3.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "20.00"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "18",
+        "High Score": "18",
+        "Average": "18.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "37.50"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/11/09",
+        "Opposition": "Limpopo Lillies",
+        "Position": "2",
+        "Runs": "3",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/10/13",
+        "Opposition": "Dragons",
+        "Position": "2",
+        "Runs": "18",
+        "Balls": "48",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "37.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/11/17",
+        "Opposition": "Rhinos",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/11/10",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00",
+        "Best Figures": "0/10",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/11/09",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-10",
+        "Overs": "1",
+        "Economy": "10"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "1",
+        "First Match": "2024/11/09",
+        "Last Match": "2024/11/09",
+        "Career Span": "2024 - 2024"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "3",
+        "First Match": "2024/10/13",
+        "Last Match": "2024/11/17",
+        "Career Span": "2024 - 2024"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "4",
+        "First Match": "2024/10/13",
+        "Last Match": "2024/11/17",
+        "Career Span": "2024 - 2024"
+      }
+    ]
+  }
+}

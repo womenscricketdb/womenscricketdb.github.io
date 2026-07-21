@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Tournament": "07-08 Women's Provincial League",
+      "Match_Date": "2007/11/17",
+      "Venue_Name": "Despatch Oval",
+      "Season": "07/08",
+      "Format": "List A",
+      "Team_Home_Name": "Warriors",
+      "Team_Away_Name": "Badgers",
+      "Match_Division": "Div 2"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "126",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "35.4",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Team_Name": "Warriors",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "8",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "127",
+      "Team_Wickets_Lost": "2",
+      "Team_Overs_Faced": "40.1",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Innings_Number": "1",
+      "Player": "E Basson",
+      "Runs": "30",
+      "Balls": "27"
+    },
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Innings_Number": "1",
+      "Player": "Sonette Fourie",
+      "Runs": "35",
+      "Balls": "66"
+    },
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Innings_Number": "2",
+      "Player": "Bernadine Bezuidenhout",
+      "Runs": "34",
+      "Balls": "61"
+    },
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Innings_Number": "2",
+      "Player": "Marizanne Kapp",
+      "Runs": "50",
+      "Balls": "84"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Innings_Number": "1",
+      "Player": "Jana Nell",
+      "Wickets": "3",
+      "Runs": "30"
+    },
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Innings_Number": "1",
+      "Player": "Marizanne Kapp",
+      "Wickets": "2",
+      "Runs": "5"
+    },
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Innings_Number": "2",
+      "Player": "Carina Crause",
+      "Wickets": "1",
+      "Runs": "23"
+    },
+    {
+      "Match_Slug": "2007-11-17-warriors-badgers",
+      "Innings_Number": "2",
+      "Player": "Lache Hammond",
+      "Wickets": "1",
+      "Runs": "17"
+    }
+  ]
+}

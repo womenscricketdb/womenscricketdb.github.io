@@ -1,0 +1,162 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "-",
+        "Strike-Rate": "113.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "2",
+        "Runs": "23",
+        "Average": "23.00",
+        "Strike-Rate": "85.19"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "23",
+        "High Score": "17",
+        "Average": "11.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "69.70"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/03/06",
+        "Opposition": "Rhinos",
+        "Position": "8",
+        "Runs": "17*",
+        "Balls": "15",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "113.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/05",
+        "Opposition": "Heat",
+        "Position": "10",
+        "Runs": "6",
+        "Balls": "12",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/04",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/08",
+        "Opposition": "Eastern Storm",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "4",
+        "First Match": "2021/03/04",
+        "Last Match": "2021/03/08",
+        "Career Span": "2021 - 2021"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "4",
+        "First Match": "2021/03/04",
+        "Last Match": "2021/03/08",
+        "Career Span": "2021 - 2021"
+      }
+    ]
+  }
+}

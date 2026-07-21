@@ -1,0 +1,430 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "7.69"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park B Field",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "5",
+        "High Score": "3",
+        "Average": "1.25",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "15.15"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "2",
+        "High Score": "2",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "100.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/11/12",
+        "Opposition": "Rhinos",
+        "Position": "10",
+        "Runs": "3",
+        "Balls": "12",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/08",
+        "Opposition": "Eastern Storm",
+        "Position": "11",
+        "Runs": "1*",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/03/12",
+        "Opposition": "Limpopo Lillies",
+        "Position": "11",
+        "Runs": "1",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/10/29",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/11/26",
+        "Opposition": "Heat",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/27",
+        "Opposition": "Knights",
+        "Position": "9",
+        "Runs": "2*",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/30",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/13",
+        "Opposition": "Limpopo Lillies",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/02/02",
+        "Opposition": "Limpopo Lillies",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "4",
+        "Wickets": "6",
+        "Average": "13.17",
+        "Economy": "3.02"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "13.00",
+        "Economy": "4.42"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "44.00",
+        "Economy": "5.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "34.00",
+        "Economy": "5.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "45.00",
+        "Economy": "6.43"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "16.00",
+        "Economy": "2.91"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park B Field",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "9.25",
+        "Economy": "4.11"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "43.50",
+        "Economy": "5.80"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "36.00",
+        "Economy": "5.14"
+      },
+      {
+        "Format": "T20",
+        "Venue": "City Oval",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "29.00",
+        "Economy": "5.80"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "10",
+        "Wickets": "12",
+        "Average": "20.00",
+        "Economy": "4.21",
+        "Best Figures": "4/15",
+        "3-fors": "2",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "45.00",
+        "Economy": "6.43",
+        "Best Figures": "1/11",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/03/04",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "4-15",
+        "Overs": "6",
+        "Economy": "2.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/11/12",
+        "Opposition": "Rhinos",
+        "Figures": "3-16",
+        "Overs": "5.5",
+        "Economy": "2.74"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/10/01",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-12",
+        "Overs": "3",
+        "Economy": "4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/03/12",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "1-16",
+        "Overs": "4",
+        "Economy": "4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/02/01",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "1-24",
+        "Overs": "9",
+        "Economy": "2.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/02/02",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "1-11",
+        "Overs": "2",
+        "Economy": "5.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/13",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-16",
+        "Overs": "2",
+        "Economy": "8"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/30",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-18",
+        "Overs": "3",
+        "Economy": "6"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "10",
+        "First Match": "2020/02/01",
+        "Last Match": "2022/11/26",
+        "Career Span": "2020 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "4",
+        "First Match": "2020/02/02",
+        "Last Match": "2022/10/30",
+        "Career Span": "2020 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "14",
+        "First Match": "2020/02/01",
+        "Last Match": "2022/11/26",
+        "Career Span": "2020 - 2022"
+      }
+    ]
+  }
+}

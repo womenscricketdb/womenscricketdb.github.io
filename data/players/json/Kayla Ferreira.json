@@ -1,0 +1,480 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "122.22"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "63.64"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "-",
+        "Strike-Rate": "55.56"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "2",
+        "Runs": "18",
+        "Average": "9.00",
+        "Strike-Rate": "85.71"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bridgton Sports Grounds",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 4 Oval",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Pearson High School",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "63.64"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Muir Old Boys Club Ground",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "-",
+        "Strike-Rate": "55.56"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "23",
+        "High Score": "10",
+        "Average": "5.75",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "60.53"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Runs": "12",
+        "High Score": "7",
+        "Average": "6.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "60.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/03/05",
+        "Opposition": "Knights",
+        "Position": "7",
+        "Runs": "10",
+        "Balls": "15",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/08",
+        "Opposition": "Badgers",
+        "Position": "7",
+        "Runs": "8",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "1",
+        "Strike-Rate": "133.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/10/21",
+        "Opposition": "Badgers",
+        "Position": "9",
+        "Runs": "3*",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/03/31",
+        "Opposition": "Western Province",
+        "Position": "5",
+        "Runs": "2",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/12/01",
+        "Opposition": "Heat",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/01/21",
+        "Opposition": "Kei",
+        "Position": "7",
+        "Runs": "7",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "63.64"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/12/02",
+        "Opposition": "Heat",
+        "Position": "7",
+        "Runs": "5*",
+        "Balls": "9",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "55.56"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/10",
+        "Opposition": "Kei",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/10/21",
+        "Opposition": "Badgers",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/10/22",
+        "Opposition": "Badgers",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "32.50",
+        "Economy": "5.82"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "17.50",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.83"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "10.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "6.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "19.67",
+        "Economy": "4.92"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bridgton Sports Grounds",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "41.00",
+        "Economy": "6.65"
+      },
+      {
+        "Format": "T20",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "1.33",
+        "Economy": "1.33"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Muir Old Boys Club Ground",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "6.00",
+        "Economy": "6.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "38.25",
+        "Economy": "6.33",
+        "Best Figures": "2/35",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Wickets": "6",
+        "Average": "9.67",
+        "Economy": "4.83",
+        "Best Figures": "3/4",
+        "3-fors": "2",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/03/05",
+        "Opposition": "Knights",
+        "Figures": "2-35",
+        "Overs": "7",
+        "Economy": "5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/08",
+        "Opposition": "Badgers",
+        "Figures": "1-24",
+        "Overs": "5",
+        "Economy": "4.8"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/10/21",
+        "Opposition": "Badgers",
+        "Figures": "1-41",
+        "Overs": "6.1",
+        "Economy": "6.65"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/03/31",
+        "Opposition": "Western Province",
+        "Figures": "0-53",
+        "Overs": "6",
+        "Economy": "8.83"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/10/21",
+        "Opposition": "Badgers",
+        "Figures": "3-4",
+        "Overs": "3",
+        "Economy": "1.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/12/02",
+        "Opposition": "Heat",
+        "Figures": "3-18",
+        "Overs": "3",
+        "Economy": "6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/01/21",
+        "Opposition": "Kei",
+        "Figures": "0-1",
+        "Overs": "1",
+        "Economy": "1"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/10",
+        "Opposition": "Kei",
+        "Figures": "0-9",
+        "Overs": "2",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/10/22",
+        "Opposition": "Badgers",
+        "Figures": "0-26",
+        "Overs": "3",
+        "Economy": "8.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      },
+      {
+        "Format": "T20",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Warriors",
+        "Total Matches": "7",
+        "First Match": "2017/03/30",
+        "Last Match": "2021/03/08",
+        "Career Span": "2017 - 2021"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Warriors",
+        "Total Matches": "5",
+        "First Match": "2017/10/22",
+        "Last Match": "2019/02/10",
+        "Career Span": "2017 - 2019"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Warriors",
+        "Total Matches": "12",
+        "First Match": "2017/03/30",
+        "Last Match": "2021/03/08",
+        "Career Span": "2017 - 2021"
+      }
+    ]
+  }
+}

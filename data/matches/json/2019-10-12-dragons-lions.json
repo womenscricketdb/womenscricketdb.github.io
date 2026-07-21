@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Tournament": "19-20 CSA Women's Provincial League",
+      "Match_Date": "2019/10/12",
+      "Venue_Name": "Witrand Cricket Field",
+      "Season": "19/20",
+      "Format": "List A",
+      "Team_Home_Name": "Dragons",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Team_Name": "Dragons",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "10",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "130",
+      "Team_Wickets_Lost": "0",
+      "Team_Overs_Faced": "25.5",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "128",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "39.3",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Innings_Number": "1",
+      "Player": "Nonkhululeko Thabethe",
+      "Runs": "28",
+      "Balls": "47"
+    },
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Innings_Number": "1",
+      "Player": "Paballo Tshidi",
+      "Runs": "29",
+      "Balls": "51"
+    },
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Innings_Number": "2",
+      "Player": "Tanya Cronje",
+      "Runs": "44",
+      "Balls": "79"
+    },
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Innings_Number": "2",
+      "Player": "Tazmin Brits",
+      "Runs": "79",
+      "Balls": "76"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Innings_Number": "1",
+      "Player": "Alyssa Erxleben",
+      "Wickets": "2",
+      "Runs": "36"
+    },
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Innings_Number": "1",
+      "Player": "Delmi Tucker",
+      "Wickets": "3",
+      "Runs": "18"
+    },
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Innings_Number": "2",
+      "Player": "Jameelah Shaikjee",
+      "Wickets": "0",
+      "Runs": "28"
+    },
+    {
+      "Match_Slug": "2019-10-12-dragons-lions",
+      "Innings_Number": "2",
+      "Player": "Refilwe Moncho",
+      "Wickets": "0",
+      "Runs": "30"
+    }
+  ]
+}

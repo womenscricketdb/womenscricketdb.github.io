@@ -1,0 +1,221 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "-",
+        "Strike-Rate": "63.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "3",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "21.88"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval 2",
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "-",
+        "Strike-Rate": "63.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP 2 Oval",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "-",
+        "Strike-Rate": "18.92"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "22.73"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Boys' High School",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Correctional Services Ground",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "40.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "37",
+        "High Score": "19",
+        "Average": "18.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "37.76"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/10/04",
+        "Opposition": "Knights",
+        "Position": "7",
+        "Runs": "19*",
+        "Balls": "30",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "63.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/03/27",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "7*",
+        "Balls": "37",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "18.92"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/22",
+        "Opposition": "Dragons",
+        "Position": "5",
+        "Runs": "5",
+        "Balls": "22",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "22.73"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/13",
+        "Opposition": "Eastern Storm",
+        "Position": "2",
+        "Runs": "4",
+        "Balls": "4",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/12",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "2*",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "40"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00",
+        "Best Figures": "0/11",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/10/03",
+        "Opposition": "Heat",
+        "Figures": "0-11",
+        "Overs": "1",
+        "Economy": "11"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "9",
+        "First Match": "2008/03/26",
+        "Last Match": "2009/11/22",
+        "Career Span": "2008 - 2009"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "9",
+        "First Match": "2008/03/26",
+        "Last Match": "2009/11/22",
+        "Career Span": "2008 - 2009"
+      }
+    ]
+  }
+}

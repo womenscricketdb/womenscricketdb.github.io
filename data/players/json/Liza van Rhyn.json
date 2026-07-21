@@ -1,0 +1,590 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "6",
+        "Runs": "20",
+        "Average": "6.67",
+        "Strike-Rate": "16.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "3",
+        "Runs": "17",
+        "Average": "17.00",
+        "Strike-Rate": "13.60"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "5",
+        "Runs": "14",
+        "Average": "4.67",
+        "Strike-Rate": "11.20"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "19.30"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "4",
+        "Runs": "10",
+        "Average": "3.33",
+        "Strike-Rate": "12.66"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "4",
+        "Runs": "6",
+        "Average": "1.50",
+        "Strike-Rate": "9.68"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "8.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "7.55"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "8.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "5.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "9",
+        "Runs": "18",
+        "Average": "2.57",
+        "Strike-Rate": "11.84"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "-",
+        "Strike-Rate": "18.84"
+      },
+      {
+        "Format": "List A",
+        "Venue": "West End Cricket Club Ground",
+        "Innings": "3",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "16.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Yorkshire Cricket Club Ground",
+        "Innings": "4",
+        "Runs": "8",
+        "Average": "2.67",
+        "Strike-Rate": "8.51"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UCT Bowl",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "-",
+        "Strike-Rate": "34.78"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP Main Oval",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "9.21"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CBC Oval",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "8.20"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Oval",
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "15.15"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "8.57"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "13.64"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "13.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval 2",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP 4 Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "5.56"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "40",
+        "Runs": "95",
+        "High Score": "9",
+        "Average": "4.13",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "11.93"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/10/20",
+        "Opposition": "Rhinos",
+        "Position": "10",
+        "Runs": "9",
+        "Balls": "31",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "29.03"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/13",
+        "Opposition": "Western Province",
+        "Position": "10",
+        "Runs": "8*",
+        "Balls": "23",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "34.78"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/11/25",
+        "Opposition": "Knights",
+        "Position": "9",
+        "Runs": "7*",
+        "Balls": "54",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "12.96"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/03/29",
+        "Opposition": "Western Province",
+        "Position": "1",
+        "Runs": "7",
+        "Balls": "76",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "9.21"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/21",
+        "Opposition": "Knights",
+        "Position": "1",
+        "Runs": "6",
+        "Balls": "42",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "8",
+        "Wickets": "13",
+        "Average": "26.69",
+        "Economy": "5.69"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "6",
+        "Wickets": "11",
+        "Average": "11.18",
+        "Economy": "3.19"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "15.00",
+        "Economy": "3.41"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "56.00",
+        "Economy": "4.10"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "5",
+        "Wickets": "1",
+        "Average": "162.00",
+        "Economy": "4.76"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "39.00",
+        "Economy": "2.79"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "161.00",
+        "Economy": "4.03"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "2.63"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.17"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "10",
+        "Wickets": "12",
+        "Average": "22.92",
+        "Economy": "4.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Yorkshire Cricket Club Ground",
+        "Innings": "5",
+        "Wickets": "5",
+        "Average": "23.00",
+        "Economy": "4.29"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "33.00",
+        "Economy": "6.35"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "7.67",
+        "Economy": "1.82"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "9.00",
+        "Economy": "2.70"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.50",
+        "Economy": "2.71"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Oval",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "32.00",
+        "Economy": "3.37"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP 3 Oval",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "1.44"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "2.70"
+      },
+      {
+        "Format": "List A",
+        "Venue": "West End Cricket Club Ground",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "54.00",
+        "Economy": "3.38"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "43",
+        "Wickets": "35",
+        "Average": "33.26",
+        "Economy": "4.29",
+        "Best Figures": "3/27",
+        "3-fors": "3",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/10/13",
+        "Opposition": "Dragons",
+        "Figures": "3-27",
+        "Overs": "10",
+        "Economy": "2.7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/28",
+        "Opposition": "Dragons",
+        "Figures": "3-29",
+        "Overs": "7",
+        "Economy": "4.14"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/21",
+        "Opposition": "Knights",
+        "Figures": "3-62",
+        "Overs": "10",
+        "Economy": "6.2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/22",
+        "Opposition": "Badgers",
+        "Figures": "2-19",
+        "Overs": "7",
+        "Economy": "2.71"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/01/29",
+        "Opposition": "Dragons",
+        "Figures": "2-19",
+        "Overs": "10",
+        "Economy": "1.9"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "8",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Heat",
+        "Total Matches": "50",
+        "First Match": "2005/11/06",
+        "Last Match": "2012/01/28",
+        "Career Span": "2005 - 2012"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Heat",
+        "Total Matches": "50",
+        "First Match": "2005/11/06",
+        "Last Match": "2012/01/28",
+        "Career Span": "2005 - 2012"
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/about.html">
+    <meta name="description" content="The story behind the database: scope, methodology, and how the provincial union map was built.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="About - Women's Provincial Cricket Database">
+    <meta property="og:description" content="The story behind the database: scope, methodology, and how the provincial union map was built.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/about.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="About - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="The story behind the database: scope, methodology, and how the provincial union map was built.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-about-note {
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            border-left: 4px solid var(--wca-gold);
+            border-radius: 8px;
+            padding: 1rem 1.25rem;
+            margin-top: 2.5rem;
+            font-family: var(--wca-font-body);
+            font-size: 0.9rem;
+            color: var(--wca-text-dim);
+        }
+        .wca-qa-block {
+            margin-bottom: 2rem;
+        }
+        .wca-qa-question {
+            font-family: var(--wca-font-display);
+            font-weight: 700;
+            font-size: 1.15rem;
+            color: var(--wca-gold);
+            margin-bottom: 0.5rem;
+        }
+        .wca-qa-answer {
+            font-family: var(--wca-font-body);
+            line-height: 1.65;
+        }
+        .wca-qa-answer p {
+            margin-bottom: 0.85rem;
+        }
+        .wca-qa-answer ul {
+            margin-bottom: 0.85rem;
+            padding-left: 1.4rem;
+        }
+        .wca-qa-answer li {
+            margin-bottom: 0.25rem;
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<main class="container py-4" style="max-width: 780px;">
+    <div class="wca-breadcrumb"><a href="index.html">Home</a> / About</div>
+    <h1 class="wca-section-title">About</h1>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">The Site</p>
+        <div class="wca-qa-answer">
+            <p>The Women's Provincial Cricket Database is an independent archive of South African women's domestic
+            cricket. The aim is to make the history of the provincial game easier to access through statistics,
+            records and historical information. It contains data from 1,835 matches, at 171 venues, involving
+            1,723 players.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Why 2005/06?</p>
+        <div class="wca-qa-answer">
+            <p>For completeness, the data starts at the 2005/06 season. It is the furthest back I can go before
+            seasons have missing or incomplete scorecards. Without all the scorecards from a season, it's not
+            possible to have accurate records, specifically things like most runs in a season or most wickets in a
+            season.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Implication of Starting a Specific Season</p>
+        <div class="wca-qa-answer">
+            <p>The part affected the most by this is player career statistics, as they are only 100% accurate for
+            players who made their debut during or after the 2005/06 season. Anyone who made their debut before
+            that will logically have missing performances.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Data Completeness</p>
+        <div class="wca-qa-answer">
+            <p>In the most basic sense (who scored runs, who took wickets), all the matches have scorecards. But in
+            terms of what is in the scorecards, it's a bit different. When looking at aspects like balls faced,
+            dismissal method, or extras bowled, the scorecards are 99.47% complete. This mostly involves smaller
+            unions playing a match at a recreational venue or school. The matches were excluded when calculating
+            records like strike-rate and extras bowled.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Competitions Covered</p>
+        <div class="wca-qa-answer">
+            <p>The data does not contain all domestic women's List A and T20 competitions played in SA during this
+            period. Over the years CSA have organised regional competitions, usually containing 4 teams. Not all
+            these competitions have scorecards available, and it was decided to narrow the scope to only provincial
+            cricket. The competitions excluded from the data:</p>
+            <ul>
+                <li>CSA Women's Regional Super 4 T20 Competition 2012/13</li>
+                <li>CSA Women's Regional Super 4 One-Day Competition 2012/13</li>
+                <li>CSA Women's Regional Super 4 T20 Competition 2013/14</li>
+                <li>CSA Women's Regional Super 4 One-Day Competition 2013/14</li>
+                <li>CSA Women's Super League 2019/20</li>
+                <li>CSA Women's T20 Super League 2019/20</li>
+                <li>CSA Women's T20 Super League 2020/21</li>
+                <li>CSA Women's T20 Super League 2022/23</li>
+            </ul>
+            <p>There's also another competition, the Global Cricket Tournament. While this competition does involve
+            provincial teams, it's a mid-season mini-competition organised by the Titans Cricket Union and not CSA.
+            Given the small number of teams, and the fact it's not a CSA competition, it is also excluded.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Opposition Tier / Proxy Divisions</p>
+        <div class="wca-qa-answer">
+            <p>The 21 seasons contained in the dataset has a number of different competition structures and formats.
+            This includes seasons where there are no divisions but instead geographic pools, usually two or three of
+            them. To still be able to filter out performances against smaller unions, I set up a proxy division
+            system for the seasons without clear divisions. Proxy Division 1 is the top 6 teams as listed on the
+            end-of-season standings, with the rest of the teams in Division 2. Seasons using proxy divisions instead
+            of actual ones:</p>
+            <ul>
+                <li>2005/06</li>
+                <li>2006/07</li>
+                <li>2007/08</li>
+                <li>2009/10</li>
+                <li>2010/11</li>
+                <li>2011/12</li>
+                <li>2012/13</li>
+                <li>2013/14</li>
+            </ul>
+            <p>The 2020/21 season had the teams playing in 4 bio-bubble groups, with no points standings, therefore
+            it has no divisions.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Player Identification</p>
+        <div class="wca-qa-answer">
+            <p>Of the 1,723 players, 632 of them only have initials and no first name. Unfortunately this is
+            somewhat a reflection of the record-keeping of the era. Here's a look at the raw data: 1,776 unique
+            players were found in the data, around 780 of them with only initials and surname. Of those I
+            identified 53 duplicate players; these instances had their records merged, in order to be more
+            accurate. For the rest, I spent over 50 hours trying to find first names for players: internet
+            searches, news articles, CSA's site on archive.org, obscure team lists from the old Cricinfo site, even
+            going as far as to search for players on Facebook. About 150 players were identified this way.</p>
+            <p>All players with at least 500 career runs or 40 career wickets have been positively identified. Along
+            with this, I also have first names for every single player in the two most recent seasons.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Provincial Unions Map</p>
+        <div class="wca-qa-answer">
+            <p>The provincial union map had to be built from scratch, since no version was available online or in
+            any of CSA's documentation.</p>
+            <p>To build the map, I used a different method depending on the union:</p>
+            <ul>
+                <li><strong>Free State (Knights), Limpopo (Lillies), Mpumalanga (Rhinos), Northern Cape (Heat),
+                    North West (Dragons):</strong> their existing geo-administrative provincial border.</li>
+                <li><strong>KwaZulu-Natal Inland (Tuskers) &amp; Coastal (Dolphins):</strong> Inland's own website
+                    lists its district municipalities; the remaining KZN district municipalities were allocated to
+                    Coastal.</li>
+                <li><strong>Easterns (Storm), Northerns (Titans), Western Province:</strong> the sole local
+                    municipality or metro each union is located in.</li>
+                <li><strong>Gauteng (Lions):</strong> whichever local municipalities aren't already part of
+                    Northerns or Easterns.</li>
+                <li><strong>Boland, South Western Districts (Badgers), Eastern Province (Warriors), Eastern Cape
+                    (Iinyathi), Kei:</strong> based on where local clubs and schools played their cricket;
+                    municipalities were allocated to whichever union's competitions those clubs and schools took
+                    part in.</li>
+            </ul>
+            <p>With a combination of provincial, district municipality and local municipality borders, I was able
+            to compile a map. Of South Africa's 212 local municipalities, 210 are placed in a provincial union with
+            proven information. Of the remaining two, one was basically an enclave surrounded by a single
+            provincial union and was placed in that one. The other had no local clubs or schools playing cricket,
+            and was allocated with a best guess.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Venues Map</p>
+        <div class="wca-qa-answer">
+            <p>The venues map is based on the coordinates of the venues, grouped together by their city/town. To
+            resolve the clustering of cities/towns close to each other, a further grouping option was added. The
+            venue most used by a team in the past five years is also indicated in white, along with the logo added
+            next to the venue in the list below the map.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Why the Site Exists</p>
+        <div class="wca-qa-answer">
+            <p>The idea for the site came from a lack of easily accessible information on South African women's
+            domestic cricket. The aim is to provide a central resource for statistics, records and historical
+            information, while also giving recognition to the players who have contributed to the domestic game.</p>
+        </div>
+    </div>
+
+    <div class="wca-qa-block">
+        <p class="wca-qa-question">Contact</p>
+        <div class="wca-qa-answer">
+            <p>If you have any questions, comments or contributions, you can find me on Bluesky:
+            <a href="https://bsky.app/profile/wernerboucher.bsky.social" target="_blank" rel="noopener">@wernerboucher.bsky.social</a>.</p>
+        </div>
+    </div>
+
+    <div class="wca-about-note">
+        This is an independent, fan-built project. It is not affiliated with, endorsed by, or produced in
+        partnership with Cricket South Africa.
+    </div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/nav.js"></script>
+<script>
+    WCA_NAV.render("about");
+    WCA_NAV.renderFooter();
+</script>
+</body>
+</html>

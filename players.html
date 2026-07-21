@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Players - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/players.html">
+    <meta name="description" content="Browse every player in South African women's provincial cricket, with career, opposition and venue splits.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Players - Women's Provincial Cricket Database">
+    <meta property="og:description" content="Browse every player in South African women's provincial cricket, with career, opposition and venue splits.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/players.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Players - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="Browse every player in South African women's provincial cricket, with career, opposition and venue splits.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-player-search {
+            max-width: 26rem;
+            margin-bottom: 1.5rem;
+        }
+        .wca-player-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 0.4rem;
+        }
+        .wca-player-grid a {
+            color: var(--wca-text);
+            text-decoration: none;
+            font-family: var(--wca-font-body);
+            padding: 0.35rem 0.6rem;
+            border-radius: 5px;
+        }
+        .wca-player-grid a:hover { background: var(--wca-surface-raised); color: var(--wca-gold); text-decoration: none; }
+        .wca-player-count {
+            font-family: var(--wca-font-body);
+            color: var(--wca-text-dim);
+            font-size: 0.85rem;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<main class="container py-4">
+    <div class="wca-breadcrumb"><a href="index.html">Home</a> / Players</div>
+    <h1 class="wca-section-title">Players</h1>
+
+    <div class="wca-player-search">
+        <div class="input-group">
+            <span class="input-group-text bg-transparent border-secondary text-secondary"><i class="bi bi-search"></i></span>
+            <input type="text" id="playerSearch" class="form-control bg-transparent border-secondary text-light"
+                   placeholder="Search by name…" autocomplete="off">
+        </div>
+    </div>
+
+    <div class="wca-player-count" id="playerCount"></div>
+    <div class="wca-alpha-strip" id="alphaStrip"></div>
+
+    <div id="playerSections">
+        <div class="wca-loading"><div class="wca-spinner"></div> Loading players…</div>
+    </div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-loader.js"></script>
+<script>
+    WCA_NAV.render("players");
+    WCA_NAV.renderFooter();
+
+    let allNames = [];
+
+    // "A Breedt" (initial-only first token) should sort after full first names
+    // within the same starting letter, e.g. "Aisha ..." before "A Breedt".
+    function isInitialOnly(name) {
+        const firstToken = name.split(/\s+/)[0] || "";
+        return /^[A-Za-z]\.?$/.test(firstToken);
+    }
+
+    function sortNames(names) {
+        return [...names].sort((a, b) => {
+            const ia = isInitialOnly(a) ? 1 : 0;
+            const ib = isInitialOnly(b) ? 1 : 0;
+            if (ia !== ib) return ia - ib;
+            return a.localeCompare(b);
+        });
+    }
+
+    function groupByLetter(names) {
+        const groups = {};
+        names.forEach(name => {
+            const letter = /^[A-Za-z]/.test(name) ? name[0].toUpperCase() : "#";
+            (groups[letter] = groups[letter] || []).push(name);
+        });
+        Object.keys(groups).forEach(letter => { groups[letter] = sortNames(groups[letter]); });
+        return groups;
+    }
+
+    // Fuzzy match: every whitespace-separated query token must prefix-match a
+    // distinct token in the candidate name, so "L Wolvaardt" finds
+    // "Laura Wolvaardt" (l -> Laura, wolvaardt -> Wolvaardt). Falls back to a
+    // plain substring check for single-token queries typed as a fragment.
+    function matchesQuery(name, query) {
+        const qTokens = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
+        if (!qTokens.length) return true;
+
+        const nameLower = name.toLowerCase();
+        if (qTokens.length === 1 && nameLower.includes(qTokens[0])) return true;
+
+        const nameTokens = nameLower.split(/\s+/);
+        const used = new Set();
+        for (const qt of qTokens) {
+            let matched = false;
+            for (let i = 0; i < nameTokens.length; i++) {
+                if (used.has(i)) continue;
+                if (nameTokens[i].startsWith(qt)) { used.add(i); matched = true; break; }
+            }
+            if (!matched) return false;
+        }
+        return true;
+    }
+
+    function renderSections(names, { showAlphaStrip }) {
+        const groups = groupByLetter(names);
+        const letters = Object.keys(groups).sort();
+
+        document.getElementById("alphaStrip").innerHTML = showAlphaStrip
+            ? letters.map(l => `<a href="#letter-${l}">${l}</a>`).join("")
+            : "";
+
+        const root = document.getElementById("playerSections");
+        root.innerHTML = letters.map(letter => `
+            <h2 class="wca-subtable-title" id="letter-${letter}">${letter}</h2>
+            <div class="wca-player-grid">
+                ${groups[letter].map(name => `<a href="${WCA.playerUrl(name)}">${WCA.escapeHtml(name)}</a>`).join("")}
+            </div>
+        `).join("");
+    }
+
+    async function load() {
+        allNames = await WCA.fetchNameIndex("players");
+        allNames.sort((a, b) => a.localeCompare(b));
+
+        document.getElementById("playerCount").textContent = `${allNames.length.toLocaleString()} players`;
+
+        if (!allNames.length) {
+            document.getElementById("playerSections").innerHTML = `<div class="wca-empty-state">No players found.</div>`;
+            return;
+        }
+
+        renderSections(allNames, { showAlphaStrip: true });
+    }
+
+    document.getElementById("playerSearch").addEventListener("input", (e) => {
+        const q = e.target.value;
+        if (!q.trim()) {
+            renderSections(allNames, { showAlphaStrip: true });
+            document.getElementById("playerCount").textContent = `${allNames.length.toLocaleString()} players`;
+            return;
+        }
+        const matches = allNames.filter(n => matchesQuery(n, q));
+        document.getElementById("playerCount").textContent = `${matches.length.toLocaleString()} match${matches.length === 1 ? "" : "es"}`;
+        renderSections(matches, { showAlphaStrip: false });
+    });
+
+    load();
+</script>
+</body>
+</html>

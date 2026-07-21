@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2026-03-01-lions-titans",
+      "Tournament": "25-26 Pro 20",
+      "Match_Date": "2026/03/01",
+      "Venue_Name": "Wanderers",
+      "Season": "25/26",
+      "Format": "T20",
+      "Team_Home_Name": "Lions",
+      "Team_Away_Name": "Titans",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2026-03-01-lions-titans",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "No Result",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "0",
+      "Team_Wickets_Lost": "0",
+      "Team_Overs_Faced": "0",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2026-03-01-lions-titans",
+      "Team_Name": "Titans",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "No Result",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "81",
+      "Team_Wickets_Lost": "1",
+      "Team_Overs_Faced": "12.3",
+      "Innings_Number": "1"
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2026-03-01-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Lizelle Lee",
+      "Runs": "57",
+      "Balls": "42"
+    },
+    {
+      "Match_Slug": "2026-03-01-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Tebogo Macheke",
+      "Runs": "16",
+      "Balls": "33"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2026-03-01-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Kgomotso Rapoo",
+      "Wickets": "1",
+      "Runs": "10"
+    },
+    {
+      "Match_Slug": "2026-03-01-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Lehlohonolo Sardick",
+      "Wickets": "0",
+      "Runs": "10"
+    }
+  ]
+}

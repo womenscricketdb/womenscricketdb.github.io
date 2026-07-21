@@ -1,0 +1,186 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "46.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "2",
+        "Runs": "16",
+        "Average": "8.00",
+        "Strike-Rate": "42.11"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "16",
+        "High Score": "13",
+        "Average": "5.33",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "37.21"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2012/03/10",
+        "Opposition": "Heat",
+        "Position": "6",
+        "Runs": "13",
+        "Balls": "23",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "56.52"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/03/11",
+        "Opposition": "Dolphins",
+        "Position": "6",
+        "Runs": "3",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/09",
+        "Opposition": "Heat",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2015/01/17",
+        "Opposition": "Tuskers",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.60"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.24",
+        "Best Figures": "0/9",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2015/01/17",
+        "Opposition": "Tuskers",
+        "Figures": "0-9",
+        "Overs": "3",
+        "Economy": "3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/03/11",
+        "Opposition": "Dolphins",
+        "Figures": "0-11",
+        "Overs": "1.1",
+        "Economy": "9.43"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/03/10",
+        "Opposition": "Heat",
+        "Figures": "0-28",
+        "Overs": "5",
+        "Economy": "5.6"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "4",
+        "First Match": "2012/03/10",
+        "Last Match": "2015/01/17",
+        "Career Span": "2012 - 2015"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "4",
+        "First Match": "2012/03/10",
+        "Last Match": "2015/01/17",
+        "Career Span": "2012 - 2015"
+      }
+    ]
+  }
+}

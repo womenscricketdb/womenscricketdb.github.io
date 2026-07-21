@@ -1,0 +1,328 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "3",
+        "Runs": "17",
+        "Average": "5.67",
+        "Strike-Rate": "20.99"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "18.37"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Victory Park",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "23.08"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "14.58"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "36.36"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "7",
+        "Runs": "25",
+        "High Score": "9",
+        "Average": "4.17",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "16.03"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "4.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "36.36"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/02/23",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "9",
+        "Balls": "39",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "23.08"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/01/13",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "8",
+        "Balls": "41",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "19.51"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/23",
+        "Opposition": "Dolphins",
+        "Position": "6",
+        "Runs": "7",
+        "Balls": "48",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "14.58"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/01/23",
+        "Opposition": "Dolphins",
+        "Position": "11",
+        "Runs": "1*",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "12.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/23",
+        "Opposition": "Dragons",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/06",
+        "Opposition": "Knights",
+        "Position": "6",
+        "Runs": "4",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/01/18",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "1.00",
+        "Economy": "1.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "5.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CBC Oval",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "1.00",
+        "Economy": "1.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Boys' High School",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "5.00",
+        "Economy": "2.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "4.00",
+        "Economy": "2.40",
+        "Best Figures": "4/4",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/01/14",
+        "Opposition": "Heat",
+        "Figures": "4-4",
+        "Overs": "4",
+        "Economy": "1"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/13",
+        "Opposition": "Eastern Storm",
+        "Figures": "2-10",
+        "Overs": "5",
+        "Economy": "2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/11",
+        "Opposition": "Badgers",
+        "Figures": "0-10",
+        "Overs": "1",
+        "Economy": "10"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "12",
+        "First Match": "2009/01/11",
+        "Last Match": "2013/11/23",
+        "Career Span": "2009 - 2013"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "2",
+        "First Match": "2012/10/06",
+        "Last Match": "2015/01/18",
+        "Career Span": "2012 - 2015"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "14",
+        "First Match": "2009/01/11",
+        "Last Match": "2015/01/18",
+        "Career Span": "2009 - 2015"
+      }
+    ]
+  }
+}

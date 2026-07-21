@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Tournament": "24-25 Pro 50",
+      "Match_Date": "2024/11/23",
+      "Venue_Name": "Centurion Park",
+      "Season": "24/25",
+      "Format": "List A",
+      "Team_Home_Name": "Titans",
+      "Team_Away_Name": "Dolphins",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Team_Name": "Dolphins",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Won",
+      "Win_Margin": "23",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "112",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "36",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Team_Name": "Titans",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "89",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "40.2",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Innings_Number": "1",
+      "Player": "Seshnie Naidu",
+      "Runs": "15",
+      "Balls": "35"
+    },
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Innings_Number": "1",
+      "Player": "Yasmeen Khan",
+      "Runs": "45",
+      "Balls": "86"
+    },
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Innings_Number": "2",
+      "Player": "Masabata Klaas",
+      "Runs": "20",
+      "Balls": "56"
+    },
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Innings_Number": "2",
+      "Player": "Rasika Maharaj",
+      "Runs": "14",
+      "Balls": "62"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Innings_Number": "1",
+      "Player": "Masabata Klaas",
+      "Wickets": "2",
+      "Runs": "10"
+    },
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Innings_Number": "1",
+      "Player": "Rasika Maharaj",
+      "Wickets": "5",
+      "Runs": "27"
+    },
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Innings_Number": "2",
+      "Player": "Jade de Figueiredo",
+      "Wickets": "3",
+      "Runs": "20"
+    },
+    {
+      "Match_Slug": "2024-11-23-titans-dolphins",
+      "Innings_Number": "2",
+      "Player": "Sisanda Ngubane",
+      "Wickets": "2",
+      "Runs": "21"
+    }
+  ]
+}

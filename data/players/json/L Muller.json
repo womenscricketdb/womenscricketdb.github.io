@@ -1,0 +1,253 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "2",
+        "Runs": "27",
+        "Average": "13.50",
+        "Strike-Rate": "43.55"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Runs": "18",
+        "Average": "9.00",
+        "Strike-Rate": "43.90"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "23.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "10.94"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Stapelberg Stadium",
+        "Innings": "1",
+        "Runs": "20",
+        "Average": "20.00",
+        "Strike-Rate": "47.62"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "17.00",
+        "Strike-Rate": "51.52"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "3",
+        "Runs": "8",
+        "Average": "2.67",
+        "Strike-Rate": "9.88"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "35.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Schoeman Park A Ground",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "35.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "8",
+        "Runs": "59",
+        "High Score": "20",
+        "Average": "7.38",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "29.95"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2012/01/14",
+        "Opposition": "Knights",
+        "Position": "5",
+        "Runs": "20",
+        "Balls": "42",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "47.62"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/28",
+        "Opposition": "Heat",
+        "Position": "5",
+        "Runs": "17",
+        "Balls": "33",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "51.52"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/29",
+        "Opposition": "Knights",
+        "Position": "5",
+        "Runs": "7",
+        "Balls": "20",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "35"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/02/18",
+        "Opposition": "Dolphins",
+        "Position": "5",
+        "Runs": "7",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "35"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/02/25",
+        "Opposition": "Tuskers",
+        "Position": "5",
+        "Runs": "7",
+        "Balls": "63",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "11.11"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.40"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.46"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.10"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.43",
+        "Best Figures": "0/11",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2012/02/25",
+        "Opposition": "Tuskers",
+        "Figures": "0-11",
+        "Overs": "1",
+        "Economy": "11"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/03/10",
+        "Opposition": "Heat",
+        "Figures": "0-14",
+        "Overs": "2.1",
+        "Economy": "6.46"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/02/19",
+        "Opposition": "Tuskers",
+        "Figures": "0-16",
+        "Overs": "2.2",
+        "Economy": "6.86"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/02/18",
+        "Opposition": "Dolphins",
+        "Figures": "0-37",
+        "Overs": "5",
+        "Economy": "7.4"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "8",
+        "First Match": "2012/01/14",
+        "Last Match": "2012/03/11",
+        "Career Span": "2012 - 2012"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "8",
+        "First Match": "2012/01/14",
+        "Last Match": "2012/03/11",
+        "Career Span": "2012 - 2012"
+      }
+    ]
+  }
+}

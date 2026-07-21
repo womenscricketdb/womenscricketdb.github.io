@@ -1,0 +1,255 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "30.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "20",
+        "Average": "-",
+        "Strike-Rate": "74.07"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "61.90"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "30.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Runs": "20",
+        "Average": "-",
+        "Strike-Rate": "74.07"
+      },
+      {
+        "Format": "T20",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "61.90"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "3",
+        "High Score": "3",
+        "Average": "3.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "30.00"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Runs": "33",
+        "High Score": "20",
+        "Average": "16.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "67.35"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/09/24",
+        "Opposition": "Knights",
+        "Position": "8",
+        "Runs": "3",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/09/25",
+        "Opposition": "Knights",
+        "Position": "6",
+        "Runs": "20*",
+        "Balls": "27",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "74.07"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/01/23",
+        "Opposition": "Warriors",
+        "Position": "7",
+        "Runs": "13",
+        "Balls": "21",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "61.9"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/02",
+        "Opposition": "Kei",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "T20",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "7.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25",
+        "Best Figures": "0/25",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "5.00",
+        "Best Figures": "1/7",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/09/24",
+        "Opposition": "Knights",
+        "Figures": "0-25",
+        "Overs": "4",
+        "Economy": "6.25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/01/23",
+        "Opposition": "Warriors",
+        "Figures": "1-7",
+        "Overs": "1",
+        "Economy": "7"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/02",
+        "Opposition": "Kei",
+        "Figures": "0-8",
+        "Overs": "2",
+        "Economy": "4"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "T20",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Boland",
+        "Total Matches": "1",
+        "First Match": "2022/09/24",
+        "Last Match": "2022/09/24",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Boland",
+        "Total Matches": "3",
+        "First Match": "2022/01/23",
+        "Last Match": "2022/10/02",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Boland",
+        "Total Matches": "4",
+        "First Match": "2022/01/23",
+        "Last Match": "2022/10/02",
+        "Career Span": "2022 - 2022"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "45.45"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "63.64"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "15.79"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "3",
+        "Runs": "29",
+        "Average": "9.67",
+        "Strike-Rate": "43.94"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Centurion Park",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "15.79"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammondfield",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "28.57"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "34",
+        "High Score": "15",
+        "Average": "8.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "36.96"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/02/04",
+        "Opposition": "Lions",
+        "Position": "7",
+        "Runs": "15",
+        "Balls": "33",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "45.45"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/08",
+        "Opposition": "Limpopo Lillies",
+        "Position": "8",
+        "Runs": "14",
+        "Balls": "22",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "63.64"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/31",
+        "Opposition": "Western Province",
+        "Position": "8",
+        "Runs": "3",
+        "Balls": "19",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "15.79"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/10",
+        "Opposition": "Dolphins",
+        "Position": "7",
+        "Runs": "2*",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/28",
+        "Opposition": "Dragons",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "6",
+        "Stumpings": "1",
+        "Matches as Wicketkeeper": "5",
+        "Matches as Captain": "1"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Titans",
+        "Total Matches": "9",
+        "First Match": "2006/10/08",
+        "Last Match": "2007/03/31",
+        "Career Span": "2006 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Titans",
+        "Total Matches": "9",
+        "First Match": "2006/10/08",
+        "Last Match": "2007/03/31",
+        "Career Span": "2006 - 2007"
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "15.79"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "11.11"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.88"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Military Ground",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "15.79"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bridgton Sports Grounds",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "3.57"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "11.11"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "5",
+        "High Score": "3",
+        "Average": "1.25",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "8.93"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/04/04",
+        "Opposition": "Kei",
+        "Position": "3",
+        "Runs": "3",
+        "Balls": "19",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "15.79"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/02",
+        "Opposition": "Iinyathi",
+        "Position": "2",
+        "Runs": "1",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "5.88"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/06",
+        "Opposition": "Boland",
+        "Position": "1",
+        "Runs": "1",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "11.11"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/04/05",
+        "Opposition": "Heat",
+        "Position": "1",
+        "Runs": "0",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "4",
+        "First Match": "2024/04/02",
+        "Last Match": "2024/04/06",
+        "Career Span": "2024 - 2024"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "4",
+        "First Match": "2024/04/02",
+        "Last Match": "2024/04/06",
+        "Career Span": "2024 - 2024"
+      }
+    ]
+  }
+}

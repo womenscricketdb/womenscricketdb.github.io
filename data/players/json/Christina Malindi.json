@@ -1,0 +1,294 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "39.13"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "12.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "39.13"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Braam Fisherville Ground",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "31.58"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Mohadin Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "17.65"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sturrock Park",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "21",
+        "High Score": "9",
+        "Average": "5.25",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "25.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/03/12",
+        "Opposition": "Titans",
+        "Position": "2",
+        "Runs": "9",
+        "Balls": "23",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "39.13"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/07",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "6",
+        "Balls": "19",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "31.58"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/29",
+        "Opposition": "Dragons",
+        "Position": "7",
+        "Runs": "3*",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "17.65"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/09",
+        "Opposition": "Dolphins",
+        "Position": "7",
+        "Runs": "2*",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/08",
+        "Opposition": "Dolphins",
+        "Position": "7",
+        "Runs": "1",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "5"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "7.00",
+        "Economy": "1.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "19.00",
+        "Economy": "3.08"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "14.00",
+        "Economy": "3.11"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "57.00",
+        "Economy": "4.38"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "7.50",
+        "Economy": "1.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Mohadin Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "6.00",
+        "Economy": "2.77"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "14.00",
+        "Economy": "3.11"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sturrock Park",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "25.50",
+        "Economy": "3.78"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "7",
+        "Wickets": "8",
+        "Average": "18.00",
+        "Economy": "3.01",
+        "Best Figures": "2/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/01/29",
+        "Opposition": "Dragons",
+        "Figures": "2-12",
+        "Overs": "4.2",
+        "Economy": "2.77"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/03/12",
+        "Opposition": "Titans",
+        "Figures": "2-15",
+        "Overs": "10",
+        "Economy": "1.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/21",
+        "Opposition": "Rhinos",
+        "Figures": "2-28",
+        "Overs": "9",
+        "Economy": "3.11"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/19",
+        "Opposition": "Titans",
+        "Figures": "1-6",
+        "Overs": "3.3",
+        "Economy": "1.71"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/09",
+        "Opposition": "Dolphins",
+        "Figures": "1-45",
+        "Overs": "10",
+        "Economy": "4.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "7",
+        "First Match": "2005/10/09",
+        "Last Match": "2006/10/21",
+        "Career Span": "2005 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "7",
+        "First Match": "2005/10/09",
+        "Last Match": "2006/10/21",
+        "Career Span": "2005 - 2006"
+      }
+    ]
+  }
+}

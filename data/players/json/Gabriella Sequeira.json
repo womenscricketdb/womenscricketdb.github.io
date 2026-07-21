@@ -1,0 +1,474 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "57",
+        "Average": "57.00",
+        "Strike-Rate": "80.28"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "44",
+        "Average": "44.00",
+        "Strike-Rate": "74.58"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "34",
+        "Average": "34.00",
+        "Strike-Rate": "79.07"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "17.00",
+        "Strike-Rate": "62.96"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "-",
+        "Strike-Rate": "44.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "2",
+        "Runs": "101",
+        "Average": "50.50",
+        "Strike-Rate": "77.69"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Runs": "34",
+        "Average": "34.00",
+        "Strike-Rate": "79.07"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 4 Oval",
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "60.71"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Newlands Stadium",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "-",
+        "Strike-Rate": "44.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Centurion Park",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "163",
+        "High Score": "57",
+        "Average": "32.60",
+        "50s": "1",
+        "100s": "0",
+        "Strike Rate*": "72.12"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "1.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "50.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/03/30",
+        "Opposition": "Rhinos",
+        "Position": "5",
+        "Runs": "57",
+        "Balls": "71",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "80.28"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/03",
+        "Opposition": "Limpopo Lillies",
+        "Position": "5",
+        "Runs": "44",
+        "Balls": "59",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "74.58"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/31",
+        "Opposition": "Tuskers",
+        "Position": "4",
+        "Runs": "34",
+        "Balls": "43",
+        "Fours": "3",
+        "Sixes": "1",
+        "Strike-Rate": "79.07"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/02",
+        "Opposition": "Eastern Storm",
+        "Position": "5",
+        "Runs": "17",
+        "Balls": "27",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "62.96"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/10/25",
+        "Opposition": "Western Province",
+        "Position": "8",
+        "Runs": "11*",
+        "Balls": "25",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "44"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/11/09",
+        "Opposition": "Lions",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/11/21",
+        "Opposition": "Badgers",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/10/26",
+        "Opposition": "Western Province",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "5",
+        "Average": "3.20",
+        "Economy": "2.09"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "6.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "36.00",
+        "Economy": "3.60"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "11.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "2",
+        "Wickets": "6",
+        "Average": "3.67",
+        "Economy": "2.28"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "36.00",
+        "Economy": "3.60"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Centurion Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "11.50"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Wickets": "7",
+        "Average": "19.43",
+        "Economy": "4.29",
+        "Best Figures": "5/16",
+        "3-fors": "1",
+        "5-fors": "1"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "45.50",
+        "Economy": "10.11",
+        "Best Figures": "1/18",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/04/03",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "5-16",
+        "Overs": "7.4",
+        "Economy": "2.09"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/30",
+        "Opposition": "Rhinos",
+        "Figures": "1-6",
+        "Overs": "2",
+        "Economy": "3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/31",
+        "Opposition": "Tuskers",
+        "Figures": "1-36",
+        "Overs": "10",
+        "Economy": "3.6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/01",
+        "Opposition": "Knights",
+        "Figures": "0-11",
+        "Overs": "3",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/02",
+        "Opposition": "Eastern Storm",
+        "Figures": "0-22",
+        "Overs": "3",
+        "Economy": "7.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/11/09",
+        "Opposition": "Lions",
+        "Figures": "1-18",
+        "Overs": "3",
+        "Economy": "6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/11/21",
+        "Opposition": "Badgers",
+        "Figures": "1-23",
+        "Overs": "2",
+        "Economy": "11.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/10/26",
+        "Opposition": "Western Province",
+        "Figures": "0-50",
+        "Overs": "4",
+        "Economy": "12.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "5",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      },
+      {
+        "Format": "T20",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Titans, Warriors",
+        "Total Matches": "6",
+        "First Match": "2025/10/25",
+        "Last Match": "2026/04/03",
+        "Career Span": "2025 - 2026"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Titans",
+        "Total Matches": "3",
+        "First Match": "2025/10/26",
+        "Last Match": "2025/11/21",
+        "Career Span": "2025 - 2025"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Titans, Warriors",
+        "Total Matches": "9",
+        "First Match": "2025/10/25",
+        "Last Match": "2026/04/03",
+        "Career Span": "2025 - 2026"
+      }
+    ]
+  }
+}

@@ -1,0 +1,561 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "2",
+        "Runs": "10",
+        "Average": "5.00",
+        "Strike-Rate": "47.62"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "11.76"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "3",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "40.63"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "11.76"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "80.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "15",
+        "High Score": "10",
+        "Average": "5.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "28.85"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Runs": "5",
+        "High Score": "4",
+        "Average": "5.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "83.33"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/10/01",
+        "Opposition": "Western Province",
+        "Position": "10",
+        "Runs": "10",
+        "Balls": "20",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/10/29",
+        "Opposition": "Badgers",
+        "Position": "9",
+        "Runs": "2*",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "11.76"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/11/26",
+        "Opposition": "Lions",
+        "Position": "9",
+        "Runs": "2",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/09/24",
+        "Opposition": "Dolphins",
+        "Position": "11",
+        "Runs": "1*",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/03/26",
+        "Opposition": "Lions",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/02",
+        "Opposition": "Western Province",
+        "Position": "7",
+        "Runs": "4*",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/23",
+        "Opposition": "Dolphins",
+        "Position": "10",
+        "Runs": "1*",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/09/25",
+        "Opposition": "Dolphins",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/12/04",
+        "Opposition": "Western Province",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/30",
+        "Opposition": "Badgers",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "8.00",
+        "Economy": "3.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "10.50",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "20.00",
+        "Economy": "5.71"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "41.00",
+        "Economy": "4.10"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "17.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.71"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "8.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "13.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "54.00",
+        "Economy": "7.71"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "2",
+        "Wickets": "5",
+        "Average": "10.40",
+        "Economy": "4.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "20.50",
+        "Economy": "4.56"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "10.50",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "8.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "12.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Newlands Stadium",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "22.00",
+        "Economy": "7.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "10",
+        "Wickets": "9",
+        "Average": "19.67",
+        "Economy": "4.78",
+        "Best Figures": "3/20",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "8",
+        "Wickets": "4",
+        "Average": "28.25",
+        "Economy": "5.95",
+        "Best Figures": "1/8",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/01/22",
+        "Opposition": "Dolphins",
+        "Figures": "3-20",
+        "Overs": "6",
+        "Economy": "3.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Eastern Storm",
+        "Figures": "2-21",
+        "Overs": "3",
+        "Economy": "7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/03/26",
+        "Opposition": "Lions",
+        "Figures": "2-32",
+        "Overs": "6",
+        "Economy": "5.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/09/24",
+        "Opposition": "Dolphins",
+        "Figures": "1-12",
+        "Overs": "3",
+        "Economy": "4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/10/01",
+        "Opposition": "Western Province",
+        "Figures": "1-21",
+        "Overs": "5",
+        "Economy": "4.2"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-8",
+        "Overs": "4",
+        "Economy": "2"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/09/25",
+        "Opposition": "Dolphins",
+        "Figures": "1-12",
+        "Overs": "2",
+        "Economy": "6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/27",
+        "Opposition": "Lions",
+        "Figures": "1-13",
+        "Overs": "1",
+        "Economy": "13"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/27",
+        "Opposition": "Western Province",
+        "Figures": "1-22",
+        "Overs": "3",
+        "Economy": "7.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/01/23",
+        "Opposition": "Dolphins",
+        "Figures": "0-6",
+        "Overs": "2",
+        "Economy": "3"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "11",
+        "First Match": "2022/01/22",
+        "Last Match": "2022/12/03",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Dragons",
+        "Total Matches": "10",
+        "First Match": "2022/01/23",
+        "Last Match": "2022/12/04",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "21",
+        "First Match": "2022/01/22",
+        "Last Match": "2022/12/04",
+        "Career Span": "2022 - 2022"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "30.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Ingwenyama Ground",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "30.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "9",
+        "High Score": "9",
+        "Average": "9.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "30.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2017/03/11",
+        "Opposition": "Rhinos",
+        "Position": "10",
+        "Runs": "9",
+        "Balls": "30",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00",
+        "Best Figures": "0/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2017/03/11",
+        "Opposition": "Rhinos",
+        "Figures": "0-12",
+        "Overs": "3",
+        "Economy": "4"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "1",
+        "First Match": "2017/03/11",
+        "Last Match": "2017/03/11",
+        "Career Span": "2017 - 2017"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "1",
+        "First Match": "2017/03/11",
+        "Last Match": "2017/03/11",
+        "Career Span": "2017 - 2017"
+      }
+    ]
+  }
+}

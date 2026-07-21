@@ -1,0 +1,177 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Iinyathi",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "1.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2025/03/08",
+        "Opposition": "Iinyathi",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/03/09",
+        "Opposition": "Iinyathi",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "6.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "6.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "6.75",
+        "Best Figures": "1/27",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.67",
+        "Best Figures": "0/32",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2025/03/08",
+        "Opposition": "Iinyathi",
+        "Figures": "1-27",
+        "Overs": "4",
+        "Economy": "6.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/03/09",
+        "Opposition": "Iinyathi",
+        "Figures": "0-32",
+        "Overs": "3",
+        "Economy": "10.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Heat",
+        "Total Matches": "1",
+        "First Match": "2025/03/08",
+        "Last Match": "2025/03/08",
+        "Career Span": "2025 - 2025"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Heat",
+        "Total Matches": "1",
+        "First Match": "2025/03/09",
+        "Last Match": "2025/03/09",
+        "Career Span": "2025 - 2025"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Heat",
+        "Total Matches": "2",
+        "First Match": "2025/03/08",
+        "Last Match": "2025/03/09",
+        "Career Span": "2025 - 2025"
+      }
+    ]
+  }
+}

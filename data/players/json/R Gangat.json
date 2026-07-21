@@ -1,0 +1,194 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "15.79"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Potch Boys High Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "85.71"
+      },
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "17.65"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "10",
+        "High Score": "6",
+        "Average": "2.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "30.30"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/11/21",
+        "Opposition": "Dolphins",
+        "Position": "10",
+        "Runs": "6",
+        "Balls": "7",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "85.71"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/02/14",
+        "Opposition": "Tuskers",
+        "Position": "5",
+        "Runs": "3",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "17.65"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/02/13",
+        "Opposition": "Dolphins",
+        "Position": "2",
+        "Runs": "1",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/22",
+        "Opposition": "Tuskers",
+        "Position": "2",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.63"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.63"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.63",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/11/21",
+        "Opposition": "Dolphins",
+        "Figures": "0-12",
+        "Overs": "5",
+        "Economy": "2.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/22",
+        "Opposition": "Tuskers",
+        "Figures": "0-12",
+        "Overs": "1",
+        "Economy": "12"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/02/13",
+        "Opposition": "Dolphins",
+        "Figures": "0-17",
+        "Overs": "3",
+        "Economy": "5.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/02/14",
+        "Opposition": "Tuskers",
+        "Figures": "0-33",
+        "Overs": "7",
+        "Economy": "4.71"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "4",
+        "First Match": "2009/11/21",
+        "Last Match": "2010/02/14",
+        "Career Span": "2009 - 2010"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "4",
+        "First Match": "2009/11/21",
+        "Last Match": "2010/02/14",
+        "Career Span": "2009 - 2010"
+      }
+    ]
+  }
+}

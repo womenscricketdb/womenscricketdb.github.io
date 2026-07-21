@@ -1,0 +1,114 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "12.82"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Hickling",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "12.82"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "5",
+        "High Score": "5",
+        "Average": "5.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "12.82"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2019/03/29",
+        "Opposition": "Lions",
+        "Position": "9",
+        "Runs": "5",
+        "Balls": "39",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "12.82"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "5",
+        "Average": "2.80",
+        "Economy": "1.40"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Hickling",
+        "Innings": "1",
+        "Wickets": "5",
+        "Average": "2.80",
+        "Economy": "1.40"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "5",
+        "Average": "2.80",
+        "Economy": "1.40",
+        "Best Figures": "5/14",
+        "3-fors": "1",
+        "5-fors": "1"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2019/03/29",
+        "Opposition": "Lions",
+        "Figures": "5-14",
+        "Overs": "10",
+        "Economy": "1.4"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "1",
+        "First Match": "2019/03/29",
+        "Last Match": "2019/03/29",
+        "Career Span": "2019 - 2019"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "1",
+        "First Match": "2019/03/29",
+        "Last Match": "2019/03/29",
+        "Career Span": "2019 - 2019"
+      }
+    ]
+  }
+}

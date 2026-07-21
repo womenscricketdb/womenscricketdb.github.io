@@ -1,0 +1,132 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "37",
+        "Average": "37.00",
+        "Strike-Rate": "49.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "UCT Bowl",
+        "Innings": "1",
+        "Runs": "37",
+        "Average": "37.00",
+        "Strike-Rate": "49.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "40",
+        "High Score": "37",
+        "Average": "40.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "47.62"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/13",
+        "Opposition": "Heat",
+        "Position": "2",
+        "Runs": "37",
+        "Balls": "75",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "49.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/03/12",
+        "Opposition": "Boland",
+        "Position": "9",
+        "Runs": "3*",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25",
+        "Best Figures": "0/25",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/03/12",
+        "Opposition": "Boland",
+        "Figures": "0-25",
+        "Overs": "4",
+        "Economy": "6.25"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Western Province",
+        "Total Matches": "2",
+        "First Match": "2006/03/12",
+        "Last Match": "2007/01/13",
+        "Career Span": "2006 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Western Province",
+        "Total Matches": "2",
+        "First Match": "2006/03/12",
+        "Last Match": "2007/01/13",
+        "Career Span": "2006 - 2007"
+      }
+    ]
+  }
+}

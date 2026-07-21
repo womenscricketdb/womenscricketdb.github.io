@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "40.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "40.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "8",
+        "High Score": "8",
+        "Average": "8.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "40.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/10/29",
+        "Opposition": "Tuskers",
+        "Position": "6",
+        "Runs": "8",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "40"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Badgers",
+        "Total Matches": "1",
+        "First Match": "2016/10/29",
+        "Last Match": "2016/10/29",
+        "Career Span": "2016 - 2016"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Badgers",
+        "Total Matches": "1",
+        "First Match": "2016/10/29",
+        "Last Match": "2016/10/29",
+        "Career Span": "2016 - 2016"
+      }
+    ]
+  }
+}

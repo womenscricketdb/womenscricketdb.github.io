@@ -1,0 +1,463 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "27.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "83.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "72.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "100.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "UFS 4 Oval",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "27.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "83.33"
+      },
+      {
+        "Format": "T20",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "72.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "100.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "21",
+        "High Score": "11",
+        "Average": "5.25",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "38.89"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "24",
+        "High Score": "18",
+        "Average": "12.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "77.42"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/04/01",
+        "Opposition": "Kei",
+        "Position": "3",
+        "Runs": "11",
+        "Balls": "40",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "27.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/31",
+        "Opposition": "Warriors",
+        "Position": "3",
+        "Runs": "10",
+        "Balls": "12",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "83.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/02/21",
+        "Opposition": "Rhinos",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/02",
+        "Opposition": "Iinyathi",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/03",
+        "Opposition": "Heat",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/22",
+        "Opposition": "Rhinos",
+        "Position": "3",
+        "Runs": "18",
+        "Balls": "25",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "72"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/08",
+        "Opposition": "Knights",
+        "Position": "3",
+        "Runs": "6",
+        "Balls": "6",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "16.00",
+        "Economy": "3.20"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "12.00",
+        "Economy": "2.40"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "5.00",
+        "Economy": "0.83"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "3.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "6.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.00",
+        "Economy": "3.75"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CBC Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "12.00",
+        "Economy": "2.40"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "16.00",
+        "Economy": "3.20"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 4 Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "5.00",
+        "Economy": "0.83"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "3.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "6.50"
+      },
+      {
+        "Format": "T20",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.00",
+        "Economy": "3.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Wickets": "9",
+        "Average": "15.33",
+        "Economy": "2.88",
+        "Best Figures": "2/16",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Wickets": "6",
+        "Average": "4.50",
+        "Economy": "3.38",
+        "Best Figures": "3/12",
+        "3-fors": "2",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/04/03",
+        "Opposition": "Heat",
+        "Figures": "2-16",
+        "Overs": "8",
+        "Economy": "2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/02",
+        "Opposition": "Iinyathi",
+        "Figures": "2-24",
+        "Overs": "10",
+        "Economy": "2.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/30",
+        "Opposition": "Boland",
+        "Figures": "2-32",
+        "Overs": "10",
+        "Economy": "3.2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/01",
+        "Opposition": "Kei",
+        "Figures": "1-5",
+        "Overs": "6",
+        "Economy": "0.83"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/31",
+        "Opposition": "Warriors",
+        "Figures": "1-26",
+        "Overs": "4",
+        "Economy": "6.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/08",
+        "Opposition": "Knights",
+        "Figures": "3-12",
+        "Overs": "4",
+        "Economy": "3"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/22",
+        "Opposition": "Rhinos",
+        "Figures": "3-15",
+        "Overs": "4",
+        "Economy": "3.75"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      },
+      {
+        "Format": "T20",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "6",
+        "First Match": "2026/02/21",
+        "Last Match": "2026/04/03",
+        "Career Span": "2026 - 2026"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "2",
+        "First Match": "2026/02/08",
+        "Last Match": "2026/02/22",
+        "Career Span": "2026 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "8",
+        "First Match": "2026/02/08",
+        "Last Match": "2026/04/03",
+        "Career Span": "2026 - 2026"
+      }
+    ]
+  }
+}

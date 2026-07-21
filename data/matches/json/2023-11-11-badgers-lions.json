@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Tournament": "23-24 CSA Women's Professional League",
+      "Match_Date": "2023/11/11",
+      "Venue_Name": "Recreation Ground",
+      "Season": "23/24",
+      "Format": "List A",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Team_Name": "Badgers",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "92",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "220",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "41",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "128",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "30.5",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Julia Hoal",
+      "Runs": "26",
+      "Balls": "91"
+    },
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Tazmin Brits",
+      "Runs": "124",
+      "Balls": "96"
+    },
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Palesa Mapoo",
+      "Runs": "36",
+      "Balls": "68"
+    },
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Sarah Nettleton",
+      "Runs": "13",
+      "Balls": "16"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Ayabonga Khaka",
+      "Wickets": "2",
+      "Runs": "41"
+    },
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Sarah Nettleton",
+      "Wickets": "4",
+      "Runs": "39"
+    },
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Annerie Dercksen",
+      "Wickets": "2",
+      "Runs": "22"
+    },
+    {
+      "Match_Slug": "2023-11-11-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Khayakazi Mathe",
+      "Wickets": "3",
+      "Runs": "16"
+    }
+  ]
+}

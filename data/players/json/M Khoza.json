@@ -1,0 +1,149 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "29",
+        "Average": "-",
+        "Strike-Rate": "58.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "2",
+        "Runs": "29",
+        "Average": "29.00",
+        "Strike-Rate": "56.86"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "29",
+        "High Score": "29",
+        "Average": "29.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "56.86"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2023/10/28",
+        "Opposition": "Rhinos",
+        "Position": "5",
+        "Runs": "29*",
+        "Balls": "50",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "58"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/03/18",
+        "Opposition": "Heat",
+        "Position": "1",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "4.38"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.71"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "68.00",
+        "Economy": "4.53"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "68.00",
+        "Economy": "4.53",
+        "Best Figures": "1/35",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2023/10/28",
+        "Opposition": "Rhinos",
+        "Figures": "1-35",
+        "Overs": "8",
+        "Economy": "4.38"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/03/18",
+        "Opposition": "Heat",
+        "Figures": "0-33",
+        "Overs": "7",
+        "Economy": "4.71"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2023/03/18",
+        "Last Match": "2023/10/28",
+        "Career Span": "2023 - 2023"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2023/03/18",
+        "Last Match": "2023/10/28",
+        "Career Span": "2023 - 2023"
+      }
+    ]
+  }
+}

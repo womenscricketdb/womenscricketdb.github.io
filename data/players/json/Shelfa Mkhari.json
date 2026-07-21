@@ -1,0 +1,177 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "-",
+        "Strike-Rate": "65.22"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "-",
+        "Strike-Rate": "65.22"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "15",
+        "High Score": "15",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "65.22"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2023/12/02",
+        "Opposition": "Tuskers",
+        "Position": "9",
+        "Runs": "15*",
+        "Balls": "23",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "65.22"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/03/24",
+        "Opposition": "Dragons",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "6.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "6.00",
+        "Best Figures": "1/18",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.33",
+        "Best Figures": "0/19",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2023/12/02",
+        "Opposition": "Tuskers",
+        "Figures": "1-18",
+        "Overs": "3",
+        "Economy": "6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/03/24",
+        "Opposition": "Dragons",
+        "Figures": "0-19",
+        "Overs": "3",
+        "Economy": "6.33"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "1",
+        "First Match": "2023/12/02",
+        "Last Match": "2023/12/02",
+        "Career Span": "2023 - 2023"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "1",
+        "First Match": "2024/03/24",
+        "Last Match": "2024/03/24",
+        "Career Span": "2024 - 2024"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2023/12/02",
+        "Last Match": "2024/03/24",
+        "Career Span": "2023 - 2024"
+      }
+    ]
+  }
+}

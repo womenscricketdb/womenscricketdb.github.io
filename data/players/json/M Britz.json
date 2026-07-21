@@ -1,0 +1,124 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "60.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Despatch Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "60.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "3",
+        "High Score": "3",
+        "Average": "1.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "37.50"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/01/15",
+        "Opposition": "Warriors",
+        "Position": "6",
+        "Runs": "3",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "60"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/14",
+        "Opposition": "Iinyathi",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50",
+        "Best Figures": "0/75",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/01/14",
+        "Opposition": "Iinyathi",
+        "Figures": "0-75",
+        "Overs": "10",
+        "Economy": "7.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Heat",
+        "Total Matches": "2",
+        "First Match": "2006/01/14",
+        "Last Match": "2006/01/15",
+        "Career Span": "2006 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Heat",
+        "Total Matches": "2",
+        "First Match": "2006/01/14",
+        "Last Match": "2006/01/15",
+        "Career Span": "2006 - 2006"
+      }
+    ]
+  }
+}

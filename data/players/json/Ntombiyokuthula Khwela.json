@@ -1,0 +1,167 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "17.65"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Windmill Park",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Grey College A Ground",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "16.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "7",
+        "High Score": "4",
+        "Average": "7.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "31.82"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/03/29",
+        "Opposition": "Lions",
+        "Position": "11",
+        "Runs": "4*",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/03/31",
+        "Opposition": "Titans",
+        "Position": "10",
+        "Runs": "3",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "17.65"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/03/30",
+        "Opposition": "Western Province",
+        "Position": "10",
+        "Runs": "0*",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Best Figures": "0/11",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/03/31",
+        "Opposition": "Titans",
+        "Figures": "0-11",
+        "Overs": "1",
+        "Economy": "11"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/03/29",
+        "Opposition": "Lions",
+        "Figures": "0-13",
+        "Overs": "3",
+        "Economy": "4.33"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "3",
+        "First Match": "2016/03/29",
+        "Last Match": "2016/03/31",
+        "Career Span": "2016 - 2016"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "3",
+        "First Match": "2016/03/29",
+        "Last Match": "2016/03/31",
+        "Career Span": "2016 - 2016"
+      }
+    ]
+  }
+}

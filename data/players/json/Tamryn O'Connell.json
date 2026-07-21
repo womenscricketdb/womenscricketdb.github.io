@@ -1,0 +1,195 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "-",
+        "Strike-Rate": "94.12"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "-",
+        "Strike-Rate": "94.12"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "16",
+        "High Score": "16",
+        "Average": "8.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "61.54"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/10/04",
+        "Opposition": "Iinyathi",
+        "Position": "7",
+        "Runs": "16*",
+        "Balls": "17",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "94.12"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/06",
+        "Opposition": "Boland",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/30",
+        "Opposition": "Heat",
+        "Position": "4",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/01",
+        "Opposition": "Badgers",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "13.50",
+        "Economy": "6.75"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Yorkshire Cricket Club Ground",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "13.50",
+        "Economy": "6.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "15.00",
+        "Economy": "6.00",
+        "Best Figures": "2/27",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/10/30",
+        "Opposition": "Heat",
+        "Figures": "2-27",
+        "Overs": "4",
+        "Economy": "6.75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/10/04",
+        "Opposition": "Iinyathi",
+        "Figures": "0-3",
+        "Overs": "1",
+        "Economy": "3"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Western Province",
+        "Total Matches": "4",
+        "First Match": "2005/10/30",
+        "Last Match": "2009/11/01",
+        "Career Span": "2005 - 2009"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Western Province",
+        "Total Matches": "4",
+        "First Match": "2005/10/30",
+        "Last Match": "2009/11/01",
+        "Career Span": "2005 - 2009"
+      }
+    ]
+  }
+}

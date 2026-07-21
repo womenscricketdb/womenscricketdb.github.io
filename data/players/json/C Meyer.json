@@ -1,0 +1,156 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "31.82"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "30.77"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "31.82"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Collegians Ground",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "30.77"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "18",
+        "High Score": "14",
+        "Average": "9.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "31.58"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/28",
+        "Opposition": "Dolphins",
+        "Position": "4",
+        "Runs": "14",
+        "Balls": "44",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "31.82"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/27",
+        "Opposition": "Tuskers",
+        "Position": "4",
+        "Runs": "4",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30.77"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50",
+        "Best Figures": "0/9",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/28",
+        "Opposition": "Dolphins",
+        "Figures": "0-9",
+        "Overs": "1",
+        "Economy": "9"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/27",
+        "Opposition": "Tuskers",
+        "Figures": "0-10",
+        "Overs": "1",
+        "Economy": "10"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2007/01/27",
+        "Last Match": "2007/01/28",
+        "Career Span": "2007 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2007/01/27",
+        "Last Match": "2007/01/28",
+        "Career Span": "2007 - 2007"
+      }
+    ]
+  }
+}

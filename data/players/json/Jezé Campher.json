@@ -1,0 +1,160 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "42.11"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "T20",
+        "Venue": "Braam Fisherville Ground",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "42.11"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "9",
+        "High Score": "8",
+        "Average": "4.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "31.03"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2026/02/15",
+        "Opposition": "Lions",
+        "Position": "2",
+        "Runs": "8",
+        "Balls": "19",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "42.11"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/03/08",
+        "Opposition": "Titans",
+        "Position": "2",
+        "Runs": "1",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/02/08",
+        "Opposition": "Western Province",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.50",
+        "Economy": "4.75"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "T20",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.50",
+        "Economy": "4.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.50",
+        "Economy": "4.75",
+        "Best Figures": "2/19",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2026/03/08",
+        "Opposition": "Titans",
+        "Figures": "2-19",
+        "Overs": "4",
+        "Economy": "4.75"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "T20",
+        "Teams Represented": "Badgers",
+        "Total Matches": "3",
+        "First Match": "2026/02/08",
+        "Last Match": "2026/03/08",
+        "Career Span": "2026 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Badgers",
+        "Total Matches": "3",
+        "First Match": "2026/02/08",
+        "Last Match": "2026/03/08",
+        "Career Span": "2026 - 2026"
+      }
+    ]
+  }
+}

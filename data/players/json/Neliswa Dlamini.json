@@ -1,0 +1,403 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Uplands College",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Union Cricket Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "100.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "3",
+        "High Score": "2",
+        "Average": "1.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "17.65"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "0.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "11.11"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2023/10/14",
+        "Opposition": "Tuskers",
+        "Position": "11",
+        "Runs": "2*",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/03/19",
+        "Opposition": "Knights",
+        "Position": "11",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/01/23",
+        "Opposition": "Tuskers",
+        "Position": "11",
+        "Runs": "1*",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/10/15",
+        "Opposition": "Tuskers",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/20",
+        "Opposition": "Knights",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/27",
+        "Opposition": "Heat",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Limpopo Lillies",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "45.00",
+        "Economy": "6.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "13.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.83"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "45.00",
+        "Economy": "6.43"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "55.00",
+        "Economy": "5.00",
+        "Best Figures": "1/40",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Best Figures": "0/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "1-40",
+        "Overs": "10",
+        "Economy": "4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/03/19",
+        "Opposition": "Knights",
+        "Figures": "1-45",
+        "Overs": "7",
+        "Economy": "6.43"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/10/14",
+        "Opposition": "Tuskers",
+        "Figures": "0-25",
+        "Overs": "5",
+        "Economy": "5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/10/15",
+        "Opposition": "Tuskers",
+        "Figures": "0-12",
+        "Overs": "2",
+        "Economy": "6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/20",
+        "Opposition": "Knights",
+        "Figures": "0-13",
+        "Overs": "1",
+        "Economy": "13"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-16",
+        "Overs": "2",
+        "Economy": "8"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/01/23",
+        "Opposition": "Tuskers",
+        "Figures": "0-17",
+        "Overs": "4",
+        "Economy": "4.25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/27",
+        "Opposition": "Heat",
+        "Figures": "0-26",
+        "Overs": "3",
+        "Economy": "8.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "3",
+        "First Match": "2022/02/05",
+        "Last Match": "2023/10/14",
+        "Career Span": "2022 - 2023"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "5",
+        "First Match": "2022/01/23",
+        "Last Match": "2023/10/15",
+        "Career Span": "2022 - 2023"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "8",
+        "First Match": "2022/01/23",
+        "Last Match": "2023/10/15",
+        "Career Span": "2022 - 2023"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "-",
+        "Strike-Rate": "40.48"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "-",
+        "Strike-Rate": "40.48"
+      },
+      {
+        "Format": "T20",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "17",
+        "High Score": "17",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "40.48"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "3",
+        "High Score": "3",
+        "Average": "3.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "25.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/11/23",
+        "Opposition": "Boland",
+        "Position": "7",
+        "Runs": "17*",
+        "Balls": "42",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "40.48"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/03/02",
+        "Opposition": "Warriors",
+        "Position": "5",
+        "Runs": "3*",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/11/24",
+        "Opposition": "Boland",
+        "Position": "2",
+        "Runs": "0",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Kei",
+        "Total Matches": "1",
+        "First Match": "2024/11/23",
+        "Last Match": "2024/11/23",
+        "Career Span": "2024 - 2024"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Kei",
+        "Total Matches": "2",
+        "First Match": "2024/11/24",
+        "Last Match": "2025/03/02",
+        "Career Span": "2024 - 2025"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Kei",
+        "Total Matches": "3",
+        "First Match": "2024/11/23",
+        "Last Match": "2025/03/02",
+        "Career Span": "2024 - 2025"
+      }
+    ]
+  }
+}

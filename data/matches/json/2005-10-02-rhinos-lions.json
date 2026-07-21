@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Tournament": "05-06 Women's Provincial League",
+      "Match_Date": "2005/10/02",
+      "Venue_Name": "Landau Rec Oval",
+      "Season": "05/06",
+      "Format": "List A",
+      "Team_Home_Name": "Rhinos",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "10",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "78",
+      "Team_Wickets_Lost": "0",
+      "Team_Overs_Faced": "16.2",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Team_Name": "Rhinos",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "77",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "33.1",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Innings_Number": "1",
+      "Player": "Bianca Wirths",
+      "Runs": "12",
+      "Balls": "41"
+    },
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Innings_Number": "1",
+      "Player": "Mariette Badenhorst",
+      "Runs": "16",
+      "Balls": "36"
+    },
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Innings_Number": "2",
+      "Player": "Daleen Terblanche",
+      "Runs": "20",
+      "Balls": "31"
+    },
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Innings_Number": "2",
+      "Player": "Kerri Laing",
+      "Runs": "44",
+      "Balls": "67"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Innings_Number": "1",
+      "Player": "E de Mello Koch",
+      "Wickets": "2",
+      "Runs": "2"
+    },
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Innings_Number": "1",
+      "Player": "Liechen Reid",
+      "Wickets": "4",
+      "Runs": "28"
+    },
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Innings_Number": "2",
+      "Player": "L Posthumus",
+      "Wickets": "0",
+      "Runs": "8"
+    },
+    {
+      "Match_Slug": "2005-10-02-rhinos-lions",
+      "Innings_Number": "2",
+      "Player": "Samantha Haven",
+      "Wickets": "0",
+      "Runs": "12"
+    }
+  ]
+}

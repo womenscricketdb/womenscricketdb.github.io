@@ -1,0 +1,301 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "6.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammanskraal Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "6.67"
+      },
+      {
+        "Format": "T20",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "5",
+        "High Score": "4",
+        "Average": "2.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "17.24"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "50.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2017/10/14",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "4",
+        "Balls": "14",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/01/20",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "1",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "6.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/02/09",
+        "Opposition": "Kei",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/24",
+        "Opposition": "Knights",
+        "Position": "10",
+        "Runs": "1*",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/01/08",
+        "Opposition": "Badgers",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/10",
+        "Opposition": "Kei",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "3.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "9.00",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "3.50"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "9.00",
+        "Economy": "4.50"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "3.50",
+        "Best Figures": "1/7",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "4.33",
+        "Best Figures": "1/9",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2019/02/09",
+        "Opposition": "Kei",
+        "Figures": "1-7",
+        "Overs": "2",
+        "Economy": "3.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/10",
+        "Opposition": "Kei",
+        "Figures": "1-9",
+        "Overs": "2",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/24",
+        "Opposition": "Knights",
+        "Figures": "0-4",
+        "Overs": "1",
+        "Economy": "4"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Iinyathi, Warriors",
+        "Total Matches": "3",
+        "First Match": "2017/10/14",
+        "Last Match": "2019/02/09",
+        "Career Span": "2017 - 2019"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Iinyathi, Warriors",
+        "Total Matches": "3",
+        "First Match": "2017/01/08",
+        "Last Match": "2019/02/24",
+        "Career Span": "2017 - 2019"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Iinyathi, Warriors",
+        "Total Matches": "6",
+        "First Match": "2017/01/08",
+        "Last Match": "2019/02/24",
+        "Career Span": "2017 - 2019"
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "107.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "16.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "107.14"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "T20",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "16.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "16",
+        "High Score": "15",
+        "Average": "16.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "80.00"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "4.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "16.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2020/02/29",
+        "Opposition": "Iinyathi",
+        "Position": "10",
+        "Runs": "15",
+        "Balls": "14",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "107.14"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/02/23",
+        "Opposition": "Knights",
+        "Position": "11",
+        "Runs": "1*",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/11/16",
+        "Opposition": "Boland",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/24",
+        "Opposition": "Knights",
+        "Position": "8",
+        "Runs": "4",
+        "Balls": "25",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/11/17",
+        "Opposition": "Boland",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "3.89"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "11.50",
+        "Economy": "5.75"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Tassies Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "3.89"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "11.50",
+        "Economy": "5.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "24.00",
+        "Economy": "4.80",
+        "Best Figures": "2/6",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "9.75",
+        "Economy": "4.88",
+        "Best Figures": "2/16",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2019/02/23",
+        "Opposition": "Knights",
+        "Figures": "2-6",
+        "Overs": "2",
+        "Economy": "3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/11/16",
+        "Opposition": "Boland",
+        "Figures": "1-35",
+        "Overs": "9",
+        "Economy": "3.89"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/02/29",
+        "Opposition": "Iinyathi",
+        "Figures": "0-31",
+        "Overs": "4",
+        "Economy": "7.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/11/17",
+        "Opposition": "Boland",
+        "Figures": "2-16",
+        "Overs": "4",
+        "Economy": "4"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/02/24",
+        "Opposition": "Knights",
+        "Figures": "2-23",
+        "Overs": "4",
+        "Economy": "5.75"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      },
+      {
+        "Format": "T20",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Warriors",
+        "Total Matches": "3",
+        "First Match": "2019/02/23",
+        "Last Match": "2020/02/29",
+        "Career Span": "2019 - 2020"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Warriors",
+        "Total Matches": "2",
+        "First Match": "2019/02/24",
+        "Last Match": "2019/11/17",
+        "Career Span": "2019 - 2019"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Warriors",
+        "Total Matches": "5",
+        "First Match": "2019/02/23",
+        "Last Match": "2020/02/29",
+        "Career Span": "2019 - 2020"
+      }
+    ]
+  }
+}

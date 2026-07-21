@@ -1,0 +1,473 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "88.89"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "114.29"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "9",
+        "High Score": "8",
+        "Average": "2.25",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "56.25"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2020/03/14",
+        "Opposition": "Dragons",
+        "Position": "11",
+        "Runs": "8",
+        "Balls": "7",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "114.29"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/03/07",
+        "Opposition": "Knights",
+        "Position": "10",
+        "Runs": "1",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/26",
+        "Opposition": "Lions",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/23",
+        "Opposition": "Western Province",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/01/22",
+        "Opposition": "Eastern Storm",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/03/08",
+        "Opposition": "Knights",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/01/23",
+        "Opposition": "Eastern Storm",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/13",
+        "Opposition": "Dragons",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/27",
+        "Opposition": "Lions",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/01/26",
+        "Opposition": "Knights",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "24.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "2.80"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "19.00",
+        "Economy": "3.80"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "13.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.40"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "24.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "24.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "2.80"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "19.00",
+        "Economy": "3.80"
+      },
+      {
+        "Format": "T20",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "24.00",
+        "Economy": "6.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "7",
+        "Wickets": "4",
+        "Average": "38.75",
+        "Economy": "4.43",
+        "Best Figures": "2/24",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "64.00",
+        "Economy": "4.27",
+        "Best Figures": "1/24",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/02/26",
+        "Opposition": "Lions",
+        "Figures": "2-24",
+        "Overs": "10",
+        "Economy": "2.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/01/22",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-14",
+        "Overs": "5",
+        "Economy": "2.8"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/03/07",
+        "Opposition": "Knights",
+        "Figures": "1-19",
+        "Overs": "5",
+        "Economy": "3.8"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/10/26",
+        "Opposition": "Dragons",
+        "Figures": "0-12",
+        "Overs": "1",
+        "Economy": "12"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/23",
+        "Opposition": "Western Province",
+        "Figures": "0-22",
+        "Overs": "5",
+        "Economy": "4.4"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/03/08",
+        "Opposition": "Knights",
+        "Figures": "1-24",
+        "Overs": "4",
+        "Economy": "6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/13",
+        "Opposition": "Dragons",
+        "Figures": "0-10",
+        "Overs": "4",
+        "Economy": "2.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/01/23",
+        "Opposition": "Eastern Storm",
+        "Figures": "0-15",
+        "Overs": "4",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/27",
+        "Opposition": "Lions",
+        "Figures": "0-15",
+        "Overs": "3",
+        "Economy": "5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Titans",
+        "Total Matches": "7",
+        "First Match": "2019/10/26",
+        "Last Match": "2022/02/26",
+        "Career Span": "2019 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Titans",
+        "Total Matches": "5",
+        "First Match": "2020/01/26",
+        "Last Match": "2022/02/27",
+        "Career Span": "2020 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Titans",
+        "Total Matches": "12",
+        "First Match": "2019/10/26",
+        "Last Match": "2022/02/27",
+        "Career Span": "2019 - 2022"
+      }
+    ]
+  }
+}

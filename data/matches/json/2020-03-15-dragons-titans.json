@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Tournament": "19-20 CSA Women's Provincial T20 Competition",
+      "Match_Date": "2020/03/15",
+      "Venue_Name": "Potchefstroom Oval",
+      "Season": "19/20",
+      "Format": "T20",
+      "Team_Home_Name": "Dragons",
+      "Team_Away_Name": "Titans",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Team_Name": "Dragons",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "7",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "104",
+      "Team_Wickets_Lost": "3",
+      "Team_Overs_Faced": "16",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Team_Name": "Titans",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "103",
+      "Team_Wickets_Lost": "5",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Innings_Number": "1",
+      "Player": "Michaela Kirk",
+      "Runs": "19",
+      "Balls": "26"
+    },
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Innings_Number": "1",
+      "Player": "Rode de Nysschen",
+      "Runs": "36",
+      "Balls": "27"
+    },
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Innings_Number": "2",
+      "Player": "Anneke Bosch",
+      "Runs": "59",
+      "Balls": "45"
+    },
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Innings_Number": "2",
+      "Player": "Izel Cilliers",
+      "Runs": "18",
+      "Balls": "31"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Innings_Number": "1",
+      "Player": "Anneke Bosch",
+      "Wickets": "2",
+      "Runs": "18"
+    },
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Innings_Number": "1",
+      "Player": "Tshegofatso Rampai",
+      "Wickets": "2",
+      "Runs": "14"
+    },
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Innings_Number": "2",
+      "Player": "Eliz-Mari Marx",
+      "Wickets": "1",
+      "Runs": "22"
+    },
+    {
+      "Match_Slug": "2020-03-15-dragons-titans",
+      "Innings_Number": "2",
+      "Player": "Khanyisile Skoshana",
+      "Wickets": "1",
+      "Runs": "6"
+    }
+  ]
+}

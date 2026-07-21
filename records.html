@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Records - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/records.html">
+    <meta name="description" content="All-time leaderboards across batting, bowling, fielding, partnerships, doubles and team records.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Records - Women's Provincial Cricket Database">
+    <meta property="og:description" content="All-time leaderboards across batting, bowling, fielding, partnerships, doubles and team records.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/records.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Records - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="All-time leaderboards across batting, bowling, fielding, partnerships, doubles and team records.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-section-pills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            margin-bottom: 1.25rem;
+            font-family: var(--wca-font-body);
+        }
+        .wca-section-pills a {
+            padding: 0.5rem 0.9rem;
+            border-radius: 20px;
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text);
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+        .wca-section-pills a:hover { border-color: var(--wca-gold); text-decoration:none; }
+        .wca-section-pills a.active {
+            background: var(--wca-gold);
+            color: #101010;
+            border-color: var(--wca-gold);
+        }
+
+        .wca-type-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            margin-bottom: 1.5rem;
+        }
+        .wca-type-list a {
+            padding: 0.35rem 0.7rem;
+            border-radius: 6px;
+            background: transparent;
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text-dim);
+            font-family: var(--wca-font-body);
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        .wca-type-list a:hover { color: #fff; border-color: var(--wca-text-dim); text-decoration:none; }
+        .wca-type-list a.active {
+            background: var(--wca-header-alt);
+            color: #fff;
+            border-color: var(--wca-header-alt);
+        }
+
+        /* Used only when a section mixes career and innings records (see
+           renderTypeList). #typeList is itself a flex-wrap row, so each
+           group's label and pill-row need flex-basis:100% to force them
+           onto their own line rather than sitting side by side. */
+        .wca-type-group-label {
+            flex-basis: 100%;
+            width: 100%;
+            font-family: var(--wca-font-body);
+            font-weight: 700;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            color: var(--wca-text-dim);
+            margin: 0.6rem 0 0.35rem;
+        }
+        .wca-type-group-label:first-child { margin-top: 0; }
+        .wca-type-group-pills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            flex-basis: 100%;
+            width: 100%;
+            margin-bottom: 0.25rem;
+        }
+        .wca-type-group-pills a {
+            padding: 0.35rem 0.7rem;
+            border-radius: 6px;
+            background: transparent;
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text-dim);
+            font-family: var(--wca-font-body);
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        .wca-type-group-pills a:hover { color: #fff; border-color: var(--wca-text-dim); text-decoration:none; }
+        .wca-type-group-pills a.active {
+            background: var(--wca-header-alt);
+            color: #fff;
+            border-color: var(--wca-header-alt);
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<main class="container py-4">
+    <div class="wca-breadcrumb"><a href="index.html">Home</a> / Records</div>
+    <h1 class="wca-section-title" id="recordPageTitle">Records</h1>
+
+    <div class="wca-section-pills" id="sectionPills"></div>
+    <div class="wca-type-list" id="typeList"></div>
+    <p class="wca-record-qualifier" id="recordQualifierLine"></p>
+
+    <div id="recordTableRoot">
+        <div class="wca-loading"><div class="wca-spinner"></div> Loading records…</div>
+    </div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<button id="wcaBackToTop" title="Back to top"><i class="bi bi-arrow-up"></i></button>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-loader.js"></script>
+<script src="assets/js/records-manifest.js"></script>
+<script src="assets/js/table-render.js"></script>
+<script>
+    WCA_NAV.render("records");
+    WCA_NAV.renderFooter();
+
+    const params = new URLSearchParams(location.search);
+    const sectionKeys = Object.keys(WCA_RECORD_SECTIONS);
+    let currentSection = params.get("section");
+    if (!sectionKeys.includes(currentSection)) currentSection = sectionKeys[0];
+
+    function typesFor(sectionKey) { return WCA_RECORD_SECTIONS[sectionKey].types; }
+
+    let currentType = params.get("type");
+    if (!typesFor(currentSection).some(t => t.file === currentType)) {
+        currentType = typesFor(currentSection)[0].file;
+    }
+
+    function setUrl(section, type) {
+        const p = new URLSearchParams();
+        p.set("section", section);
+        p.set("type", type);
+        history.replaceState(null, "", `records.html?${p.toString()}`);
+    }
+
+    function renderPills() {
+        const root = document.getElementById("sectionPills");
+        root.innerHTML = sectionKeys.map(key => {
+            const s = WCA_RECORD_SECTIONS[key];
+            const cls = key === currentSection ? "active" : "";
+            return `<a href="#" data-section="${key}" class="${cls}">${s.label}</a>`;
+        }).join("");
+        root.querySelectorAll("a").forEach(a => {
+            a.addEventListener("click", (e) => {
+                e.preventDefault();
+                currentSection = a.dataset.section;
+                currentType = typesFor(currentSection)[0].file;
+                loadAndRender();
+            });
+        });
+    }
+
+    function renderTypeList() {
+        const root = document.getElementById("typeList");
+        const types = typesFor(currentSection);
+        const grains = Array.from(new Set(types.map(t => t.grain).filter(Boolean)));
+
+        const pillHtml = t => {
+            const cls = t.file === currentType ? "active" : "";
+            return `<a href="#" data-type="${t.file}" class="${cls}">${t.label}</a>`;
+        };
+
+        // Only split into groups when the section actually mixes grains.
+        // Sections that are already single-grain (misc, partnerships,
+        // doubles) fall through to the flat list, same as always, since a
+        // group heading with nothing to contrast it against is just noise.
+        if (grains.length > 1) {
+            const groupLabels = { career: "Career Records", innings: "Innings Records" };
+            const order = ["career", "innings"];
+            root.innerHTML = order
+                .filter(g => types.some(t => t.grain === g))
+                .map(g => `
+                    <div class="wca-type-group-label">${groupLabels[g]}</div>
+                    <div class="wca-type-group-pills">${types.filter(t => t.grain === g).map(pillHtml).join("")}</div>
+                `).join("");
+        } else {
+            root.innerHTML = types.map(pillHtml).join("");
+        }
+
+        root.querySelectorAll("a").forEach(a => {
+            a.addEventListener("click", (e) => {
+                e.preventDefault();
+                currentType = a.dataset.type;
+                loadAndRender();
+            });
+        });
+    }
+
+    // Loaded once, reused by every table render on this page, table-render.js
+    // stays fetch-free (data-loader.js owns all fetching); this is just an
+    // already-resolved lookup object handed in via opts each time.
+    let matchLookupIndex = null;
+
+    // Renders just the branch of a structured qualifier that's relevant to
+    // the Format/Season currently selected in the table's own filter row,
+    // e.g. "5+ innings (List A) per season" once Format=List A is picked,
+    // rather than every format/season combination stacked at once.
+    function formatQualifierBar(bar, unit, format) {
+        if (typeof bar === "number") return `${bar}+ ${unit}`;
+        if (format && bar[format] !== undefined) return `${bar[format]}+ ${unit}`;
+        return Object.entries(bar).map(([f, v]) => `${v}+ ${unit} (${f})`).join(" / ");
+    }
+
+    function qualifierText(q, format, season) {
+        if (!q) return null;
+        const isCareerView = !season || season === "OVERALL";
+        const hasSplit = q.allTime !== null && q.allTime !== undefined;
+        const bar = (isCareerView && hasSplit) ? q.allTime : q.seasonal;
+        const barText = formatQualifierBar(bar, q.unit, format);
+
+        if (q.innings) {
+            // Innings-level stats (a single knock or spell) never really
+            // have a "season" total, when the number does still change
+            // between the specific-season and all-time views, that's
+            // about which pool of innings is being ranked, not the stat
+            // itself, so it's disambiguated in parentheses rather than
+            // with "per season"/"all-time" (which would misdescribe it
+            // as a cumulative total).
+            if (!hasSplit) return `${barText} in the innings`;
+            return `${barText} in the innings (${isCareerView ? "all-time" : "this season"})`;
+        }
+        return `${barText} ${isCareerView ? "all-time" : "per season"}`;
+    }
+
+    // Reads whatever the table's own Format/Season <select> elements are
+    // currently set to (they may not exist at all if this record file has
+    // no such stamp column) and refreshes the qualifier line to match.
+    function refreshQualifierLine(tableRoot, typeMeta) {
+        const qualifierLine = document.getElementById("recordQualifierLine");
+        if (!typeMeta) { qualifierLine.innerHTML = ""; return; }
+
+        const formatSel = tableRoot.querySelector('select[data-col-key="Format"]');
+        const seasonSel = tableRoot.querySelector('select[data-col-key="Season"]');
+        const format = formatSel ? formatSel.value : "";
+        const season = seasonSel ? seasonSel.value : "";
+
+        const parts = [];
+        const qText = qualifierText(typeMeta.qualifier, format, season);
+        if (qText) parts.push(`<strong>Qualification:</strong> ${WCA.escapeHtml(qText)}.`);
+        if (typeMeta.note) parts.push(WCA.escapeHtml(typeMeta.note));
+        qualifierLine.innerHTML = parts.join(" ");
+    }
+
+    async function loadAndRender() {
+        setUrl(currentSection, currentType);
+        renderPills();
+        renderTypeList();
+
+        const typeMeta = typesFor(currentSection).find(t => t.file === currentType);
+        document.getElementById("recordPageTitle").textContent = typeMeta ? typeMeta.label : "Records";
+
+        const root = document.getElementById("recordTableRoot");
+        root.innerHTML = `<div class="wca-loading"><div class="wca-spinner"></div> Loading ${typeMeta ? typeMeta.label.toLowerCase() : "records"}…</div>`;
+
+        if (matchLookupIndex === null) matchLookupIndex = await WCA.fetchMatchLookupIndex();
+
+        const rows = await WCA.fetchRecord(currentSection, currentType);
+        WCA_TABLE.render(root, rows, {
+            emptyMessage: "No records found for this category yet.",
+            defaultToOverall: true,
+            linkMatchDate: true,
+            matchDateLink: { index: matchLookupIndex || {} },
+        });
+
+        // The Format/Season selects are rebuilt fresh by WCA_TABLE.render
+        // above, so wire the listeners after each render rather than once.
+        refreshQualifierLine(root, typeMeta);
+        const formatSel = root.querySelector('select[data-col-key="Format"]');
+        const seasonSel = root.querySelector('select[data-col-key="Season"]');
+        if (formatSel) formatSel.addEventListener("change", () => refreshQualifierLine(root, typeMeta));
+        if (seasonSel) seasonSel.addEventListener("change", () => refreshQualifierLine(root, typeMeta));
+    }
+
+
+    loadAndRender();
+    const backBtn = document.getElementById("wcaBackToTop");
+    window.addEventListener("scroll", () => {
+        backBtn.style.display = window.scrollY > 400 ? "flex" : "none";
+    });
+    backBtn.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+</script>
+</body>
+</html>

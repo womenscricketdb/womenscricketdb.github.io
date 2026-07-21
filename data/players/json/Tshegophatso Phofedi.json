@@ -1,0 +1,212 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "-",
+        "Strike-Rate": "22.58"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "-",
+        "Strike-Rate": "22.58"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "7",
+        "High Score": "7",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "22.58"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/03/23",
+        "Opposition": "Dragons",
+        "Position": "11",
+        "Runs": "7*",
+        "Balls": "31",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "22.58"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/10/28",
+        "Opposition": "Rhinos",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/11/12",
+        "Opposition": "Eastern Storm",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "22.00",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "22.00",
+        "Economy": "3.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "31.00",
+        "Economy": "3.88",
+        "Best Figures": "1/22",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.33",
+        "Best Figures": "0/16",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2023/10/28",
+        "Opposition": "Rhinos",
+        "Figures": "1-22",
+        "Overs": "6",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/03/23",
+        "Opposition": "Dragons",
+        "Figures": "0-9",
+        "Overs": "2",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/11/12",
+        "Opposition": "Eastern Storm",
+        "Figures": "0-16",
+        "Overs": "3",
+        "Economy": "5.33"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2023/10/28",
+        "Last Match": "2024/03/23",
+        "Career Span": "2023 - 2024"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "1",
+        "First Match": "2023/11/12",
+        "Last Match": "2023/11/12",
+        "Career Span": "2023 - 2023"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "3",
+        "First Match": "2023/10/28",
+        "Last Match": "2024/03/23",
+        "Career Span": "2023 - 2024"
+      }
+    ]
+  }
+}

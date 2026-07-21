@@ -1,0 +1,200 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Jameson",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Baytopp",
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "13",
+        "High Score": "7",
+        "Average": "4.33",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "33.33"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/10/25",
+        "Opposition": "Western Province",
+        "Position": "3",
+        "Runs": "7",
+        "Balls": "21",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/27",
+        "Opposition": "Lions",
+        "Position": "3",
+        "Runs": "5",
+        "Balls": "15",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/23",
+        "Opposition": "Dolphins",
+        "Position": "3",
+        "Runs": "1",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "8.75",
+        "Economy": "4.38"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Jameson",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "8.75",
+        "Economy": "4.38"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Baytopp",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "29.00",
+        "Economy": "5.80"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "12.80",
+        "Economy": "4.92",
+        "Best Figures": "4/35",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/10/25",
+        "Opposition": "Western Province",
+        "Figures": "4-35",
+        "Overs": "8",
+        "Economy": "4.38"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/23",
+        "Opposition": "Dolphins",
+        "Figures": "1-18",
+        "Overs": "3",
+        "Economy": "6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/27",
+        "Opposition": "Lions",
+        "Figures": "0-11",
+        "Overs": "2",
+        "Economy": "5.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "3",
+        "First Match": "2021/10/23",
+        "Last Match": "2021/10/27",
+        "Career Span": "2021 - 2021"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "3",
+        "First Match": "2021/10/23",
+        "Last Match": "2021/10/27",
+        "Career Span": "2021 - 2021"
+      }
+    ]
+  }
+}

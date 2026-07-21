@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Tournament": "23-24 CSA Women's Professional League",
+      "Match_Date": "2024/03/23",
+      "Venue_Name": "Bloemfontein Oval",
+      "Season": "23/24",
+      "Format": "List A",
+      "Team_Home_Name": "Knights",
+      "Team_Away_Name": "Titans",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Team_Name": "Knights",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "4",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "266",
+      "Team_Wickets_Lost": "6",
+      "Team_Overs_Faced": "48.2",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Team_Name": "Titans",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "263",
+      "Team_Wickets_Lost": "5",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Innings_Number": "1",
+      "Player": "Katie Prior",
+      "Runs": "85",
+      "Balls": "106"
+    },
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Innings_Number": "1",
+      "Player": "Robyn Searle",
+      "Runs": "67",
+      "Balls": "115"
+    },
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Innings_Number": "2",
+      "Player": "Elandri Janse van Rensburg",
+      "Runs": "52",
+      "Balls": "48"
+    },
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Innings_Number": "2",
+      "Player": "Mignon du Preez",
+      "Runs": "110",
+      "Balls": "104"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Innings_Number": "1",
+      "Player": "Elandri Janse van Rensburg",
+      "Wickets": "1",
+      "Runs": "33"
+    },
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Innings_Number": "1",
+      "Player": "Miane Smit",
+      "Wickets": "2",
+      "Runs": "26"
+    },
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Innings_Number": "2",
+      "Player": "Gandhi Jafta",
+      "Wickets": "2",
+      "Runs": "31"
+    },
+    {
+      "Match_Slug": "2024-03-23-knights-titans",
+      "Innings_Number": "2",
+      "Player": "Ricea Coetzer",
+      "Wickets": "3",
+      "Runs": "46"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "2",
+        "High Score": "2",
+        "Average": "2.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "25.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2023/03/19",
+        "Opposition": "Heat",
+        "Position": "9",
+        "Runs": "2",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Best Figures": "0/14",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "T20",
+        "Date": "2023/03/19",
+        "Opposition": "Heat",
+        "Figures": "0-14",
+        "Overs": "2",
+        "Economy": "7"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "1",
+        "First Match": "2023/03/19",
+        "Last Match": "2023/03/19",
+        "Career Span": "2023 - 2023"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "1",
+        "First Match": "2023/03/19",
+        "Last Match": "2023/03/19",
+        "Career Span": "2023 - 2023"
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "3",
+        "Runs": "11",
+        "Average": "3.67",
+        "Strike-Rate": "31.25"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "4",
+        "Runs": "11",
+        "Average": "2.75",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Ingwenyama Ground",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hertzog High School",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Outer Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "8.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park B Field",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "11",
+        "Runs": "19",
+        "High Score": "6",
+        "Average": "2.11",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "22.22"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2012/02/11",
+        "Opposition": "Limpopo Lillies",
+        "Position": "8",
+        "Runs": "6",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/12",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "4",
+        "Balls": "4",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/03/24",
+        "Opposition": "Eastern Storm",
+        "Position": "4",
+        "Runs": "4",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/26",
+        "Opposition": "Titans",
+        "Position": "11",
+        "Runs": "2*",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/27",
+        "Opposition": "Lions",
+        "Position": "11",
+        "Runs": "1",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "3.33",
+        "Economy": "4.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Ingwenyama Ground",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "3.33",
+        "Economy": "4.29"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "4.67",
+        "Economy": "3.65",
+        "Best Figures": "3/10",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/02/12",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "3-10",
+        "Overs": "2.2",
+        "Economy": "4.29"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/27",
+        "Opposition": "Lions",
+        "Figures": "0-1",
+        "Overs": "0.3",
+        "Economy": "2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/26",
+        "Opposition": "Eastern Storm",
+        "Figures": "0-3",
+        "Overs": "1",
+        "Economy": "3"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "11",
+        "First Match": "2011/02/12",
+        "Last Match": "2012/03/24",
+        "Career Span": "2011 - 2012"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "11",
+        "First Match": "2011/02/12",
+        "Last Match": "2012/03/24",
+        "Career Span": "2011 - 2012"
+      }
+    ]
+  }
+}

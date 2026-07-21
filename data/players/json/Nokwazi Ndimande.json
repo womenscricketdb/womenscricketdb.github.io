@@ -1,0 +1,352 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "30.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "80.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park B Field",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "30.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "80.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "6",
+        "High Score": "6",
+        "Average": "6.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "30.00"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "80.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2018/02/17",
+        "Opposition": "Eastern Storm",
+        "Position": "7",
+        "Runs": "6",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/01/19",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/10/28",
+        "Opposition": "Limpopo Lillies",
+        "Position": "6",
+        "Runs": "4*",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "80"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/11/18",
+        "Opposition": "Eastern Storm",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/01/20",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/11/12",
+        "Opposition": "Limpopo Lillies",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/01/14",
+        "Opposition": "Rhinos",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "2.00",
+        "Economy": "1.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "11.00",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "6.50",
+        "Economy": "2.17"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "2.00",
+        "Economy": "1.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "2.00",
+        "Best Figures": "1/10",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "10.33",
+        "Economy": "2.58",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2019/01/19",
+        "Opposition": "Tuskers",
+        "Figures": "1-10",
+        "Overs": "5",
+        "Economy": "2"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/11/12",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "1-2",
+        "Overs": "2",
+        "Economy": "1"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/10/28",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "1-2",
+        "Overs": "2",
+        "Economy": "1"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/11/18",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-11",
+        "Overs": "4",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/01/14",
+        "Opposition": "Rhinos",
+        "Figures": "0-5",
+        "Overs": "1",
+        "Economy": "5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/01/20",
+        "Opposition": "Tuskers",
+        "Figures": "0-11",
+        "Overs": "3",
+        "Economy": "3.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "T20",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "2",
+        "First Match": "2018/02/17",
+        "Last Match": "2019/01/19",
+        "Career Span": "2018 - 2019"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "5",
+        "First Match": "2017/11/12",
+        "Last Match": "2019/01/20",
+        "Career Span": "2017 - 2019"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "7",
+        "First Match": "2017/11/12",
+        "Last Match": "2019/01/20",
+        "Career Span": "2017 - 2019"
+      }
+    ]
+  }
+}

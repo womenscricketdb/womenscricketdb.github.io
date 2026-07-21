@@ -1,0 +1,167 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "70.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "58.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "7",
+        "High Score": "7",
+        "Average": "3.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "58.33"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2010/10/09",
+        "Opposition": "Heat",
+        "Position": "6",
+        "Runs": "7",
+        "Balls": "10",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "70"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/13",
+        "Opposition": "Dolphins",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/26",
+        "Opposition": "Dragons",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.86",
+        "Best Figures": "0/11",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/02/13",
+        "Opposition": "Dolphins",
+        "Figures": "0-11",
+        "Overs": "3",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/10/09",
+        "Opposition": "Heat",
+        "Figures": "0-30",
+        "Overs": "4",
+        "Economy": "7.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Knights",
+        "Total Matches": "3",
+        "First Match": "2010/10/09",
+        "Last Match": "2011/02/26",
+        "Career Span": "2010 - 2011"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Knights",
+        "Total Matches": "3",
+        "First Match": "2010/10/09",
+        "Last Match": "2011/02/26",
+        "Career Span": "2010 - 2011"
+      }
+    ]
+  }
+}

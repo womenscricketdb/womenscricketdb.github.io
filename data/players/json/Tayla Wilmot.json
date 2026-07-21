@@ -1,0 +1,246 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "34",
+        "Average": "34.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Runs": "34",
+        "Average": "34.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Joburg Cricket Club Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "36",
+        "High Score": "34",
+        "Average": "9.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "8.33"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/02/24",
+        "Opposition": "Rhinos",
+        "Position": "5",
+        "Runs": "34",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/02/23",
+        "Opposition": "Eastern Storm",
+        "Position": "7",
+        "Runs": "1",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/04/06",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/04/13",
+        "Opposition": "Western Province",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "16",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/10/08",
+        "Opposition": "Limpopo Lillies",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "3.67",
+        "Economy": "2.20"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.40"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "3.67",
+        "Economy": "2.20"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "9.00",
+        "Economy": "2.25",
+        "Best Figures": "3/11",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/02/24",
+        "Opposition": "Rhinos",
+        "Figures": "3-11",
+        "Overs": "5",
+        "Economy": "2.2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/04/06",
+        "Opposition": "Dolphins",
+        "Figures": "0-4",
+        "Overs": "2",
+        "Economy": "2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/04/13",
+        "Opposition": "Western Province",
+        "Figures": "0-12",
+        "Overs": "5",
+        "Economy": "2.4"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "5",
+        "First Match": "2011/10/08",
+        "Last Match": "2013/04/13",
+        "Career Span": "2011 - 2013"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "5",
+        "First Match": "2011/10/08",
+        "Last Match": "2013/04/13",
+        "Career Span": "2011 - 2013"
+      }
+    ]
+  }
+}

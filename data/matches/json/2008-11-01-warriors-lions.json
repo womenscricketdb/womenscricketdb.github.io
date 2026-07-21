@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Tournament": "08-09 Women's Provincial League",
+      "Match_Date": "2008/11/01",
+      "Venue_Name": "Aberdare Sports Ground",
+      "Season": "08/09",
+      "Format": "List A",
+      "Team_Home_Name": "Warriors",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "10",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "242",
+      "Team_Wickets_Lost": "0",
+      "Team_Overs_Faced": "41",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Team_Name": "Warriors",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "241",
+      "Team_Wickets_Lost": "4",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Innings_Number": "1",
+      "Player": "Claire Terblanche",
+      "Runs": "89",
+      "Balls": "102"
+    },
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Innings_Number": "1",
+      "Player": "Marizanne Kapp",
+      "Runs": "58",
+      "Balls": "82"
+    },
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Innings_Number": "2",
+      "Player": "Daleen Terblanche",
+      "Runs": "91",
+      "Balls": "122"
+    },
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Innings_Number": "2",
+      "Player": "Kirstie Thomson",
+      "Runs": "121",
+      "Balls": "125"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Innings_Number": "1",
+      "Player": "Jameelah Shaikjee",
+      "Wickets": "1",
+      "Runs": "22"
+    },
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Innings_Number": "1",
+      "Player": "Jessica Molefe",
+      "Wickets": "1",
+      "Runs": "18"
+    },
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Innings_Number": "2",
+      "Player": "Lanette Pienaar",
+      "Wickets": "0",
+      "Runs": "54"
+    },
+    {
+      "Match_Slug": "2008-11-01-warriors-lions",
+      "Innings_Number": "2",
+      "Player": "Nomava Gqalinyanga",
+      "Wickets": "0",
+      "Runs": "14"
+    }
+  ]
+}

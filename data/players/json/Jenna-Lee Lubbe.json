@@ -1,0 +1,206 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "28.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "108.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "28.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "108.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "7",
+        "High Score": "7",
+        "Average": "3.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "26.92"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "13",
+        "High Score": "13",
+        "Average": "13.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "108.33"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2025/10/18",
+        "Opposition": "Rhinos",
+        "Position": "4",
+        "Runs": "7",
+        "Balls": "25",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "28"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/11/01",
+        "Opposition": "Limpopo Lillies",
+        "Position": "4",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/11/02",
+        "Opposition": "Limpopo Lillies",
+        "Position": "5",
+        "Runs": "13",
+        "Balls": "12",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "108.33"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/10/19",
+        "Opposition": "Rhinos",
+        "Position": "4",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Knights",
+        "Total Matches": "2",
+        "First Match": "2025/10/18",
+        "Last Match": "2025/11/01",
+        "Career Span": "2025 - 2025"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Knights",
+        "Total Matches": "2",
+        "First Match": "2025/10/19",
+        "Last Match": "2025/11/02",
+        "Career Span": "2025 - 2025"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Knights",
+        "Total Matches": "4",
+        "First Match": "2025/10/18",
+        "Last Match": "2025/11/02",
+        "Career Span": "2025 - 2025"
+      }
+    ]
+  }
+}

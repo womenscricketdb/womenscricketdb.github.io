@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "26.09"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "UP Main Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "26.09"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "6",
+        "High Score": "6",
+        "Average": "6.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "26.09"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2008/03/28",
+        "Opposition": "Tuskers",
+        "Position": "2",
+        "Runs": "6",
+        "Balls": "23",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "26.09"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00",
+        "Best Figures": "0/8",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2008/03/28",
+        "Opposition": "Tuskers",
+        "Figures": "0-8",
+        "Overs": "1",
+        "Economy": "8"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "1",
+        "First Match": "2008/03/28",
+        "Last Match": "2008/03/28",
+        "Career Span": "2008 - 2008"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "1",
+        "First Match": "2008/03/28",
+        "Last Match": "2008/03/28",
+        "Career Span": "2008 - 2008"
+      }
+    ]
+  }
+}

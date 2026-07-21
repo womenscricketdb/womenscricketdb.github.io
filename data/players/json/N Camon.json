@@ -1,0 +1,132 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "42",
+        "Average": "42.00",
+        "Strike-Rate": "54.55"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "66.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Runs": "42",
+        "Average": "42.00",
+        "Strike-Rate": "54.55"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "66.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "52",
+        "High Score": "42",
+        "Average": "26.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "56.52"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/10/22",
+        "Opposition": "Titans",
+        "Position": "1",
+        "Runs": "42",
+        "Balls": "77",
+        "Fours": "6",
+        "Sixes": "1",
+        "Strike-Rate": "54.55"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/10/26",
+        "Opposition": "Limpopo Lillies",
+        "Position": "1",
+        "Runs": "10",
+        "Balls": "15",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "66.67"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "2",
+        "First Match": "2016/10/22",
+        "Last Match": "2019/10/26",
+        "Career Span": "2016 - 2019"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "2",
+        "First Match": "2016/10/22",
+        "Last Match": "2019/10/26",
+        "Career Span": "2016 - 2019"
+      }
+    ]
+  }
+}

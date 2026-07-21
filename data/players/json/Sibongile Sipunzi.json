@@ -1,0 +1,318 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. George's Outer Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "30.77"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Military Ground",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "15.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Ngumbela Park",
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "6.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Fort Hare University",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "10",
+        "Runs": "9",
+        "High Score": "4",
+        "Average": "0.90",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "13.43"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/02/27",
+        "Opposition": "Warriors",
+        "Position": "6",
+        "Runs": "4",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30.77"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/10/09",
+        "Opposition": "Badgers",
+        "Position": "6",
+        "Runs": "3",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "15"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/01/15",
+        "Opposition": "Iinyathi",
+        "Position": "4",
+        "Runs": "1",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/26",
+        "Opposition": "Badgers",
+        "Position": "4",
+        "Runs": "1",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "12.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/01/29",
+        "Opposition": "Boland",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "43.67",
+        "Economy": "7.71"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "36.00",
+        "Economy": "10.80"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "28.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "33.00",
+        "Economy": "9.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "170.00",
+        "Economy": "8.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Ngumbela Park",
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "51.60",
+        "Economy": "9.21"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Military Ground",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "25.67",
+        "Economy": "7.70"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Fort Hare University",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "34.00",
+        "Economy": "6.80"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "70.00",
+        "Economy": "11.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "9",
+        "Wickets": "12",
+        "Average": "46.58",
+        "Economy": "8.22",
+        "Best Figures": "3/77",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2010/10/09",
+        "Opposition": "Badgers",
+        "Figures": "3-77",
+        "Overs": "10",
+        "Economy": "7.7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/12",
+        "Opposition": "Boland",
+        "Figures": "2-38",
+        "Overs": "4",
+        "Economy": "9.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/13",
+        "Opposition": "Western Province",
+        "Figures": "2-66",
+        "Overs": "7",
+        "Economy": "9.43"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/01/15",
+        "Opposition": "Iinyathi",
+        "Figures": "2-68",
+        "Overs": "10",
+        "Economy": "6.8"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/26",
+        "Opposition": "Iinyathi",
+        "Figures": "1-16",
+        "Overs": "4",
+        "Economy": "4"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "0",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "3"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Kei",
+        "Total Matches": "10",
+        "First Match": "2010/10/09",
+        "Last Match": "2011/03/26",
+        "Career Span": "2010 - 2011"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Kei",
+        "Total Matches": "10",
+        "First Match": "2010/10/09",
+        "Last Match": "2011/03/26",
+        "Career Span": "2010 - 2011"
+      }
+    ]
+  }
+}

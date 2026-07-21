@@ -1,0 +1,151 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "28.57"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "2",
+        "High Score": "2",
+        "Average": "0.67",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "25.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/03/02",
+        "Opposition": "Dolphins",
+        "Position": "10",
+        "Runs": "2",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/02/26",
+        "Opposition": "Dragons",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/04/24",
+        "Opposition": "Titans",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "18.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "18.00",
+        "Best Figures": "0/18",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/04/24",
+        "Opposition": "Titans",
+        "Figures": "0-18",
+        "Overs": "1",
+        "Economy": "18"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "3",
+        "First Match": "2021/02/26",
+        "Last Match": "2021/04/24",
+        "Career Span": "2021 - 2021"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "3",
+        "First Match": "2021/02/26",
+        "Last Match": "2021/04/24",
+        "Career Span": "2021 - 2021"
+      }
+    ]
+  }
+}

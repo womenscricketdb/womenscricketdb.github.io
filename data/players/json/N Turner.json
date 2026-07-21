@@ -1,0 +1,366 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "4",
+        "Runs": "56",
+        "Average": "14.00",
+        "Strike-Rate": "35.90"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "52",
+        "Average": "26.00",
+        "Strike-Rate": "45.61"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Runs": "46",
+        "Average": "23.00",
+        "Strike-Rate": "42.59"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "43",
+        "Average": "43.00",
+        "Strike-Rate": "43.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Runs": "16",
+        "Average": "8.00",
+        "Strike-Rate": "34.04"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "-",
+        "Strike-Rate": "41.18"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "2",
+        "Runs": "54",
+        "Average": "27.00",
+        "Strike-Rate": "40.30"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sturrock Park",
+        "Innings": "1",
+        "Runs": "38",
+        "Average": "38.00",
+        "Strike-Rate": "45.78"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "2",
+        "Runs": "37",
+        "Average": "18.50",
+        "Strike-Rate": "44.58"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UKZN 4 Oval",
+        "Innings": "2",
+        "Runs": "34",
+        "Average": "17.00",
+        "Strike-Rate": "45.95"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammondfield",
+        "Innings": "2",
+        "Runs": "24",
+        "Average": "24.00",
+        "Strike-Rate": "38.10"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "25.49"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "34.29"
+      },
+      {
+        "Format": "List A",
+        "Venue": "TUT Witbank",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "38.46"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Groenkloof Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "42.86"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "14",
+        "Runs": "220",
+        "High Score": "43",
+        "Average": "16.92",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "39.71"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/14",
+        "Opposition": "Dragons",
+        "Position": "2",
+        "Runs": "43",
+        "Balls": "100",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "43"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/09",
+        "Opposition": "Lions",
+        "Position": "1",
+        "Runs": "38",
+        "Balls": "83",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "45.78"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/07",
+        "Opposition": "Tuskers",
+        "Position": "2",
+        "Runs": "34",
+        "Balls": "73",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "46.58"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/12",
+        "Opposition": "Titans",
+        "Position": "1",
+        "Runs": "23",
+        "Balls": "52",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "44.23"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/10",
+        "Opposition": "Titans",
+        "Position": "3",
+        "Runs": "17",
+        "Balls": "46",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "36.96"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "11.50",
+        "Economy": "4.60"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "8.50",
+        "Economy": "3.78"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.00",
+        "Economy": "2.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.67",
+        "Economy": "2.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "12.00",
+        "Economy": "2.40"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "2",
+        "Wickets": "7",
+        "Average": "7.00",
+        "Economy": "3.06"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UKZN 4 Oval",
+        "Innings": "2",
+        "Wickets": "5",
+        "Average": "7.60",
+        "Economy": "2.38"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Parys A Ground",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "11.50",
+        "Economy": "4.60"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Wickets": "16",
+        "Average": "8.31",
+        "Economy": "3.17",
+        "Best Figures": "4/34",
+        "3-fors": "4",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/28",
+        "Opposition": "Rhinos",
+        "Figures": "4-34",
+        "Overs": "9",
+        "Economy": "3.78"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/31",
+        "Opposition": "Boland",
+        "Figures": "4-46",
+        "Overs": "10",
+        "Economy": "4.6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/22",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "3-14",
+        "Overs": "6",
+        "Economy": "2.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/14",
+        "Opposition": "Dragons",
+        "Figures": "3-15",
+        "Overs": "7",
+        "Economy": "2.14"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/07",
+        "Opposition": "Tuskers",
+        "Figures": "2-24",
+        "Overs": "10",
+        "Economy": "2.4"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "1"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "15",
+        "First Match": "2005/10/09",
+        "Last Match": "2007/03/31",
+        "Career Span": "2005 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "15",
+        "First Match": "2005/10/09",
+        "Last Match": "2007/03/31",
+        "Career Span": "2005 - 2007"
+      }
+    ]
+  }
+}

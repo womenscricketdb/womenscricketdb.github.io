@@ -1,0 +1,270 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "37.21"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "-",
+        "Strike-Rate": "42.86"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "8.51"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "12.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "UP Main Oval",
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "37.21"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Constantia Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "-",
+        "Strike-Rate": "42.86"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "8.51"
+      },
+      {
+        "Format": "List A",
+        "Venue": "The Vineyard",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "12.50"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "27",
+        "High Score": "16",
+        "Average": "9.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "24.11"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2008/03/26",
+        "Opposition": "Eastern Storm",
+        "Position": "4",
+        "Runs": "16",
+        "Balls": "43",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "37.21"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/27",
+        "Opposition": "Badgers",
+        "Position": "10",
+        "Runs": "6*",
+        "Balls": "14",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "42.86"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/04/07",
+        "Opposition": "Boland",
+        "Position": "5",
+        "Runs": "4",
+        "Balls": "47",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "8.51"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/11",
+        "Opposition": "Iinyathi",
+        "Position": "7",
+        "Runs": "1",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "12.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/10",
+        "Opposition": "Knights",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "3.10"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Constantia Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "3.10"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "55.00",
+        "Economy": "3.88",
+        "Best Figures": "1/16",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/27",
+        "Opposition": "Badgers",
+        "Figures": "1-16",
+        "Overs": "5.1",
+        "Economy": "3.1"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/10",
+        "Opposition": "Knights",
+        "Figures": "0-11",
+        "Overs": "3",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/11",
+        "Opposition": "Iinyathi",
+        "Figures": "0-28",
+        "Overs": "6",
+        "Economy": "4.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Western Province",
+        "Total Matches": "10",
+        "First Match": "2007/01/13",
+        "Last Match": "2008/03/29",
+        "Career Span": "2007 - 2008"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Western Province",
+        "Total Matches": "10",
+        "First Match": "2007/01/13",
+        "Last Match": "2008/03/29",
+        "Career Span": "2007 - 2008"
+      }
+    ]
+  }
+}

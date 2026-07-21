@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Team - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/team.html">
+    <meta name="description" content="Provincial records, results and player statistics for South African women's domestic cricket teams.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Team - Women's Provincial Cricket Database">
+    <meta property="og:description" content="Provincial records, results and player statistics for South African women's domestic cricket teams.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/team.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Team - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="Provincial records, results and player statistics for South African women's domestic cricket teams.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-entity-hero {
+            background: linear-gradient(180deg, #0e2c1e 0%, var(--wca-bg) 100%);
+            border-bottom: 1px solid var(--wca-border);
+            padding: 2rem 0 1.5rem;
+        }
+        .wca-entity-hero h1 { font-weight: 700; color: #fff; font-size: clamp(1.6rem, 3.5vw, 2.3rem); margin-bottom: 0.25rem; }
+        .wca-also-known-as {
+            font-family: var(--wca-font-body);
+            font-size: 0.85rem;
+            color: var(--wca-text-dim);
+            margin-bottom: 1rem;
+        }
+        .wca-team-hero-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 2rem;
+            margin-top: 1rem;
+        }
+        .wca-team-hero-logo {
+            flex-shrink: 0;
+            height: 140px;
+        }
+        .wca-team-hero-logo img {
+            height: 100%;
+            width: auto;
+        }
+        .wca-team-hero-map {
+            flex-shrink: 0;
+            height: 140px;
+            width: 140px;
+        }
+        @media (max-width: 767px) {
+            .wca-team-hero-row {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 1rem;
+            }
+            .wca-team-hero-map { height: 120px; width: 120px; }
+            .wca-team-hero-logo { height: 100px; }
+        }
+        .wca-tab-nav .nav-link {
+            font-family: var(--wca-font-body);
+            font-weight: 600;
+            color: var(--wca-text-dim);
+        }
+        .wca-tab-nav .nav-link.active {
+            background-color: var(--wca-surface);
+            color: var(--wca-gold);
+            border-color: var(--wca-border) var(--wca-border) var(--wca-surface);
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<section class="wca-entity-hero">
+    <div class="container">
+        <div class="wca-breadcrumb"><a href="index.html">Home</a> / <a href="teams.html">Teams</a> / <span id="crumbName">…</span></div>
+        <h1 id="teamName">Loading team…</h1>
+        <div id="alsoKnownAs" class="wca-also-known-as"></div>
+        <div class="wca-team-hero-row">
+            <div class="wca-team-hero-logo" id="teamHeroLogo"></div>
+            <div class="wca-team-hero-map" id="teamHighlightMap"></div>
+        </div>
+    </div>
+</section>
+
+<main class="container py-4">
+    <ul class="nav nav-tabs wca-tab-nav" id="teamTabs" role="tablist"></ul>
+    <div class="tab-content pt-3" id="teamTabContent"></div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-loader.js"></script>
+<script src="assets/js/table-render.js"></script>
+<script src="assets/js/union-team-mapping.js"></script>
+<script src="assets/js/union-map.js"></script>
+<script>
+    WCA_NAV.render("teams");
+    WCA_NAV.renderFooter();
+
+    const params = new URLSearchParams(location.search);
+    const teamName = params.get("name") || "";
+
+    document.getElementById("teamName").textContent = teamName || "Unknown team";
+    document.getElementById("crumbName").textContent = teamName || "Unknown";
+    document.title = `${teamName || "Team"} - Women's Provincial Cricket Database`;
+
+    if (teamName && TEAM_NAME_TO_UNION[teamName]) {
+        renderUnionHighlight("#teamHighlightMap", teamName, { geojsonUrl: "assets/geo/CricketUnions.geojson" });
+    }
+
+    if (teamName) {
+        const logoImg = document.createElement("img");
+        logoImg.src = `assets/images/thumb/${encodeURIComponent(teamName)}.png`;
+        logoImg.alt = teamName;
+        logoImg.onerror = () => logoImg.remove(); // silent fallback, no broken-image icon
+        document.getElementById("teamHeroLogo").appendChild(logoImg);
+
+        WCA.fetchTeamAliases().then(aliasMap => {
+            const aliases = aliasMap[teamName];
+            if (aliases && aliases.length) {
+                document.getElementById("alsoKnownAs").textContent = `Also known as: ${aliases.join(", ")}`;
+            }
+        });
+    }
+
+    // Section order doubles as tab order, first section with data becomes
+    // the default-open tab, so "most runs for a team" etc. is one click away.
+    // splitKey names the column that identifies WHICH record a row belongs
+    // to, for sections that interleave multiple distinct record types under
+    // one flat table (e.g. "Most Runs" / "Most Wickets" / "Most Catches" all
+    // sharing a "Record" or "Type" column), those get split into one table
+    // per record type instead of one jumbled combined table.
+    const SECTIONS = [
+        { key: "summary", label: "Summary", compact2col: true },
+        { key: "results", label: "Results" },
+        { key: "records", label: "Records", splitKey: "Record" },
+        { key: "averages", label: "Averages", splitKey: "Record", compact2col: true },
+        { key: "headToHead", label: "Head-to-Head", formatToggle: true },
+        { key: "playerRecords", label: "Player Records", splitKey: "Record" },
+        { key: "careerRecords", label: "Career Records", splitKey: "Type" },
+    ];
+
+    async function load() {
+        const tabList = document.getElementById("teamTabs");
+        const tabContent = document.getElementById("teamTabContent");
+
+        if (!teamName) {
+            tabContent.innerHTML = `<div class="wca-empty-state">No team specified. Head back to the <a href="teams.html">teams list</a>.</div>`;
+            return;
+        }
+
+        const data = await WCA.fetchTeam(teamName);
+        if (!data) {
+            tabContent.innerHTML = `<div class="wca-empty-state">Couldn't find a record for "${WCA.escapeHtml(teamName)}".</div>`;
+            return;
+        }
+
+        // Results comes from the standings dataset (one row per team per
+        // season/format), not from the team's own JSON file, fetch and
+        // filter it once up front so the section-active check below and
+        // the render loop can both use it without re-fetching.
+        const allStandings = await WCA.fetchStandings() || [];
+        const teamResults = allStandings
+            .filter(r => r.Team === teamName)
+            .sort((a, b) => a.Season.localeCompare(b.Season))
+            .map(r => ({
+                Season: r.Season,
+                Division: r.Division,
+                Position: r.Position,
+                Result: WCA.finishTypeLabel(r.Finish_Type),
+                Pts: r.Points,
+                NRR: r.Net_Run_Rate,
+                Format: r.Format, // consumed by renderFormatToggleTable's own grouping, stripped before display
+            }));
+
+        const activeSections = SECTIONS.filter(sec =>
+            sec.key === "results"
+                ? (teamResults.length || (data.bestFinish && data.bestFinish.length))
+                : (data[sec.key] && data[sec.key].length)
+        );
+
+        if (!activeSections.length) {
+            tabContent.innerHTML = `<div class="wca-empty-state">No records found for this team yet.</div>`;
+            return;
+        }
+
+        activeSections.forEach((sec, i) => {
+            const li = document.createElement("li");
+            li.className = "nav-item";
+            li.innerHTML = `<button class="nav-link ${i === 0 ? "active" : ""}" data-bs-toggle="tab" data-bs-target="#pane-${sec.key}" type="button">
+                ${sec.label}
+            </button>`;
+            tabList.appendChild(li);
+
+            const pane = document.createElement("div");
+            pane.className = `tab-pane fade ${i === 0 ? "show active" : ""}`;
+            pane.id = `pane-${sec.key}`;
+            tabContent.appendChild(pane);
+
+            if (sec.key === "results") {
+                // Best Finishes (from the team's own JSON) stays as-is,
+                // followed by the full season-by-season breakdown from the
+                // standings dataset, not a replacement, an addition.
+                if (data.bestFinish && data.bestFinish.length) {
+                    const bfHeading = document.createElement("div");
+                    bfHeading.className = "wca-subtable-title";
+                    bfHeading.textContent = "Best Finishes";
+                    pane.appendChild(bfHeading);
+
+                    const bfRoot = document.createElement("div");
+                    pane.appendChild(bfRoot);
+                    WCA_TABLE.render(bfRoot, data.bestFinish, { compact: true, showStampColumns: true, noFilters: true });
+                }
+
+                if (teamResults.length) {
+                    // Season needs to stay a visible column (this table
+                    // spans many seasons), so showStampColumns+noFilters
+                    // keeps it shown rather than turned into a filter
+                    // dropdown, same reasoning the table above uses.
+                    WCA_TABLE.renderFormatToggleTable(pane, "Season by Season", teamResults, { compact: true, showStampColumns: true, noFilters: true });
+                }
+            } else if (sec.formatToggle) {
+                // One row-type (one row per opponent), just needs the
+                // Format toggle - no renderRecordGroups splitKey involved.
+                WCA_TABLE.renderFormatToggleTable(pane, null, data[sec.key], { compact: true, noFilters: true, defaultSort: { col: "Total_Matches", dir: "desc" } });
+            } else if (sec.splitKey) {
+                // Multiple distinct record types interleaved under one
+                // column (e.g. "Most Runs"/"Most Wickets"/"Most Catches")
+                // split into one table per type, each defaulting to List A.
+                WCA_TABLE.renderRecordGroups(pane, data[sec.key], sec.splitKey, { compact: true, compact2col: sec.compact2col });
+            } else {
+                const tableRoot = document.createElement("div");
+                pane.appendChild(tableRoot);
+                WCA_TABLE.render(tableRoot, data[sec.key], { compact: true, compact2col: sec.compact2col });
+            }
+        });
+    }
+
+    load();
+</script>
+</body>
+</html>

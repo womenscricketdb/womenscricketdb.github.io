@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Tournament": "14-15 CSA Women's Provincial T20 Competition",
+      "Match_Date": "2015/03/15",
+      "Venue_Name": "Recreation Ground",
+      "Season": "14/15",
+      "Format": "T20",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Warriors",
+      "Match_Division": "Div 2"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "118",
+      "Team_Wickets_Lost": "6",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Team_Name": "Warriors",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "8",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "126",
+      "Team_Wickets_Lost": "0",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Innings_Number": "1",
+      "Player": "Jana Nell",
+      "Runs": "64",
+      "Balls": "65"
+    },
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Innings_Number": "1",
+      "Player": "Lanette Pienaar",
+      "Runs": "44",
+      "Balls": "56"
+    },
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Innings_Number": "2",
+      "Player": "Jané Winster",
+      "Runs": "24",
+      "Balls": "30"
+    },
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Innings_Number": "2",
+      "Player": "Jeneviwe Jantjies",
+      "Runs": "30",
+      "Balls": "25"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Innings_Number": "1",
+      "Player": "Hedwigg Pienaar",
+      "Wickets": "0",
+      "Runs": "17"
+    },
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Innings_Number": "1",
+      "Player": "Jané Winster",
+      "Wickets": "0",
+      "Runs": "17"
+    },
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Innings_Number": "2",
+      "Player": "Lanette Pienaar",
+      "Wickets": "2",
+      "Runs": "24"
+    },
+    {
+      "Match_Slug": "2015-03-15-badgers-warriors",
+      "Innings_Number": "2",
+      "Player": "Vuyo Bonya",
+      "Wickets": "2",
+      "Runs": "22"
+    }
+  ]
+}

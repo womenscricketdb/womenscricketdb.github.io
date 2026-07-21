@@ -1,0 +1,554 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "9",
+        "Runs": "151",
+        "Average": "16.78",
+        "Strike-Rate": "57.85"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "4",
+        "Runs": "113",
+        "Average": "28.25",
+        "Strike-Rate": "55.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "6",
+        "Runs": "67",
+        "Average": "11.17",
+        "Strike-Rate": "37.02"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "4",
+        "Runs": "67",
+        "Average": "33.50",
+        "Strike-Rate": "57.26"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "2",
+        "Runs": "47",
+        "Average": "23.50",
+        "Strike-Rate": "41.23"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "3",
+        "Runs": "24",
+        "Average": "8.00",
+        "Strike-Rate": "25.26"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "7",
+        "Runs": "22",
+        "Average": "3.14",
+        "Strike-Rate": "37.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "3",
+        "Runs": "17",
+        "Average": "5.67",
+        "Strike-Rate": "36.17"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "3",
+        "Runs": "11",
+        "Average": "3.67",
+        "Strike-Rate": "18.03"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "22",
+        "Average": "-",
+        "Strike-Rate": "68.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "79.17"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "6",
+        "Runs": "149",
+        "Average": "24.83",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "7",
+        "Runs": "81",
+        "Average": "13.50",
+        "Strike-Rate": "38.94"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Yorkshire Cricket Club Ground",
+        "Innings": "2",
+        "Runs": "52",
+        "Average": "26.00",
+        "Strike-Rate": "59.77"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Oval",
+        "Innings": "2",
+        "Runs": "49",
+        "Average": "24.50",
+        "Strike-Rate": "57.65"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "41",
+        "Average": "-",
+        "Strike-Rate": "95.35"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Runs": "35",
+        "Average": "35.00",
+        "Strike-Rate": "67.31"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Runs": "27",
+        "Average": "27.00",
+        "Strike-Rate": "36.99"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "24",
+        "Average": "24.00",
+        "Strike-Rate": "43.64"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Old Mutual Sports Club Ground",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "52.63"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Grey College A Ground",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "20.51"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "27.59"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "133.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 2 Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "40.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "13.16"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Schoeman Park A Ground",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Victory Park",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Gelvandale Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "15.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UCT Bowl",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "18.75"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Carter High School",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "11.11"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Military Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Runs": "22",
+        "Average": "-",
+        "Strike-Rate": "68.75"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "79.17"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "41",
+        "Runs": "519",
+        "High Score": "48",
+        "Average": "13.31",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "45.61"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Runs": "45",
+        "High Score": "22",
+        "Average": "22.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "66.18"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/11/21",
+        "Opposition": "Heat",
+        "Position": "3",
+        "Runs": "48",
+        "Balls": "77",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "62.34"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/26",
+        "Opposition": "Dragons",
+        "Position": "3",
+        "Runs": "41*",
+        "Balls": "43",
+        "Fours": "5",
+        "Sixes": "0",
+        "Strike-Rate": "95.35"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/03/12",
+        "Opposition": "Badgers",
+        "Position": "3",
+        "Runs": "39",
+        "Balls": "66",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "59.09"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/18",
+        "Opposition": "Badgers",
+        "Position": "2",
+        "Runs": "38",
+        "Balls": "80",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "47.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/21",
+        "Opposition": "Badgers",
+        "Position": "1",
+        "Runs": "35",
+        "Balls": "52",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "67.31"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/14",
+        "Opposition": "Heat",
+        "Position": "2",
+        "Runs": "22*",
+        "Balls": "32",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "68.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/07",
+        "Opposition": "Dolphins",
+        "Position": "1",
+        "Runs": "19",
+        "Balls": "24",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "79.17"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/06",
+        "Opposition": "Tuskers",
+        "Position": "1",
+        "Runs": "4",
+        "Balls": "12",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "16.33",
+        "Economy": "5.44"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "4.25"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.74"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "16.33",
+        "Economy": "5.44"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "4.25"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "20.20",
+        "Economy": "5.01",
+        "Best Figures": "3/49",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/02/09",
+        "Opposition": "Tuskers",
+        "Figures": "3-49",
+        "Overs": "9",
+        "Economy": "5.44"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/01/12",
+        "Opposition": "Heat",
+        "Figures": "2-17",
+        "Overs": "4",
+        "Economy": "4.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/18",
+        "Opposition": "Badgers",
+        "Figures": "0-15",
+        "Overs": "3.1",
+        "Economy": "4.74"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/02/10",
+        "Opposition": "Dolphins",
+        "Figures": "0-20",
+        "Overs": "4",
+        "Economy": "5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "26",
+        "Stumpings": "1",
+        "Matches as Wicketkeeper": "32",
+        "Matches as Captain": "1"
+      },
+      {
+        "Format": "T20",
+        "Catches": "0",
+        "Stumpings": "2",
+        "Matches as Wicketkeeper": "3",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Knights",
+        "Total Matches": "44",
+        "First Match": "2005/11/06",
+        "Last Match": "2013/03/23",
+        "Career Span": "2005 - 2013"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Knights",
+        "Total Matches": "3",
+        "First Match": "2012/10/06",
+        "Last Match": "2012/10/14",
+        "Career Span": "2012 - 2012"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Knights",
+        "Total Matches": "47",
+        "First Match": "2005/11/06",
+        "Last Match": "2013/03/23",
+        "Career Span": "2005 - 2013"
+      }
+    ]
+  }
+}

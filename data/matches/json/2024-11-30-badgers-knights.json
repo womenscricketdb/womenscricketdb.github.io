@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Tournament": "24-25 Pro 50",
+      "Match_Date": "2024/11/30",
+      "Venue_Name": "Recreation Ground",
+      "Season": "24/25",
+      "Format": "List A",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Knights",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Team_Name": "Badgers",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "37",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "141",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "39.5",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Team_Name": "Knights",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "104",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "34.4",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Innings_Number": "1",
+      "Player": "Khayakazi Mathe",
+      "Runs": "27",
+      "Balls": "28"
+    },
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Innings_Number": "1",
+      "Player": "Nicolien Janse van Rensburg",
+      "Runs": "49",
+      "Balls": "75"
+    },
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Innings_Number": "2",
+      "Player": "Anica Swart",
+      "Runs": "26",
+      "Balls": "28"
+    },
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Innings_Number": "2",
+      "Player": "Verunissa Reddy",
+      "Runs": "16",
+      "Balls": "34"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Innings_Number": "1",
+      "Player": "Lucian Swartz",
+      "Wickets": "6",
+      "Runs": "29"
+    },
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Innings_Number": "1",
+      "Player": "Miane Smit",
+      "Wickets": "2",
+      "Runs": "11"
+    },
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Innings_Number": "2",
+      "Player": "Jana Nell",
+      "Wickets": "2",
+      "Runs": "11"
+    },
+    {
+      "Match_Slug": "2024-11-30-badgers-knights",
+      "Innings_Number": "2",
+      "Player": "Jané Winster",
+      "Wickets": "3",
+      "Runs": "23"
+    }
+  ]
+}

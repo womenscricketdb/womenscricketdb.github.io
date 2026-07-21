@@ -1,0 +1,577 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "-",
+        "Strike-Rate": "75.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "60.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "-",
+        "Strike-Rate": "75.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "54.55"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "18",
+        "High Score": "12",
+        "Average": "9.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "56.25"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2017/10/14",
+        "Opposition": "Dragons",
+        "Position": "10",
+        "Runs": "12*",
+        "Balls": "16",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/03/31",
+        "Opposition": "Lions",
+        "Position": "10",
+        "Runs": "3",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/04/03",
+        "Opposition": "Knights",
+        "Position": "9",
+        "Runs": "3*",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "60"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/10/15",
+        "Opposition": "Tuskers",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/10/29",
+        "Opposition": "Kei",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/10/30",
+        "Opposition": "Kei",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/10/16",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/10/18",
+        "Opposition": "Heat",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/02/14",
+        "Opposition": "Kei",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/02/28",
+        "Opposition": "Warriors",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "12.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "2.60"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "11.00",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "6.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.80"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "2.60"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "19.00",
+        "Economy": "3.80"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "12.00",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Buffalo Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "3.50"
+      },
+      {
+        "Format": "T20",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "6.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "8",
+        "Wickets": "4",
+        "Average": "20.25",
+        "Economy": "4.15",
+        "Best Figures": "1/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "6",
+        "Wickets": "2",
+        "Average": "24.50",
+        "Economy": "4.98",
+        "Best Figures": "1/7",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2017/02/25",
+        "Opposition": "Dolphins",
+        "Figures": "1-12",
+        "Overs": "2",
+        "Economy": "6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/10/29",
+        "Opposition": "Kei",
+        "Figures": "1-13",
+        "Overs": "5",
+        "Economy": "2.6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/10/15",
+        "Opposition": "Tuskers",
+        "Figures": "1-15",
+        "Overs": "4",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/04/03",
+        "Opposition": "Knights",
+        "Figures": "1-15",
+        "Overs": "4",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/03/31",
+        "Opposition": "Lions",
+        "Figures": "0-4",
+        "Overs": "1",
+        "Economy": "4"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/02/14",
+        "Opposition": "Kei",
+        "Figures": "1-7",
+        "Overs": "2",
+        "Economy": "3.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/11/26",
+        "Opposition": "Western Province",
+        "Figures": "1-20",
+        "Overs": "3",
+        "Economy": "6.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/02/28",
+        "Opposition": "Warriors",
+        "Figures": "0-1",
+        "Overs": "1",
+        "Economy": "1"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/10/30",
+        "Opposition": "Kei",
+        "Figures": "0-4",
+        "Overs": "2",
+        "Economy": "2"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/10/18",
+        "Opposition": "Heat",
+        "Figures": "0-8",
+        "Overs": "1",
+        "Economy": "8"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "12",
+        "First Match": "2016/10/15",
+        "Last Match": "2018/04/07",
+        "Career Span": "2016 - 2018"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "7",
+        "First Match": "2015/10/18",
+        "Last Match": "2017/11/26",
+        "Career Span": "2015 - 2017"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "19",
+        "First Match": "2015/10/18",
+        "Last Match": "2018/04/07",
+        "Career Span": "2015 - 2018"
+      }
+    ]
+  }
+}

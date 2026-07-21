@@ -1,0 +1,219 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "44",
+        "Average": "-",
+        "Strike-Rate": "65.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "35",
+        "Average": "35.00",
+        "Strike-Rate": "83.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "32.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sturrock Park",
+        "Innings": "3",
+        "Runs": "47",
+        "Average": "15.67",
+        "Strike-Rate": "57.32"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Runs": "44",
+        "Average": "-",
+        "Strike-Rate": "65.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "91",
+        "High Score": "44",
+        "Average": "30.33",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "61.07"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/10/02",
+        "Opposition": "Rhinos",
+        "Position": "2",
+        "Runs": "44*",
+        "Balls": "67",
+        "Fours": "7",
+        "Sixes": "0",
+        "Strike-Rate": "65.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/09",
+        "Opposition": "Dolphins",
+        "Position": "2",
+        "Runs": "35",
+        "Balls": "42",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "83.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/29",
+        "Opposition": "Limpopo Lillies",
+        "Position": "1",
+        "Runs": "12",
+        "Balls": "37",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "32.43"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/22",
+        "Opposition": "Dragons",
+        "Position": "2",
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "31.00",
+        "Economy": "3.10"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "3.30"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "19.00",
+        "Economy": "1.90"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sturrock Park",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "32.00",
+        "Economy": "3.20"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "19.00",
+        "Economy": "1.90"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "27.67",
+        "Economy": "2.77",
+        "Best Figures": "1/19",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/10/02",
+        "Opposition": "Rhinos",
+        "Figures": "1-19",
+        "Overs": "10",
+        "Economy": "1.9"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/09",
+        "Opposition": "Dolphins",
+        "Figures": "1-31",
+        "Overs": "10",
+        "Economy": "3.1"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/29",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "1-33",
+        "Overs": "10",
+        "Economy": "3.3"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "4",
+        "First Match": "2005/10/02",
+        "Last Match": "2005/10/29",
+        "Career Span": "2005 - 2005"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "4",
+        "First Match": "2005/10/02",
+        "Last Match": "2005/10/29",
+        "Career Span": "2005 - 2005"
+      }
+    ]
+  }
+}

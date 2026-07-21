@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Tournament": "17-18 CSA Women's Provincial League",
+      "Match_Date": "2017/11/11",
+      "Venue_Name": "Boland Park, Paarl",
+      "Season": "17/18",
+      "Format": "List A",
+      "Team_Home_Name": "Boland",
+      "Team_Away_Name": "Heat",
+      "Match_Division": "Div 2"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Team_Name": "Boland",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "10",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "200",
+      "Team_Wickets_Lost": "5",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Team_Name": "Heat",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "190",
+      "Team_Wickets_Lost": "9",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Innings_Number": "1",
+      "Player": "Faye Tunnicliffe",
+      "Runs": "44",
+      "Balls": "40"
+    },
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Innings_Number": "1",
+      "Player": "Simone Marais",
+      "Runs": "40",
+      "Balls": "108"
+    },
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Innings_Number": "2",
+      "Player": "Merece Mackier",
+      "Runs": "42",
+      "Balls": "90"
+    },
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Innings_Number": "2",
+      "Player": "Susan Benade",
+      "Runs": "34",
+      "Balls": "32"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Innings_Number": "1",
+      "Player": "N Daries",
+      "Wickets": "1",
+      "Runs": "35"
+    },
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Innings_Number": "1",
+      "Player": "N Lojane",
+      "Wickets": "1",
+      "Runs": "15"
+    },
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Innings_Number": "2",
+      "Player": "Faye Tunnicliffe",
+      "Wickets": "2",
+      "Runs": "27"
+    },
+    {
+      "Match_Slug": "2017-11-11-boland-heat",
+      "Innings_Number": "2",
+      "Player": "Litichia Spogter",
+      "Wickets": "3",
+      "Runs": "35"
+    }
+  ]
+}

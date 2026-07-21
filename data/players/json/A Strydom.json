@@ -1,0 +1,310 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "2",
+        "Runs": "22",
+        "Average": "22.00",
+        "Strike-Rate": "24.72"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "-",
+        "Strike-Rate": "40.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "16.28"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "3",
+        "Runs": "21",
+        "Average": "10.50",
+        "Strike-Rate": "26.92"
+      },
+      {
+        "Format": "List A",
+        "Venue": "TUT Oval",
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "32.76"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "9.68"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammondfield",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "16.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "7",
+        "Runs": "45",
+        "High Score": "19",
+        "Average": "9.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "23.81"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/02/13",
+        "Opposition": "Eastern Storm",
+        "Position": "2",
+        "Runs": "19",
+        "Balls": "58",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "32.76"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/11/05",
+        "Opposition": "Tuskers",
+        "Position": "8",
+        "Runs": "14*",
+        "Balls": "35",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "40"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/04",
+        "Opposition": "Lions",
+        "Position": "9",
+        "Runs": "4",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/10/10",
+        "Opposition": "Lions",
+        "Position": "1",
+        "Runs": "3",
+        "Balls": "26",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "11.54"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/11/06",
+        "Opposition": "Eastern Storm",
+        "Position": "1",
+        "Runs": "3*",
+        "Balls": "31",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "9.68"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "5",
+        "Average": "4.80",
+        "Economy": "2.18"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "17.50",
+        "Economy": "2.69"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "2.22"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "32.00",
+        "Economy": "3.20"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Fields College Ground",
+        "Innings": "1",
+        "Wickets": "5",
+        "Average": "0.80",
+        "Economy": "1.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "21.75",
+        "Economy": "2.72"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "8",
+        "Wickets": "9",
+        "Average": "15.44",
+        "Economy": "2.90",
+        "Best Figures": "5/4",
+        "3-fors": "1",
+        "5-fors": "1"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/11/18",
+        "Opposition": "Dragons",
+        "Figures": "5-4",
+        "Overs": "3",
+        "Economy": "1.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/02/04",
+        "Opposition": "Lions",
+        "Figures": "2-26",
+        "Overs": "10",
+        "Economy": "2.6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/14",
+        "Opposition": "Rhinos",
+        "Figures": "1-20",
+        "Overs": "9",
+        "Economy": "2.22"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/11/05",
+        "Opposition": "Tuskers",
+        "Figures": "1-32",
+        "Overs": "10",
+        "Economy": "3.2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/11/06",
+        "Opposition": "Eastern Storm",
+        "Figures": "0-6",
+        "Overs": "1",
+        "Economy": "6"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "4",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Titans",
+        "Total Matches": "9",
+        "First Match": "2006/11/05",
+        "Last Match": "2011/02/13",
+        "Career Span": "2006 - 2011"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Titans",
+        "Total Matches": "9",
+        "First Match": "2006/11/05",
+        "Last Match": "2011/02/13",
+        "Career Span": "2006 - 2011"
+      }
+    ]
+  }
+}

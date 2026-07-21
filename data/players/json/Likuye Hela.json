@@ -1,0 +1,414 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "150.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "150.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "0.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "20.00"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "3",
+        "High Score": "3",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "150.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/03/12",
+        "Opposition": "Warriors",
+        "Position": "11",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/12",
+        "Opposition": "Kei",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/02",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/11/16",
+        "Opposition": "Warriors",
+        "Position": "11",
+        "Runs": "0*",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Boland",
+        "Position": "11",
+        "Runs": "3*",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "150"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/02",
+        "Opposition": "Warriors",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/11/17",
+        "Opposition": "Warriors",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/10/13",
+        "Opposition": "Boland",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/13",
+        "Opposition": "Kei",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "69.00",
+        "Economy": "6.90"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "3.57"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "44.00",
+        "Economy": "7.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "31.00",
+        "Economy": "6.20"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "3.50"
+      },
+      {
+        "Format": "T20",
+        "Venue": "St George's Park",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "44.00",
+        "Economy": "7.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "51.50",
+        "Economy": "5.15",
+        "Best Figures": "1/10",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Wickets": "2",
+        "Average": "42.50",
+        "Economy": "5.00",
+        "Best Figures": "1/14",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/04/02",
+        "Opposition": "Tuskers",
+        "Figures": "1-10",
+        "Overs": "2",
+        "Economy": "5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/11/16",
+        "Opposition": "Warriors",
+        "Figures": "1-31",
+        "Overs": "5",
+        "Economy": "6.2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/12",
+        "Opposition": "Kei",
+        "Figures": "0-24",
+        "Overs": "8",
+        "Economy": "3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/03/12",
+        "Opposition": "Warriors",
+        "Figures": "0-38",
+        "Overs": "5",
+        "Economy": "7.6"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Boland",
+        "Figures": "1-14",
+        "Overs": "4",
+        "Economy": "3.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/11/17",
+        "Opposition": "Warriors",
+        "Figures": "1-20",
+        "Overs": "4",
+        "Economy": "5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/10/13",
+        "Opposition": "Boland",
+        "Figures": "0-11",
+        "Overs": "3",
+        "Economy": "3.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/13",
+        "Opposition": "Kei",
+        "Figures": "0-16",
+        "Overs": "4",
+        "Economy": "4"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/02",
+        "Opposition": "Warriors",
+        "Figures": "0-24",
+        "Overs": "2",
+        "Economy": "12"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "T20",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "4",
+        "First Match": "2022/02/12",
+        "Last Match": "2026/04/02",
+        "Career Span": "2022 - 2026"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "5",
+        "First Match": "2022/02/06",
+        "Last Match": "2024/11/17",
+        "Career Span": "2022 - 2024"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "9",
+        "First Match": "2022/02/06",
+        "Last Match": "2026/04/02",
+        "Career Span": "2022 - 2026"
+      }
+    ]
+  }
+}

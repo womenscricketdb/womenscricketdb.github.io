@@ -1,0 +1,122 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "18.18"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "18.18"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "2",
+        "High Score": "2",
+        "Average": "2.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "18.18"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2015/10/17",
+        "Opposition": "Knights",
+        "Position": "3",
+        "Runs": "2",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "18.18"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "0.50",
+        "Economy": "2.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "0.50",
+        "Economy": "2.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "0.50",
+        "Economy": "2.00",
+        "Best Figures": "2/1",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2015/10/17",
+        "Opposition": "Knights",
+        "Figures": "2-1",
+        "Overs": "0.3",
+        "Economy": "2"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Western Province",
+        "Total Matches": "1",
+        "First Match": "2015/10/17",
+        "Last Match": "2015/10/17",
+        "Career Span": "2015 - 2015"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Western Province",
+        "Total Matches": "1",
+        "First Match": "2015/10/17",
+        "Last Match": "2015/10/17",
+        "Career Span": "2015 - 2015"
+      }
+    ]
+  }
+}

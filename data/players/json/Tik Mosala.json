@@ -1,0 +1,398 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "3",
+        "Runs": "8",
+        "Average": "2.67",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "2",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Schoeman Park A Ground",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "38.46"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "30.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "24",
+        "High Score": "16",
+        "Average": "4.80",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "33.80"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/03/09",
+        "Opposition": "Heat",
+        "Position": "9",
+        "Runs": "16*",
+        "Balls": "43",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "37.21"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/29",
+        "Opposition": "Knights",
+        "Position": "10",
+        "Runs": "5",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "38.46"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/11/11",
+        "Opposition": "Knights",
+        "Position": "8",
+        "Runs": "3",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/03/10",
+        "Opposition": "Heat",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/14",
+        "Opposition": "Knights",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/06",
+        "Opposition": "Titans",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/07",
+        "Opposition": "Eastern Storm",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/13",
+        "Opposition": "Lions",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/14",
+        "Opposition": "Rhinos",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "3",
+        "Wickets": "10",
+        "Average": "2.60",
+        "Economy": "2.60"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "51.00",
+        "Economy": "8.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "18.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Schoeman Park A Ground",
+        "Innings": "1",
+        "Wickets": "5",
+        "Average": "2.80",
+        "Economy": "2.27"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Stapelberg Stadium",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "2.50",
+        "Economy": "3.53"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "2.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "3.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "7",
+        "Wickets": "11",
+        "Average": "11.00",
+        "Economy": "5.50",
+        "Best Figures": "5/14",
+        "3-fors": "2",
+        "5-fors": "1"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "18.00",
+        "Best Figures": "0/18",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2012/01/29",
+        "Opposition": "Knights",
+        "Figures": "5-14",
+        "Overs": "6.1",
+        "Economy": "2.27"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/14",
+        "Opposition": "Knights",
+        "Figures": "4-10",
+        "Overs": "2.5",
+        "Economy": "3.53"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/11/11",
+        "Opposition": "Knights",
+        "Figures": "1-2",
+        "Overs": "1",
+        "Economy": "2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/03/10",
+        "Opposition": "Heat",
+        "Figures": "1-10",
+        "Overs": "3",
+        "Economy": "3.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/02/19",
+        "Opposition": "Tuskers",
+        "Figures": "0-20",
+        "Overs": "3",
+        "Economy": "6.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/06",
+        "Opposition": "Titans",
+        "Figures": "0-18",
+        "Overs": "1",
+        "Economy": "18"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "9",
+        "First Match": "2012/01/14",
+        "Last Match": "2013/03/09",
+        "Career Span": "2012 - 2013"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Dragons",
+        "Total Matches": "4",
+        "First Match": "2012/10/06",
+        "Last Match": "2012/10/14",
+        "Career Span": "2012 - 2012"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "13",
+        "First Match": "2012/01/14",
+        "Last Match": "2013/03/09",
+        "Career Span": "2012 - 2013"
+      }
+    ]
+  }
+}

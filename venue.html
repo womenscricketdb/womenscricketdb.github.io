@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Venue - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/venue.html">
+    <meta name="description" content="Scoring history and records for South African women's domestic cricket venues.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Venue - Women's Provincial Cricket Database">
+    <meta property="og:description" content="Scoring history and records for South African women's domestic cricket venues.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/venue.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Venue - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="Scoring history and records for South African women's domestic cricket venues.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-entity-hero {
+            background: linear-gradient(180deg, #0e2c1e 0%, var(--wca-bg) 100%);
+            border-bottom: 1px solid var(--wca-border);
+            padding: 2rem 0 1.5rem;
+        }
+        .wca-entity-hero h1 { font-weight: 700; color: #fff; font-size: clamp(1.6rem, 3.5vw, 2.3rem); margin-bottom: 0.25rem; }
+        .wca-venue-hero-row {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+        }
+        .wca-venue-hero-text { flex: 1; min-width: 0; }
+        .wca-venue-hero-map {
+            flex-shrink: 0;
+            height: 140px;
+            width: 140px;
+        }
+        @media (max-width: 767px) {
+            .wca-venue-hero-row {
+                flex-direction: column-reverse;
+                align-items: flex-start;
+            }
+            .wca-venue-hero-map { height: 120px; width: 120px; }
+        }
+        .wca-tab-nav .nav-link {
+            font-family: var(--wca-font-body);
+            font-weight: 600;
+            color: var(--wca-text-dim);
+        }
+        .wca-tab-nav .nav-link.active {
+            background-color: var(--wca-surface);
+            color: var(--wca-gold);
+            border-color: var(--wca-border) var(--wca-border) var(--wca-surface);
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<section class="wca-entity-hero">
+    <div class="container">
+        <div class="wca-breadcrumb"><a href="index.html">Home</a> / <a href="venues.html">Venues</a> / <span id="crumbName">…</span></div>
+        <div class="wca-venue-hero-row">
+            <div class="wca-venue-hero-text">
+                <h1 id="venueName">Loading venue…</h1>
+            </div>
+            <div class="wca-venue-hero-map" id="venueLocationMap"></div>
+        </div>
+    </div>
+</section>
+
+<main class="container py-4">
+    <ul class="nav nav-tabs wca-tab-nav" id="venueTabs" role="tablist"></ul>
+    <div class="tab-content pt-3" id="venueTabContent"></div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-loader.js"></script>
+<script src="assets/js/table-render.js"></script>
+<script src="assets/js/union-map.js"></script>
+<script>
+    WCA_NAV.render("venues");
+    WCA_NAV.renderFooter();
+
+    const params = new URLSearchParams(location.search);
+    const venueName = params.get("name") || "";
+
+    document.getElementById("venueName").textContent = venueName || "Unknown venue";
+    document.getElementById("crumbName").textContent = venueName || "Unknown";
+    document.title = `${venueName || "Venue"} - Women's Provincial Cricket Database`;
+
+    // Section order doubles as tab order, first section with data becomes
+    // the default-open tab.
+    // splitKey names the column that identifies WHICH record a row belongs
+    // to, for sections that interleave multiple distinct record types under
+    // one flat table, see the matching comment in team.html, kept
+    // standardized between the two pages.
+    const SECTIONS = [
+        { key: "summary", label: "Summary", compact2col: true },
+        { key: "records", label: "Records", splitKey: "Record", linkMatchDate: true },
+        { key: "averages", label: "Averages", splitKey: "Record", compact2col: true },
+        { key: "playerRecords", label: "Player Records", splitKey: "Record", linkMatchDate: true },
+        { key: "careerRecords", label: "Career Records", splitKey: "Record" },
+    ];
+
+    // Loaded once, reused by every table render on this page (same pattern
+    // as records.html), a single-match record row's Date cell links to its
+    // match via this Date+Opposition lookup.
+    let matchLookupIndex = null;
+
+    async function load() {
+        const tabList = document.getElementById("venueTabs");
+        const tabContent = document.getElementById("venueTabContent");
+
+        if (!venueName) {
+            tabContent.innerHTML = `<div class="wca-empty-state">No venue specified. Head back to the <a href="venues.html">venues list</a>.</div>`;
+            return;
+        }
+
+        const [data, lookupIndex] = await Promise.all([
+            WCA.fetchVenue(venueName),
+            WCA.fetchMatchLookupIndex(),
+        ]);
+        matchLookupIndex = lookupIndex;
+        if (!data) {
+            tabContent.innerHTML = `<div class="wca-empty-state">Couldn't find a record for "${WCA.escapeHtml(venueName)}".</div>`;
+            return;
+        }
+
+        // Wrapped defensively - a map-rendering failure (bad coords, a
+        // missing dependency, anything) should never be able to take down
+        // the records/tabs below it, the way it did here. The rest of the
+        // page's data doesn't depend on the map succeeding.
+        try {
+            const coordsByName = await WCA.fetchVenueCoords();
+            const coords = coordsByName[venueName];
+            renderVenueHighlight("#venueLocationMap", coords || {}, { geojsonUrl: "assets/geo/CricketUnions.geojson" });
+        } catch (err) {
+            console.error("Venue location map failed to render:", err);
+        }
+
+        const activeSections = SECTIONS.filter(sec => data[sec.key] && data[sec.key].length);
+
+        if (!activeSections.length) {
+            tabContent.innerHTML = `<div class="wca-empty-state">No records found for this venue yet.</div>`;
+            return;
+        }
+
+        activeSections.forEach((sec, i) => {
+            const li = document.createElement("li");
+            li.className = "nav-item";
+            li.innerHTML = `<button class="nav-link ${i === 0 ? "active" : ""}" data-bs-toggle="tab" data-bs-target="#pane-${sec.key}" type="button">
+                ${sec.label}
+            </button>`;
+            tabList.appendChild(li);
+
+            const pane = document.createElement("div");
+            pane.className = `tab-pane fade ${i === 0 ? "show active" : ""}`;
+            pane.id = `pane-${sec.key}`;
+            tabContent.appendChild(pane);
+
+            if (sec.splitKey) {
+                // Multiple distinct record types interleaved under one
+                // column (e.g. "Most Runs"/"Most Wickets"/"Most Catches")
+                // split into one table per type, each defaulting to List A.
+                WCA_TABLE.renderRecordGroups(pane, data[sec.key], sec.splitKey, {
+                    compact: true,
+                    compact2col: sec.compact2col,
+                    linkMatchDate: !!sec.linkMatchDate,
+                    matchDateLink: { index: matchLookupIndex || {} },
+                });
+            } else {
+                const tableRoot = document.createElement("div");
+                pane.appendChild(tableRoot);
+                WCA_TABLE.render(tableRoot, data[sec.key], { compact: true, compact2col: sec.compact2col });
+            }
+        });
+    }
+
+    load();
+</script>
+</body>
+</html>

@@ -1,0 +1,387 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "23.08"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "78.57"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "23.08"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Wanderers",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Recreation Ground",
+        "Innings": "2",
+        "Runs": "12",
+        "Average": "6.00",
+        "Strike-Rate": "75.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "4",
+        "High Score": "3",
+        "Average": "2.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "17.39"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "12",
+        "High Score": "11",
+        "Average": "6.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "75.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/03/16",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "3",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "23.08"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/03/09",
+        "Opposition": "Lions",
+        "Position": "11",
+        "Runs": "1",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/10/25",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/10/12",
+        "Opposition": "Western Province",
+        "Position": "10",
+        "Runs": "11",
+        "Balls": "14",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "78.57"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/03/08",
+        "Opposition": "Titans",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/03/17",
+        "Opposition": "Dolphins",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/03/10",
+        "Opposition": "Lions",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/10/26",
+        "Opposition": "Dolphins",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "24.33",
+        "Economy": "4.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.29"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "16.00",
+        "Economy": "6.40"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "10.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "13.00",
+        "Economy": "3.90"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Kingsmead stadium",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "16.00",
+        "Economy": "6.40"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Recreation Ground",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "61.00",
+        "Economy": "8.71"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "36.67",
+        "Economy": "4.78",
+        "Best Figures": "3/39",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "39.00",
+        "Economy": "7.31",
+        "Best Figures": "1/5",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/03/16",
+        "Opposition": "Dolphins",
+        "Figures": "3-39",
+        "Overs": "10",
+        "Economy": "3.9"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/10/25",
+        "Opposition": "Dolphins",
+        "Figures": "0-34",
+        "Overs": "6",
+        "Economy": "5.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/03/09",
+        "Opposition": "Lions",
+        "Figures": "0-37",
+        "Overs": "7",
+        "Economy": "5.29"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/03/17",
+        "Opposition": "Dolphins",
+        "Figures": "1-5",
+        "Overs": "1",
+        "Economy": "5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/10/26",
+        "Opposition": "Dolphins",
+        "Figures": "1-27",
+        "Overs": "4",
+        "Economy": "6.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2026/03/08",
+        "Opposition": "Titans",
+        "Figures": "1-40",
+        "Overs": "4",
+        "Economy": "10"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/10/12",
+        "Opposition": "Western Province",
+        "Figures": "0-21",
+        "Overs": "3",
+        "Economy": "7"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/03/10",
+        "Opposition": "Lions",
+        "Figures": "0-24",
+        "Overs": "4",
+        "Economy": "6"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Badgers",
+        "Total Matches": "3",
+        "First Match": "2024/03/09",
+        "Last Match": "2025/10/25",
+        "Career Span": "2024 - 2025"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Badgers",
+        "Total Matches": "5",
+        "First Match": "2024/03/10",
+        "Last Match": "2026/03/08",
+        "Career Span": "2024 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Badgers",
+        "Total Matches": "8",
+        "First Match": "2024/03/09",
+        "Last Match": "2026/03/08",
+        "Career Span": "2024 - 2026"
+      }
+    ]
+  }
+}

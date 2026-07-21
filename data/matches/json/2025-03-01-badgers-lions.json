@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Tournament": "24-25 Pro 50",
+      "Match_Date": "2025/03/01",
+      "Venue_Name": "Recreation Ground",
+      "Season": "24/25",
+      "Format": "List A",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "231",
+      "Team_Wickets_Lost": "6",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "2",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "232",
+      "Team_Wickets_Lost": "8",
+      "Team_Overs_Faced": "48.2",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Annerie Dercksen",
+      "Runs": "125",
+      "Balls": "105"
+    },
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Nicolien Janse van Rensburg",
+      "Runs": "32",
+      "Balls": "54"
+    },
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Nonkhululeko Thabethe",
+      "Runs": "77",
+      "Balls": "110"
+    },
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Sinalo Jafta",
+      "Runs": "45",
+      "Balls": "38"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Ayabonga Khaka",
+      "Wickets": "1",
+      "Runs": "50"
+    },
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Raisibe Ntozakhe",
+      "Wickets": "2",
+      "Runs": "21"
+    },
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Annerie Dercksen",
+      "Wickets": "3",
+      "Runs": "50"
+    },
+    {
+      "Match_Slug": "2025-03-01-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Khayakazi Mathe",
+      "Wickets": "2",
+      "Runs": "41"
+    }
+  ]
+}

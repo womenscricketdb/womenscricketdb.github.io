@@ -1,0 +1,309 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Runs": "32",
+        "Average": "16.00",
+        "Strike-Rate": "43.24"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "26.98"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "18.75"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Groenkloof Oval",
+        "Innings": "3",
+        "Runs": "27",
+        "Average": "9.00",
+        "Strike-Rate": "40.30"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "30.23"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Runs": "9",
+        "Average": "9.00",
+        "Strike-Rate": "29.03"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "9",
+        "Runs": "53",
+        "High Score": "23",
+        "Average": "5.89",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/10/09",
+        "Opposition": "Rhinos",
+        "Position": "1",
+        "Runs": "23",
+        "Balls": "43",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "53.49"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/29",
+        "Opposition": "Limpopo Lillies",
+        "Position": "1",
+        "Runs": "13",
+        "Balls": "43",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "30.23"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/22",
+        "Opposition": "Rhinos",
+        "Position": "1",
+        "Runs": "9",
+        "Balls": "31",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "29.03"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/23",
+        "Opposition": "Limpopo Lillies",
+        "Position": "2",
+        "Runs": "4",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/12",
+        "Opposition": "Dolphins",
+        "Position": "1",
+        "Runs": "3",
+        "Balls": "12",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/01/19",
+        "Opposition": "Badgers",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "7.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.83"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "7.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "58.00",
+        "Economy": "6.44",
+        "Best Figures": "1/23",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2020/01/18",
+        "Opposition": "Badgers",
+        "Figures": "1-23",
+        "Overs": "3",
+        "Economy": "7.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/13",
+        "Opposition": "Dolphins",
+        "Figures": "0-16",
+        "Overs": "4",
+        "Economy": "4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/12",
+        "Opposition": "Dolphins",
+        "Figures": "0-19",
+        "Overs": "2",
+        "Economy": "9.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "5",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Kei, Titans",
+        "Total Matches": "9",
+        "First Match": "2005/10/02",
+        "Last Match": "2020/01/18",
+        "Career Span": "2005 - 2020"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Kei",
+        "Total Matches": "1",
+        "First Match": "2020/01/19",
+        "Last Match": "2020/01/19",
+        "Career Span": "2020 - 2020"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Kei, Titans",
+        "Total Matches": "10",
+        "First Match": "2005/10/02",
+        "Last Match": "2020/01/19",
+        "Career Span": "2005 - 2020"
+      }
+    ]
+  }
+}

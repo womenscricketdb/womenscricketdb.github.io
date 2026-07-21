@@ -1,0 +1,213 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "28",
+        "Average": "-",
+        "Strike-Rate": "27.45"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "14.16"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Runs": "15",
+        "Average": "-",
+        "Strike-Rate": "28.30"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "12.90"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "21.43"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "UP 3 Oval",
+        "Innings": "3",
+        "Runs": "30",
+        "Average": "15.00",
+        "Strike-Rate": "17.24"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP 4 Oval",
+        "Innings": "1",
+        "Runs": "28",
+        "Average": "-",
+        "Strike-Rate": "27.45"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "12.90"
+      },
+      {
+        "Format": "List A",
+        "Venue": "West End Cricket Club Ground",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "66.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "66",
+        "High Score": "28",
+        "Average": "22.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "21.09"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2008/03/28",
+        "Opposition": "Eastern Storm",
+        "Position": "3",
+        "Runs": "28*",
+        "Balls": "102",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "27.45"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/03/27",
+        "Opposition": "Heat",
+        "Position": "3",
+        "Runs": "16",
+        "Balls": "113",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.16"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/03/29",
+        "Opposition": "Rhinos",
+        "Position": "3",
+        "Runs": "11*",
+        "Balls": "47",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "23.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/11",
+        "Opposition": "Tuskers",
+        "Position": "4",
+        "Runs": "4",
+        "Balls": "31",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "12.9"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/13",
+        "Opposition": "Rhinos",
+        "Position": "5",
+        "Runs": "4*",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "66.67"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Badgers",
+        "Total Matches": "6",
+        "First Match": "2008/03/26",
+        "Last Match": "2009/01/13",
+        "Career Span": "2008 - 2009"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Badgers",
+        "Total Matches": "6",
+        "First Match": "2008/03/26",
+        "Last Match": "2009/01/13",
+        "Career Span": "2008 - 2009"
+      }
+    ]
+  }
+}

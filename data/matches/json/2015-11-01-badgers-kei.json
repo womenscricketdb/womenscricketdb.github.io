@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Tournament": "15-16 CSA Women's Provincial T20 Competition",
+      "Match_Date": "2015/11/01",
+      "Venue_Name": "Recreation Ground",
+      "Season": "15/16",
+      "Format": "T20",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Kei",
+      "Match_Division": "Div 2"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Team_Name": "Badgers",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "8",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "21",
+      "Team_Wickets_Lost": "2",
+      "Team_Overs_Faced": "2.2",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Team_Name": "Kei",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "18",
+      "Team_Wickets_Lost": "3",
+      "Team_Overs_Faced": "5",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Innings_Number": "1",
+      "Player": "Zenande Nonqayi",
+      "Runs": "7",
+      "Balls": "13"
+    },
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Innings_Number": "1",
+      "Player": "Zizo Madikane",
+      "Runs": "8",
+      "Balls": "12"
+    },
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Innings_Number": "2",
+      "Player": "Bianca Mars",
+      "Runs": "8",
+      "Balls": "5"
+    },
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Innings_Number": "2",
+      "Player": "Micaela Andrews",
+      "Runs": "7",
+      "Balls": "4"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Innings_Number": "1",
+      "Player": "Haroline Rhodes",
+      "Wickets": "1",
+      "Runs": "3"
+    },
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Innings_Number": "1",
+      "Player": "Micaela Andrews",
+      "Wickets": "2",
+      "Runs": "1"
+    },
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Innings_Number": "2",
+      "Player": "Thembela Ngcobo",
+      "Wickets": "1",
+      "Runs": "2"
+    },
+    {
+      "Match_Slug": "2015-11-01-badgers-kei",
+      "Innings_Number": "2",
+      "Player": "Zizo Madikane",
+      "Wickets": "0",
+      "Runs": "18"
+    }
+  ]
+}

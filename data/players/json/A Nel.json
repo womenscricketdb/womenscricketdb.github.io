@@ -1,0 +1,334 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "-",
+        "Strike-Rate": "44.44"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "-",
+        "Strike-Rate": "44.44"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "15",
+        "High Score": "12",
+        "Average": "15.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "38.46"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/11/04",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "12*",
+        "Balls": "27",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "44.44"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/11/17",
+        "Opposition": "Eastern Storm",
+        "Position": "8",
+        "Runs": "3*",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/10/21",
+        "Opposition": "Dragons",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/10/27",
+        "Opposition": "Lions",
+        "Position": "11",
+        "Runs": "0*",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/11/25",
+        "Opposition": "Heat",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "13.75",
+        "Economy": "3.24"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "2.50",
+        "Economy": "0.79"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "2.00",
+        "Economy": "1.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "3.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.60"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.11"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "TUT Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.00",
+        "Economy": "1.71"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "16.00",
+        "Economy": "2.94"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "2.00",
+        "Economy": "1.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "3.50"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "8",
+        "Wickets": "8",
+        "Average": "22.00",
+        "Economy": "3.12",
+        "Best Figures": "3/12",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2008/03/02",
+        "Opposition": "Titans",
+        "Figures": "3-12",
+        "Overs": "7",
+        "Economy": "1.71"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/11/25",
+        "Opposition": "Heat",
+        "Figures": "2-5",
+        "Overs": "6.2",
+        "Economy": "0.79"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/10/21",
+        "Opposition": "Dragons",
+        "Figures": "1-2",
+        "Overs": "2",
+        "Economy": "1"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/02/02",
+        "Opposition": "Iinyathi",
+        "Figures": "1-35",
+        "Overs": "10",
+        "Economy": "3.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/11/04",
+        "Opposition": "Titans",
+        "Figures": "1-43",
+        "Overs": "10",
+        "Economy": "4.3"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Knights",
+        "Total Matches": "9",
+        "First Match": "2007/10/13",
+        "Last Match": "2008/03/08",
+        "Career Span": "2007 - 2008"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Knights",
+        "Total Matches": "9",
+        "First Match": "2007/10/13",
+        "Last Match": "2008/03/08",
+        "Career Span": "2007 - 2008"
+      }
+    ]
+  }
+}

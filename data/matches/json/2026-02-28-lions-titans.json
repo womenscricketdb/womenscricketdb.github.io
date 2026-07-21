@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Tournament": "25-26 Pro 50",
+      "Match_Date": "2026/02/28",
+      "Venue_Name": "Alan Lawson Oval",
+      "Season": "25/26",
+      "Format": "List A",
+      "Team_Home_Name": "Lions",
+      "Team_Away_Name": "Titans",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Won",
+      "Win_Margin": "19",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "96",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "43.3",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Team_Name": "Titans",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "77",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "30",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Ayabonga Khaka",
+      "Runs": "15",
+      "Balls": "17"
+    },
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Jenna Evans",
+      "Runs": "24",
+      "Balls": "87"
+    },
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Masabata Klaas",
+      "Runs": "18",
+      "Balls": "25"
+    },
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Sophia Smale",
+      "Runs": "28",
+      "Balls": "78"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Masabata Klaas",
+      "Wickets": "2",
+      "Runs": "8"
+    },
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Paulinah Mashishi",
+      "Wickets": "3",
+      "Runs": "15"
+    },
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Ayabonga Khaka",
+      "Wickets": "2",
+      "Runs": "25"
+    },
+    {
+      "Match_Slug": "2026-02-28-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Relebohile Mkhize",
+      "Wickets": "5",
+      "Runs": "25"
+    }
+  ]
+}

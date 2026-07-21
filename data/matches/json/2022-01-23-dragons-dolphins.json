@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Tournament": "21-22 CSA Women's Provincial T20 Competition",
+      "Match_Date": "2022/01/23",
+      "Venue_Name": "Potchefstroom Oval",
+      "Season": "21/22",
+      "Format": "T20",
+      "Team_Home_Name": "Dragons",
+      "Team_Away_Name": "Dolphins",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Team_Name": "Dolphins",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "99",
+      "Team_Wickets_Lost": "3",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Team_Name": "Dragons",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "8",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "103",
+      "Team_Wickets_Lost": "2",
+      "Team_Overs_Faced": "12.4",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Innings_Number": "1",
+      "Player": "Ayanda Hlubi",
+      "Runs": "26",
+      "Balls": "17"
+    },
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Innings_Number": "1",
+      "Player": "Kiara Fisher",
+      "Runs": "22",
+      "Balls": "39"
+    },
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Innings_Number": "2",
+      "Player": "Izel Cilliers",
+      "Runs": "32",
+      "Balls": "31"
+    },
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Innings_Number": "2",
+      "Player": "Lizri de Villiers",
+      "Runs": "31",
+      "Balls": "23"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Innings_Number": "1",
+      "Player": "Alyssa Erxleben",
+      "Wickets": "2",
+      "Runs": "12"
+    },
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Innings_Number": "1",
+      "Player": "Evodia Yekile",
+      "Wickets": "1",
+      "Runs": "11"
+    },
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Innings_Number": "2",
+      "Player": "Ayanda Hlubi",
+      "Wickets": "2",
+      "Runs": "17"
+    },
+    {
+      "Match_Slug": "2022-01-23-dragons-dolphins",
+      "Innings_Number": "2",
+      "Player": "Diyanka Naidoo",
+      "Wickets": "0",
+      "Runs": "13"
+    }
+  ]
+}

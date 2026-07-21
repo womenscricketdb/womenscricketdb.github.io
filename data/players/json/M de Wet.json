@@ -1,0 +1,124 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "41",
+        "Average": "41.00",
+        "Strike-Rate": "43.16"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "41",
+        "Average": "41.00",
+        "Strike-Rate": "43.16"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "41",
+        "High Score": "41",
+        "Average": "20.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "38.68"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/01/13",
+        "Opposition": "Dragons",
+        "Position": "1",
+        "Runs": "41",
+        "Balls": "95",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "43.16"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/27",
+        "Opposition": "Rhinos",
+        "Position": "1",
+        "Runs": "0",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "2",
+        "First Match": "2007/01/13",
+        "Last Match": "2007/01/27",
+        "Career Span": "2007 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Tuskers",
+        "Total Matches": "2",
+        "First Match": "2007/01/13",
+        "Last Match": "2007/01/27",
+        "Career Span": "2007 - 2007"
+      }
+    ]
+  }
+}

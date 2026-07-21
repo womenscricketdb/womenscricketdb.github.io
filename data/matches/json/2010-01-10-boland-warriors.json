@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Tournament": "09-10 Women's Provincial League",
+      "Match_Date": "2010/01/10",
+      "Venue_Name": "Paarl Cricket Club Ground",
+      "Season": "09/10",
+      "Format": "List A",
+      "Team_Home_Name": "Boland",
+      "Team_Away_Name": "Warriors",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Team_Name": "Boland",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Won",
+      "Win_Margin": "55",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "208",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "48.5",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Team_Name": "Warriors",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "153",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "46.5",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Innings_Number": "1",
+      "Player": "Beth Cartledge",
+      "Runs": "28",
+      "Balls": "62"
+    },
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Innings_Number": "1",
+      "Player": "Yolandi Potgieter",
+      "Runs": "53",
+      "Balls": "87"
+    },
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Innings_Number": "2",
+      "Player": "Erné Webber",
+      "Runs": "17",
+      "Balls": "92"
+    },
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Innings_Number": "2",
+      "Player": "Jana Nell",
+      "Runs": "59",
+      "Balls": "77"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Innings_Number": "1",
+      "Player": "Jana Nell",
+      "Wickets": "2",
+      "Runs": "43"
+    },
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Innings_Number": "1",
+      "Player": "Lanette Pienaar",
+      "Wickets": "4",
+      "Runs": "36"
+    },
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Innings_Number": "2",
+      "Player": "Jolene Hendricks",
+      "Wickets": "2",
+      "Runs": "20"
+    },
+    {
+      "Match_Slug": "2010-01-10-boland-warriors",
+      "Innings_Number": "2",
+      "Player": "Stacey Lackay",
+      "Wickets": "5",
+      "Runs": "29"
+    }
+  ]
+}

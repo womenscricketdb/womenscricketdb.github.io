@@ -1,0 +1,178 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "42",
+        "Average": "42.00",
+        "Strike-Rate": "61.76"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "29.41"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "52.38"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Runs": "42",
+        "Average": "42.00",
+        "Strike-Rate": "61.76"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS Oval",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "29.41"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "52.38"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "68",
+        "High Score": "42",
+        "Average": "17.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "47.55"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/04/02",
+        "Opposition": "Rhinos",
+        "Position": "2",
+        "Runs": "42",
+        "Balls": "68",
+        "Fours": "6",
+        "Sixes": "0",
+        "Strike-Rate": "61.76"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/31",
+        "Opposition": "Eastern Storm",
+        "Position": "3",
+        "Runs": "15",
+        "Balls": "51",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "29.41"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/01",
+        "Opposition": "Limpopo Lillies",
+        "Position": "3",
+        "Runs": "11",
+        "Balls": "21",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "52.38"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/03",
+        "Opposition": "Tuskers",
+        "Position": "2",
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Heat",
+        "Total Matches": "4",
+        "First Match": "2026/03/31",
+        "Last Match": "2026/04/03",
+        "Career Span": "2026 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Heat",
+        "Total Matches": "4",
+        "First Match": "2026/03/31",
+        "Last Match": "2026/04/03",
+        "Career Span": "2026 - 2026"
+      }
+    ]
+  }
+}

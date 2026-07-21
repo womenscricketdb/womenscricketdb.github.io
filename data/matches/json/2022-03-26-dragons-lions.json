@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Tournament": "21-22 CSA Women's Provincial Programme",
+      "Match_Date": "2022/03/26",
+      "Venue_Name": "Potchefstroom Oval",
+      "Season": "21/22",
+      "Format": "List A",
+      "Team_Home_Name": "Dragons",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Team_Name": "Dragons",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Won",
+      "Win_Margin": "25",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "208",
+      "Team_Wickets_Lost": "8",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "156",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "31.4",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Innings_Number": "1",
+      "Player": "Alyssa Erxleben",
+      "Runs": "43",
+      "Balls": "55"
+    },
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Innings_Number": "1",
+      "Player": "Izel Cilliers",
+      "Runs": "79",
+      "Balls": "100"
+    },
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Innings_Number": "2",
+      "Player": "Jenna Evans",
+      "Runs": "30",
+      "Balls": "46"
+    },
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Innings_Number": "2",
+      "Player": "Kirstie Thomson",
+      "Runs": "31",
+      "Balls": "37"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Innings_Number": "1",
+      "Player": "Sarah Nettleton",
+      "Wickets": "1",
+      "Runs": "34"
+    },
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Innings_Number": "1",
+      "Player": "Yolani Fourie",
+      "Wickets": "3",
+      "Runs": "43"
+    },
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Innings_Number": "2",
+      "Player": "Elandri Janse van Rensburg",
+      "Wickets": "3",
+      "Runs": "16"
+    },
+    {
+      "Match_Slug": "2022-03-26-dragons-lions",
+      "Innings_Number": "2",
+      "Player": "Nthabiseng Nini",
+      "Wickets": "3",
+      "Runs": "45"
+    }
+  ]
+}

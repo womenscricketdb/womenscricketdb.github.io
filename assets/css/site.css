@@ -1,0 +1,474 @@
+/* ==========================================================================
+   WCA Women's Domestic Cricket Archive, shared site tokens
+   Extends the palette/type system already established in Archive_Viewer.html
+   so every page (menu, player/team/venue, records) reads as one site.
+   ========================================================================== */
+
+:root {
+    --wca-bg: #121212;
+    --wca-surface: #1e1e1e;
+    --wca-surface-raised: #232323;
+    --wca-header: #0b3622;      /* deep pitch green */
+    --wca-header-alt: #1a5c38;  /* lighter green, active/hover state */
+    --wca-gold: #ffc107;        /* stumps / bails accent */
+    --wca-text: #e0e0e0;
+    --wca-text-dim: #9c9c9c;
+    --wca-border: rgba(255,255,255,0.08);
+
+    --wca-font-display: 'Comfortaa', cursive;
+    --wca-font-body: 'Manrope', sans-serif;
+}
+
+body {
+    background-color: var(--wca-bg);
+    color: var(--wca-text);
+    font-family: var(--wca-font-display);
+}
+
+a { color: var(--wca-gold); text-decoration: none; }
+a:hover { color: #ffd54a; text-decoration: underline; }
+
+/* Data-dense areas (tables, forms, filters) use the utility face */
+.wca-data, .dataTables_wrapper, table, form, input, select, button {
+    font-family: var(--wca-font-body);
+}
+
+/* -------------------------------------------------------------------- */
+/* Site header + primary nav                                            */
+/* -------------------------------------------------------------------- */
+.wca-header {
+    background-color: var(--wca-header);
+    border-bottom: 4px solid var(--wca-gold);
+    padding: 0.6rem 0;
+}
+
+.wca-header-row {
+    position: relative;
+    gap: 1rem;
+}
+
+.wca-header .wca-brand {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.wca-logo {
+    height: 55px;
+    width: auto;
+    /* source file is black strokes on transparent, invert for the dark header */
+    filter: invert(1);
+}
+
+@media (max-width: 767px) {
+    .wca-logo { height: 42px; }
+}
+
+.wca-nav {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.35rem;
+    font-family: var(--wca-font-body);
+    flex: 1 1 auto;
+    justify-content: flex-end;
+}
+
+.wca-nav a {
+    color: rgba(255,255,255,0.85);
+    text-decoration: none;
+    padding: 0.4rem 0.75rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    white-space: nowrap;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+.wca-nav a:hover {
+    background-color: rgba(255,255,255,0.08);
+    color: #fff;
+}
+
+.wca-nav a.active {
+    background-color: var(--wca-gold);
+    color: #101010;
+}
+
+.wca-nav-toggle {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    /* Nav collapses into a floating dropdown on mobile, it never pushes
+       the header row itself taller, per the fixed-height requirement. */
+    .wca-nav {
+        display: none;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        left: 0;
+        flex-direction: column;
+        gap: 0.15rem;
+        background: var(--wca-header);
+        border-bottom: 4px solid var(--wca-gold);
+        padding: 0.5rem 1rem 0.75rem;
+        z-index: 50;
+    }
+    .wca-nav.wca-nav-open {
+        display: flex;
+    }
+    .wca-nav a {
+        text-align: left;
+    }
+    .wca-nav-toggle {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.4rem;
+        background: rgba(255,255,255,0.08);
+        border: 1px solid rgba(255,255,255,0.2);
+        color: #fff;
+        border-radius: 6px;
+        padding: 0.4rem 0.7rem;
+        font-size: 0.8rem;
+        font-family: var(--wca-font-body);
+        flex-shrink: 0;
+    }
+}
+
+/* -------------------------------------------------------------------- */
+/* Shared surfaces                                                       */
+/* -------------------------------------------------------------------- */
+.wca-card {
+    background: var(--wca-surface);
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    border: 1px solid var(--wca-border);
+}
+
+@media (max-width: 767px) {
+    .wca-card { padding: 0.9rem; border-radius: 6px; }
+}
+
+.wca-section-title {
+    font-family: var(--wca-font-display);
+    font-weight: 700;
+    color: #fff;
+    border-left: 4px solid var(--wca-gold);
+    padding-left: 0.65rem;
+    margin-bottom: 1rem;
+}
+
+.wca-subtable-title {
+    font-family: var(--wca-font-body);
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--wca-text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 1.5rem 0 0.5rem;
+}
+
+.wca-format-toggle {
+    display: inline-flex;
+    gap: 0.3rem;
+    margin: 0.5rem 0 0.75rem;
+}
+.wca-format-toggle button {
+    font-family: var(--wca-font-body);
+    font-size: 0.78rem;
+    font-weight: 600;
+    padding: 0.2rem 0.65rem;
+    border-radius: 5px;
+    border: 1px solid var(--wca-border);
+    background: transparent;
+    color: var(--wca-text-dim);
+}
+.wca-format-toggle button.active {
+    background: var(--wca-gold);
+    color: #101010;
+    border-color: var(--wca-gold);
+}
+
+.wca-empty-state {
+    font-family: var(--wca-font-body);
+    color: var(--wca-text-dim);
+    font-style: italic;
+    padding: 1.25rem;
+    text-align: center;
+}
+
+.wca-breadcrumb {
+    font-family: var(--wca-font-body);
+    font-size: 0.85rem;
+    color: var(--wca-text-dim);
+    margin-bottom: 1rem;
+}
+.wca-breadcrumb a { color: var(--wca-text-dim); text-decoration: underline; }
+.wca-breadcrumb a:hover { color: var(--wca-gold); }
+
+/* Player/Team/Venue name links inside data tables */
+.wca-entity-link {
+    color: var(--wca-gold);
+    font-weight: 600;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.wca-entity-link:hover { text-decoration: underline; }
+
+/* Alphabet jump strip (players browse page) */
+.wca-alpha-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-bottom: 1.25rem;
+    font-family: var(--wca-font-body);
+}
+.wca-alpha-strip a {
+    background: var(--wca-surface);
+    border: 1px solid var(--wca-border);
+    color: var(--wca-text);
+    padding: 0.3rem 0.65rem;
+    border-radius: 5px;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+.wca-alpha-strip a:hover, .wca-alpha-strip a.active {
+    background: var(--wca-gold);
+    color: #101010;
+    text-decoration: none;
+}
+
+/* Footer */
+.wca-footer {
+    margin-top: 3rem;
+    padding: 1.5rem 0;
+    border-top: 1px solid var(--wca-border);
+    color: var(--wca-text-dim);
+    font-family: var(--wca-font-body);
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+/* -------------------------------------------------------------------- */
+/* Shared DataTables treatment, used by Archive Viewer, Records, and     */
+/* any entity page (Player/Team/Venue) that renders a stats table.        */
+/* Apply .wca-table-container to the wrapper and .wca-datatable to the    */
+/* <table> itself; freeze-pane rules key off those classes, not IDs, so   */
+/* every page gets identical behaviour without repeating CSS.             */
+/* -------------------------------------------------------------------- */
+
+.wca-table-container {
+    background: var(--wca-surface);
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    margin-bottom: 1.75rem;
+}
+@media (max-width: 767px) {
+    .wca-table-container { padding: 0.75rem; border-radius: 6px; }
+}
+
+.wca-table-container .table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.wca-datatable thead th {
+    background-color: var(--wca-header);
+    color: #fff;
+    white-space: nowrap;
+}
+
+@media (min-width: 768px) {
+    .wca-datatable tbody td:first-child,
+    .wca-datatable thead th:first-child {
+        position: sticky;
+        left: 0;
+        background-color: var(--wca-surface);
+        z-index: 10;
+        border-right: 2px solid var(--wca-header);
+    }
+    .wca-datatable thead th:first-child {
+        z-index: 12;
+        background-color: var(--wca-header);
+    }
+}
+
+.wca-datatable .wrap-text {
+    min-width: 150px;
+    max-width: 220px;
+    white-space: normal !important;
+    word-wrap: break-word;
+    line-height: 1.3;
+}
+@media (max-width: 767px) {
+    .wca-datatable .wrap-text { min-width: 110px; max-width: 160px; font-size: 0.8rem; }
+}
+
+table.dataTable td { vertical-align: middle; }
+
+@media (max-width: 767px) {
+    .wca-datatable { font-size: 0.78rem; }
+    .wca-datatable thead th { font-size: 0.75rem; padding: 0.4rem 0.5rem; }
+    .wca-datatable tbody td { padding: 0.35rem 0.5rem; }
+}
+
+@media (max-width: 767px) {
+    .dataTables_wrapper .dataTables_length,
+    .dataTables_wrapper .dataTables_filter {
+        float: none;
+        text-align: left;
+        margin-bottom: 0.4rem;
+    }
+    .dataTables_wrapper .dataTables_info,
+    .dataTables_wrapper .dataTables_paginate {
+        float: none;
+        text-align: left;
+        margin-top: 0.4rem;
+    }
+    .dataTables_wrapper .dataTables_paginate .paginate_button {
+        padding: 0.25rem 0.5rem;
+        font-size: 0.8rem;
+    }
+}
+
+.wca-datatable thead th.sorting_asc,
+.wca-datatable thead th.sorting_desc {
+    background-color: var(--wca-header-alt) !important;
+    color: var(--wca-gold) !important;
+}
+
+.wca-filter-line {
+    font-family: var(--wca-font-body);
+    color: var(--wca-text-dim);
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    line-height: 2.1;
+}
+
+.wca-filter-line-sep {
+    color: var(--wca-border);
+    margin: 0 0.15rem;
+}
+
+.wca-filter-label {
+    color: var(--wca-text-dim);
+    font-weight: 600;
+}
+.wca-filter-label .bi-info-circle-fill {
+    font-size: 0.8rem;
+    cursor: help;
+}
+
+.wca-record-qualifier {
+    font-family: var(--wca-font-body);
+    font-size: 0.85rem;
+    color: var(--wca-text-dim);
+    margin: 0.5rem 0 1rem;
+}
+.wca-record-qualifier strong {
+    color: var(--wca-text);
+}
+.wca-record-qualifier:empty {
+    display: none;
+}
+
+.wca-filter-line-op {
+    color: var(--wca-text-dim);
+    margin: 0 0.2rem;
+}
+
+.wca-inline-select {
+    appearance: none;
+    -webkit-appearance: none;
+    background: transparent;
+    border: none;
+    border-bottom: 1px dotted var(--wca-text-dim);
+    color: var(--wca-gold);
+    font-family: var(--wca-font-body);
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 0 1.1rem 0.1rem 0.1rem;
+    cursor: pointer;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'><path d='M0 0l5 6 5-6z' fill='%23ffc107'/></svg>");
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 0.6rem;
+}
+.wca-inline-select:hover, .wca-inline-select:focus {
+    color: #ffd54a;
+    outline: none;
+}
+.wca-inline-select option { color: #101010; }
+
+.wca-inline-number {
+    width: 5rem;
+    background: transparent;
+    border: none;
+    border-bottom: 1px dotted var(--wca-text-dim);
+    color: var(--wca-gold);
+    font-family: var(--wca-font-body);
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 0 0.1rem 0.1rem;
+}
+.wca-inline-number:focus { outline: none; color: #ffd54a; }
+
+/* Compact tables (Player/Team/Venue), no DataTables chrome, just the grid */
+.wca-datatable.dataTable {
+    margin-top: 0 !important;
+}
+
+/* Genuine 2-column key/value tables (Metric/Value, Timeframe/Average), header row is pure decoration when one column already names itself, so
+   it's hidden (kept in the DOM for DataTables/accessibility) and the first
+   column is styled to read as the implicit label instead. */
+.wca-datatable.wca-no-header thead {
+    display: none;
+}
+.wca-datatable.wca-no-header tbody td:first-child {
+    color: var(--wca-text-dim);
+    font-weight: 600;
+}
+
+#wcaBackToTop {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    z-index: 999;
+    display: none;
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    background-color: var(--wca-header);
+    border: 2px solid var(--wca-gold);
+    color: var(--wca-gold);
+    font-size: 1rem;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    transition: opacity 0.2s;
+}
+#wcaBackToTop:hover { background-color: var(--wca-header-alt); }
+
+
+/* Loading / skeleton state shared by all data-driven pages */
+.wca-loading {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    color: var(--wca-text-dim);
+    font-family: var(--wca-font-body);
+    padding: 2rem 0;
+    justify-content: center;
+}
+.wca-spinner {
+    width: 1.1rem;
+    height: 1.1rem;
+    border: 2px solid rgba(255,255,255,0.2);
+    border-top-color: var(--wca-gold);
+    border-radius: 50%;
+    animation: wca-spin 0.7s linear infinite;
+}
+@keyframes wca-spin { to { transform: rotate(360deg); } }

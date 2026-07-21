@@ -1,0 +1,384 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "12.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Windmill Park",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "12.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Grey College B Ground",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Johan Volsteedt Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Bohemians Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "9",
+        "High Score": "4",
+        "Average": "3.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "16.67"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "1.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "25.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/03/30",
+        "Opposition": "Boland",
+        "Position": "8",
+        "Runs": "4*",
+        "Balls": "32",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "12.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/04/01",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "4",
+        "Balls": "11",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/03/29",
+        "Opposition": "Dragons",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/01/09",
+        "Opposition": "Kei",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/02/27",
+        "Opposition": "Iinyathi",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/02/28",
+        "Opposition": "Iinyathi",
+        "Position": "8",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/01/10",
+        "Opposition": "Kei",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "7.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Johan Volsteedt Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "7.50"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "7.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "23.50",
+        "Economy": "5.88",
+        "Best Figures": "1/3",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "6.92",
+        "Best Figures": "1/14",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/01/09",
+        "Opposition": "Kei",
+        "Figures": "1-3",
+        "Overs": "1",
+        "Economy": "3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/03/29",
+        "Opposition": "Dragons",
+        "Figures": "1-15",
+        "Overs": "2",
+        "Economy": "7.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/04/01",
+        "Opposition": "Titans",
+        "Figures": "0-8",
+        "Overs": "2",
+        "Economy": "4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/02/27",
+        "Opposition": "Iinyathi",
+        "Figures": "0-21",
+        "Overs": "3",
+        "Economy": "7"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/01/10",
+        "Opposition": "Kei",
+        "Figures": "1-14",
+        "Overs": "2",
+        "Economy": "7"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/02/28",
+        "Opposition": "Iinyathi",
+        "Figures": "0-1",
+        "Overs": "0.1",
+        "Economy": "6"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Warriors",
+        "Total Matches": "5",
+        "First Match": "2016/01/09",
+        "Last Match": "2016/04/01",
+        "Career Span": "2016 - 2016"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Warriors",
+        "Total Matches": "2",
+        "First Match": "2016/01/10",
+        "Last Match": "2016/02/28",
+        "Career Span": "2016 - 2016"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Warriors",
+        "Total Matches": "7",
+        "First Match": "2016/01/09",
+        "Last Match": "2016/04/01",
+        "Career Span": "2016 - 2016"
+      }
+    ]
+  }
+}

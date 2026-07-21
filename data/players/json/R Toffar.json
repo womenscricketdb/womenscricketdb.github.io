@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "40.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval 2",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "40.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "4.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "40.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/10/03",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "4",
+        "Balls": "10",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "40"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "16.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "16.00",
+        "Best Figures": "0/16",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/10/03",
+        "Opposition": "Tuskers",
+        "Figures": "0-16",
+        "Overs": "1",
+        "Economy": "16"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Heat",
+        "Total Matches": "1",
+        "First Match": "2009/10/03",
+        "Last Match": "2009/10/03",
+        "Career Span": "2009 - 2009"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Heat",
+        "Total Matches": "1",
+        "First Match": "2009/10/03",
+        "Last Match": "2009/10/03",
+        "Career Span": "2009 - 2009"
+      }
+    ]
+  }
+}

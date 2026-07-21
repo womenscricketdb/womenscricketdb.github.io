@@ -1,0 +1,310 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "58.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "43.75"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "58.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS Oval",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "43.75"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CBC Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "22",
+        "High Score": "14",
+        "Average": "4.40",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "45.83"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/04/01",
+        "Opposition": "Limpopo Lillies",
+        "Position": "6",
+        "Runs": "14",
+        "Balls": "24",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "58.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/31",
+        "Opposition": "Eastern Storm",
+        "Position": "6",
+        "Runs": "7",
+        "Balls": "16",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "43.75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/03",
+        "Opposition": "Tuskers",
+        "Position": "7",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/30",
+        "Opposition": "Knights",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/02",
+        "Opposition": "Rhinos",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "3",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "12.33",
+        "Economy": "4.19"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "15.50",
+        "Economy": "4.89"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "5.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "5.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CBC Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "12.33",
+        "Economy": "4.19"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "15.50",
+        "Economy": "4.89"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 4 Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "5.57"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Wickets": "9",
+        "Average": "13.22",
+        "Economy": "4.33",
+        "Best Figures": "3/37",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/04/03",
+        "Opposition": "Tuskers",
+        "Figures": "3-37",
+        "Overs": "8.5",
+        "Economy": "4.19"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/01",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "2-18",
+        "Overs": "6",
+        "Economy": "3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/04/02",
+        "Opposition": "Rhinos",
+        "Figures": "2-31",
+        "Overs": "6.2",
+        "Economy": "4.89"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/31",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-13",
+        "Overs": "2.2",
+        "Economy": "5.57"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/30",
+        "Opposition": "Knights",
+        "Figures": "1-20",
+        "Overs": "4",
+        "Economy": "5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Heat",
+        "Total Matches": "5",
+        "First Match": "2026/03/30",
+        "Last Match": "2026/04/03",
+        "Career Span": "2026 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Heat",
+        "Total Matches": "5",
+        "First Match": "2026/03/30",
+        "Last Match": "2026/04/03",
+        "Career Span": "2026 - 2026"
+      }
+    ]
+  }
+}

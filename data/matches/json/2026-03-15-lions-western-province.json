@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Tournament": "25-26 Pro 50",
+      "Match_Date": "2026/03/15",
+      "Venue_Name": "Kingsmead stadium",
+      "Season": "25/26",
+      "Format": "List A",
+      "Team_Home_Name": "Lions",
+      "Team_Away_Name": "Western Province",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "99",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "29.3",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Team_Name": "Western Province",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "8",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "100",
+      "Team_Wickets_Lost": "2",
+      "Team_Overs_Faced": "24",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Innings_Number": "1",
+      "Player": "Diara Ramlakan",
+      "Runs": "41",
+      "Balls": "51"
+    },
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Innings_Number": "1",
+      "Player": "Sarah Nettleton",
+      "Runs": "12",
+      "Balls": "31"
+    },
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Innings_Number": "2",
+      "Player": "Delmi Tucker",
+      "Runs": "20",
+      "Balls": "34"
+    },
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Innings_Number": "2",
+      "Player": "Faye Tunnicliffe",
+      "Runs": "38",
+      "Balls": "57"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Innings_Number": "1",
+      "Player": "Caitlin Wyngaard",
+      "Wickets": "3",
+      "Runs": "25"
+    },
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Innings_Number": "1",
+      "Player": "Delmi Tucker",
+      "Wickets": "3",
+      "Runs": "18"
+    },
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Innings_Number": "2",
+      "Player": "Fay Cowling",
+      "Wickets": "0",
+      "Runs": "15"
+    },
+    {
+      "Match_Slug": "2026-03-15-lions-western-province",
+      "Innings_Number": "2",
+      "Player": "Shabnim Ismail",
+      "Wickets": "2",
+      "Runs": "34"
+    }
+  ]
+}

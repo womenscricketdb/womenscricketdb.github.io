@@ -1,0 +1,478 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "23",
+        "Average": "23.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Runs": "22",
+        "Average": "11.00",
+        "Strike-Rate": "59.46"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "72.22"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "60.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "-",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "2",
+        "Runs": "43",
+        "Average": "21.50",
+        "Strike-Rate": "82.69"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Oval",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "72.22"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SASOL Club",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "60.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "-",
+        "Strike-Rate": "16.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "62",
+        "High Score": "23",
+        "Average": "12.40",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "65.26"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "21",
+        "High Score": "15",
+        "Average": "21.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "34.43"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/03/12",
+        "Opposition": "Tuskers",
+        "Position": "8",
+        "Runs": "23",
+        "Balls": "23",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Rhinos",
+        "Position": "8",
+        "Runs": "20",
+        "Balls": "29",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "68.97"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/19",
+        "Opposition": "Heat",
+        "Position": "8",
+        "Runs": "13",
+        "Balls": "18",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "72.22"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/01/22",
+        "Opposition": "Knights",
+        "Position": "7",
+        "Runs": "4",
+        "Balls": "17",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/01/27",
+        "Opposition": "Rhinos",
+        "Position": "9",
+        "Runs": "2",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/13",
+        "Opposition": "Tuskers",
+        "Position": "5",
+        "Runs": "15",
+        "Balls": "25",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "60"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/01/23",
+        "Opposition": "Knights",
+        "Position": "8",
+        "Runs": "6*",
+        "Balls": "36",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/20",
+        "Opposition": "Heat",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Rhinos",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "7.00",
+        "Economy": "4.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "8.00",
+        "Economy": "3.20"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "12.50",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "15.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "4.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "21.00",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.67"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "8.25",
+        "Economy": "4.13"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "7.00",
+        "Economy": "4.67"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Kimberley Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "4.67"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "32.00",
+        "Economy": "5.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Wickets": "6",
+        "Average": "14.33",
+        "Economy": "5.73",
+        "Best Figures": "2/8",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "27.50",
+        "Economy": "5.00",
+        "Best Figures": "1/14",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/02/05",
+        "Opposition": "Rhinos",
+        "Figures": "2-8",
+        "Overs": "3",
+        "Economy": "2.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/02/19",
+        "Opposition": "Heat",
+        "Figures": "2-14",
+        "Overs": "3",
+        "Economy": "4.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/03/12",
+        "Opposition": "Tuskers",
+        "Figures": "2-25",
+        "Overs": "5",
+        "Economy": "5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/01/27",
+        "Opposition": "Rhinos",
+        "Figures": "0-8",
+        "Overs": "2",
+        "Economy": "4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/01/22",
+        "Opposition": "Knights",
+        "Figures": "0-31",
+        "Overs": "2",
+        "Economy": "15.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/20",
+        "Opposition": "Heat",
+        "Figures": "1-14",
+        "Overs": "3",
+        "Economy": "4.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/03/13",
+        "Opposition": "Tuskers",
+        "Figures": "1-21",
+        "Overs": "3",
+        "Economy": "7"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/01/23",
+        "Opposition": "Knights",
+        "Figures": "0-9",
+        "Overs": "2",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Rhinos",
+        "Figures": "0-11",
+        "Overs": "3",
+        "Economy": "3.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "5",
+        "First Match": "2018/01/27",
+        "Last Match": "2022/03/12",
+        "Career Span": "2018 - 2022"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "4",
+        "First Match": "2022/01/23",
+        "Last Match": "2022/03/13",
+        "Career Span": "2022 - 2022"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "9",
+        "First Match": "2018/01/27",
+        "Last Match": "2022/03/13",
+        "Career Span": "2018 - 2022"
+      }
+    ]
+  }
+}

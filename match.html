@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Match - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/match.html">
+    <meta name="description" content="Match summaries derived from ball-by-ball archive data for South African women's domestic cricket.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Match - Women's Provincial Cricket Database">
+    <meta property="og:description" content="Match summaries derived from ball-by-ball archive data for South African women's domestic cricket.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/match.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Match - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="Match summaries derived from ball-by-ball archive data for South African women's domestic cricket.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-entity-hero {
+            background: linear-gradient(180deg, #0e2c1e 0%, var(--wca-bg) 100%);
+            border-bottom: 1px solid var(--wca-border);
+            padding: 2rem 0 1.5rem;
+        }
+        .wca-entity-hero h1 { font-weight: 700; color: #fff; font-size: clamp(1.4rem, 3.2vw, 2rem); margin-bottom: 0.25rem; }
+        .wca-match-meta-line {
+            font-family: var(--wca-font-body);
+            color: var(--wca-text-dim);
+            font-size: 0.9rem;
+        }
+        .wca-match-headline {
+            font-family: var(--wca-font-body);
+            font-weight: 600;
+            color: var(--wca-gold);
+            font-size: 1.05rem;
+            margin-top: 0.5rem;
+        }
+        .wca-innings-card {
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            border-radius: 10px;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 1.25rem;
+        }
+        .wca-innings-score {
+            font-family: var(--wca-font-display);
+            font-weight: 700;
+            color: #fff;
+            font-size: 1.6rem;
+        }
+        .wca-innings-team {
+            font-family: var(--wca-font-body);
+            font-weight: 600;
+            color: var(--wca-text-dim);
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+        .wca-perf-list {
+            font-family: var(--wca-font-body);
+            font-size: 0.9rem;
+            margin: 0.75rem 0 0;
+            padding: 0;
+            list-style: none;
+        }
+        .wca-perf-list li { display: flex; justify-content: space-between; padding: 0.2rem 0; color: var(--wca-text); }
+        .wca-perf-figure { color: var(--wca-text-dim); }
+        .wca-perf-heading {
+            font-family: var(--wca-font-body);
+            font-weight: 600;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            color: var(--wca-text-dim);
+            margin-top: 1rem;
+        }
+        .wca-not-played-note {
+            font-family: var(--wca-font-body);
+            color: var(--wca-text-dim);
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<section class="wca-entity-hero">
+    <div class="container">
+        <div class="wca-breadcrumb"><a href="index.html">Home</a> / <a href="seasons.html">Seasons</a> / <span id="crumbSeason">…</span></div>
+        <h1 id="matchTitle">Loading match…</h1>
+        <p class="wca-match-meta-line" id="matchMetaLine"></p>
+        <p class="wca-match-headline" id="matchToss"></p>
+        <p class="wca-match-headline" id="matchResult"></p>
+    </div>
+</section>
+
+<main class="container py-4" id="matchBody">
+    <div class="wca-loading"><div class="wca-spinner"></div> Loading match…</div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-loader.js"></script>
+<script>
+    WCA_NAV.render("seasons");
+    WCA_NAV.renderFooter();
+
+    function inningsCard(innings) {
+        if (!innings) return "";
+        const batters = (innings.top_batters || []).map(b =>
+            `<li><span>${WCA.escapeHtml(b.player)}</span><span class="wca-perf-figure">${WCA.escapeHtml(b.runs)} (${WCA.escapeHtml(b.balls)})</span></li>`
+        ).join("");
+        const bowlers = (innings.top_bowlers || []).map(b =>
+            `<li><span>${WCA.escapeHtml(b.player)}</span><span class="wca-perf-figure">${WCA.escapeHtml(b.wickets)}/${WCA.escapeHtml(b.runs)}</span></li>`
+        ).join("");
+
+        return `
+        <div class="wca-innings-card">
+            <div class="wca-innings-team">${WCA.entityLink(innings.batting_team, "team")}</div>
+            <div class="wca-innings-score">${WCA.escapeHtml(innings.runs)}/${WCA.escapeHtml(innings.wickets)} <small style="font-size:1rem; color: var(--wca-text-dim);">(${WCA.escapeHtml(innings.overs)} overs)</small></div>
+            ${batters ? `<p class="wca-perf-heading">Top Batting</p><ul class="wca-perf-list">${batters}</ul>` : ""}
+            ${bowlers ? `<p class="wca-perf-heading">Top Bowling</p><ul class="wca-perf-list">${bowlers}</ul>` : ""}
+        </div>`;
+    }
+
+    async function load() {
+        const params = new URLSearchParams(location.search);
+        const slug = params.get("slug");
+        const body = document.getElementById("matchBody");
+
+        if (!slug) {
+            body.innerHTML = `<div class="wca-empty-state">No match specified.</div>`;
+            return;
+        }
+
+        const match = await WCA.fetchMatch(slug);
+        if (!match) {
+            body.innerHTML = `<div class="wca-empty-state">Match not found.</div>`;
+            return;
+        }
+
+        const meta = (match.meta && match.meta[0]) || null;
+        const teams = Array.isArray(match.teams) ? match.teams : [];
+        const innings = Array.isArray(match.topBatting) || Array.isArray(match.topBowling)
+            ? buildInningsFromParts(match)
+            : [];
+
+        if (!meta) {
+            body.innerHTML = `<div class="wca-empty-state">This match has no recorded details.</div>`;
+            return;
+        }
+
+        document.getElementById("pageTitle").textContent = `${meta.Team_Home_Name} v ${meta.Team_Away_Name} - Women's Provincial Cricket Database`;
+        document.getElementById("crumbSeason").textContent = meta.Season || "";
+        document.getElementById("matchTitle").innerHTML =
+            `${WCA.entityLink(meta.Team_Home_Name, "team")} v ${WCA.entityLink(meta.Team_Away_Name, "team")}`;
+        document.getElementById("matchMetaLine").innerHTML =
+            `${WCA.escapeHtml(meta.Tournament || "")} &middot; ${WCA.entityLink(meta.Venue_Name, "venue")} &middot; ${WCA.escapeHtml(meta.Match_Date || "")}`;
+
+        const winnerRow = teams.find(t => t.Match_Outcome === "Won") || null;
+        const tossRow = teams.find(t => t.Won_Toss === "1" || t.Won_Toss === 1) || null;
+        // When no team's outcome is "Won" (abandoned / no-result matches),
+        // every team row still shares the same Match_Outcome status value
+        // (e.g. "Abandoned", "No Result") - that's the real recorded
+        // result, just not a decided one, so it's read off the first row
+        // rather than treated as absent.
+        const undecidedOutcome = !winnerRow && teams.length ? (teams[0].Match_Outcome || null) : null;
+
+        document.getElementById("matchToss").textContent = WCA.tossLabel(
+            tossRow ? tossRow.Team_Name : null,
+            tossRow ? tossRow.Toss_Decision : null
+        );
+        document.getElementById("matchResult").textContent = WCA.resultLabel(
+            winnerRow ? winnerRow.Team_Name : null,
+            winnerRow ? winnerRow.Win_Margin : null,
+            winnerRow ? winnerRow.Win_Margin_Type : null,
+            undecidedOutcome
+        );
+
+        if (!teams.length) {
+            body.innerHTML = `<p class="wca-not-played-note">No further detail is recorded for this match. It may have been abandoned, no-result, or not played.</p>`;
+            return;
+        }
+
+        body.innerHTML = innings.map(inningsCard).join("") ||
+            `<p class="wca-not-played-note">Scorecard detail is not available for this match.</p>`;
+    }
+
+    /**
+     * Which team batted in which innings, derived from the toss - NOT from
+     * an Innings_Number field on `teams`, which turns out to always be
+     * blank: Team_Match is one row per team per match, and in List A/T20
+     * each team only ever bats once, so there was never a real
+     * "innings number" for that row to carry. (My mistake asking for it -
+     * it doesn't exist meaningfully at that grain.)
+     * Toss winner's own decision tells us who batted first; if toss is
+     * unrecorded, batting order genuinely can't be derived from this data
+     *, returns null rather than guessing, and the innings blocks fall
+     * back to showing only the (still-correct) top batters/bowlers with
+     * no team score line for that case.
+     */
+    function battingOrder(teams) {
+        if (!Array.isArray(teams) || teams.length !== 2) return null;
+        const tossWinner = teams.find(t => t.Won_Toss === "1" || t.Won_Toss === 1);
+        if (!tossWinner) return null;
+        const other = teams.find(t => t !== tossWinner);
+        const battedFirst = tossWinner.Toss_Decision === "Bat" ? tossWinner : other;
+        const battedSecond = battedFirst === tossWinner ? other : tossWinner;
+        return [battedFirst, battedSecond];
+    }
+
+    /** Merge team totals (from `teams`) with per-innings top performers (from topBatting/topBowling) into one array, ordered by Innings_Number. */
+    function buildInningsFromParts(match) {
+        const teams = Array.isArray(match.teams) ? match.teams : [];
+        const order = battingOrder(teams);
+        const battingByInnings = groupBy(match.topBatting || [], "Innings_Number");
+        const bowlingByInnings = groupBy(match.topBowling || [], "Innings_Number");
+        const inningsNumbers = Array.from(new Set([
+            ...Object.keys(battingByInnings), ...Object.keys(bowlingByInnings),
+        ])).sort();
+
+        return inningsNumbers.map(num => {
+            const teamRow = order ? order[num - 1] : null; // null = toss unrecorded, team score omitted for this innings
+            return {
+                innings_number: num,
+                batting_team: teamRow ? teamRow.Team_Name : null,
+                runs: teamRow ? teamRow.Team_Runs_Scored : null,
+                wickets: teamRow ? teamRow.Team_Wickets_Lost : null,
+                overs: teamRow ? teamRow.Team_Overs_Faced : null,
+                top_batters: sortBatters((battingByInnings[num] || []).map(r => ({ player: r.Player, runs: r.Runs, balls: r.Balls }))),
+                top_bowlers: sortBowlers((bowlingByInnings[num] || []).map(r => ({ player: r.Player, wickets: r.Wickets, runs: r.Runs }))),
+            };
+        });
+    }
+
+    function groupBy(rows, key) {
+        const out = {};
+        rows.forEach(r => { (out[r[key]] = out[r[key]] || []).push(r); });
+        return out;
+    }
+
+    // Don't trust the CSV's row order, QlikView's dimension limit ("top 2")
+    // and its display sort are separate settings, and the export came out
+    // limited-but-not-sorted (e.g. a 36 shown before a 212). Sort explicitly
+    // here, per the agreed rule: batters by runs desc then balls asc;
+    // bowlers by wickets desc then runs conceded asc.
+    function sortBatters(rows) {
+        return [...rows].sort((a, b) => (Number(b.runs) - Number(a.runs)) || (Number(a.balls) - Number(b.balls)));
+    }
+    function sortBowlers(rows) {
+        return [...rows].sort((a, b) => (Number(b.wickets) - Number(a.wickets)) || (Number(a.runs) - Number(b.runs)));
+    }
+
+    load();
+</script>
+</body>
+</html>

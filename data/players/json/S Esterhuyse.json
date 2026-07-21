@@ -1,0 +1,213 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "20",
+        "Average": "20.00",
+        "Strike-Rate": "25.97"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "32.26"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "20.69"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "15.15"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Recreation Ground",
+        "Innings": "3",
+        "Runs": "27",
+        "Average": "9.00",
+        "Strike-Rate": "23.68"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Military Ground",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "32.26"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Gelvandale Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "16.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "47",
+        "High Score": "20",
+        "Average": "7.83",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "22.17"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/02/23",
+        "Opposition": "Western Province",
+        "Position": "1",
+        "Runs": "20",
+        "Balls": "77",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25.97"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/23",
+        "Opposition": "Kei",
+        "Position": "2",
+        "Runs": "10",
+        "Balls": "31",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "32.26"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/02/24",
+        "Opposition": "Boland",
+        "Position": "2",
+        "Runs": "6",
+        "Balls": "29",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20.69"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/09",
+        "Opposition": "Iinyathi",
+        "Position": "2",
+        "Runs": "6",
+        "Balls": "42",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/10",
+        "Opposition": "Warriors",
+        "Position": "2",
+        "Runs": "4",
+        "Balls": "25",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Badgers",
+        "Total Matches": "6",
+        "First Match": "2013/01/27",
+        "Last Match": "2013/03/23",
+        "Career Span": "2013 - 2013"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Badgers",
+        "Total Matches": "6",
+        "First Match": "2013/01/27",
+        "Last Match": "2013/03/23",
+        "Career Span": "2013 - 2013"
+      }
+    ]
+  }
+}

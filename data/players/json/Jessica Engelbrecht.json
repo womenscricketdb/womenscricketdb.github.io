@@ -1,0 +1,213 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "35",
+        "Average": "35.00",
+        "Strike-Rate": "40.70"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "-",
+        "Strike-Rate": "144.44"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "26.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "40.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "40.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "1",
+        "Runs": "35",
+        "Average": "35.00",
+        "Strike-Rate": "40.70"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Joburg Cricket Club Ground",
+        "Innings": "3",
+        "Runs": "23",
+        "Average": "11.50",
+        "Strike-Rate": "63.89"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "40.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Wanderers",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "40.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "62",
+        "High Score": "35",
+        "Average": "12.40",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "46.97"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/02/23",
+        "Opposition": "Eastern Storm",
+        "Position": "5",
+        "Runs": "35",
+        "Balls": "86",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "40.7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/10/08",
+        "Opposition": "Limpopo Lillies",
+        "Position": "6",
+        "Runs": "13*",
+        "Balls": "9",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "144.44"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/04/06",
+        "Opposition": "Dolphins",
+        "Position": "6",
+        "Runs": "6",
+        "Balls": "12",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/01/26",
+        "Opposition": "Rhinos",
+        "Position": "2",
+        "Runs": "4",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "26.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/10/09",
+        "Opposition": "Titans",
+        "Position": "6",
+        "Runs": "2",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "40"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "6",
+        "First Match": "2011/10/08",
+        "Last Match": "2013/04/13",
+        "Career Span": "2011 - 2013"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "6",
+        "First Match": "2011/10/08",
+        "Last Match": "2013/04/13",
+        "Career Span": "2011 - 2013"
+      }
+    ]
+  }
+}

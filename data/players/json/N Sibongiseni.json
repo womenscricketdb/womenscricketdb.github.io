@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "55.56"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Gelvandale Oval",
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "55.56"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "15",
+        "High Score": "15",
+        "Average": "15.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "55.56"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2017/02/04",
+        "Opposition": "Boland",
+        "Position": "1",
+        "Runs": "15",
+        "Balls": "27",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "55.56"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Warriors",
+        "Total Matches": "1",
+        "First Match": "2017/02/04",
+        "Last Match": "2017/02/04",
+        "Career Span": "2017 - 2017"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Warriors",
+        "Total Matches": "1",
+        "First Match": "2017/02/04",
+        "Last Match": "2017/02/04",
+        "Career Span": "2017 - 2017"
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "3",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "91.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "3",
+        "Runs": "8",
+        "Average": "2.67",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "22.58"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "4",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "15.79"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "6",
+        "Runs": "19",
+        "Average": "3.80",
+        "Strike-Rate": "35.85"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Despatch Oval",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "31.82"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Fort Hare University",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. George's Outer Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "17",
+        "Runs": "32",
+        "High Score": "11",
+        "Average": "2.29",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "26.89"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2012/11/10",
+        "Opposition": "Badgers",
+        "Position": "10",
+        "Runs": "11",
+        "Balls": "12",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "91.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/15",
+        "Opposition": "Warriors",
+        "Position": "8",
+        "Runs": "7",
+        "Balls": "22",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "31.82"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/01/26",
+        "Opposition": "Boland",
+        "Position": "6",
+        "Runs": "5*",
+        "Balls": "30",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/14",
+        "Opposition": "Iinyathi",
+        "Position": "10",
+        "Runs": "3",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/02/25",
+        "Opposition": "Iinyathi",
+        "Position": "10",
+        "Runs": "2",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/06",
+        "Opposition": "Warriors",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "23.20",
+        "Economy": "5.27"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "65.25",
+        "Economy": "9.32"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "58.00",
+        "Economy": "8.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "72.00",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.20"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "13.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Ngumbela Park",
+        "Innings": "3",
+        "Wickets": "7",
+        "Average": "27.86",
+        "Economy": "6.72"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "6",
+        "Wickets": "3",
+        "Average": "87.33",
+        "Economy": "8.73"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "5.40"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "81.00",
+        "Economy": "11.57"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "15",
+        "Wickets": "12",
+        "Average": "57.42",
+        "Economy": "6.89",
+        "Best Figures": "3/55",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "13.00",
+        "Best Figures": "0/39",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/03/26",
+        "Opposition": "Badgers",
+        "Figures": "3-55",
+        "Overs": "9",
+        "Economy": "6.11"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/11/10",
+        "Opposition": "Badgers",
+        "Figures": "2-33",
+        "Overs": "6",
+        "Economy": "5.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/12",
+        "Opposition": "Boland",
+        "Figures": "2-67",
+        "Overs": "10",
+        "Economy": "6.7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/13",
+        "Opposition": "Western Province",
+        "Figures": "2-73",
+        "Overs": "10",
+        "Economy": "7.3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/01/14",
+        "Opposition": "Iinyathi",
+        "Figures": "1-27",
+        "Overs": "5",
+        "Economy": "5.4"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/06",
+        "Opposition": "Warriors",
+        "Figures": "0-39",
+        "Overs": "3",
+        "Economy": "13"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      },
+      {
+        "Format": "T20",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Kei",
+        "Total Matches": "17",
+        "First Match": "2011/01/15",
+        "Last Match": "2013/01/26",
+        "Career Span": "2011 - 2013"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Kei",
+        "Total Matches": "1",
+        "First Match": "2012/10/06",
+        "Last Match": "2012/10/06",
+        "Career Span": "2012 - 2012"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Kei",
+        "Total Matches": "18",
+        "First Match": "2011/01/15",
+        "Last Match": "2013/01/26",
+        "Career Span": "2011 - 2013"
+      }
+    ]
+  }
+}

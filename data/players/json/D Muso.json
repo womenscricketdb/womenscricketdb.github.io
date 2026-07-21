@@ -1,0 +1,348 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "3",
+        "Runs": "14",
+        "Average": "4.67",
+        "Strike-Rate": "37.84"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "42.86"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "40.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 2 Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SU Main Oval",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "40.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Victoria Pirates Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "11",
+        "Runs": "27",
+        "High Score": "12",
+        "Average": "2.45",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "34.18"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2010/11/07",
+        "Opposition": "Dolphins",
+        "Position": "9",
+        "Runs": "12",
+        "Balls": "21",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/10/09",
+        "Opposition": "Heat",
+        "Position": "8",
+        "Runs": "5",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "45.45"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/12",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "4",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/03/08",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "2",
+        "Balls": "12",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/10/18",
+        "Opposition": "Boland",
+        "Position": "9",
+        "Runs": "2",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "40"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/10/18",
+        "Opposition": "Western Province",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "13.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.55"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.29",
+        "Best Figures": "0/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2008/02/02",
+        "Opposition": "Iinyathi",
+        "Figures": "0-12",
+        "Overs": "1.5",
+        "Economy": "6.55"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/10/09",
+        "Opposition": "Heat",
+        "Figures": "0-13",
+        "Overs": "1",
+        "Economy": "13"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/12",
+        "Opposition": "Tuskers",
+        "Figures": "0-18",
+        "Overs": "4",
+        "Economy": "4.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "3",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Knights",
+        "Total Matches": "16",
+        "First Match": "2007/11/25",
+        "Last Match": "2011/03/26",
+        "Career Span": "2007 - 2011"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Knights",
+        "Total Matches": "1",
+        "First Match": "2015/10/18",
+        "Last Match": "2015/10/18",
+        "Career Span": "2015 - 2015"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Knights",
+        "Total Matches": "17",
+        "First Match": "2007/11/25",
+        "Last Match": "2015/10/18",
+        "Career Span": "2007 - 2015"
+      }
+    ]
+  }
+}

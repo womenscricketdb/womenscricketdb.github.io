@@ -1,0 +1,184 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "5.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Fichardtpark",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "5.56"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "5.56"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/04/03",
+        "Opposition": "Kei",
+        "Position": "10",
+        "Runs": "1*",
+        "Balls": "18",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "5.56"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/30",
+        "Opposition": "Iinyathi",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/31",
+        "Opposition": "Heat",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "1.40"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Fichardtpark",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "22.00",
+        "Economy": "3.14"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "3.00",
+        "Best Figures": "1/7",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2026/04/03",
+        "Opposition": "Kei",
+        "Figures": "1-7",
+        "Overs": "5",
+        "Economy": "1.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/31",
+        "Opposition": "Heat",
+        "Figures": "0-11",
+        "Overs": "4",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2026/03/30",
+        "Opposition": "Iinyathi",
+        "Figures": "0-15",
+        "Overs": "2",
+        "Economy": "7.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "3",
+        "First Match": "2026/03/30",
+        "Last Match": "2026/04/03",
+        "Career Span": "2026 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "3",
+        "First Match": "2026/03/30",
+        "Last Match": "2026/04/03",
+        "Career Span": "2026 - 2026"
+      }
+    ]
+  }
+}

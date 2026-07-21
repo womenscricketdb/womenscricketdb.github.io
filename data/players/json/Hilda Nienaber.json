@@ -1,0 +1,254 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "22",
+        "Average": "22.00",
+        "Strike-Rate": "81.48"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "20",
+        "Average": "10.00",
+        "Strike-Rate": "45.45"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "36.36"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Wanderers",
+        "Innings": "1",
+        "Runs": "22",
+        "Average": "22.00",
+        "Strike-Rate": "81.48"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "20",
+        "Average": "20.00",
+        "Strike-Rate": "46.51"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Nirvana",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Mohadin Oval",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "36.36"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "61",
+        "High Score": "22",
+        "Average": "12.20",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "53.76"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/01/14",
+        "Opposition": "Rhinos",
+        "Position": "2",
+        "Runs": "22",
+        "Balls": "27",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "81.48"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/03/12",
+        "Opposition": "Titans",
+        "Position": "5",
+        "Runs": "20",
+        "Balls": "43",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "46.51"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/05",
+        "Opposition": "Limpopo Lillies",
+        "Position": "2",
+        "Runs": "11",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/29",
+        "Opposition": "Dragons",
+        "Position": "2",
+        "Runs": "8",
+        "Balls": "22",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "36.36"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/19",
+        "Opposition": "Titans",
+        "Position": "2",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "16.33",
+        "Economy": "2.45"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "2.70"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "17.50",
+        "Economy": "3.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sturrock Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "1.40"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Mohadin Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "2.70"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "19.00",
+        "Economy": "2.53",
+        "Best Figures": "2/35",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/03/12",
+        "Opposition": "Titans",
+        "Figures": "2-35",
+        "Overs": "10",
+        "Economy": "3.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/19",
+        "Opposition": "Titans",
+        "Figures": "1-14",
+        "Overs": "10",
+        "Economy": "1.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/29",
+        "Opposition": "Dragons",
+        "Figures": "1-27",
+        "Overs": "10",
+        "Economy": "2.7"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "4",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "5",
+        "First Match": "2006/01/14",
+        "Last Match": "2006/03/12",
+        "Career Span": "2006 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "5",
+        "First Match": "2006/01/14",
+        "Last Match": "2006/03/12",
+        "Career Span": "2006 - 2006"
+      }
+    ]
+  }
+}

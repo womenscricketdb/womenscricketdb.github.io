@@ -1,0 +1,234 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "45.45"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "23.53"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "29.41"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "23.53"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "11",
+        "High Score": "6",
+        "Average": "2.75",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "22.45"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "4.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "23.53"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/03/02",
+        "Opposition": "Warriors",
+        "Position": "8",
+        "Runs": "6",
+        "Balls": "27",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/10/07",
+        "Opposition": "Iinyathi",
+        "Position": "2",
+        "Runs": "5",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "45.45"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/03/23",
+        "Opposition": "Heat",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "6",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/11/18",
+        "Opposition": "Kei",
+        "Position": "1",
+        "Runs": "0",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/11/19",
+        "Opposition": "Kei",
+        "Position": "1",
+        "Runs": "4",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "23.53"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "6.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "6.50"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "6.50",
+        "Best Figures": "1/13",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/03/02",
+        "Opposition": "Warriors",
+        "Figures": "1-13",
+        "Overs": "2",
+        "Economy": "6.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Boland",
+        "Total Matches": "4",
+        "First Match": "2023/10/07",
+        "Last Match": "2024/03/23",
+        "Career Span": "2023 - 2024"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Boland",
+        "Total Matches": "1",
+        "First Match": "2023/11/19",
+        "Last Match": "2023/11/19",
+        "Career Span": "2023 - 2023"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Boland",
+        "Total Matches": "5",
+        "First Match": "2023/10/07",
+        "Last Match": "2024/03/23",
+        "Career Span": "2023 - 2024"
+      }
+    ]
+  }
+}

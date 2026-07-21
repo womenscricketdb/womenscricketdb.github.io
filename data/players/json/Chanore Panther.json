@@ -1,0 +1,151 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "29",
+        "Average": "-",
+        "Strike-Rate": "30.53"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "28.57"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "29",
+        "Average": "-",
+        "Strike-Rate": "30.53"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Victory Park",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "28.57"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "31",
+        "High Score": "29",
+        "Average": "31.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "30.39"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2010/10/09",
+        "Opposition": "Tuskers",
+        "Position": "9",
+        "Runs": "29*",
+        "Balls": "95",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "30.53"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/16",
+        "Opposition": "Dragons",
+        "Position": "2",
+        "Runs": "2",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/01/12",
+        "Opposition": "Dragons",
+        "Position": "9",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.63"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.63",
+        "Best Figures": "0/11",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/01/12",
+        "Opposition": "Dragons",
+        "Figures": "0-11",
+        "Overs": "2",
+        "Economy": "5.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/16",
+        "Opposition": "Dragons",
+        "Figures": "0-26",
+        "Overs": "6",
+        "Economy": "4.33"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "3",
+        "First Match": "2010/10/09",
+        "Last Match": "2013/03/16",
+        "Career Span": "2010 - 2013"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "3",
+        "First Match": "2010/10/09",
+        "Last Match": "2013/03/16",
+        "Career Span": "2010 - 2013"
+      }
+    ]
+  }
+}

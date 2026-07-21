@@ -1,0 +1,124 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "17.65"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Outer Oval",
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "17.14"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Runs": "6",
+        "High Score": "6",
+        "Average": "3.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "17.14"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/11/06",
+        "Opposition": "Lions",
+        "Position": "8",
+        "Runs": "6",
+        "Balls": "34",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "17.65"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/11/05",
+        "Opposition": "Rhinos",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.75"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.75",
+        "Best Figures": "0/15",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/11/06",
+        "Opposition": "Lions",
+        "Figures": "0-15",
+        "Overs": "4",
+        "Economy": "3.75"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2011/11/05",
+        "Last Match": "2011/11/06",
+        "Career Span": "2011 - 2011"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "2",
+        "First Match": "2011/11/05",
+        "Last Match": "2011/11/06",
+        "Career Span": "2011 - 2011"
+      }
+    ]
+  }
+}

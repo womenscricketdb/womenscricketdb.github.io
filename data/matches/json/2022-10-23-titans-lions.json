@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Tournament": "22-23 CSA Women's Provincial T20 Competition",
+      "Match_Date": "2022/10/23",
+      "Venue_Name": "Hammanskraal Oval",
+      "Season": "22/23",
+      "Format": "T20",
+      "Team_Home_Name": "Titans",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "16",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "100",
+      "Team_Wickets_Lost": "8",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Team_Name": "Titans",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "84",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "19.1",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Innings_Number": "1",
+      "Player": "Palesa Mapoo",
+      "Runs": "25",
+      "Balls": "34"
+    },
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Innings_Number": "1",
+      "Player": "Yolani Fourie",
+      "Runs": "18",
+      "Balls": "20"
+    },
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Innings_Number": "2",
+      "Player": "Suné Luus",
+      "Runs": "18",
+      "Balls": "18"
+    },
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Innings_Number": "2",
+      "Player": "Sunette Viljoen-Louw",
+      "Runs": "14",
+      "Balls": "10"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Innings_Number": "1",
+      "Player": "Lesedi Madisha",
+      "Wickets": "2",
+      "Runs": "20"
+    },
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Innings_Number": "1",
+      "Player": "Paulinah Mashishi",
+      "Wickets": "2",
+      "Runs": "8"
+    },
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Innings_Number": "2",
+      "Player": "Kirstie Thomson",
+      "Wickets": "2",
+      "Runs": "9"
+    },
+    {
+      "Match_Slug": "2022-10-23-titans-lions",
+      "Innings_Number": "2",
+      "Player": "Samantha Schutte",
+      "Wickets": "4",
+      "Runs": "7"
+    }
+  ]
+}

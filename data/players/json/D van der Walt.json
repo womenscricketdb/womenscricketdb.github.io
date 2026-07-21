@@ -1,0 +1,326 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "48.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "34.38"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "27.27"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "8.70"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Lenasia Stadium",
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "48.57"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "26.53"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP Main Oval",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "23.08"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UP 4 Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.14"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "9",
+        "Runs": "34",
+        "High Score": "11",
+        "Average": "3.78",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "28.57"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/11/03",
+        "Opposition": "Dragons",
+        "Position": "3",
+        "Runs": "11",
+        "Balls": "32",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "34.38"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/10/03",
+        "Opposition": "Lions",
+        "Position": "6",
+        "Runs": "9",
+        "Balls": "15",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "60"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/10/13",
+        "Opposition": "Lions",
+        "Position": "4",
+        "Runs": "8",
+        "Balls": "20",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "40"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/03/27",
+        "Opposition": "Warriors",
+        "Position": "1",
+        "Runs": "3",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "27.27"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/10/20",
+        "Opposition": "Titans",
+        "Position": "3",
+        "Runs": "2",
+        "Balls": "17",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "11.76"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "19.00",
+        "Economy": "6.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "18.50",
+        "Economy": "5.29"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "7",
+        "Wickets": "2",
+        "Average": "63.00",
+        "Economy": "4.85",
+        "Best Figures": "1/18",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/10/20",
+        "Opposition": "Titans",
+        "Figures": "1-18",
+        "Overs": "4",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/11/03",
+        "Opposition": "Dragons",
+        "Figures": "1-19",
+        "Overs": "3",
+        "Economy": "6.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2008/03/28",
+        "Opposition": "Badgers",
+        "Figures": "0-2",
+        "Overs": "1",
+        "Economy": "2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/11/10",
+        "Opposition": "Heat",
+        "Figures": "0-14",
+        "Overs": "6",
+        "Economy": "2.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/10/13",
+        "Opposition": "Lions",
+        "Figures": "0-19",
+        "Overs": "2",
+        "Economy": "9.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "5",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "4"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "10",
+        "First Match": "2007/10/13",
+        "Last Match": "2009/11/01",
+        "Career Span": "2007 - 2009"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "10",
+        "First Match": "2007/10/13",
+        "Last Match": "2009/11/01",
+        "Career Span": "2007 - 2009"
+      }
+    ]
+  }
+}

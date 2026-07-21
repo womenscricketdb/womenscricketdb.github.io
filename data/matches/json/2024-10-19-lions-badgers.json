@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Tournament": "24-25 Pro 50",
+      "Match_Date": "2024/10/19",
+      "Venue_Name": "Wanderers",
+      "Season": "24/25",
+      "Format": "List A",
+      "Team_Home_Name": "Lions",
+      "Team_Away_Name": "Badgers",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "183",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "38.3",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "116",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "299",
+      "Team_Wickets_Lost": "8",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Innings_Number": "1",
+      "Player": "Fay Cowling",
+      "Runs": "82",
+      "Balls": "54"
+    },
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Innings_Number": "1",
+      "Player": "Sunette Viljoen-Louw",
+      "Runs": "95",
+      "Balls": "107"
+    },
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Innings_Number": "2",
+      "Player": "Mochelle May",
+      "Runs": "58",
+      "Balls": "71"
+    },
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Innings_Number": "2",
+      "Player": "Nicolien Janse van Rensburg",
+      "Runs": "60",
+      "Balls": "99"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Innings_Number": "1",
+      "Player": "Julandi Saayman",
+      "Wickets": "4",
+      "Runs": "35"
+    },
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Innings_Number": "1",
+      "Player": "Micaela Andrews",
+      "Wickets": "1",
+      "Runs": "49"
+    },
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Innings_Number": "2",
+      "Player": "Fay Cowling",
+      "Wickets": "4",
+      "Runs": "38"
+    },
+    {
+      "Match_Slug": "2024-10-19-lions-badgers",
+      "Innings_Number": "2",
+      "Player": "Raisibe Ntozakhe",
+      "Wickets": "1",
+      "Runs": "24"
+    }
+  ]
+}

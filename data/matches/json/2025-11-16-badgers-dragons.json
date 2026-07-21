@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Tournament": "25-26 Pro 20",
+      "Match_Date": "2025/11/16",
+      "Venue_Name": "Recreation Ground",
+      "Season": "25/26",
+      "Format": "T20",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Dragons",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "139",
+      "Team_Wickets_Lost": "7",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Team_Name": "Dragons",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "27",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "166",
+      "Team_Wickets_Lost": "4",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Innings_Number": "1",
+      "Player": "Lizri de Villiers",
+      "Runs": "41",
+      "Balls": "34"
+    },
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Innings_Number": "1",
+      "Player": "Mignon du Preez",
+      "Runs": "89",
+      "Balls": "55"
+    },
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Innings_Number": "2",
+      "Player": "Julia Hoal",
+      "Runs": "54",
+      "Balls": "32"
+    },
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Innings_Number": "2",
+      "Player": "Zintle Kula",
+      "Runs": "34",
+      "Balls": "29"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Innings_Number": "1",
+      "Player": "Khayakazi Mathe",
+      "Wickets": "2",
+      "Runs": "24"
+    },
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Innings_Number": "1",
+      "Player": "Zintle Kula",
+      "Wickets": "1",
+      "Runs": "26"
+    },
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Innings_Number": "2",
+      "Player": "Alyssa Erxleben",
+      "Wickets": "1",
+      "Runs": "20"
+    },
+    {
+      "Match_Slug": "2025-11-16-badgers-dragons",
+      "Innings_Number": "2",
+      "Player": "Katlego Sethlodi",
+      "Wickets": "1",
+      "Runs": "22"
+    }
+  ]
+}

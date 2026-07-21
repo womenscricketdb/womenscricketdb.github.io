@@ -1,0 +1,143 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "56",
+        "Average": "56.00",
+        "Strike-Rate": "77.78"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Runs": "56",
+        "Average": "56.00",
+        "Strike-Rate": "77.78"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "56",
+        "High Score": "56",
+        "Average": "18.67",
+        "50s": "1",
+        "100s": "0",
+        "Strike Rate*": "57.73"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2014/11/15",
+        "Opposition": "Tuskers",
+        "Position": "5",
+        "Runs": "56",
+        "Balls": "72",
+        "Fours": "9",
+        "Sixes": "0",
+        "Strike-Rate": "77.78"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/23",
+        "Opposition": "Titans",
+        "Position": "4",
+        "Runs": "0",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/02/24",
+        "Opposition": "Titans",
+        "Position": "2",
+        "Runs": "0",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.83"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.83",
+        "Best Figures": "0/59",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/02/24",
+        "Opposition": "Titans",
+        "Figures": "0-59",
+        "Overs": "6",
+        "Economy": "9.83"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "1",
+        "Matches as Captain": "1"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "3",
+        "First Match": "2013/02/24",
+        "Last Match": "2014/11/15",
+        "Career Span": "2013 - 2014"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "3",
+        "First Match": "2013/02/24",
+        "Last Match": "2014/11/15",
+        "Career Span": "2013 - 2014"
+      }
+    ]
+  }
+}

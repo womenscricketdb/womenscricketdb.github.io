@@ -1,0 +1,451 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "20.45"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "15.38"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "6.67"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "46.15"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "200.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park B Field",
+        "Innings": "4",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "26.47"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Cambridge Academy",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "-",
+        "Strike-Rate": "55.56"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "11.76"
+      },
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Witbank High School Ground",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "46.15"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Capricorn High School",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "200.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "11",
+        "Runs": "22",
+        "High Score": "5",
+        "Average": "2.20",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "22.00"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "14",
+        "High Score": "12",
+        "Average": "14.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "51.85"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2019/11/23",
+        "Opposition": "Rhinos",
+        "Position": "10",
+        "Runs": "5*",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "55.56"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/02/01",
+        "Opposition": "Tuskers",
+        "Position": "6",
+        "Runs": "4",
+        "Balls": "12",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/04",
+        "Opposition": "Tuskers",
+        "Position": "3",
+        "Runs": "4",
+        "Balls": "13",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "30.77"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/10/26",
+        "Opposition": "Eastern Storm",
+        "Position": "1",
+        "Runs": "3",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/05",
+        "Opposition": "Rhinos",
+        "Position": "6",
+        "Runs": "3",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "60"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/11/24",
+        "Opposition": "Rhinos",
+        "Position": "5",
+        "Runs": "12",
+        "Balls": "26",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "46.15"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/02/23",
+        "Opposition": "Heat",
+        "Position": "7",
+        "Runs": "2*",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "200"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/02/02",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "18.00",
+        "Economy": "2.84"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "25.50",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "43.00",
+        "Economy": "3.19"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.70"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "6.50",
+        "Economy": "3.25"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park B Field",
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "24.25",
+        "Economy": "2.94"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Cambridge Academy",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "12.00",
+        "Economy": "2.67"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Witbank High School Ground",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "6.50",
+        "Economy": "3.25"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Capricorn High School",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "5.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "8",
+        "Wickets": "6",
+        "Average": "27.50",
+        "Economy": "2.77",
+        "Best Figures": "2/24",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "12.33",
+        "Economy": "3.70",
+        "Best Figures": "2/13",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2019/11/23",
+        "Opposition": "Rhinos",
+        "Figures": "2-24",
+        "Overs": "9",
+        "Economy": "2.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/06",
+        "Opposition": "Eastern Storm",
+        "Figures": "2-26",
+        "Overs": "10",
+        "Economy": "2.6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/05",
+        "Opposition": "Rhinos",
+        "Figures": "1-30",
+        "Overs": "10",
+        "Economy": "3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/07",
+        "Opposition": "Heat",
+        "Figures": "1-36",
+        "Overs": "10",
+        "Economy": "3.6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/04",
+        "Opposition": "Tuskers",
+        "Figures": "0-5",
+        "Overs": "3",
+        "Economy": "1.67"
+      },
+      {
+        "Format": "T20",
+        "Date": "2019/11/24",
+        "Opposition": "Rhinos",
+        "Figures": "2-13",
+        "Overs": "4",
+        "Economy": "3.25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/02/23",
+        "Opposition": "Heat",
+        "Figures": "1-15",
+        "Overs": "3",
+        "Economy": "5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/02/02",
+        "Opposition": "Tuskers",
+        "Figures": "0-9",
+        "Overs": "3",
+        "Economy": "3"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "11",
+        "First Match": "2018/10/27",
+        "Last Match": "2021/03/07",
+        "Career Span": "2018 - 2021"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "3",
+        "First Match": "2019/11/24",
+        "Last Match": "2020/02/23",
+        "Career Span": "2019 - 2020"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "14",
+        "First Match": "2018/10/27",
+        "Last Match": "2021/03/07",
+        "Career Span": "2018 - 2021"
+      }
+    ]
+  }
+}

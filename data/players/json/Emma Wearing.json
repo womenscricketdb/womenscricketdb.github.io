@@ -1,0 +1,178 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "23.73"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "10.53"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "13.64"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "2",
+        "Runs": "14",
+        "Average": "7.00",
+        "Strike-Rate": "22.95"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St George's Park",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "10.53"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "13.64"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "21",
+        "High Score": "14",
+        "Average": "5.25",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "17.36"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/03/16",
+        "Opposition": "Kei",
+        "Position": "2",
+        "Runs": "14",
+        "Balls": "59",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "23.73"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/10/01",
+        "Opposition": "Warriors",
+        "Position": "2",
+        "Runs": "4",
+        "Balls": "38",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10.53"
+      },
+      {
+        "Format": "List A",
+        "Date": "2024/02/10",
+        "Opposition": "Heat",
+        "Position": "3",
+        "Runs": "3",
+        "Balls": "22",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "13.64"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/03/25",
+        "Opposition": "Knights",
+        "Position": "2",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "4",
+        "First Match": "2022/10/01",
+        "Last Match": "2024/03/16",
+        "Career Span": "2022 - 2024"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "4",
+        "First Match": "2022/10/01",
+        "Last Match": "2024/03/16",
+        "Career Span": "2022 - 2024"
+      }
+    ]
+  }
+}

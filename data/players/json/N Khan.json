@@ -1,0 +1,140 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Walter Milton Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "23.53"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "4.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "23.53"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/11/05",
+        "Opposition": "Lions",
+        "Position": "7",
+        "Runs": "4",
+        "Balls": "17",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/11/04",
+        "Opposition": "Dragons",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.17",
+        "Best Figures": "0/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2006/11/04",
+        "Opposition": "Dragons",
+        "Figures": "0-12",
+        "Overs": "4",
+        "Economy": "3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/11/05",
+        "Opposition": "Lions",
+        "Figures": "0-19",
+        "Overs": "2",
+        "Economy": "9.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "2",
+        "First Match": "2006/11/04",
+        "Last Match": "2006/11/05",
+        "Career Span": "2006 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "2",
+        "First Match": "2006/11/04",
+        "Last Match": "2006/11/05",
+        "Career Span": "2006 - 2006"
+      }
+    ]
+  }
+}

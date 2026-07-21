@@ -1,0 +1,194 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "160.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "O'Grady's",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "160.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Defence Ground",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kimberley Boys' High School",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "11",
+        "High Score": "8",
+        "Average": "2.75",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "91.67"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/01/14",
+        "Opposition": "Rhinos",
+        "Position": "10",
+        "Runs": "8",
+        "Balls": "5",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "160"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/12",
+        "Opposition": "Badgers",
+        "Position": "10",
+        "Runs": "2",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/13",
+        "Opposition": "Tuskers",
+        "Position": "10",
+        "Runs": "1",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/11",
+        "Opposition": "Heat",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.40"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33",
+        "Best Figures": "0/7",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/01/12",
+        "Opposition": "Badgers",
+        "Figures": "0-7",
+        "Overs": "1",
+        "Economy": "7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/01/13",
+        "Opposition": "Tuskers",
+        "Figures": "0-37",
+        "Overs": "5",
+        "Economy": "7.4"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "4",
+        "First Match": "2009/01/11",
+        "Last Match": "2009/01/14",
+        "Career Span": "2009 - 2009"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Eastern Storm",
+        "Total Matches": "4",
+        "First Match": "2009/01/11",
+        "Last Match": "2009/01/14",
+        "Career Span": "2009 - 2009"
+      }
+    ]
+  }
+}

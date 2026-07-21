@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Tournament": "23-24 CSA Women's Professional League",
+      "Match_Date": "2023/10/14",
+      "Venue_Name": "Wanderers",
+      "Season": "23/24",
+      "Format": "List A",
+      "Team_Home_Name": "Lions",
+      "Team_Away_Name": "Titans",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Won",
+      "Win_Margin": "4",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "265",
+      "Team_Wickets_Lost": "6",
+      "Team_Overs_Faced": "47.5",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Team_Name": "Titans",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "264",
+      "Team_Wickets_Lost": "6",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Amogelang Maphangula",
+      "Runs": "48",
+      "Balls": "32"
+    },
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Simone Lourens",
+      "Runs": "102",
+      "Balls": "114"
+    },
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Jenna Evans",
+      "Runs": "104",
+      "Balls": "97"
+    },
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Nonkhululeko Thabethe",
+      "Runs": "94",
+      "Balls": "123"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Jameelah Shaikjee",
+      "Wickets": "2",
+      "Runs": "55"
+    },
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Kgomotso Rapoo",
+      "Wickets": "1",
+      "Runs": "58"
+    },
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Eliz-Mari Marx",
+      "Wickets": "2",
+      "Runs": "43"
+    },
+    {
+      "Match_Slug": "2023-10-14-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Kay-Leigh Tapp",
+      "Wickets": "3",
+      "Runs": "35"
+    }
+  ]
+}

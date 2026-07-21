@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Tournament": "13-14 CSA Women's Provincial League",
+      "Match_Date": "2014/01/12",
+      "Venue_Name": "Freeman Park Ground",
+      "Season": "13/14",
+      "Format": "List A",
+      "Team_Home_Name": "Lions",
+      "Team_Away_Name": "Rhinos",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Won",
+      "Win_Margin": "189",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "319",
+      "Team_Wickets_Lost": "6",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Team_Name": "Rhinos",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "130",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "28.1",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Innings_Number": "1",
+      "Player": "Cri-Zelda Brits",
+      "Runs": "56",
+      "Balls": "77"
+    },
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Innings_Number": "1",
+      "Player": "Thandile Cordes",
+      "Runs": "122",
+      "Balls": "137"
+    },
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Innings_Number": "2",
+      "Player": "C Labuschagne",
+      "Runs": "21",
+      "Balls": "23"
+    },
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Innings_Number": "2",
+      "Player": "Shania-Lee Swart",
+      "Runs": "43",
+      "Balls": "34"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Innings_Number": "1",
+      "Player": "C Labuschagne",
+      "Wickets": "2",
+      "Runs": "65"
+    },
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Innings_Number": "1",
+      "Player": "Petunia Macassa",
+      "Wickets": "2",
+      "Runs": "18"
+    },
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Innings_Number": "2",
+      "Player": "Jessica Perreira",
+      "Wickets": "2",
+      "Runs": "19"
+    },
+    {
+      "Match_Slug": "2014-01-12-lions-rhinos",
+      "Innings_Number": "2",
+      "Player": "L Morake",
+      "Wickets": "3",
+      "Runs": "20"
+    }
+  ]
+}

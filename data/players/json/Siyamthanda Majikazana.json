@@ -1,0 +1,135 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Grey College B Ground",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Runs": "8",
+        "High Score": "8",
+        "Average": "2.67",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "32.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/03/31",
+        "Opposition": "Knights",
+        "Position": "11",
+        "Runs": "8",
+        "Balls": "16",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/04/02",
+        "Opposition": "Knights",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/03/30",
+        "Opposition": "Boland",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00",
+        "Best Figures": "0/16",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2016/04/02",
+        "Opposition": "Knights",
+        "Figures": "0-16",
+        "Overs": "2",
+        "Economy": "8"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Warriors",
+        "Total Matches": "3",
+        "First Match": "2016/03/30",
+        "Last Match": "2016/04/02",
+        "Career Span": "2016 - 2016"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Warriors",
+        "Total Matches": "3",
+        "First Match": "2016/03/30",
+        "Last Match": "2016/04/02",
+        "Career Span": "2016 - 2016"
+      }
+    ]
+  }
+}

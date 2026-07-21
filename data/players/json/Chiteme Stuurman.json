@@ -1,0 +1,334 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "3",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "17.78"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "15.38"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "13.04"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Wanderers",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "22.22"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "12",
+        "High Score": "4",
+        "Average": "3.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "13.79"
+      },
+      {
+        "Format": "T20",
+        "Innings": "2",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "0.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "0.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2018/10/13",
+        "Opposition": "Lions",
+        "Position": "6",
+        "Runs": "4",
+        "Balls": "16",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/11/03",
+        "Opposition": "Dragons",
+        "Position": "7",
+        "Runs": "4",
+        "Balls": "26",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "15.38"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/03/31",
+        "Opposition": "Lions",
+        "Position": "11",
+        "Runs": "2*",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "22.22"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/11/04",
+        "Opposition": "Lions",
+        "Position": "7",
+        "Runs": "2",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/11/17",
+        "Opposition": "Boland",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "16",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/11/04",
+        "Opposition": "Dragons",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "8",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/11/18",
+        "Opposition": "Boland",
+        "Position": "7",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/11/26",
+        "Opposition": "Western Province",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/10/15",
+        "Opposition": "Dragons",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "6.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "6.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Wine Farm Cricket Field",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "5.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "9.33",
+        "Economy": "5.09",
+        "Best Figures": "2/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2018/11/03",
+        "Opposition": "Dragons",
+        "Figures": "2-12",
+        "Overs": "3",
+        "Economy": "4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/11/17",
+        "Opposition": "Boland",
+        "Figures": "1-10",
+        "Overs": "2",
+        "Economy": "5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/03/31",
+        "Opposition": "Lions",
+        "Figures": "0-6",
+        "Overs": "0.3",
+        "Economy": "12"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "6",
+        "First Match": "2017/03/31",
+        "Last Match": "2018/11/17",
+        "Career Span": "2017 - 2018"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "4",
+        "First Match": "2017/10/15",
+        "Last Match": "2018/11/18",
+        "Career Span": "2017 - 2018"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "10",
+        "First Match": "2017/03/31",
+        "Last Match": "2018/11/18",
+        "Career Span": "2017 - 2018"
+      }
+    ]
+  }
+}

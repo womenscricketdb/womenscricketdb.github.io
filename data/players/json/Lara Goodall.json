@@ -1,0 +1,944 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "15",
+        "Runs": "447",
+        "Average": "31.93",
+        "Strike-Rate": "67.02"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "11",
+        "Runs": "415",
+        "Average": "41.50",
+        "Strike-Rate": "71.92"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "9",
+        "Runs": "343",
+        "Average": "49.00",
+        "Strike-Rate": "84.07"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "6",
+        "Runs": "136",
+        "Average": "27.20",
+        "Strike-Rate": "51.71"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "12",
+        "Runs": "133",
+        "Average": "11.08",
+        "Strike-Rate": "56.60"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "3",
+        "Runs": "124",
+        "Average": "41.33",
+        "Strike-Rate": "100.81"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "11",
+        "Runs": "79",
+        "Average": "9.88",
+        "Strike-Rate": "48.47"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "4",
+        "Runs": "63",
+        "Average": "15.75",
+        "Strike-Rate": "58.88"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "3",
+        "Runs": "18",
+        "Average": "6.00",
+        "Strike-Rate": "45.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "4",
+        "Runs": "15",
+        "Average": "5.00",
+        "Strike-Rate": "51.72"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "8",
+        "Runs": "210",
+        "Average": "26.25",
+        "Strike-Rate": "119.32"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "8",
+        "Runs": "153",
+        "Average": "19.13",
+        "Strike-Rate": "106.25"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "12",
+        "Runs": "121",
+        "Average": "10.08",
+        "Strike-Rate": "70.76"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "6",
+        "Runs": "107",
+        "Average": "17.83",
+        "Strike-Rate": "96.40"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "4",
+        "Runs": "91",
+        "Average": "30.33",
+        "Strike-Rate": "121.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "5",
+        "Runs": "90",
+        "Average": "30.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "5",
+        "Runs": "87",
+        "Average": "21.75",
+        "Strike-Rate": "97.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Newlands Stadium",
+        "Innings": "11",
+        "Runs": "268",
+        "Average": "26.80",
+        "Strike-Rate": "72.43"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "5",
+        "Runs": "183",
+        "Average": "36.60",
+        "Strike-Rate": "73.20"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Old Mutual Sports Club Ground",
+        "Innings": "15",
+        "Runs": "175",
+        "Average": "12.50",
+        "Strike-Rate": "45.81"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "4",
+        "Runs": "151",
+        "Average": "37.75",
+        "Strike-Rate": "80.75"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Grey College A Ground",
+        "Innings": "2",
+        "Runs": "132",
+        "Average": "-",
+        "Strike-Rate": "114.78"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 2 Oval",
+        "Innings": "4",
+        "Runs": "114",
+        "Average": "28.50",
+        "Strike-Rate": "76.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "2",
+        "Runs": "95",
+        "Average": "95.00",
+        "Strike-Rate": "52.78"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Baytopp",
+        "Innings": "1",
+        "Runs": "80",
+        "Average": "80.00",
+        "Strike-Rate": "102.56"
+      },
+      {
+        "Format": "List A",
+        "Venue": "RJE Burt Oval",
+        "Innings": "1",
+        "Runs": "70",
+        "Average": "70.00",
+        "Strike-Rate": "86.42"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Wanderers",
+        "Innings": "3",
+        "Runs": "66",
+        "Average": "22.00",
+        "Strike-Rate": "74.16"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Centurion Park",
+        "Innings": "1",
+        "Runs": "58",
+        "Average": "58.00",
+        "Strike-Rate": "100.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammanskraal Oval",
+        "Innings": "2",
+        "Runs": "49",
+        "Average": "24.50",
+        "Strike-Rate": "72.06"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 4 Oval",
+        "Innings": "4",
+        "Runs": "46",
+        "Average": "11.50",
+        "Strike-Rate": "39.66"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Runs": "42",
+        "Average": "42.00",
+        "Strike-Rate": "97.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "2",
+        "Runs": "39",
+        "Average": "19.50",
+        "Strike-Rate": "60.94"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Vossie",
+        "Innings": "2",
+        "Runs": "31",
+        "Average": "15.50",
+        "Strike-Rate": "48.44"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "24",
+        "Average": "24.00",
+        "Strike-Rate": "75.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "2",
+        "Runs": "24",
+        "Average": "12.00",
+        "Strike-Rate": "96.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Grey College B Ground",
+        "Innings": "1",
+        "Runs": "23",
+        "Average": "23.00",
+        "Strike-Rate": "41.07"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Alan Lawson Oval",
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "61.29"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Khaya Majola Oval",
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "47.22"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Newlands Stadium",
+        "Innings": "11",
+        "Runs": "227",
+        "Average": "22.70",
+        "Strike-Rate": "112.38"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "4",
+        "Runs": "119",
+        "Average": "29.75",
+        "Strike-Rate": "123.96"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Centurion Park",
+        "Innings": "2",
+        "Runs": "87",
+        "Average": "43.50",
+        "Strike-Rate": "110.13"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Kingsmead stadium",
+        "Innings": "4",
+        "Runs": "84",
+        "Average": "21.00",
+        "Strike-Rate": "103.70"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Hammanskraal Oval",
+        "Innings": "2",
+        "Runs": "75",
+        "Average": "37.50",
+        "Strike-Rate": "125.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Old Mutual Sports Club Ground",
+        "Innings": "10",
+        "Runs": "66",
+        "Average": "7.33",
+        "Strike-Rate": "72.53"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Boland Park, Paarl",
+        "Innings": "2",
+        "Runs": "54",
+        "Average": "54.00",
+        "Strike-Rate": "120.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "3",
+        "Runs": "36",
+        "Average": "18.00",
+        "Strike-Rate": "72.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Wine Farm Cricket Field",
+        "Innings": "1",
+        "Runs": "33",
+        "Average": "33.00",
+        "Strike-Rate": "84.62"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Recreation Ground",
+        "Innings": "1",
+        "Runs": "25",
+        "Average": "25.00",
+        "Strike-Rate": "108.70"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Wanderers",
+        "Innings": "3",
+        "Runs": "19",
+        "Average": "6.33",
+        "Strike-Rate": "61.29"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Cecil Payne Stadium",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "60.87"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "63.16"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Alan Lawson Oval",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "50.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "78",
+        "Runs": "1773",
+        "High Score": "111",
+        "Average": "25.70",
+        "50s": "11",
+        "100s": "1",
+        "Strike Rate*": "67.88"
+      },
+      {
+        "Format": "T20",
+        "Innings": "49",
+        "Runs": "862",
+        "High Score": "60",
+        "Average": "19.16",
+        "50s": "2",
+        "100s": "0",
+        "Strike Rate*": "100.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2025/10/25",
+        "Opposition": "Titans",
+        "Position": "1",
+        "Runs": "111",
+        "Balls": "145",
+        "Fours": "10",
+        "Sixes": "0",
+        "Strike-Rate": "76.55"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/04/01",
+        "Opposition": "Dragons",
+        "Position": "2",
+        "Runs": "86*",
+        "Balls": "74",
+        "Fours": "11",
+        "Sixes": "0",
+        "Strike-Rate": "116.22"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/24",
+        "Opposition": "Dolphins",
+        "Position": "2",
+        "Runs": "80",
+        "Balls": "78",
+        "Fours": "10",
+        "Sixes": "1",
+        "Strike-Rate": "102.56"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/03/01",
+        "Opposition": "Dolphins",
+        "Position": "2",
+        "Runs": "75",
+        "Balls": "80",
+        "Fours": "8",
+        "Sixes": "1",
+        "Strike-Rate": "93.75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2017/03/30",
+        "Opposition": "Iinyathi",
+        "Position": "4",
+        "Runs": "74",
+        "Balls": "63",
+        "Fours": "10",
+        "Sixes": "1",
+        "Strike-Rate": "117.46"
+      },
+      {
+        "Format": "T20",
+        "Date": "2025/11/02",
+        "Opposition": "Dragons",
+        "Position": "2",
+        "Runs": "60",
+        "Balls": "37",
+        "Fours": "10",
+        "Sixes": "1",
+        "Strike-Rate": "162.16"
+      },
+      {
+        "Format": "T20",
+        "Date": "2017/02/26",
+        "Opposition": "Boland",
+        "Position": "2",
+        "Runs": "53",
+        "Balls": "42",
+        "Fours": "7",
+        "Sixes": "0",
+        "Strike-Rate": "126.19"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/11/08",
+        "Opposition": "Titans",
+        "Position": "1",
+        "Runs": "49",
+        "Balls": "52",
+        "Fours": "2",
+        "Sixes": "1",
+        "Strike-Rate": "94.23"
+      },
+      {
+        "Format": "T20",
+        "Date": "2024/10/13",
+        "Opposition": "Knights",
+        "Position": "3",
+        "Runs": "48",
+        "Balls": "34",
+        "Fours": "6",
+        "Sixes": "2",
+        "Strike-Rate": "141.18"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/23",
+        "Opposition": "Badgers",
+        "Position": "2",
+        "Runs": "42*",
+        "Balls": "38",
+        "Fours": "6",
+        "Sixes": "0",
+        "Strike-Rate": "110.53"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "5",
+        "Wickets": "8",
+        "Average": "11.00",
+        "Economy": "2.93"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "5",
+        "Wickets": "6",
+        "Average": "16.83",
+        "Economy": "3.37"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "11.50",
+        "Economy": "3.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "17.60",
+        "Economy": "5.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "7",
+        "Wickets": "5",
+        "Average": "27.60",
+        "Economy": "4.22"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "8.00",
+        "Economy": "2.59"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Kei",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "2.67",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "17.00",
+        "Economy": "2.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "121.00",
+        "Economy": "3.74"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "10.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "5.33",
+        "Economy": "3.20"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "6.50",
+        "Economy": "1.63"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "15.50",
+        "Economy": "4.43"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.25"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Old Mutual Sports Club Ground",
+        "Innings": "13",
+        "Wickets": "14",
+        "Average": "13.43",
+        "Economy": "3.02"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Grey College A Ground",
+        "Innings": "2",
+        "Wickets": "5",
+        "Average": "7.80",
+        "Economy": "2.89"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kemsley Park",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "6.75",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "11.33",
+        "Economy": "4.86"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Tokkie Park",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "15.67",
+        "Economy": "4.86"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Old Mutual Sports Club Ground",
+        "Innings": "6",
+        "Wickets": "8",
+        "Average": "6.25",
+        "Economy": "3.33"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "5.50",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Alan Lawson Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "22.00",
+        "Economy": "5.50"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Sinovich Park",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "5.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "38",
+        "Wickets": "39",
+        "Average": "17.77",
+        "Economy": "3.60",
+        "Best Figures": "4/27",
+        "3-fors": "6",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "12",
+        "Wickets": "13",
+        "Average": "11.85",
+        "Economy": "4.40",
+        "Best Figures": "3/15",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/02/09",
+        "Opposition": "Warriors",
+        "Figures": "4-27",
+        "Overs": "6",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2016/03/30",
+        "Opposition": "Dolphins",
+        "Figures": "3-6",
+        "Overs": "5.3",
+        "Economy": "1.09"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/12/01",
+        "Opposition": "Lions",
+        "Figures": "3-9",
+        "Overs": "8",
+        "Economy": "1.12"
+      },
+      {
+        "Format": "List A",
+        "Date": "2018/02/24",
+        "Opposition": "Dragons",
+        "Figures": "3-12",
+        "Overs": "6",
+        "Economy": "2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/03/28",
+        "Opposition": "Titans",
+        "Figures": "3-22",
+        "Overs": "4.4",
+        "Economy": "4.71"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/07",
+        "Opposition": "Badgers",
+        "Figures": "3-15",
+        "Overs": "3",
+        "Economy": "5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/02/28",
+        "Opposition": "Boland",
+        "Figures": "2-6",
+        "Overs": "4",
+        "Economy": "1.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/02/25",
+        "Opposition": "Dragons",
+        "Figures": "2-8",
+        "Overs": "2",
+        "Economy": "4"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/10/18",
+        "Opposition": "Knights",
+        "Figures": "2-11",
+        "Overs": "4",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/02/11",
+        "Opposition": "Knights",
+        "Figures": "1-5",
+        "Overs": "1",
+        "Economy": "5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "31",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      },
+      {
+        "Format": "T20",
+        "Catches": "10",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Western Province",
+        "Total Matches": "92",
+        "First Match": "2011/10/08",
+        "Last Match": "2026/03/15",
+        "Career Span": "2011 - 2026"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Western Province",
+        "Total Matches": "51",
+        "First Match": "2012/10/07",
+        "Last Match": "2026/03/13",
+        "Career Span": "2012 - 2026"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Western Province",
+        "Total Matches": "143",
+        "First Match": "2011/10/08",
+        "Last Match": "2026/03/15",
+        "Career Span": "2011 - 2026"
+      }
+    ]
+  }
+}

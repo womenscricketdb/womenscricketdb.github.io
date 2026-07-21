@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Tournament": "23-24 CSA Women's Professional League",
+      "Match_Date": "2023/11/25",
+      "Venue_Name": "Bloemfontein Oval",
+      "Season": "23/24",
+      "Format": "List A",
+      "Team_Home_Name": "Knights",
+      "Team_Away_Name": "Badgers",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Won",
+      "Win_Margin": "6",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "259",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "49.2",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Team_Name": "Knights",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "253",
+      "Team_Wickets_Lost": "7",
+      "Team_Overs_Faced": "50",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Innings_Number": "1",
+      "Player": "Haroline Rhodes",
+      "Runs": "69",
+      "Balls": "94"
+    },
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Innings_Number": "1",
+      "Player": "Tazmin Brits",
+      "Runs": "136",
+      "Balls": "102"
+    },
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Innings_Number": "2",
+      "Player": "Anica Swart",
+      "Runs": "30",
+      "Balls": "56"
+    },
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Innings_Number": "2",
+      "Player": "Yolandi Potgieter",
+      "Runs": "102",
+      "Balls": "120"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Innings_Number": "1",
+      "Player": "Gezelle Jansen van Rensburg",
+      "Wickets": "2",
+      "Runs": "46"
+    },
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Innings_Number": "1",
+      "Player": "Yolandi Potgieter",
+      "Wickets": "3",
+      "Runs": "17"
+    },
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Innings_Number": "2",
+      "Player": "Chantelle van Schoor",
+      "Wickets": "3",
+      "Runs": "46"
+    },
+    {
+      "Match_Slug": "2023-11-25-knights-badgers",
+      "Innings_Number": "2",
+      "Player": "Tabitha la Grange",
+      "Wickets": "2",
+      "Runs": "41"
+    }
+  ]
+}

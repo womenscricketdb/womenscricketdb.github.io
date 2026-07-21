@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Tournament": "24-25 Pro 20",
+      "Match_Date": "2024/10/20",
+      "Venue_Name": "Wanderers",
+      "Season": "24/25",
+      "Format": "T20",
+      "Team_Home_Name": "Lions",
+      "Team_Away_Name": "Badgers",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "99",
+      "Team_Wickets_Lost": "9",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "42",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "141",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "19.5",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Innings_Number": "1",
+      "Player": "Kirstie Thomson",
+      "Runs": "19",
+      "Balls": "15"
+    },
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Innings_Number": "1",
+      "Player": "Shabnim Ismail",
+      "Runs": "37",
+      "Balls": "21"
+    },
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Innings_Number": "2",
+      "Player": "Nicolien Janse van Rensburg",
+      "Runs": "20",
+      "Balls": "16"
+    },
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Innings_Number": "2",
+      "Player": "Vuyo Bonya",
+      "Runs": "23",
+      "Balls": "19"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Innings_Number": "1",
+      "Player": "Jana Nell",
+      "Wickets": "2",
+      "Runs": "18"
+    },
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Innings_Number": "1",
+      "Player": "Micaela Andrews",
+      "Wickets": "2",
+      "Runs": "18"
+    },
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Innings_Number": "2",
+      "Player": "Madison Landsman",
+      "Wickets": "2",
+      "Runs": "3"
+    },
+    {
+      "Match_Slug": "2024-10-20-lions-badgers",
+      "Innings_Number": "2",
+      "Player": "Shabnim Ismail",
+      "Wickets": "3",
+      "Runs": "18"
+    }
+  ]
+}

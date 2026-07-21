@@ -1,0 +1,154 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "2",
+        "Runs": "43",
+        "Average": "21.50",
+        "Strike-Rate": "39.45"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "11.11"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "The Vineyard",
+        "Innings": "4",
+        "Runs": "48",
+        "Average": "12.00",
+        "Strike-Rate": "31.17"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "48",
+        "High Score": "26",
+        "Average": "12.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "31.17"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/03/23",
+        "Opposition": "Western Province",
+        "Position": "3",
+        "Runs": "26",
+        "Balls": "60",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "43.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/20",
+        "Opposition": "Western Province",
+        "Position": "3",
+        "Runs": "17",
+        "Balls": "49",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "34.69"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/18",
+        "Opposition": "Lions",
+        "Position": "3",
+        "Runs": "5",
+        "Balls": "43",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "11.63"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/03/22",
+        "Opposition": "Lions",
+        "Position": "1",
+        "Runs": "0",
+        "Balls": "2",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Titans",
+        "Total Matches": "4",
+        "First Match": "2021/03/18",
+        "Last Match": "2021/03/23",
+        "Career Span": "2021 - 2021"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Titans",
+        "Total Matches": "4",
+        "First Match": "2021/03/18",
+        "Last Match": "2021/03/23",
+        "Career Span": "2021 - 2021"
+      }
+    ]
+  }
+}

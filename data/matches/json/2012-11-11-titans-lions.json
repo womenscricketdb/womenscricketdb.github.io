@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Tournament": "12-13 CSA Women's Provincial League",
+      "Match_Date": "2012/11/11",
+      "Venue_Name": "Sinovich Park",
+      "Season": "12/13",
+      "Format": "List A",
+      "Team_Home_Name": "Titans",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "2",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "178",
+      "Team_Wickets_Lost": "8",
+      "Team_Overs_Faced": "38",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Team_Name": "Titans",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "177",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "46.3",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Innings_Number": "1",
+      "Player": "Andrie Steyn",
+      "Runs": "25",
+      "Balls": "58"
+    },
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Innings_Number": "1",
+      "Player": "Mignon du Preez",
+      "Runs": "60",
+      "Balls": "86"
+    },
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Innings_Number": "2",
+      "Player": "Cri-Zelda Brits",
+      "Runs": "30",
+      "Balls": "40"
+    },
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Innings_Number": "2",
+      "Player": "Kirstie Thomson",
+      "Runs": "49",
+      "Balls": "47"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Innings_Number": "1",
+      "Player": "Kirstie Thomson",
+      "Wickets": "5",
+      "Runs": "37"
+    },
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Innings_Number": "1",
+      "Player": "Yumna Plowker",
+      "Wickets": "3",
+      "Runs": "38"
+    },
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Innings_Number": "2",
+      "Player": "Marcia Letsoalo",
+      "Wickets": "3",
+      "Runs": "31"
+    },
+    {
+      "Match_Slug": "2012-11-11-titans-lions",
+      "Innings_Number": "2",
+      "Player": "Selaelo Mphahele",
+      "Wickets": "2",
+      "Runs": "42"
+    }
+  ]
+}

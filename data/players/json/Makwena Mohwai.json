@@ -1,0 +1,124 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "41.94"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park A Field",
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "41.94"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "13",
+        "High Score": "13",
+        "Average": "13.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "41.94"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2024/02/24",
+        "Opposition": "Eastern Storm",
+        "Position": "10",
+        "Runs": "13",
+        "Balls": "31",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "41.94"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/10/28",
+        "Opposition": "Limpopo Lillies",
+        "Position": "10",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.67"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.67",
+        "Best Figures": "0/23",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2023/10/28",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-23",
+        "Overs": "3",
+        "Economy": "7.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2023/10/28",
+        "Last Match": "2024/02/24",
+        "Career Span": "2023 - 2024"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "2",
+        "First Match": "2023/10/28",
+        "Last Match": "2024/02/24",
+        "Career Span": "2023 - 2024"
+      }
+    ]
+  }
+}

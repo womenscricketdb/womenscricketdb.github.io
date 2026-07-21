@@ -1,0 +1,113 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "44.44"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "44.44"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "4",
+        "High Score": "4",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "44.44"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2008/02/02",
+        "Opposition": "Knights",
+        "Position": "11",
+        "Runs": "4*",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "44.44"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.67"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.67",
+        "Best Figures": "0/51",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2008/02/02",
+        "Opposition": "Knights",
+        "Figures": "0-51",
+        "Overs": "9",
+        "Economy": "5.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "2",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "1",
+        "First Match": "2008/02/02",
+        "Last Match": "2008/02/02",
+        "Career Span": "2008 - 2008"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Iinyathi",
+        "Total Matches": "1",
+        "First Match": "2008/02/02",
+        "Last Match": "2008/02/02",
+        "Career Span": "2008 - 2008"
+      }
+    ]
+  }
+}

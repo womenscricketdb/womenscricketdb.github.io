@@ -1,0 +1,105 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "34.15"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Groenkloof Oval",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "34.15"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Runs": "14",
+        "High Score": "14",
+        "Average": "14.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "34.15"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/11/13",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "14",
+        "Balls": "41",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "34.15"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "",
+        "Opposition": "",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "0",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "-",
+        "Best Figures": "",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "",
+        "Date": "",
+        "Opposition": "",
+        "Figures": "-",
+        "Overs": "",
+        "Economy": ""
+      }
+    ]
+  },
+  "misc": {
+    "career": [],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Titans",
+        "Total Matches": "1",
+        "First Match": "2005/11/13",
+        "Last Match": "2005/11/13",
+        "Career Span": "2005 - 2005"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Titans",
+        "Total Matches": "1",
+        "First Match": "2005/11/13",
+        "Last Match": "2005/11/13",
+        "Career Span": "2005 - 2005"
+      }
+    ]
+  }
+}

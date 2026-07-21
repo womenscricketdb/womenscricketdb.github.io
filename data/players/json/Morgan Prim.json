@@ -1,0 +1,318 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "9.09"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Lenasia Stadium",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "13.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "5",
+        "Runs": "14",
+        "High Score": "12",
+        "Average": "2.80",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "11.76"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/02/26",
+        "Opposition": "Eastern Storm",
+        "Position": "9",
+        "Runs": "12",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/02/13",
+        "Opposition": "Titans",
+        "Position": "10",
+        "Runs": "1",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/03/06",
+        "Opposition": "Dolphins",
+        "Position": "9",
+        "Runs": "1",
+        "Balls": "5",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/26",
+        "Opposition": "Titans",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/27",
+        "Opposition": "Rhinos",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "12.75",
+        "Economy": "2.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "5.50",
+        "Economy": "2.44"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "8.33",
+        "Economy": "3.95"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "7.50",
+        "Economy": "2.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "1.00",
+        "Economy": "0.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Lenasia Stadium",
+        "Innings": "4",
+        "Wickets": "8",
+        "Average": "4.25",
+        "Economy": "2.08"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Capricorn High School",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "1.00",
+        "Economy": "0.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "15.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sir Lionel Phillips Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "11.00",
+        "Economy": "1.57"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "3.60"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "5.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "9",
+        "Wickets": "15",
+        "Average": "7.67",
+        "Economy": "2.48",
+        "Best Figures": "3/4",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/01/29",
+        "Opposition": "Rhinos",
+        "Figures": "3-4",
+        "Overs": "4",
+        "Economy": "1"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/11/07",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "2-2",
+        "Overs": "4",
+        "Economy": "0.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/02/13",
+        "Opposition": "Titans",
+        "Figures": "2-5",
+        "Overs": "2.2",
+        "Economy": "2.14"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/03/06",
+        "Opposition": "Dolphins",
+        "Figures": "2-15",
+        "Overs": "6",
+        "Economy": "2.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/02/26",
+        "Opposition": "Eastern Storm",
+        "Figures": "2-30",
+        "Overs": "10",
+        "Economy": "3"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Lions",
+        "Total Matches": "11",
+        "First Match": "2008/01/19",
+        "Last Match": "2011/03/26",
+        "Career Span": "2008 - 2011"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Lions",
+        "Total Matches": "11",
+        "First Match": "2008/01/19",
+        "Last Match": "2011/03/26",
+        "Career Span": "2008 - 2011"
+      }
+    ]
+  }
+}

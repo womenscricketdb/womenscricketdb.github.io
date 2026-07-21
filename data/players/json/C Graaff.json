@@ -1,0 +1,349 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Runs": "25",
+        "Average": "12.50",
+        "Strike-Rate": "62.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "UFS 2 Oval",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "58.33"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "68.75"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "19.35"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "10.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "6",
+        "Runs": "32",
+        "High Score": "14",
+        "Average": "6.40",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "39.51"
+      },
+      {
+        "Format": "T20",
+        "Innings": "0",
+        "Runs": "0",
+        "High Score": "0",
+        "Average": "-",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "-"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/02/12",
+        "Opposition": "Tuskers",
+        "Position": "8",
+        "Runs": "14",
+        "Balls": "24",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "58.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/11/25",
+        "Opposition": "Tuskers",
+        "Position": "8",
+        "Runs": "11",
+        "Balls": "16",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "68.75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/11/11",
+        "Opposition": "Dragons",
+        "Position": "8",
+        "Runs": "4*",
+        "Balls": "17",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "23.53"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/10/09",
+        "Opposition": "Heat",
+        "Position": "4",
+        "Runs": "2",
+        "Balls": "11",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "18.18"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/26",
+        "Opposition": "Heat",
+        "Position": "7",
+        "Runs": "1",
+        "Balls": "10",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "10"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/06",
+        "Opposition": "Tuskers",
+        "Position": "8",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "2",
+        "Wickets": "5",
+        "Average": "9.60",
+        "Economy": "4.36"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "2",
+        "Wickets": "5",
+        "Average": "15.00",
+        "Economy": "4.41"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "15.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.38"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "5.75"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "4",
+        "Wickets": "10",
+        "Average": "12.10",
+        "Economy": "4.32"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "2.43"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "5.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "8",
+        "Wickets": "12",
+        "Average": "15.67",
+        "Economy": "4.09",
+        "Best Figures": "5/33",
+        "3-fors": "2",
+        "5-fors": "1"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "5.75",
+        "Best Figures": "1/23",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2011/02/13",
+        "Opposition": "Dolphins",
+        "Figures": "5-33",
+        "Overs": "8",
+        "Economy": "4.12"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/10/09",
+        "Opposition": "Heat",
+        "Figures": "3-58",
+        "Overs": "10",
+        "Economy": "5.8"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/03/26",
+        "Opposition": "Heat",
+        "Figures": "2-17",
+        "Overs": "7",
+        "Economy": "2.43"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/01/15",
+        "Opposition": "Dragons",
+        "Figures": "1-9",
+        "Overs": "4",
+        "Economy": "2.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2012/11/11",
+        "Opposition": "Dragons",
+        "Figures": "1-21",
+        "Overs": "6",
+        "Economy": "3.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/06",
+        "Opposition": "Tuskers",
+        "Figures": "1-23",
+        "Overs": "4",
+        "Economy": "5.75"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Knights",
+        "Total Matches": "8",
+        "First Match": "2010/10/09",
+        "Last Match": "2012/11/25",
+        "Career Span": "2010 - 2012"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Knights",
+        "Total Matches": "1",
+        "First Match": "2012/10/06",
+        "Last Match": "2012/10/06",
+        "Career Span": "2012 - 2012"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Knights",
+        "Total Matches": "9",
+        "First Match": "2010/10/09",
+        "Last Match": "2012/11/25",
+        "Career Span": "2010 - 2012"
+      }
+    ]
+  }
+}

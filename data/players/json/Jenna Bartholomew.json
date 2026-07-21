@@ -1,0 +1,342 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "2",
+        "Runs": "95",
+        "Average": "47.50",
+        "Strike-Rate": "62.09"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "20",
+        "Average": "20.00",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "14",
+        "Average": "7.00",
+        "Strike-Rate": "48.28"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "-",
+        "Strike-Rate": "60.87"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "37.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "4",
+        "Runs": "107",
+        "Average": "35.67",
+        "Strike-Rate": "67.72"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "-",
+        "Strike-Rate": "60.87"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "26.83"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "40.74"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "61.11"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammondfield",
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "10",
+        "Runs": "159",
+        "High Score": "84",
+        "Average": "19.88",
+        "50s": "1",
+        "100s": "0",
+        "Strike Rate*": "55.40"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/11/27",
+        "Opposition": "Rhinos",
+        "Position": "2",
+        "Runs": "84",
+        "Balls": "112",
+        "Fours": "9",
+        "Sixes": "0",
+        "Strike-Rate": "75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/11",
+        "Opposition": "Lions",
+        "Position": "7",
+        "Runs": "20*",
+        "Balls": "32",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "62.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/03/18",
+        "Opposition": "Tuskers",
+        "Position": "4",
+        "Runs": "14*",
+        "Balls": "23",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "60.87"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/18",
+        "Opposition": "Dragons",
+        "Position": "2",
+        "Runs": "11",
+        "Balls": "27",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "40.74"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/28",
+        "Opposition": "Rhinos",
+        "Position": "3",
+        "Runs": "11",
+        "Balls": "41",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "26.83"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "19.75",
+        "Economy": "3.76"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "2.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "16.00",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "23.50",
+        "Economy": "4.70"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "41.00",
+        "Economy": "2.56"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "25.75",
+        "Economy": "3.43"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "14.33",
+        "Economy": "4.30"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Hammondfield",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "26.50",
+        "Economy": "4.82"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "0.00",
+        "Economy": "0.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "3.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "9",
+        "Wickets": "11",
+        "Average": "19.73",
+        "Economy": "3.74",
+        "Best Figures": "3/43",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2007/02/25",
+        "Opposition": "Titans",
+        "Figures": "3-43",
+        "Overs": "10",
+        "Economy": "4.3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/27",
+        "Opposition": "Rhinos",
+        "Figures": "2-32",
+        "Overs": "4",
+        "Economy": "8"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/04/01",
+        "Opposition": "Western Province",
+        "Figures": "2-47",
+        "Overs": "10",
+        "Economy": "4.7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2007/01/14",
+        "Opposition": "Dragons",
+        "Figures": "1-0",
+        "Overs": "1",
+        "Economy": "0"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/18",
+        "Opposition": "Dragons",
+        "Figures": "1-18",
+        "Overs": "6",
+        "Economy": "3"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "0",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "1"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "12",
+        "First Match": "2005/10/29",
+        "Last Match": "2007/03/18",
+        "Career Span": "2005 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dolphins",
+        "Total Matches": "12",
+        "First Match": "2005/10/29",
+        "Last Match": "2007/03/18",
+        "Career Span": "2005 - 2007"
+      }
+    ]
+  }
+}

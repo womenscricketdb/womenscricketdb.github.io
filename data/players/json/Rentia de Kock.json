@@ -1,0 +1,728 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "8",
+        "Runs": "218",
+        "Average": "27.25",
+        "Strike-Rate": "75.96"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "8",
+        "Runs": "121",
+        "Average": "15.13",
+        "Strike-Rate": "56.02"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "7",
+        "Runs": "115",
+        "Average": "16.43",
+        "Strike-Rate": "64.97"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "27",
+        "Average": "27.00",
+        "Strike-Rate": "90.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "21",
+        "Average": "21.00",
+        "Strike-Rate": "95.45"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "4",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "45.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "33.33"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "50",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "21",
+        "Average": "21.00",
+        "Strike-Rate": "77.78"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "-",
+        "Strike-Rate": "106.25"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Victory Park",
+        "Innings": "4",
+        "Runs": "110",
+        "Average": "27.50",
+        "Strike-Rate": "94.02"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "4",
+        "Runs": "77",
+        "Average": "19.25",
+        "Strike-Rate": "77.78"
+      },
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "2",
+        "Runs": "65",
+        "Average": "32.50",
+        "Strike-Rate": "62.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "3",
+        "Runs": "36",
+        "Average": "12.00",
+        "Strike-Rate": "56.25"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "32",
+        "Average": "32.00",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Venue": "CUT Main Oval",
+        "Innings": "3",
+        "Runs": "31",
+        "Average": "10.33",
+        "Strike-Rate": "50.82"
+      },
+      {
+        "Format": "List A",
+        "Venue": "SANDF Oval",
+        "Innings": "1",
+        "Runs": "28",
+        "Average": "28.00",
+        "Strike-Rate": "84.85"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 3 Oval",
+        "Innings": "3",
+        "Runs": "25",
+        "Average": "8.33",
+        "Strike-Rate": "49.02"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Runs": "25",
+        "Average": "25.00",
+        "Strike-Rate": "86.21"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Schoeman Park A Ground",
+        "Innings": "1",
+        "Runs": "24",
+        "Average": "24.00",
+        "Strike-Rate": "45.28"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St Andrews A",
+        "Innings": "1",
+        "Runs": "21",
+        "Average": "21.00",
+        "Strike-Rate": "95.45"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Stapelberg Stadium",
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "81.82"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Carter High School",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "30.77"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Hickling",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Runs": "50",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Victory Park",
+        "Innings": "2",
+        "Runs": "22",
+        "Average": "11.00",
+        "Strike-Rate": "64.71"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Joburg Cricket Club Ground",
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "-",
+        "Strike-Rate": "106.25"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "31",
+        "Runs": "526",
+        "High Score": "49",
+        "Average": "16.97",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "66.84"
+      },
+      {
+        "Format": "T20",
+        "Innings": "4",
+        "Runs": "89",
+        "High Score": "50",
+        "Average": "44.50",
+        "50s": "1",
+        "100s": "0",
+        "Strike Rate*": "78.00"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2009/11/22",
+        "Opposition": "Tuskers",
+        "Position": "8",
+        "Runs": "49",
+        "Balls": "61",
+        "Fours": "10",
+        "Sixes": "0",
+        "Strike-Rate": "80.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2010/02/14",
+        "Opposition": "Tuskers",
+        "Position": "4",
+        "Runs": "48",
+        "Balls": "84",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/02/23",
+        "Opposition": "Tuskers",
+        "Position": "3",
+        "Runs": "41",
+        "Balls": "30",
+        "Fours": "7",
+        "Sixes": "0",
+        "Strike-Rate": "136.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/03/16",
+        "Opposition": "Dolphins",
+        "Position": "3",
+        "Runs": "39",
+        "Balls": "43",
+        "Fours": "3",
+        "Sixes": "0",
+        "Strike-Rate": "90.7"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/01/12",
+        "Opposition": "Dolphins",
+        "Position": "3",
+        "Runs": "32",
+        "Balls": "56",
+        "Fours": "5",
+        "Sixes": "0",
+        "Strike-Rate": "57.14"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/14",
+        "Opposition": "Rhinos",
+        "Position": "3",
+        "Runs": "50*",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/06",
+        "Opposition": "Titans",
+        "Position": "3",
+        "Runs": "21",
+        "Balls": "27",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "77.78"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/13",
+        "Opposition": "Lions",
+        "Position": "3",
+        "Runs": "17*",
+        "Balls": "16",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "106.25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/07",
+        "Opposition": "Eastern Storm",
+        "Position": "3",
+        "Runs": "1",
+        "Balls": "7",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/11/20",
+        "Opposition": "Boland",
+        "Position": "5",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "7",
+        "Wickets": "20",
+        "Average": "9.65",
+        "Economy": "3.20"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "8",
+        "Wickets": "7",
+        "Average": "23.86",
+        "Economy": "5.11"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "4",
+        "Wickets": "7",
+        "Average": "18.29",
+        "Economy": "4.57"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "6",
+        "Wickets": "3",
+        "Average": "37.00",
+        "Economy": "4.69"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "3.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "3.67",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "8.25"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Victory Park",
+        "Innings": "4",
+        "Wickets": "10",
+        "Average": "5.70",
+        "Economy": "2.85"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Country Club B Field",
+        "Innings": "2",
+        "Wickets": "6",
+        "Average": "11.50",
+        "Economy": "5.31"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "20.75",
+        "Economy": "3.80"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "22.50",
+        "Economy": "3.91"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Andrews Hickling",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "3.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "City Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "8.33",
+        "Economy": "3.13"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potch Boys High Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "12.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "UFS 3 Oval",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "25.00",
+        "Economy": "5.56"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "46.50",
+        "Economy": "6.20"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Carter High School",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "2.73"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Schoeman Park A Ground",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "3.20"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "51.00",
+        "Economy": "5.10"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Landau Rec Oval",
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "3.67",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "8.25"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "29",
+        "Wickets": "40",
+        "Average": "16.70",
+        "Economy": "4.18",
+        "Best Figures": "7/16",
+        "3-fors": "7",
+        "5-fors": "2"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "13.75",
+        "Economy": "6.11",
+        "Best Figures": "3/11",
+        "3-fors": "1",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/02/23",
+        "Opposition": "Tuskers",
+        "Figures": "7-16",
+        "Overs": "10",
+        "Economy": "1.6"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/01",
+        "Opposition": "Heat",
+        "Figures": "5-8",
+        "Overs": "4",
+        "Economy": "2"
+      },
+      {
+        "Format": "List A",
+        "Date": "2011/01/16",
+        "Opposition": "Tuskers",
+        "Figures": "4-29",
+        "Overs": "10",
+        "Economy": "2.9"
+      },
+      {
+        "Format": "List A",
+        "Date": "2009/11/22",
+        "Opposition": "Tuskers",
+        "Figures": "4-33",
+        "Overs": "10",
+        "Economy": "3.3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2015/04/10",
+        "Opposition": "Warriors",
+        "Figures": "3-9",
+        "Overs": "3",
+        "Economy": "3"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/14",
+        "Opposition": "Rhinos",
+        "Figures": "3-11",
+        "Overs": "4",
+        "Economy": "2.75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2016/11/20",
+        "Opposition": "Boland",
+        "Figures": "1-33",
+        "Overs": "4",
+        "Economy": "8.25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/13",
+        "Opposition": "Lions",
+        "Figures": "0-11",
+        "Overs": "1",
+        "Economy": "11"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "15",
+        "Stumpings": "1",
+        "Matches as Wicketkeeper": "12",
+        "Matches as Captain": "7"
+      },
+      {
+        "Format": "T20",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "1",
+        "Matches as Captain": "3"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons",
+        "Total Matches": "35",
+        "First Match": "2005/12/11",
+        "Last Match": "2016/11/19",
+        "Career Span": "2005 - 2016"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Dragons",
+        "Total Matches": "5",
+        "First Match": "2012/10/06",
+        "Last Match": "2016/11/20",
+        "Career Span": "2012 - 2016"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons",
+        "Total Matches": "40",
+        "First Match": "2005/12/11",
+        "Last Match": "2016/11/20",
+        "Career Span": "2005 - 2016"
+      }
+    ]
+  }
+}

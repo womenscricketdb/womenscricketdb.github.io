@@ -1,0 +1,213 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Runs": "25",
+        "Average": "-",
+        "Strike-Rate": "52.08"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "2",
+        "Runs": "18",
+        "Average": "9.00",
+        "Strike-Rate": "37.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Warriors",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "35.90"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Heat",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "The Vineyard",
+        "Innings": "2",
+        "Runs": "29",
+        "Average": "29.00",
+        "Strike-Rate": "45.31"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Despatch Oval",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "35.90"
+      },
+      {
+        "Format": "List A",
+        "Venue": "United CC Ground",
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "43.75"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "4",
+        "Runs": "57",
+        "High Score": "25",
+        "Average": "19.00",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "42.22"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/11/06",
+        "Opposition": "Boland",
+        "Position": "8",
+        "Runs": "25*",
+        "Balls": "48",
+        "Fours": "0",
+        "Sixes": "1",
+        "Strike-Rate": "52.08"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/11",
+        "Opposition": "Iinyathi",
+        "Position": "6",
+        "Runs": "14",
+        "Balls": "32",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "43.75"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/12",
+        "Opposition": "Warriors",
+        "Position": "7",
+        "Runs": "14",
+        "Balls": "39",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "35.9"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/02/19",
+        "Opposition": "Iinyathi",
+        "Position": "6",
+        "Runs": "4",
+        "Balls": "16",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/01/15",
+        "Opposition": "Badgers",
+        "Position": "6",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Boland",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50",
+        "Best Figures": "0/19",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/11/06",
+        "Opposition": "Boland",
+        "Figures": "0-19",
+        "Overs": "2",
+        "Economy": "9.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Western Province",
+        "Total Matches": "8",
+        "First Match": "2005/10/30",
+        "Last Match": "2006/02/19",
+        "Career Span": "2005 - 2006"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Western Province",
+        "Total Matches": "8",
+        "First Match": "2005/10/30",
+        "Last Match": "2006/02/19",
+        "Career Span": "2005 - 2006"
+      }
+    ]
+  }
+}

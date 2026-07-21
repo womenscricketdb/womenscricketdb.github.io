@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Tournament": "22-23 CSA Women's Provincial T20 Competition",
+      "Match_Date": "2023/02/05",
+      "Venue_Name": "Recreation Ground",
+      "Season": "22/23",
+      "Format": "T20",
+      "Team_Home_Name": "Badgers",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Team_Name": "Badgers",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "64",
+      "Team_Wickets_Lost": "4",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "10",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "68",
+      "Team_Wickets_Lost": "0",
+      "Team_Overs_Faced": "12.5",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Bianca Figeland",
+      "Runs": "18",
+      "Balls": "55"
+    },
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Micaela Andrews",
+      "Runs": "26",
+      "Balls": "35"
+    },
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Jenna Evans",
+      "Runs": "33",
+      "Balls": "41"
+    },
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Sunette Viljoen-Louw",
+      "Runs": "31",
+      "Balls": "36"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Kgomotso Rapoo",
+      "Wickets": "1",
+      "Runs": "24"
+    },
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Innings_Number": "1",
+      "Player": "Yolani Fourie",
+      "Wickets": "2",
+      "Runs": "4"
+    },
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Jané Winster",
+      "Wickets": "0",
+      "Runs": "12"
+    },
+    {
+      "Match_Slug": "2023-02-05-badgers-lions",
+      "Innings_Number": "2",
+      "Player": "Khayakazi Mathe",
+      "Wickets": "0",
+      "Runs": "13"
+    }
+  ]
+}

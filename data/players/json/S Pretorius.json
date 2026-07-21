@@ -1,0 +1,514 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Runs": "74",
+        "Average": "37.00",
+        "Strike-Rate": "55.22"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "3",
+        "Runs": "57",
+        "Average": "19.00",
+        "Strike-Rate": "48.31"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "3",
+        "Runs": "25",
+        "Average": "8.33",
+        "Strike-Rate": "75.76"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "3",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "35.14"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "21.43"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "2",
+        "Runs": "22",
+        "Average": "22.00",
+        "Strike-Rate": "51.16"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Polokwane Oval",
+        "Innings": "2",
+        "Runs": "66",
+        "Average": "33.00",
+        "Strike-Rate": "51.97"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park B Field",
+        "Innings": "1",
+        "Runs": "55",
+        "Average": "55.00",
+        "Strike-Rate": "51.40"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Columbus Oval",
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "17.00",
+        "Strike-Rate": "77.27"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "3",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "35.14"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Freeman Park Ground",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Nirvana",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "88.89"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "21.43"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "-",
+        "Strike-Rate": "78.26"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "20.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Columbus Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "12",
+        "Runs": "172",
+        "High Score": "64",
+        "Average": "15.64",
+        "50s": "2",
+        "100s": "0",
+        "Strike Rate*": "51.19"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Runs": "25",
+        "High Score": "18",
+        "Average": "12.50",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "48.08"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2014/02/09",
+        "Opposition": "Lions",
+        "Position": "4",
+        "Runs": "64",
+        "Balls": "119",
+        "Fours": "5",
+        "Sixes": "0",
+        "Strike-Rate": "53.78"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/16",
+        "Opposition": "Eastern Storm",
+        "Position": "3",
+        "Runs": "55",
+        "Balls": "107",
+        "Fours": "7",
+        "Sixes": "0",
+        "Strike-Rate": "51.4"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/11/29",
+        "Opposition": "Rhinos",
+        "Position": "4",
+        "Runs": "17",
+        "Balls": "22",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "77.27"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/01/11",
+        "Opposition": "Lions",
+        "Position": "3",
+        "Runs": "10",
+        "Balls": "15",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "66.67"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/01/12",
+        "Opposition": "Titans",
+        "Position": "4",
+        "Runs": "9*",
+        "Balls": "28",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "32.14"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/14",
+        "Opposition": "Eastern Storm",
+        "Position": "7",
+        "Runs": "18*",
+        "Balls": "23",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "78.26"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/02/22",
+        "Opposition": "Eastern Storm",
+        "Position": "3",
+        "Runs": "4",
+        "Balls": "20",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "20"
+      },
+      {
+        "Format": "T20",
+        "Date": "2014/11/30",
+        "Opposition": "Rhinos",
+        "Position": "4",
+        "Runs": "3",
+        "Balls": "9",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "33.33"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Rhinos",
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "8.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "45.50",
+        "Economy": "4.55"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "47.00",
+        "Economy": "5.88"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.13"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "14.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Rhinos",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "4.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Ingwenyama Ground",
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "2.50",
+        "Economy": "1.25"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Columbus Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Willowmoore Park B Field",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "29.00",
+        "Economy": "5.80"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Varsity Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Sinovich Park",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "47.00",
+        "Economy": "5.88"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Columbus Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Polokwane Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "8.00",
+        "Economy": "2.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "6.67"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "10",
+        "Wickets": "10",
+        "Average": "30.20",
+        "Economy": "4.72",
+        "Best Figures": "4/10",
+        "3-fors": "1",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "11.50",
+        "Economy": "4.18",
+        "Best Figures": "2/18",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2013/11/17",
+        "Opposition": "Rhinos",
+        "Figures": "4-10",
+        "Overs": "8",
+        "Economy": "1.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/11/29",
+        "Opposition": "Rhinos",
+        "Figures": "2-18",
+        "Overs": "4",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/11/16",
+        "Opposition": "Eastern Storm",
+        "Figures": "2-58",
+        "Overs": "10",
+        "Economy": "5.8"
+      },
+      {
+        "Format": "List A",
+        "Date": "2014/11/15",
+        "Opposition": "Tuskers",
+        "Figures": "1-18",
+        "Overs": "4",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2013/02/24",
+        "Opposition": "Titans",
+        "Figures": "1-47",
+        "Overs": "8",
+        "Economy": "5.88"
+      },
+      {
+        "Format": "T20",
+        "Date": "2014/11/30",
+        "Opposition": "Rhinos",
+        "Figures": "2-18",
+        "Overs": "4",
+        "Economy": "4.5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2015/02/22",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-8",
+        "Overs": "4",
+        "Economy": "2"
+      },
+      {
+        "Format": "T20",
+        "Date": "2012/10/14",
+        "Opposition": "Eastern Storm",
+        "Figures": "1-20",
+        "Overs": "3",
+        "Economy": "6.67"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "6",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "3"
+      },
+      {
+        "Format": "T20",
+        "Catches": "0",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "2"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "12",
+        "First Match": "2012/11/24",
+        "Last Match": "2017/02/11",
+        "Career Span": "2012 - 2017"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "3",
+        "First Match": "2012/10/14",
+        "Last Match": "2015/02/22",
+        "Career Span": "2012 - 2015"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Limpopo Lillies",
+        "Total Matches": "15",
+        "First Match": "2012/10/14",
+        "Last Match": "2017/02/11",
+        "Career Span": "2012 - 2017"
+      }
+    ]
+  }
+}

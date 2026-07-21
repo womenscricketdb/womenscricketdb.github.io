@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/">
+    <meta name="description" content="An independent statistical archive of South African women's provincial cricket: List A and T20 matches from 2005/06 to 2025/26.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Women's Provincial Cricket Database">
+    <meta property="og:description" content="An independent statistical archive of South African women's provincial cricket: List A and T20 matches from 2005/06 to 2025/26.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="An independent statistical archive of South African women's provincial cricket: List A and T20 matches from 2005/06 to 2025/26.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-hero {
+            padding: 2.25rem 0 1.75rem;
+            border-bottom: 1px solid var(--wca-border);
+        }
+        .wca-hero p.lede {
+            font-family: var(--wca-font-body);
+            color: var(--wca-text-dim);
+            font-size: 1rem;
+            margin-bottom: 0.25rem;
+        }
+        .wca-hero p.coverage {
+            font-family: var(--wca-font-body);
+            color: var(--wca-text-dim);
+            font-size: 0.85rem;
+            margin-bottom: 0;
+        }
+
+        .wca-menu-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.1rem;
+            margin-top: 1.75rem;
+        }
+        .wca-menu-card {
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            border-radius: 10px;
+            padding: 1.4rem;
+            text-decoration: none;
+            color: var(--wca-text);
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            transition: border-color 0.15s, background-color 0.15s;
+        }
+        .wca-menu-card:hover {
+            border-color: var(--wca-gold);
+            background: var(--wca-surface-raised);
+            text-decoration: none;
+            color: var(--wca-text);
+        }
+        .wca-menu-card h3 {
+            font-size: 1.05rem;
+            font-weight: 700;
+            margin: 0;
+            color: #fff;
+        }
+        .wca-menu-card p {
+            font-family: var(--wca-font-body);
+            font-size: 0.85rem;
+            color: var(--wca-text-dim);
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<section class="wca-hero">
+    <div class="container">
+        <p class="lede">Statistics and records from South African women's domestic cricket.</p>
+        <p class="coverage">Covering the 2005/06–2025/26 seasons.</p>
+    </div>
+</section>
+
+<main class="container">
+    <div class="wca-menu-grid">
+        <a class="wca-menu-card" href="archive.html">
+            <h3>Archive Viewer</h3>
+            <p>Full season-by-season batting, bowling, fielding, miscellaneous and partnership tables. Filterable by format, season and opposition tier.</p>
+        </a>
+        <a class="wca-menu-card" href="players.html">
+            <h3>Players</h3>
+            <p>Browse every player in the dataset with career, opposition and venue splits.</p>
+        </a>
+        <a class="wca-menu-card" href="teams.html">
+            <h3>Teams</h3>
+            <p>Provincial records, best finishes, and information on the teams, accessible via a map of the unions.</p>
+        </a>
+        <a class="wca-menu-card" href="venues.html">
+            <h3>Venues</h3>
+            <p>Every ground that's hosted a match, with its own records and scoring history.</p>
+        </a>
+        <a class="wca-menu-card" href="records.html">
+            <h3>Records</h3>
+            <p>All-time leaderboards across batting, bowling, fielding, partnerships, doubles, and team performances.</p>
+        </a>
+        <a class="wca-menu-card" href="seasons.html">
+            <h3>Seasons</h3>
+            <p>League tables for every season, format and division: pool standings, final positions and results.</p>
+        </a>
+    </div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<script src="assets/js/nav.js"></script>
+<script>
+    WCA_NAV.render(null);
+    WCA_NAV.renderFooter();
+</script>
+</body>
+</html>

@@ -1,0 +1,400 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Western Province",
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "17.00",
+        "Strike-Rate": "106.25"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Iinyathi",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "34.48"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "35.71"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "21.43"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "68.42"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "75.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Lions",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Titans",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Western Province",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "2",
+        "Runs": "16",
+        "Average": "8.00",
+        "Strike-Rate": "80.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Buffalo Park",
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "30.23"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Newlands Stadium",
+        "Innings": "3",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "55.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Newlands Stadium",
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "68.42"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Willowmoore Park Main Oval",
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "75.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Chatsworth Stadium",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "7",
+        "Runs": "40",
+        "High Score": "11",
+        "Average": "6.67",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "48.19"
+      },
+      {
+        "Format": "T20",
+        "Innings": "5",
+        "Runs": "17",
+        "High Score": "13",
+        "Average": "3.40",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "60.71"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2020/02/29",
+        "Opposition": "Western Province",
+        "Position": "8",
+        "Runs": "11",
+        "Balls": "10",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "110"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/02/26",
+        "Opposition": "Iinyathi",
+        "Position": "6",
+        "Runs": "10",
+        "Balls": "29",
+        "Fours": "2",
+        "Sixes": "0",
+        "Strike-Rate": "34.48"
+      },
+      {
+        "Format": "List A",
+        "Date": "2019/11/02",
+        "Opposition": "Western Province",
+        "Position": "10",
+        "Runs": "6*",
+        "Balls": "6",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "100"
+      },
+      {
+        "Format": "List A",
+        "Date": "2020/03/14",
+        "Opposition": "Titans",
+        "Position": "8",
+        "Runs": "5",
+        "Balls": "10",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2023/10/14",
+        "Opposition": "Knights",
+        "Position": "6",
+        "Runs": "5",
+        "Balls": "14",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "35.71"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/10/15",
+        "Opposition": "Knights",
+        "Position": "6",
+        "Runs": "13",
+        "Balls": "18",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "72.22"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/02/06",
+        "Opposition": "Eastern Storm",
+        "Position": "6",
+        "Runs": "3",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "75"
+      },
+      {
+        "Format": "T20",
+        "Date": "2020/01/26",
+        "Opposition": "Dolphins",
+        "Position": "8",
+        "Runs": "1",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "25"
+      },
+      {
+        "Format": "T20",
+        "Date": "2023/11/19",
+        "Opposition": "Badgers",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "0",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": ""
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/01/28",
+        "Opposition": "Knights",
+        "Position": "11",
+        "Runs": "0",
+        "Balls": "1",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "0"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Knights",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00"
+      }
+    ],
+    "byVenue": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Best Figures": "0/5",
+        "3-fors": "0",
+        "5-fors": "0"
+      },
+      {
+        "Format": "T20",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00",
+        "Best Figures": "0/12",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2021/02/23",
+        "Opposition": "Dolphins",
+        "Figures": "0-5",
+        "Overs": "1",
+        "Economy": "5"
+      },
+      {
+        "Format": "T20",
+        "Date": "2018/01/28",
+        "Opposition": "Knights",
+        "Figures": "0-12",
+        "Overs": "1",
+        "Economy": "12"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "4",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Dragons, Western Province",
+        "Total Matches": "13",
+        "First Match": "2019/10/12",
+        "Last Match": "2023/11/18",
+        "Career Span": "2019 - 2023"
+      },
+      {
+        "Format": "T20",
+        "Teams Represented": "Dragons, Western Province",
+        "Total Matches": "12",
+        "First Match": "2018/01/28",
+        "Last Match": "2023/11/19",
+        "Career Span": "2018 - 2023"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Dragons, Western Province",
+        "Total Matches": "25",
+        "First Match": "2018/01/28",
+        "Last Match": "2023/11/19",
+        "Career Span": "2018 - 2023"
+      }
+    ]
+  }
+}

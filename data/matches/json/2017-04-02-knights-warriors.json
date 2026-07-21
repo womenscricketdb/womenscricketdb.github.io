@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Tournament": "16-17 CSA Women's Provincial League",
+      "Match_Date": "2017/04/02",
+      "Venue_Name": "St. Andrews Vossie",
+      "Season": "16/17",
+      "Format": "List A",
+      "Team_Home_Name": "Knights",
+      "Team_Away_Name": "Warriors",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Team_Name": "Knights",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "3",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "168",
+      "Team_Wickets_Lost": "7",
+      "Team_Overs_Faced": "41.3",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Team_Name": "Warriors",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "167",
+      "Team_Wickets_Lost": "8",
+      "Team_Overs_Faced": "45",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Innings_Number": "1",
+      "Player": "Anneke Kapp",
+      "Runs": "40",
+      "Balls": "77"
+    },
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Innings_Number": "1",
+      "Player": "Dané van Niekerk",
+      "Runs": "55",
+      "Balls": "83"
+    },
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Innings_Number": "2",
+      "Player": "Masabata Klaas",
+      "Runs": "31",
+      "Balls": "55"
+    },
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Innings_Number": "2",
+      "Player": "Zintle Kula",
+      "Runs": "31",
+      "Balls": "85"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Innings_Number": "1",
+      "Player": "Masabata Klaas",
+      "Wickets": "2",
+      "Runs": "41"
+    },
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Innings_Number": "1",
+      "Player": "Yolandi Potgieter",
+      "Wickets": "2",
+      "Runs": "11"
+    },
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Innings_Number": "2",
+      "Player": "Dané van Niekerk",
+      "Wickets": "3",
+      "Runs": "18"
+    },
+    {
+      "Match_Slug": "2017-04-02-knights-warriors",
+      "Innings_Number": "2",
+      "Player": "Eloise Webb",
+      "Wickets": "2",
+      "Runs": "54"
+    }
+  ]
+}

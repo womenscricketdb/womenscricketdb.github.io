@@ -1,0 +1,270 @@
+{
+  "batting": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Lions",
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "14.89"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "8.70"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "9.09"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Tuskers",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "7.14"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Landau Rec Oval",
+        "Innings": "3",
+        "Runs": "8",
+        "Average": "2.67",
+        "Strike-Rate": "15.69"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "TUT Witbank",
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "12.50"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Groenkloof Oval",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "13",
+        "Runs": "20",
+        "High Score": "6",
+        "Average": "1.67",
+        "50s": "0",
+        "100s": "0",
+        "Strike Rate*": "15.63"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/12/11",
+        "Opposition": "Dragons",
+        "Position": "5",
+        "Runs": "6",
+        "Balls": "12",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/10/02",
+        "Opposition": "Lions",
+        "Position": "8",
+        "Runs": "4",
+        "Balls": "8",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      },
+      {
+        "Format": "List A",
+        "Date": "2006/10/21",
+        "Opposition": "Lions",
+        "Position": "6",
+        "Runs": "3",
+        "Balls": "31",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "9.68"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/13",
+        "Opposition": "Limpopo Lillies",
+        "Position": "9",
+        "Runs": "2",
+        "Balls": "15",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "13.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/27",
+        "Opposition": "Dolphins",
+        "Position": "10",
+        "Runs": "2*",
+        "Balls": "4",
+        "Fours": "0",
+        "Sixes": "0",
+        "Strike-Rate": "50"
+      }
+    ]
+  },
+  "bowling": {
+    "byOpposition": [
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "6.50",
+        "Economy": "3.25"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.50"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Limpopo Lillies",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.50"
+      }
+    ],
+    "byVenue": [
+      {
+        "Format": "List A",
+        "Venue": "Potchefstroom Oval",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "6.50",
+        "Economy": "3.25"
+      }
+    ],
+    "career": [
+      {
+        "Format": "List A",
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "21.50",
+        "Economy": "5.38",
+        "Best Figures": "2/13",
+        "3-fors": "0",
+        "5-fors": "0"
+      }
+    ],
+    "top5": [
+      {
+        "Format": "List A",
+        "Date": "2005/12/11",
+        "Opposition": "Dragons",
+        "Figures": "2-13",
+        "Overs": "4",
+        "Economy": "3.25"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/13",
+        "Opposition": "Limpopo Lillies",
+        "Figures": "0-7",
+        "Overs": "2",
+        "Economy": "3.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2005/11/27",
+        "Opposition": "Dolphins",
+        "Figures": "0-23",
+        "Overs": "2",
+        "Economy": "11.5"
+      }
+    ]
+  },
+  "misc": {
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
+    "span": [
+      {
+        "Format": "List A",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "14",
+        "First Match": "2005/10/02",
+        "Last Match": "2007/01/28",
+        "Career Span": "2005 - 2007"
+      },
+      {
+        "Format": "Overall",
+        "Teams Represented": "Rhinos",
+        "Total Matches": "14",
+        "First Match": "2005/10/02",
+        "Last Match": "2007/01/28",
+        "Career Span": "2005 - 2007"
+      }
+    ]
+  }
+}

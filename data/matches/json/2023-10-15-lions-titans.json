@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Tournament": "23-24 CSA Women's Professional T20 Competition",
+      "Match_Date": "2023/10/15",
+      "Venue_Name": "Wanderers",
+      "Season": "23/24",
+      "Format": "T20",
+      "Team_Home_Name": "Lions",
+      "Team_Away_Name": "Titans",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Team_Name": "Lions",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "7",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "143",
+      "Team_Wickets_Lost": "3",
+      "Team_Overs_Faced": "16.4",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Team_Name": "Titans",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "140",
+      "Team_Wickets_Lost": "8",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Eliz-Mari Marx",
+      "Runs": "45",
+      "Balls": "30"
+    },
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Gandhi Jafta",
+      "Runs": "25",
+      "Balls": "29"
+    },
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Kirstie Thomson",
+      "Runs": "40",
+      "Balls": "25"
+    },
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Sunette Viljoen-Louw",
+      "Runs": "51",
+      "Balls": "36"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Refilwe Moncho",
+      "Wickets": "2",
+      "Runs": "21"
+    },
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Innings_Number": "1",
+      "Player": "Samantha Schutte",
+      "Wickets": "3",
+      "Runs": "27"
+    },
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Kay-Leigh Tapp",
+      "Wickets": "1",
+      "Runs": "30"
+    },
+    {
+      "Match_Slug": "2023-10-15-lions-titans",
+      "Innings_Number": "2",
+      "Player": "Monalisa Legodi",
+      "Wickets": "1",
+      "Runs": "26"
+    }
+  ]
+}

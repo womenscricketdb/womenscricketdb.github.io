@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archive Viewer - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/archive.html">
+    <meta name="description" content="Full, unfiltered career figures across every season, format and opposition tier in South African women's domestic cricket.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Archive Viewer - Women's Provincial Cricket Database">
+    <meta property="og:description" content="Full, unfiltered career figures across every season, format and opposition tier in South African women's domestic cricket.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/archive.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Archive Viewer - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="Full, unfiltered career figures across every season, format and opposition tier in South African women's domestic cricket.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-section-pills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.4rem;
+            margin-bottom: 1.25rem;
+            font-family: var(--wca-font-body);
+        }
+        .wca-section-pills a {
+            padding: 0.5rem 0.9rem;
+            border-radius: 20px;
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text);
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+        .wca-section-pills a:hover { border-color: var(--wca-gold); text-decoration:none; }
+        .wca-section-pills a.active {
+            background: var(--wca-gold);
+            color: #101010;
+            border-color: var(--wca-gold);
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<main class="container py-4">
+    <div class="wca-breadcrumb"><a href="index.html">Home</a> / Archive Viewer</div>
+    <h1 class="wca-section-title">Archive Viewer</h1>
+    <p class="text-secondary" style="font-family: var(--wca-font-body); font-size:0.9rem;">
+        Full career figures, unfiltered by qualification thresholds. Use the Season/Format/Opposition-Tier filters
+        below, or set a minimum value on any numeric column.
+    </p>
+
+    <div class="wca-section-pills" id="typePills"></div>
+
+    <div id="archiveTableRoot">
+        <div class="wca-loading"><div class="wca-spinner"></div> Loading archive…</div>
+    </div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<button id="wcaBackToTop" title="Back to top"><i class="bi bi-arrow-up"></i></button>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-loader.js"></script>
+<script src="assets/js/table-render.js"></script>
+<script>
+    WCA_NAV.render("archive");
+    WCA_NAV.renderFooter();
+
+    // Each Stat Type maps to data/summaries/json/Archive_{file}.json and
+    // carries its own default sort + which numeric columns are "lower is
+    // better" for the threshold-filter and default sort direction.
+    const STAT_TYPES = [
+        { key: "Batting", file: "Archive_Batting", label: "Batting",
+          defaultSort: { col: "Runs", dir: "desc" }, lowerIsBetterCols: [] },
+        { key: "Bowling", file: "Archive_Bowling", label: "Bowling",
+          defaultSort: { col: "Wickets", dir: "desc" }, lowerIsBetterCols: ["Economy", "Average", "Strike-Rate"] },
+        { key: "Fielding", file: "Archive_Fielding", label: "Fielding",
+          defaultSort: { col: "Matches", dir: "desc" }, lowerIsBetterCols: [] },
+        { key: "Partnerships", file: "Archive_Partnerships", label: "Partnerships",
+          defaultSort: { col: "Runs", dir: "desc" }, lowerIsBetterCols: [] },
+        { key: "Misc", file: "Archive_Misc", label: "Miscellaneous",
+          defaultSort: { col: "Matches", dir: "desc" }, lowerIsBetterCols: [] },
+    ];
+
+    const params = new URLSearchParams(location.search);
+    let currentType = STAT_TYPES.find(t => t.key === params.get("type")) ? params.get("type") : STAT_TYPES[0].key;
+
+    function setUrl(type) {
+        const p = new URLSearchParams();
+        p.set("type", type);
+        history.replaceState(null, "", `archive.html?${p.toString()}`);
+    }
+
+    function renderPills() {
+        const root = document.getElementById("typePills");
+        root.innerHTML = STAT_TYPES.map(t => {
+            const cls = t.key === currentType ? "active" : "";
+            return `<a href="#" data-type="${t.key}" class="${cls}">${t.label}</a>`;
+        }).join("");
+        root.querySelectorAll("a").forEach(a => {
+            a.addEventListener("click", (e) => {
+                e.preventDefault();
+                currentType = a.dataset.type;
+                loadAndRender();
+            });
+        });
+    }
+
+    async function loadAndRender() {
+        setUrl(currentType);
+        renderPills();
+
+        const meta = STAT_TYPES.find(t => t.key === currentType);
+        const root = document.getElementById("archiveTableRoot");
+        root.innerHTML = `<div class="wca-loading"><div class="wca-spinner"></div> Loading ${meta.label.toLowerCase()}…</div>`;
+
+        const rows = await WCA.fetchSummary(meta.file);
+        WCA_TABLE.render(root, rows, {
+            emptyMessage: `No ${meta.label.toLowerCase()} data available.`,
+            defaultSort: meta.defaultSort,
+            lowerIsBetterCols: meta.lowerIsBetterCols,
+            enableThresholdFilter: true,
+            defaultToOverall: true,
+            pageLength: 50,
+        });
+    }
+
+    loadAndRender();
+
+    const backBtn = document.getElementById("wcaBackToTop");
+    window.addEventListener("scroll", () => {
+        backBtn.style.display = window.scrollY > 400 ? "flex" : "none";
+    });
+    backBtn.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+</script>
+</body>
+</html>
