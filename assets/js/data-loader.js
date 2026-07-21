@@ -36,6 +36,28 @@ const WCA = (() => {
         }
     }
 
+    /**
+     * consolidate.py's flat record conversion (Archive Viewer + Records)
+     * writes { columns: [...], rows: [[...], [...]] } instead of an array
+     * of row-objects - repeating every column name on every row was most
+     * of why those files ran 4-6x the size of their source CSVs. This
+     * rehydrates that shape back into the row-objects table-render.js
+     * expects, right after fetch, so nothing downstream ever needs to
+     * know the wire format changed. Anything already an array (or null,
+     * on a 404) passes through unchanged, so it's safe even against old
+     * cached/un-migrated files.
+     */
+    function rehydrateColumnar(data) {
+        if (Array.isArray(data) || !data) return data;
+        if (!Array.isArray(data.columns) || !Array.isArray(data.rows)) return data;
+        const { columns, rows } = data;
+        return rows.map(row => {
+            const obj = {};
+            columns.forEach((col, i) => { obj[col] = row[i]; });
+            return obj;
+        });
+    }
+
     /** Load a player by their exact Known_Name (filename, unencoded). */
     function fetchPlayer(name) {
         return fetchJSON(`players/json/${encodeURIComponent(name)}.json`);
@@ -47,10 +69,10 @@ const WCA = (() => {
         return fetchJSON(`venues/json/${encodeURIComponent(name)}.json`);
     }
     function fetchRecord(section, file) {
-        return fetchJSON(`records/${section}/json/${encodeURIComponent(file)}.json`);
+        return fetchJSON(`records/${section}/json/${encodeURIComponent(file)}.json`).then(rehydrateColumnar);
     }
     function fetchSummary(name) {
-        return fetchJSON(`summaries/json/${encodeURIComponent(name)}.json`);
+        return fetchJSON(`summaries/json/${encodeURIComponent(name)}.json`).then(rehydrateColumnar);
     }
     function fetchRecordHolders() {
         return fetchJSON(`metadata/record_holders.json`);
@@ -403,18 +425,9 @@ const WCA = (() => {
         return `${winner} won the toss and decided to ${decision.toLowerCase()}`;
     }
 
-    /**
-     * @param {string|null} winner
-     * @param {string|number|null} margin
-     * @param {string|null} marginType
-     * @param {string|null} [outcome] - the match-level Match_Outcome value
-     *   (e.g. "Abandoned", "No Result") read off a team row when no team's
-     *   outcome is "Won". Abandoned/no-result matches ARE recorded, just
-     *   not with a winner, so this is the real status rather than a blank -
-     *   only fall back to "Result not recorded" when even that's missing.
-     */
-    function resultLabel(winner, margin, marginType, outcome) {
-        if (!winner) return outcome || "Result not recorded";
+    /** @param {string|null} winner @param {string|number|null} margin @param {string|null} marginType */
+    function resultLabel(winner, margin, marginType) {
+        if (!winner) return "Result not recorded";
         if (margin == null || margin === "" || !marginType) return `${winner} won`;
         const n = Number(margin);
         const unit = marginType.toLowerCase(); // "Runs" | "Wickets"
