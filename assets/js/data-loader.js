@@ -426,8 +426,18 @@ const WCA = (() => {
     }
 
     /** @param {string|null} winner @param {string|number|null} margin @param {string|null} marginType */
-    function resultLabel(winner, margin, marginType) {
-        if (!winner) return "Result not recorded";
+    /**
+     * @param {string|null} winner
+     * @param {string|number|null} margin
+     * @param {string|null} marginType
+     * @param {string|null} [outcome] - the match-level Match_Outcome value
+     *   (e.g. "Abandoned", "No Result") read off a team row when no team's
+     *   outcome is "Won". Abandoned/no-result matches ARE recorded, just
+     *   not with a winner, so this is the real status rather than a blank -
+     *   only fall back to "Result not recorded" when even that's missing.
+     */
+    function resultLabel(winner, margin, marginType, outcome) {
+        if (!winner) return outcome || "Result not recorded";
         if (margin == null || margin === "" || !marginType) return `${winner} won`;
         const n = Number(margin);
         const unit = marginType.toLowerCase(); // "Runs" | "Wickets"
