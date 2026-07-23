@@ -305,5 +305,59 @@
         "Career Span": "2026 - 2026"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2026/02/28",
+        "Opponent": "Lions",
+        "Batting": "28* (78)",
+        "Bowling": "0/26",
+        "Fielding": "3 ct",
+        "Match_Slug": "2026-02-28-lions-titans"
+      },
+      {
+        "Date": "2026/02/21",
+        "Opponent": "Dolphins",
+        "Batting": "0 (0)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2026-02-21-titans-dolphins"
+      },
+      {
+        "Date": "2026/02/14",
+        "Opponent": "Western Province",
+        "Batting": "0 (0)",
+        "Bowling": "1/26",
+        "Fielding": "2 ct",
+        "Match_Slug": "2026-02-14-titans-western-province"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2026/03/01",
+        "Opponent": "Lions",
+        "Batting": "0 (0)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2026-03-01-lions-titans"
+      },
+      {
+        "Date": "2026/02/22",
+        "Opponent": "Dolphins",
+        "Batting": "0* (1)",
+        "Bowling": "3/15",
+        "Fielding": "",
+        "Match_Slug": "2026-02-22-titans-dolphins"
+      },
+      {
+        "Date": "2026/02/15",
+        "Opponent": "Western Province",
+        "Batting": "0 (0)",
+        "Bowling": "1/20",
+        "Fielding": "",
+        "Match_Slug": "2026-02-15-titans-western-province"
+      }
+    ]
   }
 }

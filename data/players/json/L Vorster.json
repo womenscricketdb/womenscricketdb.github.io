@@ -333,5 +333,51 @@
         "Career Span": "2019 - 2020"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2020/02/29",
+        "Opponent": "Iinyathi",
+        "Batting": "15 (14)",
+        "Bowling": "0/31",
+        "Fielding": "1 ct",
+        "Match_Slug": "2020-02-29-warriors-iinyathi"
+      },
+      {
+        "Date": "2019/11/16",
+        "Opponent": "Boland",
+        "Batting": "0 (0)",
+        "Bowling": "1/35",
+        "Fielding": "",
+        "Match_Slug": "2019-11-16-boland-warriors"
+      },
+      {
+        "Date": "2019/02/23",
+        "Opponent": "Knights",
+        "Batting": "1* (6)",
+        "Bowling": "2/6",
+        "Fielding": "1 ct",
+        "Match_Slug": "2019-02-23-knights-warriors"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2019/11/17",
+        "Opponent": "Boland",
+        "Batting": "0 (0)",
+        "Bowling": "2/16",
+        "Fielding": "",
+        "Match_Slug": "2019-11-17-boland-warriors"
+      },
+      {
+        "Date": "2019/02/24",
+        "Opponent": "Knights",
+        "Batting": "4 (25)",
+        "Bowling": "2/23",
+        "Fielding": "1 ct",
+        "Match_Slug": "2019-02-24-knights-warriors"
+      }
+    ]
   }
 }

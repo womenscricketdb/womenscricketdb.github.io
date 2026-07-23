@@ -147,5 +147,33 @@
         "Career Span": "2007 - 2007"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2007/11/10",
+        "Opponent": "Heat",
+        "Batting": "5 (23)",
+        "Bowling": "0/22",
+        "Fielding": "",
+        "Match_Slug": "2007-11-10-heat-eastern-storm"
+      },
+      {
+        "Date": "2007/10/20",
+        "Opponent": "Titans",
+        "Batting": "0 (1)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2007-10-20-eastern-storm-titans"
+      },
+      {
+        "Date": "2007/10/13",
+        "Opponent": "Lions",
+        "Batting": "0* (5)",
+        "Bowling": "–",
+        "Fielding": "1 ct",
+        "Match_Slug": "2007-10-13-lions-eastern-storm"
+      }
+    ]
   }
 }

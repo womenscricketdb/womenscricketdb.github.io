@@ -101,6 +101,13 @@
         .wca-record-badge .value {
             color: var(--wca-gold);
         }
+        .wca-record-badges-note {
+            font-family: var(--wca-font-body);
+            font-size: 0.78rem;
+            color: var(--wca-text-dim);
+            font-style: italic;
+            margin-top: 0.5rem;
+        }
     </style>
 </head>
 <body>
@@ -200,6 +207,37 @@
         });
     }
 
+    /**
+     * Matches tab: unlike Top 5 Innings (a flat array with a Format column
+     * to split on), data.matches already arrives pre-split by format as
+     * top-level keys ({ "List A": [...], "T20": [...] }) - one row per
+     * match this player appeared in, most recent first. Match_Slug is
+     * carried on each row only so it can be dropped from display (the
+     * Date cell links to the match via the usual matchDateLink lookup,
+     * same as everywhere else - Match_Slug itself is never shown).
+     */
+    function renderMatchesTab(container, matchesByFormat) {
+        if (!matchesByFormat || !Object.keys(matchesByFormat).length) {
+            container.innerHTML = `<div class="wca-empty-state">No match-by-match data recorded for this player.</div>`;
+            return;
+        }
+        Object.keys(matchesByFormat).forEach(fmt => {
+            const rows = matchesByFormat[fmt];
+            if (!rows || !rows.length) return;
+            const heading = document.createElement("div");
+            heading.className = "wca-subtable-title";
+            heading.textContent = fmt;
+            container.appendChild(heading);
+            const tableRoot = document.createElement("div");
+            container.appendChild(tableRoot);
+            WCA_TABLE.render(tableRoot, WCA_TABLE.omitKey(rows, "Match_Slug"), {
+                compact: true,
+                linkMatchDate: true,
+                matchDateLink: { index: matchLookupIndex || {} },
+            });
+        });
+    }
+
     function renderBattingBowlingSection(containerId, sectionData) {
         const container = document.getElementById(containerId);
         if (!WCA.hasData(sectionData)) {
@@ -256,16 +294,17 @@
     }
 
     /**
-     * Headline records, Format: OVERALL and Season: OVERALL only, i.e. the
-     * single biggest all-time fact for that record type. Everything more
-     * specific (format-only, or any season) lives in the Records tab
-     * instead, since showing every format/season slice here gets repetitive
-     * fast (a player who only played one format has identical combined and
-     * format-specific figures for the same stat).
+     * Headline records: every real (single-format) career record this
+     * player holds, i.e. the same set the "Career Records (by format)"
+     * table below shows, just as compact badges rather than a table.
+     * Deliberately the same underlying data as that table, not a
+     * separately-curated subset - two visual treatments of one set,
+     * rather than two different-looking things that turn out to mean
+     * different, disconnected things.
      */
     function renderHeadlineRecords(container, recordEntries) {
         if (!recordEntries || !recordEntries.length) return;
-        const headline = recordEntries.filter(r => r.format === "OVERALL" && r.season === "OVERALL");
+        const headline = recordEntries.filter(r => r.season === "OVERALL");
         if (!headline.length) return;
 
         const badges = document.createElement("div");
@@ -281,25 +320,21 @@
             const badge = document.createElement("div");
             badge.className = "wca-record-badge";
             const shared = r.tied ? ` <span class="text-secondary">(shared, ${r.tiedCount})</span>` : "";
-            badge.innerHTML = `${WCA.escapeHtml(r.label)}: <span class="value">${WCA.escapeHtml(r.value)}</span>${shared}`;
+            badge.innerHTML = `${WCA.escapeHtml(r.label)} (${WCA.escapeHtml(r.format)}): <span class="value">${WCA.escapeHtml(r.value)}</span>${shared}`;
             badges.appendChild(badge);
         });
         container.appendChild(badges);
+
+        const note = document.createElement("div");
+        note.className = "wca-record-badges-note";
+        note.textContent = "Career totals - see the Records tab below for season-by-season detail.";
+        container.appendChild(note);
     }
 
-    /** Career (format-specific, season = OVERALL) and season-specific records, the Records tab. */
+    /** Career (per-format, season = OVERALL) and season-specific records, the Records tab. */
     function renderRecordsTab(container, recordEntries, doublesEntries) {
-        const career = (recordEntries || []).filter(r => r.season === "OVERALL" && r.format !== "OVERALL");
-        let seasonal = (recordEntries || []).filter(r => r.season !== "OVERALL");
-
-        // Drop an OVERALL-format row when a specific-format row exists for
-        // the same (season, record) with an identical value, that means
-        // she only played one format that season for that stat, so the
-        // "combined" figure is just restating the format-specific one.
-        seasonal = seasonal.filter(r => {
-            if (r.format !== "OVERALL") return true;
-            return !seasonal.some(o => o !== r && o.season === r.season && o.label === r.label && o.format !== "OVERALL" && o.value === r.value);
-        });
+        const career = (recordEntries || []).filter(r => r.season === "OVERALL");
+        const seasonal = (recordEntries || []).filter(r => r.season !== "OVERALL");
 
         // Group by record type (alphabetical), oldest season first within
         // each group, reads as a chronological history in that stat.
@@ -337,7 +372,14 @@
             container.appendChild(heading);
             const root = document.createElement("div");
             container.appendChild(root);
-            WCA_TABLE.render(root, toRows(seasonal), { compact: true, showStampColumns: true, noFilters: true });
+            // A prolific player can hold 50+ individual season records
+            // stacked into one flat list - splitting by Record (same
+            // WCA_TABLE.renderRecordGroups already used on venue.html for
+            // this exact problem) turns that into one short, independently
+            // scannable table per stat, each still showing every season
+            // she's held it, with a Format toggle only appearing where a
+            // given stat genuinely spans both formats across her career.
+            WCA_TABLE.renderRecordGroups(root, toRows(seasonal), "Record", { compact: true, showStampColumns: true, noFilters: true });
         }
 
         if (doublesEntries && Object.keys(doublesEntries).length) {
@@ -381,7 +423,15 @@
             return;
         }
 
-        const recordEntries = (holders && holders.records && holders.records[playerName]) || [];
+        // Format: OVERALL (combined List A + T20) is never a legitimate
+        // standalone cricket record on its own - the two formats have
+        // different innings lengths and scoring economies entirely, so
+        // adding a player's T20 tally to her List A tally isn't a real
+        // achievement in either. Filtered out here, at the source, rather
+        // than in each display function separately, so nothing downstream
+        // (headline badges, career table, season table) can end up
+        // showing a combined-format figure as "a record held".
+        const recordEntries = ((holders && holders.records && holders.records[playerName]) || []).filter(r => r.format !== "OVERALL");
         const doublesEntries = (holders && holders.doubles && holders.doubles[playerName]) || {};
 
         renderSummary(data);
@@ -392,7 +442,14 @@
         if (WCA.hasData(data.batting)) tabs.push({ id: "batting", label: "Batting" });
         if (WCA.hasData(data.bowling)) tabs.push({ id: "bowling", label: "Bowling" });
         if (WCA.hasData(data.misc)) tabs.push({ id: "misc", label: "Fielding & Misc" });
-        const hasMoreRecords = recordEntries.some(r => r.season !== "OVERALL" || r.format !== "OVERALL") || Object.keys(doublesEntries).length;
+        if (data.matches && Object.keys(data.matches).length) tabs.push({ id: "matches", label: "Matches" });
+        // Records tab now shows every career record (see renderRecordsTab),
+        // not just the per-format breakdown, so any recordEntries at all
+        // means there's something to show there - a player whose only
+        // held records are the combined-format ones (already shown as
+        // badges above) still gets a Records tab now, since that's their
+        // one and only view of those records at all.
+        const hasMoreRecords = recordEntries.length > 0 || Object.keys(doublesEntries).length;
         if (hasMoreRecords) tabs.push({ id: "records", label: "Records" });
 
         const tabList = document.getElementById("playerTabs");
@@ -421,6 +478,7 @@
         if (tabs.some(t => t.id === "batting")) renderBattingBowlingSection("content-batting", data.batting);
         if (tabs.some(t => t.id === "bowling")) renderBattingBowlingSection("content-bowling", data.bowling);
         if (tabs.some(t => t.id === "misc")) renderMiscSection("content-misc", data.misc);
+        if (tabs.some(t => t.id === "matches")) renderMatchesTab(document.getElementById("content-matches"), data.matches);
         if (tabs.some(t => t.id === "records")) renderRecordsTab(document.getElementById("content-records"), recordEntries, doublesEntries);
     }
 

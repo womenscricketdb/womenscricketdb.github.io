@@ -193,12 +193,19 @@
     function renderMatches() {
         const season = document.getElementById("seasonSelect").value;
         const format = document.getElementById("formatSelect").value;
-        const division = document.getElementById("divisionSelect").value;
+        const divisionSelect = document.getElementById("divisionSelect");
+        const hasDivisions = divisionSelect.options.length > 0;
+        const division = divisionSelect.value;
 
         const root = document.getElementById("matchesRoot");
         const rows = allMatches.filter(m =>
             m.season === season && m.format === format &&
-            matchBelongsToDivision(m.division, division)
+            // No Division control at all this season/format (see
+            // updateDivisionOptions) means there's no real division
+            // structure to filter by - every match for the season/format
+            // shows, rather than being silently narrowed by whatever
+            // Match_Division's raw value happens to be.
+            (!hasDivisions || matchBelongsToDivision(m.division, division))
         );
 
         if (!rows.length) {
@@ -227,10 +234,23 @@
     function render() {
         const season = document.getElementById("seasonSelect").value;
         const format = document.getElementById("formatSelect").value;
-        const division = document.getElementById("divisionSelect").value;
+        const divisionSelect = document.getElementById("divisionSelect");
+        const hasDivisions = divisionSelect.options.length > 0;
+        const division = divisionSelect.value;
         setUrl(season, format, division);
 
         const root = document.getElementById("standingsRoot");
+
+        if (!hasDivisions) {
+            // Genuinely no standings for this season/format at all (e.g.
+            // 20/21's bio-bubbles) - a dedicated message rather than the
+            // generic per-division one below, which would otherwise read
+            // oddly with an empty division name ("... for List A  in the
+            // 20/21 season").
+            root.innerHTML = `<div class="wca-empty-state">No standings recorded for ${WCA.escapeHtml(format)} in the ${WCA.escapeHtml(season)} season - matches were played without a divisional/league table structure.</div>`;
+            return;
+        }
+
         const rows = allStandings.filter(r => r.Season === season && r.Format === format && r.Division === division);
 
         if (!rows.length) {
@@ -265,28 +285,56 @@
         });
     }
 
-    // Format/Division options are pruned to only what actually has standings
-    // for the given Season (and Format, for Division) - previously these
-    // were static <option> lists in the markup, meaning a user could select
-    // a combination guaranteed to be empty before even picking it.
+    // Format/Division options prefer standings (the richer, more complete
+    // source when it exists), but fall back to whatever the match data
+    // itself has for a season with no standings at all - e.g. the 20/21
+    // pandemic season (four bio-bubbles, no divisional structure, no
+    // points tables kept) still had real matches played, and those should
+    // still be browsable even though there's nothing to show in the
+    // standings table above them.
     function validFormatsFor(season) {
-        return Array.from(new Set(allStandings.filter(r => r.Season === season).map(r => r.Format))).sort();
+        const fromStandings = Array.from(new Set(allStandings.filter(r => r.Season === season).map(r => r.Format))).sort();
+        if (fromStandings.length) return fromStandings;
+        return Array.from(new Set(allMatches.filter(m => m.season === season).map(m => m.format))).sort();
     }
     function validDivisionsFor(season, format) {
+        // Standings-only, deliberately no match-data fallback here - unlike
+        // Format (a real property every match has), "Division 1"/"Division 2"
+        // is a competition-structure concept that only exists where a real
+        // league/points-table structure existed. Match_Division's own raw
+        // values ("Div 1"/"Div 2"/"Cross-Div") are a different vocabulary
+        // already used for the matches-list filter below, not something to
+        // surface here as if it were a genuine standings division - a
+        // season with no standings gets no Division options at all rather
+        // than a fabricated one.
         return Array.from(new Set(allStandings.filter(r => r.Season === season && r.Format === format).map(r => r.Division))).sort();
     }
     function updateFormatOptions(season, preferredValue) {
         const formatSelect = document.getElementById("formatSelect");
         const options = validFormatsFor(season);
-        if (!options.length) return; // shouldn't happen - season itself came from allStandings - but don't wipe a working dropdown over it
+        if (!options.length) return; // genuinely nothing for this season in either source - leave prior dropdown rather than show an empty one
         formatSelect.innerHTML = options.map(f => `<option value="${WCA.escapeHtml(f)}">${WCA.escapeHtml(f)}</option>`).join("");
         formatSelect.value = (preferredValue && options.includes(preferredValue)) ? preferredValue
             : (options.includes("List A") ? "List A" : options[0]);
     }
     function updateDivisionOptions(season, format, preferredValue) {
         const divisionSelect = document.getElementById("divisionSelect");
+        const divisionGroup = divisionSelect.closest(".wca-filter-group");
         const options = validDivisionsFor(season, format);
-        if (!options.length) return;
+
+        if (!options.length) {
+            // No standings for this season/format - Division isn't a real
+            // choice here (nothing to divide into, e.g. 20/21's bio-bubbles),
+            // so the control is hidden entirely rather than offering a
+            // Division 1/2 choice that never applied. renderMatches() and
+            // render() both check divisionSelect.options.length directly
+            // rather than trusting a leftover <select> value.
+            divisionSelect.innerHTML = "";
+            if (divisionGroup) divisionGroup.style.display = "none";
+            return;
+        }
+
+        if (divisionGroup) divisionGroup.style.display = "";
         divisionSelect.innerHTML = options.map(d => `<option value="${WCA.escapeHtml(d)}">${WCA.escapeHtml(d)}</option>`).join("");
         divisionSelect.value = (preferredValue && options.includes(preferredValue)) ? preferredValue
             : (options.includes("Division 1") ? "Division 1" : options[0]);
@@ -296,7 +344,13 @@
         allStandings = await WCA.fetchStandings() || [];
         allMatches = await WCA.fetchMatchIndex() || [];
 
-        const seasons = Array.from(new Set(allStandings.map(r => r.Season))).sort();
+        // Union of both sources - a season with real matches but no
+        // standings (20/21) must still be selectable, not silently
+        // dropped just because the season list used to be standings-only.
+        const seasons = Array.from(new Set([
+            ...allStandings.map(r => r.Season),
+            ...allMatches.map(m => m.season),
+        ])).sort();
         const seasonSelect = document.getElementById("seasonSelect");
         seasonSelect.innerHTML = seasons.map(s => `<option value="${s}">${s}</option>`).join("");
 

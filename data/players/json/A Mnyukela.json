@@ -272,5 +272,59 @@
         "Career Span": "2019 - 2022"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2022/02/05",
+        "Opponent": "Warriors",
+        "Batting": "1 (2)",
+        "Bowling": "0/20",
+        "Fielding": "",
+        "Match_Slug": "2022-02-05-kei-warriors"
+      },
+      {
+        "Date": "2020/01/18",
+        "Opponent": "Badgers",
+        "Batting": "8 (6)",
+        "Bowling": "0/32",
+        "Fielding": "1 ct",
+        "Match_Slug": "2020-01-18-kei-badgers"
+      },
+      {
+        "Date": "2019/10/26",
+        "Opponent": "Iinyathi",
+        "Batting": "1 (4)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2019-10-26-kei-iinyathi"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2022/02/06",
+        "Opponent": "Warriors",
+        "Batting": "0 (0)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2022-02-06-warriors-kei"
+      },
+      {
+        "Date": "2020/01/19",
+        "Opponent": "Badgers",
+        "Batting": "0 (0)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2020-01-19-kei-badgers"
+      },
+      {
+        "Date": "2019/10/27",
+        "Opponent": "Iinyathi",
+        "Batting": "0 (2)",
+        "Bowling": "0/7",
+        "Fielding": "",
+        "Match_Slug": "2019-10-27-kei-iinyathi"
+      }
+    ]
   }
 }

@@ -302,5 +302,51 @@
         "Career Span": "2017 - 2018"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2017/11/11",
+        "Opponent": "Dolphins",
+        "Batting": "1 (19)",
+        "Bowling": "1/42",
+        "Fielding": "",
+        "Match_Slug": "2017-11-11-limpopo-lillies-dolphins"
+      },
+      {
+        "Date": "2017/03/11",
+        "Opponent": "Rhinos",
+        "Batting": "1 (5)",
+        "Bowling": "0/13",
+        "Fielding": "",
+        "Match_Slug": "2017-03-11-rhinos-limpopo-lillies"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2018/01/28",
+        "Opponent": "Rhinos",
+        "Batting": "0* (2)",
+        "Bowling": "1/10",
+        "Fielding": "1 ct",
+        "Match_Slug": "2018-01-28-rhinos-limpopo-lillies"
+      },
+      {
+        "Date": "2017/11/12",
+        "Opponent": "Dolphins",
+        "Batting": "2 (12)",
+        "Bowling": "0/21",
+        "Fielding": "",
+        "Match_Slug": "2017-11-12-limpopo-lillies-dolphins"
+      },
+      {
+        "Date": "2017/03/12",
+        "Opponent": "Rhinos",
+        "Batting": "0 (0)",
+        "Bowling": "1/11",
+        "Fielding": "",
+        "Match_Slug": "2017-03-12-rhinos-limpopo-lillies"
+      }
+    ]
   }
 }

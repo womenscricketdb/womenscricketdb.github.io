@@ -337,5 +337,59 @@
         "Career Span": "2025 - 2026"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2026/02/14",
+        "Opponent": "Eastern Storm",
+        "Batting": "0 (8)",
+        "Bowling": "0/35",
+        "Fielding": "1 ct",
+        "Match_Slug": "2026-02-14-knights-eastern-storm"
+      },
+      {
+        "Date": "2026/02/07",
+        "Opponent": "Tuskers",
+        "Batting": "9* (25)",
+        "Bowling": "0/25",
+        "Fielding": "",
+        "Match_Slug": "2026-02-07-tuskers-knights"
+      },
+      {
+        "Date": "2025/10/18",
+        "Opponent": "Rhinos",
+        "Batting": "5 (20)",
+        "Bowling": "1/25",
+        "Fielding": "",
+        "Match_Slug": "2025-10-18-rhinos-knights"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2026/02/15",
+        "Opponent": "Eastern Storm",
+        "Batting": "10 (14)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2026-02-15-knights-eastern-storm"
+      },
+      {
+        "Date": "2026/02/08",
+        "Opponent": "Tuskers",
+        "Batting": "1 (4)",
+        "Bowling": "1/7",
+        "Fielding": "",
+        "Match_Slug": "2026-02-08-tuskers-knights"
+      },
+      {
+        "Date": "2025/10/19",
+        "Opponent": "Rhinos",
+        "Batting": "0 (0)",
+        "Bowling": "0/21",
+        "Fielding": "",
+        "Match_Slug": "2025-10-19-rhinos-knights"
+      }
+    ]
   }
 }

@@ -382,5 +382,75 @@
         "Career Span": "2025 - 2026"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2026/02/28",
+        "Opponent": "Western Province",
+        "Batting": "24* (52)",
+        "Bowling": "1/0",
+        "Fielding": "",
+        "Match_Slug": "2026-02-28-western-province-dragons"
+      },
+      {
+        "Date": "2026/02/21",
+        "Opponent": "Badgers",
+        "Batting": "27 (59)",
+        "Bowling": "0/9",
+        "Fielding": "1 ct",
+        "Match_Slug": "2026-02-21-dragons-badgers"
+      },
+      {
+        "Date": "2026/02/14",
+        "Opponent": "Dolphins",
+        "Batting": "20 (36)",
+        "Bowling": "1/16",
+        "Fielding": "",
+        "Match_Slug": "2026-02-14-dragons-dolphins"
+      },
+      {
+        "Date": "2026/02/07",
+        "Opponent": "Titans",
+        "Batting": "37 (72)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2026-02-07-titans-dragons"
+      },
+      {
+        "Date": "2025/10/18",
+        "Opponent": "Titans",
+        "Batting": "54 (95)",
+        "Bowling": "0/26",
+        "Fielding": "",
+        "Match_Slug": "2025-10-18-dragons-titans"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2026/02/15",
+        "Opponent": "Dolphins",
+        "Batting": "12 (13)",
+        "Bowling": "0/15",
+        "Fielding": "",
+        "Match_Slug": "2026-02-15-dragons-dolphins"
+      },
+      {
+        "Date": "2026/02/08",
+        "Opponent": "Titans",
+        "Batting": "0 (10)",
+        "Bowling": "–",
+        "Fielding": "1 ct",
+        "Match_Slug": "2026-02-08-titans-dragons"
+      },
+      {
+        "Date": "2025/10/19",
+        "Opponent": "Titans",
+        "Batting": "10 (10)",
+        "Bowling": "0/8",
+        "Fielding": "",
+        "Match_Slug": "2025-10-19-dragons-titans"
+      }
+    ]
   }
 }

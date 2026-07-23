@@ -259,5 +259,43 @@
         "Career Span": "2024 - 2024"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2024/03/09",
+        "Opponent": "Dragons",
+        "Batting": "1 (14)",
+        "Bowling": "0/17",
+        "Fielding": "",
+        "Match_Slug": "2024-03-09-rhinos-dragons"
+      },
+      {
+        "Date": "2024/02/24",
+        "Opponent": "Eastern Storm",
+        "Batting": "3 (11)",
+        "Bowling": "1/12",
+        "Fielding": "",
+        "Match_Slug": "2024-02-24-eastern-storm-rhinos"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2024/03/10",
+        "Opponent": "Dragons",
+        "Batting": "0 (2)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2024-03-10-rhinos-dragons"
+      },
+      {
+        "Date": "2024/02/25",
+        "Opponent": "Eastern Storm",
+        "Batting": "3 (26)",
+        "Bowling": "1/24",
+        "Fielding": "",
+        "Match_Slug": "2024-02-25-eastern-storm-rhinos"
+      }
+    ]
   }
 }

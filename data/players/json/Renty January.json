@@ -207,5 +207,41 @@
         "Career Span": "2016 - 2016"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2016/04/02",
+        "Opponent": "Dragons",
+        "Batting": "0 (13)",
+        "Bowling": "0/17",
+        "Fielding": "",
+        "Match_Slug": "2016-04-02-boland-dragons"
+      },
+      {
+        "Date": "2016/04/01",
+        "Opponent": "Lions",
+        "Batting": "0 (10)",
+        "Bowling": "0/30",
+        "Fielding": "",
+        "Match_Slug": "2016-04-01-boland-lions"
+      },
+      {
+        "Date": "2016/03/31",
+        "Opponent": "Dragons",
+        "Batting": "5* (3)",
+        "Bowling": "0/9",
+        "Fielding": "",
+        "Match_Slug": "2016-03-31-boland-dragons"
+      },
+      {
+        "Date": "2016/03/30",
+        "Opponent": "Warriors",
+        "Batting": "0 (0)",
+        "Bowling": "1/17",
+        "Fielding": "1 ct",
+        "Match_Slug": "2016-03-30-boland-warriors"
+      }
+    ]
   }
 }

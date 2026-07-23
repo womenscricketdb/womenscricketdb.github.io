@@ -53,6 +53,24 @@ const WCA_NAV = (() => {
         if (!root) return;
         const year = new Date().getFullYear();
         root.innerHTML = `<footer class="wca-footer"><div class="container">© ${year} Women's Provincial Cricket Database</div></footer>`;
+
+        // "Data correct as of" - a manual QlikView export, not a live feed,
+        // so this matters for anyone wondering how current the numbers
+        // are. Fetched after the initial footer render (rather than
+        // blocking it) so a slow/failed fetch never delays or breaks the
+        // copyright line every page already depends on.
+        fetch("data/metadata/site_meta.json")
+            .then(r => r.ok ? r.json() : null)
+            .then(meta => {
+                if (!meta || !meta.last_match_date) return;
+                const container = root.querySelector(".container");
+                if (!container) return;
+                const note = document.createElement("div");
+                note.className = "wca-footer-note";
+                note.textContent = `Data correct as of ${meta.last_match_date}`;
+                container.appendChild(note);
+            })
+            .catch(() => {}); // silent - a missing/broken metadata file shouldn't break every page's footer
     }
 
     return { render, renderFooter };

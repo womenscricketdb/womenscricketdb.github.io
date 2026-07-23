@@ -84,6 +84,38 @@
             border-color: var(--wca-header-alt);
         }
 
+        /* Mobile collapse: on a narrow screen, ~17 type pills plus 7
+           section pills push the actual table well below the fold before
+           any data is visible. Two compact <select> controls replace both
+           pill rows below the site's existing 767px breakpoint (same one
+           venues.html's "Group Nearby/Individual" toggle already uses),
+           driven by the exact same currentSection/currentType state and
+           loadAndRender() call as the desktop pills - never a second,
+           divergent source of truth. Desktop is completely unaffected;
+           .wca-mobile-only stays hidden until the breakpoint applies.
+        */
+        .wca-mobile-only { display: none; }
+        .wca-mobile-select-group {
+            display: none;
+            flex-direction: column;
+            gap: 0.6rem;
+            margin-bottom: 1.25rem;
+        }
+        .wca-mobile-select-group select {
+            font-family: var(--wca-font-body);
+            font-size: 0.9rem;
+            background: var(--wca-surface-raised);
+            color: var(--wca-text);
+            border: 1px solid var(--wca-border);
+            border-radius: 8px;
+            padding: 0.5rem 0.75rem;
+        }
+        @media (max-width: 767px) {
+            .wca-mobile-only { display: block; }
+            .wca-mobile-select-group { display: flex; }
+            .wca-section-pills, .wca-type-list { display: none; }
+        }
+
         /* Used only when a section mixes career and innings records (see
            renderTypeList). #typeList is itself a flex-wrap row, so each
            group's label and pill-row need flex-basis:100% to force them
@@ -124,6 +156,31 @@
             color: #fff;
             border-color: var(--wca-header-alt);
         }
+
+        .wca-mode-toggle {
+            display: inline-flex;
+            gap: 0.25rem;
+            padding: 0.2rem;
+            border: 1px solid var(--wca-border);
+            border-radius: 8px;
+            margin-bottom: 1rem;
+        }
+        .wca-mode-toggle button {
+            font-family: var(--wca-font-body);
+            font-size: 0.82rem;
+            font-weight: 600;
+            padding: 0.35rem 0.8rem;
+            border-radius: 6px;
+            border: none;
+            background: transparent;
+            color: var(--wca-text-dim);
+            cursor: pointer;
+        }
+        .wca-mode-toggle button:hover { color: #fff; }
+        .wca-mode-toggle button.active {
+            background: var(--wca-gold);
+            color: #101010;
+        }
     </style>
 </head>
 <body>
@@ -134,8 +191,13 @@
     <div class="wca-breadcrumb"><a href="index.html">Home</a> / Records</div>
     <h1 class="wca-section-title" id="recordPageTitle">Records</h1>
 
+    <div class="wca-mobile-select-group">
+        <select class="wca-mobile-only" id="sectionSelectMobile" aria-label="Record section"></select>
+        <select class="wca-mobile-only" id="typeSelectMobile" aria-label="Record type"></select>
+    </div>
     <div class="wca-section-pills" id="sectionPills"></div>
     <div class="wca-type-list" id="typeList"></div>
+    <div id="recordModeToggle"></div>
     <p class="wca-record-qualifier" id="recordQualifierLine"></p>
 
     <div id="recordTableRoot">
@@ -191,9 +253,27 @@
                 e.preventDefault();
                 currentSection = a.dataset.section;
                 currentType = typesFor(currentSection)[0].file;
+                seasonLeaderboardMode = false;
                 loadAndRender();
             });
         });
+
+        // Mobile <select> equivalent - same currentSection state, same
+        // reset-to-first-type-on-section-change behaviour, same
+        // loadAndRender() call as the desktop pills above. Rebuilt every
+        // call (cheap, 7 options) rather than tracked separately, so it
+        // can never drift out of sync with which section is actually active.
+        const mobileSelect = document.getElementById("sectionSelectMobile");
+        mobileSelect.innerHTML = sectionKeys.map(key =>
+            `<option value="${key}">${WCA_RECORD_SECTIONS[key].label}</option>`
+        ).join("");
+        mobileSelect.value = currentSection;
+        mobileSelect.onchange = () => {
+            currentSection = mobileSelect.value;
+            currentType = typesFor(currentSection)[0].file;
+            seasonLeaderboardMode = false;
+            loadAndRender();
+        };
     }
 
     function renderTypeList() {
@@ -227,15 +307,48 @@
             a.addEventListener("click", (e) => {
                 e.preventDefault();
                 currentType = a.dataset.type;
+                seasonLeaderboardMode = false;
                 loadAndRender();
             });
         });
+
+        // Mobile <select> equivalent. optgroups mirror the same
+        // career/innings split the desktop pill-groups use when a section
+        // mixes grains, so the grouping information isn't lost just
+        // because it's collapsed into a dropdown - single-grain sections
+        // (misc, partnerships, doubles) get a flat option list, same as
+        // their desktop pill-list does.
+        const mobileSelect = document.getElementById("typeSelectMobile");
+        const optionHtml = t => `<option value="${t.file}">${t.label}</option>`;
+        if (grains.length > 1) {
+            const groupLabels = { career: "Career Records", innings: "Innings Records" };
+            const order = ["career", "innings"];
+            mobileSelect.innerHTML = order
+                .filter(g => types.some(t => t.grain === g))
+                .map(g => `<optgroup label="${groupLabels[g]}">${types.filter(t => t.grain === g).map(optionHtml).join("")}</optgroup>`)
+                .join("");
+        } else {
+            mobileSelect.innerHTML = types.map(optionHtml).join("");
+        }
+        mobileSelect.value = currentType;
+        mobileSelect.onchange = () => {
+            currentType = mobileSelect.value;
+            seasonLeaderboardMode = false;
+            loadAndRender();
+        };
     }
 
     // Loaded once, reused by every table render on this page, table-render.js
     // stays fetch-free (data-loader.js owns all fetching); this is just an
     // already-resolved lookup object handed in via opts each time.
     let matchLookupIndex = null;
+
+    // "Career Totals" (default) vs "By Season" - only offered for
+    // career-grain types (a lifetime aggregate has a meaningful "one
+    // season instead" comparison; a single-innings performance doesn't).
+    // Reset to the default whenever the type/section changes, rather than
+    // carrying a possibly-inapplicable mode across to an unrelated record.
+    let seasonLeaderboardMode = false;
 
     // Renders just the branch of a structured qualifier that's relevant to
     // the Format/Season currently selected in the table's own filter row,
@@ -247,9 +360,8 @@
         return Object.entries(bar).map(([f, v]) => `${v}+ ${unit} (${f})`).join(" / ");
     }
 
-    function qualifierText(q, format, season) {
+    function qualifierText(q, format, isCareerView) {
         if (!q) return null;
-        const isCareerView = !season || season === "OVERALL";
         const hasSplit = q.allTime !== null && q.allTime !== undefined;
         const bar = (isCareerView && hasSplit) ? q.allTime : q.seasonal;
         const barText = formatQualifierBar(bar, q.unit, format);
@@ -276,15 +388,54 @@
         if (!typeMeta) { qualifierLine.innerHTML = ""; return; }
 
         const formatSel = tableRoot.querySelector('select[data-col-key="Format"]');
-        const seasonSel = tableRoot.querySelector('select[data-col-key="Season"]');
         const format = formatSel ? formatSel.value : "";
-        const season = seasonSel ? seasonSel.value : "";
+        // seasonLeaderboardMode has no Season <select> at all (that's the
+        // whole point - every season shown together, nothing to pick),
+        // so the career/season distinction is read from the page's own
+        // mode state first, only falling back to the select's value when
+        // that select actually exists.
+        const seasonSel = tableRoot.querySelector('select[data-col-key="Season"]');
+        const isCareerView = !seasonLeaderboardMode && (!seasonSel || !seasonSel.value || seasonSel.value === "OVERALL");
 
         const parts = [];
-        const qText = qualifierText(typeMeta.qualifier, format, season);
+        const qText = qualifierText(typeMeta.qualifier, format, isCareerView);
         if (qText) parts.push(`<strong>Qualification:</strong> ${WCA.escapeHtml(qText)}.`);
         if (typeMeta.note) parts.push(WCA.escapeHtml(typeMeta.note));
         qualifierLine.innerHTML = parts.join(" ");
+    }
+
+    // Only career-grain types get the toggle at all - an innings-grain
+    // record is already a single-match performance, there's no separate
+    // "season aggregate" version of it to switch to. On top of that,
+    // some career-grain types genuinely have no Season column in their
+    // exported data (e.g. Most_Wins, Most_Matches, Matches_Captained,
+    // Most_Matches_1Team, Most_TeamsPlayedFor - confirmed by inspecting
+    // the actual files, not assumed from grain alone) - showing the
+    // toggle there would offer a mode that does nothing when clicked, so
+    // this checks the real fetched rows rather than trusting grain alone.
+    function hasRealSeasonData(rows) {
+        return Array.isArray(rows) && rows.some(r => r.Season && String(r.Season).toUpperCase() !== "OVERALL");
+    }
+
+    function renderModeToggle(typeMeta, rows) {
+        const root = document.getElementById("recordModeToggle");
+        if (!typeMeta || typeMeta.grain !== "career" || !hasRealSeasonData(rows)) {
+            root.innerHTML = "";
+            return;
+        }
+        root.innerHTML = `
+            <div class="wca-mode-toggle" role="group" aria-label="View mode">
+                <button type="button" data-mode="career" class="${!seasonLeaderboardMode ? "active" : ""}">Career Totals</button>
+                <button type="button" data-mode="season" class="${seasonLeaderboardMode ? "active" : ""}">By Season</button>
+            </div>`;
+        root.querySelectorAll("button").forEach(btn => {
+            btn.addEventListener("click", () => {
+                const wantSeason = btn.dataset.mode === "season";
+                if (wantSeason === seasonLeaderboardMode) return;
+                seasonLeaderboardMode = wantSeason;
+                loadAndRender();
+            });
+        });
     }
 
     async function loadAndRender() {
@@ -301,11 +452,34 @@
         if (matchLookupIndex === null) matchLookupIndex = await WCA.fetchMatchLookupIndex();
 
         const rows = await WCA.fetchRecord(currentSection, currentType);
+
+        // The toggle's own visibility depends on the data that was just
+        // fetched (see hasRealSeasonData above), so this has to run after
+        // the fetch, not alongside the rest of the pre-fetch UI setup
+        // above. If this particular type turns out not to support the
+        // mode after all, fall back to Career Totals rather than leaving
+        // seasonLeaderboardMode stuck on from whatever the previous type
+        // (which may have supported it) left it as.
+        if (seasonLeaderboardMode && !hasRealSeasonData(rows)) seasonLeaderboardMode = false;
+        renderModeToggle(typeMeta, rows);
+
         WCA_TABLE.render(root, rows, {
-            emptyMessage: "No records found for this category yet.",
+            emptyMessage: seasonLeaderboardMode
+                ? "No individual-season records found for this category yet."
+                : "No records found for this category yet.",
             defaultToOverall: true,
             linkMatchDate: true,
             matchDateLink: { index: matchLookupIndex || {} },
+            seasonLeaderboard: seasonLeaderboardMode,
+            // Only meaningful in seasonLeaderboard mode (otherwise the file's
+            // own row order, already correctly ranked for the selected
+            // Season/Format/Tier combination, is left alone). typeMeta.sortCol
+            // is confirmed against real column names on a per-type basis, not
+            // guessed - types without it simply show file order in this mode
+            // until confirmed, rather than sorting by a possibly-wrong key.
+            defaultSort: (seasonLeaderboardMode && typeMeta && typeMeta.sortCol)
+                ? { col: typeMeta.sortCol, dir: typeMeta.lowerIsBetter ? "asc" : "desc" }
+                : undefined,
         });
 
         // The Format/Season selects are rebuilt fresh by WCA_TABLE.render

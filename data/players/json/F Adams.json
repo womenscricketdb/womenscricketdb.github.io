@@ -222,5 +222,51 @@
         "Career Span": "2015 - 2017"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2017/03/04",
+        "Opponent": "Eastern Storm",
+        "Batting": "9 (20)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2017-03-04-eastern-storm-heat"
+      },
+      {
+        "Date": "2016/10/15",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "0 (0)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2016-10-15-limpopo-lillies-heat"
+      },
+      {
+        "Date": "2015/10/31",
+        "Opponent": "Warriors",
+        "Batting": "0 (4)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2015-10-31-warriors-heat"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2017/03/05",
+        "Opponent": "Eastern Storm",
+        "Batting": "4 (16)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2017-03-05-eastern-storm-heat"
+      },
+      {
+        "Date": "2016/10/16",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "0 (0)",
+        "Bowling": "1/9",
+        "Fielding": "",
+        "Match_Slug": "2016-10-16-limpopo-lillies-heat"
+      }
+    ]
   }
 }

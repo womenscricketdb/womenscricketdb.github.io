@@ -196,5 +196,33 @@
         "Career Span": "2009 - 2010"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2010/10/10",
+        "Opponent": "Eastern Storm",
+        "Batting": "19* (36)",
+        "Bowling": "1/21",
+        "Fielding": "",
+        "Match_Slug": "2010-10-10-rhinos-eastern-storm"
+      },
+      {
+        "Date": "2009/11/01",
+        "Opponent": "Lions",
+        "Batting": "6 (23)",
+        "Bowling": "0/35",
+        "Fielding": "",
+        "Match_Slug": "2009-11-01-rhinos-lions"
+      },
+      {
+        "Date": "2009/10/04",
+        "Opponent": "Titans",
+        "Batting": "2 (9)",
+        "Bowling": "0/44",
+        "Fielding": "",
+        "Match_Slug": "2009-10-04-titans-rhinos"
+      }
+    ]
   }
 }

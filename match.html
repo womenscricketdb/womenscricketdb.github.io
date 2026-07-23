@@ -44,6 +44,10 @@
             color: var(--wca-text-dim);
             font-size: 0.9rem;
         }
+        .wca-match-season-badge {
+            color: var(--wca-gold);
+            font-weight: 700;
+        }
         .wca-match-headline {
             font-family: var(--wca-font-body);
             font-weight: 600;
@@ -176,7 +180,9 @@
         document.getElementById("matchTitle").innerHTML =
             `${WCA.entityLink(meta.Team_Home_Name, "team")} v ${WCA.entityLink(meta.Team_Away_Name, "team")}`;
         document.getElementById("matchMetaLine").innerHTML =
-            `${WCA.escapeHtml(meta.Tournament || "")} &middot; ${WCA.entityLink(meta.Venue_Name, "venue")} &middot; ${WCA.escapeHtml(meta.Match_Date || "")}`;
+            `<span class="wca-match-season-badge">Season ${WCA.escapeHtml(meta.Season || "?")}</span> &middot; ` +
+            `${WCA.escapeHtml(meta.Format || "")} &middot; ${WCA.escapeHtml(meta.Tournament || "")} &middot; ` +
+            `${WCA.entityLink(meta.Venue_Name, "venue")} &middot; ${WCA.escapeHtml(meta.Match_Date || "")}`;
 
         const winnerRow = teams.find(t => t.Match_Outcome === "Won") || null;
         const tossRow = teams.find(t => t.Won_Toss === "1" || t.Won_Toss === 1) || null;
@@ -185,7 +191,15 @@
         // (e.g. "Abandoned", "No Result") - that's the real recorded
         // result, just not a decided one, so it's read off the first row
         // rather than treated as absent.
-        const undecidedOutcome = !winnerRow && teams.length ? (teams[0].Match_Outcome || null) : null;
+        // When teams has rows, the shared Match_Outcome value covers
+        // "No Result" etc. When teams is empty, no team data was ever
+        // captured for this match - for this dataset (completed historical
+        // seasons only, no future fixtures) that only ever means the match
+        // was abandoned outright, so "Abandoned" is used rather than
+        // leaving it as an unrecorded/blank result.
+        const undecidedOutcome = !winnerRow
+            ? (teams.length ? (teams[0].Match_Outcome || null) : "Abandoned")
+            : null;
 
         document.getElementById("matchToss").textContent = WCA.tossLabel(
             tossRow ? tossRow.Team_Name : null,

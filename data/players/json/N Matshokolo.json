@@ -218,5 +218,43 @@
         "Career Span": "2009 - 2012"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2011/01/15",
+        "Opponent": "Dragons",
+        "Batting": "5 (29)",
+        "Bowling": "0/6",
+        "Fielding": "",
+        "Match_Slug": "2011-01-15-knights-dragons"
+      },
+      {
+        "Date": "2009/02/07",
+        "Opponent": "Iinyathi",
+        "Batting": "0 (7)",
+        "Bowling": "0/24",
+        "Fielding": "1 ct",
+        "Match_Slug": "2009-02-07-iinyathi-knights"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2012/10/07",
+        "Opponent": "Dolphins",
+        "Batting": "10* (11)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2012-10-07-dolphins-knights"
+      },
+      {
+        "Date": "2012/10/06",
+        "Opponent": "Tuskers",
+        "Batting": "0 (0)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2012-10-06-tuskers-knights"
+      }
+    ]
   }
 }

@@ -294,5 +294,51 @@
         "Career Span": "2025 - 2025"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2025/11/08",
+        "Opponent": "Dolphins",
+        "Batting": "0 (2)",
+        "Bowling": "0/33",
+        "Fielding": "",
+        "Match_Slug": "2025-11-08-dolphins-dragons"
+      },
+      {
+        "Date": "2025/11/01",
+        "Opponent": "Western Province",
+        "Batting": "8 (13)",
+        "Bowling": "3/58",
+        "Fielding": "1 ct",
+        "Match_Slug": "2025-11-01-dragons-western-province"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2025/12/07",
+        "Opponent": "Lions",
+        "Batting": "0 (0)",
+        "Bowling": "0/24",
+        "Fielding": "",
+        "Match_Slug": "2025-12-07-dragons-lions"
+      },
+      {
+        "Date": "2025/11/09",
+        "Opponent": "Dolphins",
+        "Batting": "0 (0)",
+        "Bowling": "1/21",
+        "Fielding": "",
+        "Match_Slug": "2025-11-09-dolphins-dragons"
+      },
+      {
+        "Date": "2025/11/02",
+        "Opponent": "Western Province",
+        "Batting": "0 (0)",
+        "Bowling": "0/31",
+        "Fielding": "",
+        "Match_Slug": "2025-11-02-dragons-western-province"
+      }
+    ]
   }
 }

@@ -164,9 +164,50 @@
         { key: "records", label: "Records", splitKey: "Record" },
         { key: "averages", label: "Averages", splitKey: "Record", compact2col: true },
         { key: "headToHead", label: "Head-to-Head", formatToggle: true },
+        { key: "squads", label: "Squads" },
         { key: "playerRecords", label: "Player Records", splitKey: "Record" },
         { key: "careerRecords", label: "Career Records", splitKey: "Type" },
     ];
+
+    /**
+     * squadsBySeason is { "05/06": [Known_Name, ...], ... } - a plain
+     * season-keyed roster, not a row array like every other section here,
+     * so it gets its own small season-select control (same plain <select>
+     * convention as seasons.html) rather than going through WCA_TABLE at
+     * all. Defaults to the most recent season, not OVERALL like every
+     * other filter on the site - a whole-career "OVERALL squad" would
+     * just be every player who ever played for the team, which isn't a
+     * meaningful roster view.
+     */
+    function renderSquadsPane(pane, squadsBySeason) {
+        const seasons = Object.keys(squadsBySeason).sort((a, b) => a.localeCompare(b));
+        const mostRecent = seasons[seasons.length - 1];
+
+        const controls = document.createElement("div");
+        controls.className = "wca-filter-row mb-3";
+        controls.innerHTML = `
+            <label class="form-label fw-bold" for="squadSeasonSelect">Season</label>
+            <select id="squadSeasonSelect" aria-label="Season">
+                ${seasons.map(s => `<option value="${s}">${s}</option>`).join("")}
+            </select>`;
+        pane.appendChild(controls);
+
+        const list = document.createElement("div");
+        list.className = "wca-squad-list";
+        pane.appendChild(list);
+
+        function renderSeason(season) {
+            const names = squadsBySeason[season] || [];
+            list.innerHTML = names.length
+                ? `<ul class="wca-squad-grid">${names.map(n => `<li>${WCA.entityLink(n, "player")}</li>`).join("")}</ul>`
+                : `<div class="wca-empty-state">No squad recorded for this season.</div>`;
+        }
+
+        const select = controls.querySelector("#squadSeasonSelect");
+        select.value = mostRecent;
+        select.addEventListener("change", () => renderSeason(select.value));
+        renderSeason(mostRecent);
+    }
 
     async function load() {
         const tabList = document.getElementById("teamTabs");
@@ -202,9 +243,9 @@
             }));
 
         const activeSections = SECTIONS.filter(sec =>
-            sec.key === "results"
-                ? (teamResults.length || (data.bestFinish && data.bestFinish.length))
-                : (data[sec.key] && data[sec.key].length)
+            sec.key === "results" ? (teamResults.length || (data.bestFinish && data.bestFinish.length))
+            : sec.key === "squads" ? (data.squads && Object.keys(data.squads).length)
+            : (data[sec.key] && data[sec.key].length)
         );
 
         if (!activeSections.length) {
@@ -247,6 +288,8 @@
                     // dropdown, same reasoning the table above uses.
                     WCA_TABLE.renderFormatToggleTable(pane, "Season by Season", teamResults, { compact: true, showStampColumns: true, noFilters: true });
                 }
+            } else if (sec.key === "squads") {
+                renderSquadsPane(pane, data.squads);
             } else if (sec.formatToggle) {
                 // One row-type (one row per opponent), just needs the
                 // Format toggle - no renderRecordGroups splitKey involved.

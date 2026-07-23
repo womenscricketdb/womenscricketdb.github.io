@@ -246,5 +246,51 @@
         "Career Span": "2017 - 2018"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2018/11/10",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "0 (3)",
+        "Bowling": "1/17",
+        "Fielding": "",
+        "Match_Slug": "2018-11-10-limpopo-lillies-tuskers"
+      },
+      {
+        "Date": "2018/01/20",
+        "Opponent": "Eastern Storm",
+        "Batting": "9 (27)",
+        "Bowling": "0/16",
+        "Fielding": "",
+        "Match_Slug": "2018-01-20-eastern-storm-tuskers"
+      },
+      {
+        "Date": "2017/10/14",
+        "Opponent": "Rhinos",
+        "Batting": "8 (10)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2017-10-14-tuskers-rhinos"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2018/11/25",
+        "Opponent": "Rhinos",
+        "Batting": "0 (4)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2018-11-25-rhinos-tuskers"
+      },
+      {
+        "Date": "2018/01/21",
+        "Opponent": "Eastern Storm",
+        "Batting": "2 (16)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2018-01-21-eastern-storm-tuskers"
+      }
+    ]
   }
 }

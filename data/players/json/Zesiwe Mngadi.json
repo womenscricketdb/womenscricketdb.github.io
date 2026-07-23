@@ -455,5 +455,75 @@
         "Career Span": "2019 - 2020"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2020/03/07",
+        "Opponent": "Eastern Storm",
+        "Batting": "10 (28)",
+        "Bowling": "1/35",
+        "Fielding": "",
+        "Match_Slug": "2020-03-07-eastern-storm-tuskers"
+      },
+      {
+        "Date": "2020/02/01",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "8 (25)",
+        "Bowling": "3/16",
+        "Fielding": "1 ct",
+        "Match_Slug": "2020-02-01-tuskers-limpopo-lillies"
+      },
+      {
+        "Date": "2019/11/16",
+        "Opponent": "Heat",
+        "Batting": "6 (23)",
+        "Bowling": "4/44",
+        "Fielding": "",
+        "Match_Slug": "2019-11-16-heat-tuskers"
+      },
+      {
+        "Date": "2019/11/02",
+        "Opponent": "Rhinos",
+        "Batting": "14 (28)",
+        "Bowling": "2/31",
+        "Fielding": "",
+        "Match_Slug": "2019-11-02-tuskers-rhinos"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2020/03/08",
+        "Opponent": "Eastern Storm",
+        "Batting": "0 (4)",
+        "Bowling": "0/24",
+        "Fielding": "",
+        "Match_Slug": "2020-03-08-eastern-storm-tuskers"
+      },
+      {
+        "Date": "2020/02/02",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "0 (1)",
+        "Bowling": "1/20",
+        "Fielding": "",
+        "Match_Slug": "2020-02-02-tuskers-limpopo-lillies"
+      },
+      {
+        "Date": "2019/11/17",
+        "Opponent": "Heat",
+        "Batting": "2 (10)",
+        "Bowling": "1/17",
+        "Fielding": "",
+        "Match_Slug": "2019-11-17-heat-tuskers"
+      },
+      {
+        "Date": "2019/11/03",
+        "Opponent": "Rhinos",
+        "Batting": "3 (12)",
+        "Bowling": "0/19",
+        "Fielding": "",
+        "Match_Slug": "2019-11-03-tuskers-rhinos"
+      }
+    ]
   }
 }

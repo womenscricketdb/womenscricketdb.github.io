@@ -321,5 +321,59 @@
         "Career Span": "2013 - 2014"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2014/03/08",
+        "Opponent": "Dolphins",
+        "Batting": "1 (12)",
+        "Bowling": "0/20",
+        "Fielding": "",
+        "Match_Slug": "2014-03-08-dolphins-lions"
+      },
+      {
+        "Date": "2013/11/17",
+        "Opponent": "Titans",
+        "Batting": "0 (0)",
+        "Bowling": "3/30",
+        "Fielding": "",
+        "Match_Slug": "2013-11-17-titans-lions"
+      },
+      {
+        "Date": "2013/01/26",
+        "Opponent": "Rhinos",
+        "Batting": "0 (0)",
+        "Bowling": "0/9",
+        "Fielding": "",
+        "Match_Slug": "2013-01-26-lions-rhinos"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2013/10/19",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "0 (0)",
+        "Bowling": "1/9",
+        "Fielding": "",
+        "Match_Slug": "2013-10-19-limpopo-lillies-lions"
+      },
+      {
+        "Date": "2013/10/12",
+        "Opponent": "Titans",
+        "Batting": "0 (0)",
+        "Bowling": "0/14",
+        "Fielding": "",
+        "Match_Slug": "2013-10-12-lions-titans"
+      },
+      {
+        "Date": "2013/09/28",
+        "Opponent": "Rhinos",
+        "Batting": "0 (0)",
+        "Bowling": "0/21",
+        "Fielding": "",
+        "Match_Slug": "2013-09-28-rhinos-lions"
+      }
+    ]
   }
 }

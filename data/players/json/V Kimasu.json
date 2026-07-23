@@ -142,5 +142,41 @@
         "Career Span": "2011 - 2011"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2011/03/12",
+        "Opponent": "Heat",
+        "Batting": "1 (7)",
+        "Bowling": "0/28",
+        "Fielding": "",
+        "Match_Slug": "2011-03-12-heat-dragons"
+      },
+      {
+        "Date": "2011/02/26",
+        "Opponent": "Knights",
+        "Batting": "0 (1)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2011-02-26-dragons-knights"
+      },
+      {
+        "Date": "2011/01/29",
+        "Opponent": "Heat",
+        "Batting": "0 (2)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2011-01-29-dragons-heat"
+      },
+      {
+        "Date": "2011/01/15",
+        "Opponent": "Knights",
+        "Batting": "0 (2)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2011-01-15-knights-dragons"
+      }
+    ]
   }
 }

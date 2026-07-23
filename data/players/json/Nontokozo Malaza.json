@@ -221,5 +221,51 @@
         "Career Span": "2015 - 2017"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2016/02/27",
+        "Opponent": "Tuskers",
+        "Batting": "0 (6)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2016-02-27-rhinos-tuskers"
+      },
+      {
+        "Date": "2016/01/23",
+        "Opponent": "Eastern Storm",
+        "Batting": "0 (1)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2016-01-23-eastern-storm-rhinos"
+      },
+      {
+        "Date": "2015/11/07",
+        "Opponent": "Dolphins",
+        "Batting": "7 (19)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2015-11-07-rhinos-dolphins"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2017/01/15",
+        "Opponent": "Titans",
+        "Batting": "1* (1)",
+        "Bowling": "–",
+        "Fielding": "1 ct",
+        "Match_Slug": "2017-01-15-titans-rhinos"
+      },
+      {
+        "Date": "2015/11/08",
+        "Opponent": "Dolphins",
+        "Batting": "0* (0)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2015-11-08-rhinos-dolphins"
+      }
+    ]
   }
 }

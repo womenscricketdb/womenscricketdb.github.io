@@ -49,9 +49,22 @@ const WCA_TABLE = (() => {
         const hiddenKeys = new Set();
         if (!opts.showStampColumns) {
             if (stamp.hasFormat) hiddenKeys.add("Format");
-            if (stamp.hasSeason) hiddenKeys.add("Season");
+            // In seasonLeaderboard mode, Season is the whole point of the
+            // view (which season each ranked row belongs to) - never
+            // hidden there, regardless of showStampColumns.
+            if (stamp.hasSeason && !opts.seasonLeaderboard) hiddenKeys.add("Season");
             if (stamp.tierKey) hiddenKeys.add(stamp.tierKey);
         }
+        // "Career Span" is a real, correct column in Career Totals mode
+        // (a player's whole first-to-last-match range), but in
+        // seasonLeaderboard mode each row is only ONE season - the value
+        // becomes that season's own calendar-year bounds (e.g. "2022 -
+        // 2023" for 22/23), a redundant, differently-formatted restatement
+        // of the Season column sitting right next to it, and actively
+        // mislabelled ("Career Span" implying a multi-season range that
+        // isn't there). Hidden here rather than relabelled, since Season
+        // already conveys the same fact more precisely.
+        if (opts.seasonLeaderboard) hiddenKeys.add("Career Span");
         const keys = Object.keys(rows[0]).filter(key => !hiddenKeys.has(key));
         // Rank always leads, wherever it happens to sit in the source data.
         const rankIdx = keys.indexOf("Rank");
@@ -138,6 +151,18 @@ const WCA_TABLE = (() => {
         }
         container.innerHTML = "";
 
+        // "By Season" mode: compare every individual player-season row
+        // against every other, rather than the default "one row per
+        // player, whole career" view. OVERALL rows are the career
+        // aggregate, not a real season, so they'd misleadingly dominate
+        // a stat-sorted list alongside genuine single-season figures -
+        // excluded here, before the empty-rows check below, so a type
+        // with no real per-season rows correctly falls to the empty
+        // state rather than silently showing career totals unlabelled.
+        if (opts.seasonLeaderboard && rows && rows.length) {
+            rows = rows.filter(r => String(r.Season).toUpperCase() !== "OVERALL");
+        }
+
         if (!rows || !rows.length) {
             const div = document.createElement("div");
             div.className = "wca-empty-state";
@@ -157,7 +182,10 @@ const WCA_TABLE = (() => {
         const filterDefs = [];
         if (!opts.noFilters) {
             if (stamp.hasFormat) filterDefs.push({ key: "Format", label: "Format" });
-            if (stamp.hasSeason) filterDefs.push({ key: "Season", label: "Season" });
+            // Not offered in seasonLeaderboard mode - filtering to one
+            // season would defeat the point of comparing every season
+            // against every other at once.
+            if (stamp.hasSeason && !opts.seasonLeaderboard) filterDefs.push({ key: "Season", label: "Season" });
             if (stamp.tierKey) {
                 const tierLabel = WCA.friendlyLabel(stamp.tierKey);
                 filterDefs.push({ key: stamp.tierKey, label: tierLabel });
@@ -168,11 +196,31 @@ const WCA_TABLE = (() => {
             ? cols.filter(c => isNumericColumn(c.key, rows))
             : [];
 
+        // A filterDef's column can exist in the schema (detectStampColumns
+        // only checks the key is present) while every value for THIS
+        // particular row set is blank (e.g. a short-career player whose
+        // opposition breakdown has no Opposition Tier data for the
+        // seasons/opponents involved) - drop those here, before building
+        // any HTML, so filterDefs and the <select> elements that actually
+        // end up in the DOM stay in lockstep. Previously this was only
+        // checked when building the segment HTML (silently skipping via
+        // `return null`), while the listener-wiring loop further down
+        // still iterated the original, larger filterDefs - looking for a
+        // <select> that was never created and throwing on .addEventListener,
+        // which aborted every render() call still queued after this one.
+        const filterValues = new Map();
+        filterDefs.forEach(f => {
+            const values = Array.from(new Set(rows.map(r => r[f.key]).filter(v => v !== undefined && v !== null && v !== ""))).sort();
+            filterValues.set(f.key, values);
+        });
+        const activeFilterDefs = filterDefs.filter(f => filterValues.get(f.key).length > 0);
+        filterDefs.length = 0;
+        filterDefs.push(...activeFilterDefs);
+
         let filterLineHtml = "";
         if (filterDefs.length || numericCols.length) {
             const segments = filterDefs.map(f => {
-                const values = Array.from(new Set(rows.map(r => r[f.key]).filter(v => v !== undefined && v !== null && v !== ""))).sort();
-                if (!values.length) return null; // shouldn't happen (detectStampColumns already gates on presence), but never render a filter with nothing to select
+                const values = filterValues.get(f.key);
                 // No blank "All X" option any more - OVERALL already exists
                 // as a real, always-present value serving that same role,
                 // so every filter always has a concrete value selected from

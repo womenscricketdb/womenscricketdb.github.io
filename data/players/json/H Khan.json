@@ -242,5 +242,43 @@
         "Career Span": "2022 - 2022"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2022/03/19",
+        "Opponent": "Badgers",
+        "Batting": "0* (1)",
+        "Bowling": "0/6",
+        "Fielding": "",
+        "Match_Slug": "2022-03-19-boland-badgers"
+      },
+      {
+        "Date": "2022/02/05",
+        "Opponent": "Iinyathi",
+        "Batting": "0 (2)",
+        "Bowling": "0/8",
+        "Fielding": "",
+        "Match_Slug": "2022-02-05-boland-iinyathi"
+      },
+      {
+        "Date": "2022/01/22",
+        "Opponent": "Warriors",
+        "Batting": "0 (0)",
+        "Bowling": "0/38",
+        "Fielding": "1 ct",
+        "Match_Slug": "2022-01-22-warriors-boland"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2022/03/20",
+        "Opponent": "Badgers",
+        "Batting": "1 (7)",
+        "Bowling": "0/8",
+        "Fielding": "",
+        "Match_Slug": "2022-03-20-boland-badgers"
+      }
+    ]
   }
 }

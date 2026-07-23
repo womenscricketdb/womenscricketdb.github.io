@@ -243,5 +243,43 @@
         "Career Span": "2022 - 2022"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2022/02/05",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "0 (6)",
+        "Bowling": "2/19",
+        "Fielding": "",
+        "Match_Slug": "2022-02-05-limpopo-lillies-rhinos"
+      },
+      {
+        "Date": "2022/01/22",
+        "Opponent": "Tuskers",
+        "Batting": "0 (6)",
+        "Bowling": "0/6",
+        "Fielding": "",
+        "Match_Slug": "2022-01-22-rhinos-tuskers"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2022/02/06",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "0* (0)",
+        "Bowling": "0/13",
+        "Fielding": "",
+        "Match_Slug": "2022-02-06-limpopo-lillies-rhinos"
+      },
+      {
+        "Date": "2022/01/23",
+        "Opponent": "Tuskers",
+        "Batting": "2 (8)",
+        "Bowling": "0/15",
+        "Fielding": "",
+        "Match_Slug": "2022-01-23-rhinos-tuskers"
+      }
+    ]
   }
 }

@@ -337,5 +337,59 @@
         "Career Span": "2019 - 2020"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2020/02/22",
+        "Opponent": "Heat",
+        "Batting": "0* (0)",
+        "Bowling": "1/10",
+        "Fielding": "",
+        "Match_Slug": "2020-02-22-limpopo-lillies-heat"
+      },
+      {
+        "Date": "2020/02/01",
+        "Opponent": "Tuskers",
+        "Batting": "0 (3)",
+        "Bowling": "1/10",
+        "Fielding": "1 ct",
+        "Match_Slug": "2020-02-01-tuskers-limpopo-lillies"
+      },
+      {
+        "Date": "2019/10/26",
+        "Opponent": "Eastern Storm",
+        "Batting": "0 (1)",
+        "Bowling": "0/30",
+        "Fielding": "1 ct",
+        "Match_Slug": "2019-10-26-limpopo-lillies-eastern-storm"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2020/02/23",
+        "Opponent": "Heat",
+        "Batting": "0 (0)",
+        "Bowling": "0/13",
+        "Fielding": "",
+        "Match_Slug": "2020-02-23-limpopo-lillies-heat"
+      },
+      {
+        "Date": "2020/02/02",
+        "Opponent": "Tuskers",
+        "Batting": "0 (0)",
+        "Bowling": "0/13",
+        "Fielding": "",
+        "Match_Slug": "2020-02-02-tuskers-limpopo-lillies"
+      },
+      {
+        "Date": "2019/11/24",
+        "Opponent": "Rhinos",
+        "Batting": "1 (2)",
+        "Bowling": "1/14",
+        "Fielding": "",
+        "Match_Slug": "2019-11-24-rhinos-limpopo-lillies"
+      }
+    ]
   }
 }

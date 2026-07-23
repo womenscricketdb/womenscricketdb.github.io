@@ -380,5 +380,67 @@
         "Career Span": "2016 - 2016"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2016/04/01",
+        "Opponent": "Titans",
+        "Batting": "4 (11)",
+        "Bowling": "0/8",
+        "Fielding": "1 ct",
+        "Match_Slug": "2016-04-01-warriors-titans"
+      },
+      {
+        "Date": "2016/03/30",
+        "Opponent": "Boland",
+        "Batting": "4* (32)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2016-03-30-boland-warriors"
+      },
+      {
+        "Date": "2016/03/29",
+        "Opponent": "Dragons",
+        "Batting": "1 (10)",
+        "Bowling": "1/15",
+        "Fielding": "",
+        "Match_Slug": "2016-03-29-warriors-dragons"
+      },
+      {
+        "Date": "2016/02/27",
+        "Opponent": "Iinyathi",
+        "Batting": "0 (1)",
+        "Bowling": "0/21",
+        "Fielding": "1 ct",
+        "Match_Slug": "2016-02-27-iinyathi-warriors"
+      },
+      {
+        "Date": "2016/01/09",
+        "Opponent": "Kei",
+        "Batting": "0 (0)",
+        "Bowling": "1/3",
+        "Fielding": "",
+        "Match_Slug": "2016-01-09-kei-warriors"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2016/02/28",
+        "Opponent": "Iinyathi",
+        "Batting": "1 (4)",
+        "Bowling": "0/1",
+        "Fielding": "",
+        "Match_Slug": "2016-02-28-iinyathi-warriors"
+      },
+      {
+        "Date": "2016/01/10",
+        "Opponent": "Kei",
+        "Batting": "0 (0)",
+        "Bowling": "1/14",
+        "Fielding": "",
+        "Match_Slug": "2016-01-10-kei-warriors"
+      }
+    ]
   }
 }

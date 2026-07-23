@@ -229,5 +229,51 @@
         "Career Span": "2022 - 2022"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2022/11/26",
+        "Opponent": "Heat",
+        "Batting": "1 (9)",
+        "Bowling": "–",
+        "Fielding": "1 ct",
+        "Match_Slug": "2022-11-26-heat-tuskers"
+      },
+      {
+        "Date": "2022/11/12",
+        "Opponent": "Rhinos",
+        "Batting": "8 (12)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2022-11-12-tuskers-rhinos"
+      },
+      {
+        "Date": "2022/10/29",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "11 (69)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2022-10-29-tuskers-limpopo-lillies"
+      },
+      {
+        "Date": "2022/10/01",
+        "Opponent": "Eastern Storm",
+        "Batting": "9 (45)",
+        "Bowling": "–",
+        "Fielding": "1 ct",
+        "Match_Slug": "2022-10-01-eastern-storm-tuskers"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2022/11/27",
+        "Opponent": "Heat",
+        "Batting": "0 (1)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2022-11-27-heat-tuskers"
+      }
+    ]
   }
 }

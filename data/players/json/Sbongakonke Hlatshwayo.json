@@ -219,5 +219,43 @@
         "Career Span": "2021 - 2022"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2022/03/19",
+        "Opponent": "Knights",
+        "Batting": "0 (1)",
+        "Bowling": "2/91",
+        "Fielding": "",
+        "Match_Slug": "2022-03-19-knights-rhinos"
+      },
+      {
+        "Date": "2021/03/07",
+        "Opponent": "Eastern Storm",
+        "Batting": "0 (1)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2021-03-07-eastern-storm-rhinos"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2022/03/27",
+        "Opponent": "Heat",
+        "Batting": "5* (18)",
+        "Bowling": "1/16",
+        "Fielding": "",
+        "Match_Slug": "2022-03-27-rhinos-heat"
+      },
+      {
+        "Date": "2022/03/20",
+        "Opponent": "Knights",
+        "Batting": "0* (0)",
+        "Bowling": "–",
+        "Fielding": "",
+        "Match_Slug": "2022-03-20-knights-rhinos"
+      }
+    ]
   }
 }

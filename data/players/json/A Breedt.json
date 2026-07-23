@@ -455,5 +455,75 @@
         "Career Span": "2015 - 2017"
       }
     ]
+  },
+  "matches": {
+    "List A": [
+      {
+        "Date": "2017/01/14",
+        "Opponent": "Titans",
+        "Batting": "2 (3)",
+        "Bowling": "2/25",
+        "Fielding": "",
+        "Match_Slug": "2017-01-14-titans-rhinos"
+      },
+      {
+        "Date": "2016/02/27",
+        "Opponent": "Tuskers",
+        "Batting": "2 (8)",
+        "Bowling": "1/11",
+        "Fielding": "",
+        "Match_Slug": "2016-02-27-rhinos-tuskers"
+      },
+      {
+        "Date": "2016/01/23",
+        "Opponent": "Eastern Storm",
+        "Batting": "6 (25)",
+        "Bowling": "1/19",
+        "Fielding": "",
+        "Match_Slug": "2016-01-23-eastern-storm-rhinos"
+      },
+      {
+        "Date": "2015/11/07",
+        "Opponent": "Dolphins",
+        "Batting": "12 (16)",
+        "Bowling": "0/25",
+        "Fielding": "",
+        "Match_Slug": "2015-11-07-rhinos-dolphins"
+      },
+      {
+        "Date": "2015/10/10",
+        "Opponent": "Limpopo Lillies",
+        "Batting": "0 (2)",
+        "Bowling": "1/48",
+        "Fielding": "",
+        "Match_Slug": "2015-10-10-limpopo-lillies-rhinos"
+      }
+    ],
+    "T20": [
+      {
+        "Date": "2017/01/15",
+        "Opponent": "Titans",
+        "Batting": "2 (5)",
+        "Bowling": "0/13",
+        "Fielding": "",
+        "Match_Slug": "2017-01-15-titans-rhinos"
+      },
+      {
+        "Date": "2016/02/28",
+        "Opponent": "Tuskers",
+        "Batting": "15* (29)",
+        "Bowling": "2/21",
+        "Fielding": "",
+        "Match_Slug": "2016-02-28-rhinos-tuskers"
+      },
+      {
+        "Date": "2015/11/08",
+        "Opponent": "Dolphins",
+        "Batting": "0* (0)",
+        "Bowling": "1/8",
+        "Fielding": "1 ct",
+        "Match_Slug": "2015-11-08-rhinos-dolphins"
+      }
+    ]
   }
 }
