@@ -75,6 +75,7 @@
     </p>
 
     <div class="wca-section-pills" id="typePills"></div>
+    <div class="wca-section-pills" id="formatPills"></div>
 
     <div id="archiveTableRoot">
         <div class="wca-loading"><div class="wca-spinner"></div> Loading archive…</div>
@@ -97,7 +98,8 @@
     WCA_NAV.render("archive");
     WCA_NAV.renderFooter();
 
-    // Each Stat Type maps to data/summaries/json/Archive_{file}.json and
+    // Each Stat Type maps to data/summaries/json/Archive_{file}_{format}.json
+    // (see consolidate.py's convert_records_folder split_by_format) and
     // carries its own default sort + which numeric columns are "lower is
     // better" for the threshold-filter and default sort direction.
     const STAT_TYPES = [
@@ -113,12 +115,27 @@
           defaultSort: { col: "Matches", dir: "desc" }, lowerIsBetterCols: [] },
     ];
 
+    // Archive files are split by Format on disk (each one carries every
+    // player x every season x every tier, uncapped, which made the
+    // combined file multiple MB - most people only look at one Format at
+    // a time). Format is therefore a page-level selector that changes
+    // which file gets fetched, not a client-side filter on already-loaded
+    // data the way Season/Tier still are within table-render.js.
+    const FORMATS = [
+        { key: "OVERALL", label: "Overall" },
+        { key: "List A", label: "List A" },
+        { key: "T20", label: "T20" },
+    ];
+    function formatSuffix(formatKey) { return formatKey.replace(" ", "_"); }
+
     const params = new URLSearchParams(location.search);
     let currentType = STAT_TYPES.find(t => t.key === params.get("type")) ? params.get("type") : STAT_TYPES[0].key;
+    let currentFormat = FORMATS.find(f => f.key === params.get("format")) ? params.get("format") : FORMATS[0].key;
 
-    function setUrl(type) {
+    function setUrl(type, format) {
         const p = new URLSearchParams();
         p.set("type", type);
+        p.set("format", format);
         history.replaceState(null, "", `archive.html?${p.toString()}`);
     }
 
@@ -135,17 +152,30 @@
                 loadAndRender();
             });
         });
+
+        const formatRoot = document.getElementById("formatPills");
+        formatRoot.innerHTML = FORMATS.map(f => {
+            const cls = f.key === currentFormat ? "active" : "";
+            return `<a href="#" data-format="${f.key}" class="${cls}">${f.label}</a>`;
+        }).join("");
+        formatRoot.querySelectorAll("a").forEach(a => {
+            a.addEventListener("click", (e) => {
+                e.preventDefault();
+                currentFormat = a.dataset.format;
+                loadAndRender();
+            });
+        });
     }
 
     async function loadAndRender() {
-        setUrl(currentType);
+        setUrl(currentType, currentFormat);
         renderPills();
 
         const meta = STAT_TYPES.find(t => t.key === currentType);
         const root = document.getElementById("archiveTableRoot");
         root.innerHTML = `<div class="wca-loading"><div class="wca-spinner"></div> Loading ${meta.label.toLowerCase()}…</div>`;
 
-        const rows = await WCA.fetchSummary(meta.file);
+        const rows = await WCA.fetchSummary(`${meta.file}_${formatSuffix(currentFormat)}`);
         WCA_TABLE.render(root, rows, {
             emptyMessage: `No ${meta.label.toLowerCase()} data available.`,
             defaultSort: meta.defaultSort,
