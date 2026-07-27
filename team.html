@@ -224,6 +224,15 @@
             return;
         }
 
+        // Same Date -> match link records.html uses; fetched once here and
+        // forwarded into every table render below. detectMatchDateLink
+        // (table-render.js) only activates it for sections that actually
+        // have clean Date+Opposition/Opponent columns, so passing it
+        // through to sections that don't (e.g. Averages) is a harmless
+        // no-op rather than something that needs to be scoped per-section.
+        const matchLookupIndex = await WCA.fetchMatchLookupIndex();
+        const matchDateLinkOpts = { linkMatchDate: true, matchDateLink: { index: matchLookupIndex || {} } };
+
         // Results comes from the standings dataset (one row per team per
         // season/format), not from the team's own JSON file, fetch and
         // filter it once up front so the section-active check below and
@@ -298,11 +307,11 @@
                 // Multiple distinct record types interleaved under one
                 // column (e.g. "Most Runs"/"Most Wickets"/"Most Catches")
                 // split into one table per type, each defaulting to List A.
-                WCA_TABLE.renderRecordGroups(pane, data[sec.key], sec.splitKey, { compact: true, compact2col: sec.compact2col });
+                WCA_TABLE.renderRecordGroups(pane, data[sec.key], sec.splitKey, { compact: true, compact2col: sec.compact2col, ...matchDateLinkOpts });
             } else {
                 const tableRoot = document.createElement("div");
                 pane.appendChild(tableRoot);
-                WCA_TABLE.render(tableRoot, data[sec.key], { compact: true, compact2col: sec.compact2col });
+                WCA_TABLE.render(tableRoot, data[sec.key], { compact: true, compact2col: sec.compact2col, ...matchDateLinkOpts });
             }
         });
     }
