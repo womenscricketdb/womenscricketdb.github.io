@@ -6,6 +6,16 @@
 
 const WCA_NAV = (() => {
 
+    // Cloudflare Web Analytics — loaded here once, rather than pasted into
+    // every page, since every page already includes this script.
+    (function loadCloudflareBeacon() {
+        const beacon = document.createElement('script');
+        beacon.type = 'module';
+        beacon.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+        beacon.setAttribute('data-cf-beacon', '{"token": "25cbfdd432e047e5b6e622d14ec72bba"}');
+        document.head.appendChild(beacon);
+    })();
+
     const ITEMS = [
         { key: "archive", label: "Archive Viewer", href: "archive.html" },
         { key: "players", label: "Players", href: "players.html" },
