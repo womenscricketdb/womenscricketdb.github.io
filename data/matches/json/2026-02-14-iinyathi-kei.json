@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 19.1,
+      "tempMaxC": 21.0,
+      "rainMM": 1.6,
+      "maxWindKMH": 35.3,
+      "avgHumidityPct": 63.4,
+      "hourly": [
+        {
+          "time": "2026-02-14T09:00",
+          "icon": "cloud-rain",
+          "tempC": 19.6,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2026-02-14T10:00",
+          "icon": "cloud-rain",
+          "tempC": 20.4,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2026-02-14T11:00",
+          "icon": "cloud",
+          "tempC": 19.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-14T12:00",
+          "icon": "cloud-rain",
+          "tempC": 19.7,
+          "rainMM": 0.5
+        },
+        {
+          "time": "2026-02-14T13:00",
+          "icon": "cloud-rain",
+          "tempC": 20.8,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2026-02-14T14:00",
+          "icon": "cloud-rain",
+          "tempC": 20.9,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2026-02-14T15:00",
+          "icon": "sun",
+          "tempC": 21.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-14T16:00",
+          "icon": "sun",
+          "tempC": 21.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-14T17:00",
+          "icon": "cloud-rain",
+          "tempC": 20.4,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2026-02-14T18:00",
+          "icon": "sun",
+          "tempC": 19.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-14T19:00",
+          "icon": "sun",
+          "tempC": 19.1,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 26.0,
+      "maxTempC": 29.2,
+      "daily": [
+        {
+          "date": "2026-02-11",
+          "rainMM": 0.5,
+          "tempMaxC": 29.2
+        },
+        {
+          "date": "2026-02-12",
+          "rainMM": 15.4,
+          "tempMaxC": 25.8
+        },
+        {
+          "date": "2026-02-13",
+          "rainMM": 10.1,
+          "tempMaxC": 25.3
+        }
+      ]
+    }
+  }
 }

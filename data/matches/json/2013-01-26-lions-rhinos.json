@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 20.6,
+      "tempMaxC": 28.4,
+      "rainMM": 1.6,
+      "maxWindKMH": 13.0,
+      "avgHumidityPct": 46.8,
+      "hourly": [
+        {
+          "time": "2013-01-26T09:00",
+          "icon": "cloud",
+          "tempC": 20.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-01-26T10:00",
+          "icon": "cloud",
+          "tempC": 22.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-01-26T11:00",
+          "icon": "cloud",
+          "tempC": 24.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-01-26T12:00",
+          "icon": "sun",
+          "tempC": 26.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-01-26T13:00",
+          "icon": "sun",
+          "tempC": 27.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-01-26T14:00",
+          "icon": "sun",
+          "tempC": 28.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-01-26T15:00",
+          "icon": "sun",
+          "tempC": 28.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-01-26T16:00",
+          "icon": "sun",
+          "tempC": 28.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-01-26T17:00",
+          "icon": "cloud-rain",
+          "tempC": 26.1,
+          "rainMM": 0.8
+        },
+        {
+          "time": "2013-01-26T18:00",
+          "icon": "cloud-rain",
+          "tempC": 24.2,
+          "rainMM": 0.6
+        },
+        {
+          "time": "2013-01-26T19:00",
+          "icon": "cloud-rain",
+          "tempC": 22.7,
+          "rainMM": 0.2
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.3,
+      "maxTempC": 30.5,
+      "daily": [
+        {
+          "date": "2013-01-23",
+          "rainMM": 0.0,
+          "tempMaxC": 27.9
+        },
+        {
+          "date": "2013-01-24",
+          "rainMM": 0.0,
+          "tempMaxC": 29.3
+        },
+        {
+          "date": "2013-01-25",
+          "rainMM": 0.3,
+          "tempMaxC": 30.5
+        }
+      ]
+    }
+  }
 }

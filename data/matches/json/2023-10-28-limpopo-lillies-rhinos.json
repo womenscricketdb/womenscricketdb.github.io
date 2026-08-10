@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 27.1,
+      "tempMaxC": 32.3,
+      "rainMM": 0.0,
+      "maxWindKMH": 18.8,
+      "avgHumidityPct": 18.9,
+      "hourly": [
+        {
+          "time": "2023-10-28T09:00",
+          "icon": "sun",
+          "tempC": 27.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T10:00",
+          "icon": "sun",
+          "tempC": 28.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T11:00",
+          "icon": "sun",
+          "tempC": 30.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T12:00",
+          "icon": "cloud",
+          "tempC": 31.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T13:00",
+          "icon": "cloud",
+          "tempC": 31.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T14:00",
+          "icon": "cloud",
+          "tempC": 30.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T15:00",
+          "icon": "cloud",
+          "tempC": 32.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T16:00",
+          "icon": "sun",
+          "tempC": 32.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T17:00",
+          "icon": "cloud",
+          "tempC": 31.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T18:00",
+          "icon": "cloud",
+          "tempC": 29.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-28T19:00",
+          "icon": "cloud",
+          "tempC": 27.2,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 33.4,
+      "daily": [
+        {
+          "date": "2023-10-25",
+          "rainMM": 0.0,
+          "tempMaxC": 28.0
+        },
+        {
+          "date": "2023-10-26",
+          "rainMM": 0.0,
+          "tempMaxC": 29.4
+        },
+        {
+          "date": "2023-10-27",
+          "rainMM": 0.0,
+          "tempMaxC": 33.4
+        }
+      ]
+    }
+  }
 }

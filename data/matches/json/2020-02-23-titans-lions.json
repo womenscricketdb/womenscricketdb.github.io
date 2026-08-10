@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 19.7,
+      "tempMaxC": 24.0,
+      "rainMM": 33.7,
+      "maxWindKMH": 24.3,
+      "avgHumidityPct": 66.5,
+      "hourly": [
+        {
+          "time": "2020-02-23T09:00",
+          "icon": "cloud",
+          "tempC": 22.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-23T10:00",
+          "icon": "cloud-rain",
+          "tempC": 24.0,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2020-02-23T11:00",
+          "icon": "cloud-rain",
+          "tempC": 23.7,
+          "rainMM": 0.7
+        },
+        {
+          "time": "2020-02-23T12:00",
+          "icon": "cloud-rain",
+          "tempC": 20.2,
+          "rainMM": 11.8
+        },
+        {
+          "time": "2020-02-23T13:00",
+          "icon": "cloud-rain",
+          "tempC": 21.2,
+          "rainMM": 4.5
+        },
+        {
+          "time": "2020-02-23T14:00",
+          "icon": "cloud-rain",
+          "tempC": 22.7,
+          "rainMM": 16.4
+        },
+        {
+          "time": "2020-02-23T15:00",
+          "icon": "cloud",
+          "tempC": 22.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-23T16:00",
+          "icon": "cloud",
+          "tempC": 22.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-23T17:00",
+          "icon": "cloud",
+          "tempC": 21.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-23T18:00",
+          "icon": "cloud",
+          "tempC": 20.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-23T19:00",
+          "icon": "cloud",
+          "tempC": 19.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 7.5,
+      "maxTempC": 30.0,
+      "daily": [
+        {
+          "date": "2020-02-20",
+          "rainMM": 0.1,
+          "tempMaxC": 28.7
+        },
+        {
+          "date": "2020-02-21",
+          "rainMM": 2.0,
+          "tempMaxC": 30.0
+        },
+        {
+          "date": "2020-02-22",
+          "rainMM": 5.4,
+          "tempMaxC": 26.1
+        }
+      ]
+    }
+  }
 }

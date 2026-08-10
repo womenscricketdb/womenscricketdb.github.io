@@ -409,5 +409,104 @@
       "Catches_WK": "0",
       "Stumpings": "0"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 21.4,
+      "tempMaxC": 26.3,
+      "rainMM": 0.7,
+      "maxWindKMH": 26.8,
+      "avgHumidityPct": 42.3,
+      "hourly": [
+        {
+          "time": "2019-11-09T09:00",
+          "icon": "sun",
+          "tempC": 21.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-09T10:00",
+          "icon": "sun",
+          "tempC": 23.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-09T11:00",
+          "icon": "sun",
+          "tempC": 24.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-09T12:00",
+          "icon": "sun",
+          "tempC": 26.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-09T13:00",
+          "icon": "sun",
+          "tempC": 25.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-09T14:00",
+          "icon": "cloud-rain",
+          "tempC": 24.5,
+          "rainMM": 0.5
+        },
+        {
+          "time": "2019-11-09T15:00",
+          "icon": "cloud",
+          "tempC": 25.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-09T16:00",
+          "icon": "cloud",
+          "tempC": 26.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-09T17:00",
+          "icon": "cloud-rain",
+          "tempC": 23.0,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2019-11-09T18:00",
+          "icon": "sun",
+          "tempC": 23.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-09T19:00",
+          "icon": "cloud",
+          "tempC": 21.4,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 29.8,
+      "daily": [
+        {
+          "date": "2019-11-06",
+          "rainMM": 0.0,
+          "tempMaxC": 28.4
+        },
+        {
+          "date": "2019-11-07",
+          "rainMM": 0.0,
+          "tempMaxC": 29.7
+        },
+        {
+          "date": "2019-11-08",
+          "rainMM": 0.0,
+          "tempMaxC": 29.8
+        }
+      ]
+    }
+  }
 }

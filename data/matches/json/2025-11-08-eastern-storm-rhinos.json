@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 14.9,
+      "tempMaxC": 19.5,
+      "rainMM": 1.4,
+      "maxWindKMH": 11.3,
+      "avgHumidityPct": 66.1,
+      "hourly": [
+        {
+          "time": "2025-11-08T09:00",
+          "icon": "cloud-rain",
+          "tempC": 15.2,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2025-11-08T10:00",
+          "icon": "cloud-rain",
+          "tempC": 15.8,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2025-11-08T11:00",
+          "icon": "cloud-rain",
+          "tempC": 17.3,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2025-11-08T12:00",
+          "icon": "cloud-rain",
+          "tempC": 18.7,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2025-11-08T13:00",
+          "icon": "cloud-rain",
+          "tempC": 19.5,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2025-11-08T14:00",
+          "icon": "cloud-rain",
+          "tempC": 19.3,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2025-11-08T15:00",
+          "icon": "cloud-rain",
+          "tempC": 19.0,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2025-11-08T16:00",
+          "icon": "cloud-rain",
+          "tempC": 18.2,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2025-11-08T17:00",
+          "icon": "cloud",
+          "tempC": 16.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-08T18:00",
+          "icon": "cloud",
+          "tempC": 15.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-08T19:00",
+          "icon": "cloud",
+          "tempC": 14.9,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 28.1,
+      "maxTempC": 24.5,
+      "daily": [
+        {
+          "date": "2025-11-05",
+          "rainMM": 0.0,
+          "tempMaxC": 24.5
+        },
+        {
+          "date": "2025-11-06",
+          "rainMM": 13.0,
+          "tempMaxC": 21.7
+        },
+        {
+          "date": "2025-11-07",
+          "rainMM": 15.1,
+          "tempMaxC": 17.9
+        }
+      ]
+    }
+  }
 }

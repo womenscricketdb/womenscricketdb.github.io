@@ -409,5 +409,104 @@
       "Catches_WK": "1",
       "Stumpings": "1"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 21.1,
+      "tempMaxC": 25.0,
+      "rainMM": 0.0,
+      "maxWindKMH": 10.8,
+      "avgHumidityPct": 70.9,
+      "hourly": [
+        {
+          "time": "2011-10-08T09:00",
+          "icon": "sun",
+          "tempC": 21.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T10:00",
+          "icon": "sun",
+          "tempC": 22.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T11:00",
+          "icon": "sun",
+          "tempC": 24.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T12:00",
+          "icon": "sun",
+          "tempC": 25.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T13:00",
+          "icon": "sun",
+          "tempC": 25.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T14:00",
+          "icon": "cloud",
+          "tempC": 24.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T15:00",
+          "icon": "cloud",
+          "tempC": 24.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T16:00",
+          "icon": "cloud",
+          "tempC": 23.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T17:00",
+          "icon": "cloud",
+          "tempC": 23.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T18:00",
+          "icon": "cloud",
+          "tempC": 22.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-10-08T19:00",
+          "icon": "cloud",
+          "tempC": 21.5,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 1.7,
+      "maxTempC": 30.5,
+      "daily": [
+        {
+          "date": "2011-10-05",
+          "rainMM": 1.7,
+          "tempMaxC": 16.5
+        },
+        {
+          "date": "2011-10-06",
+          "rainMM": 0.0,
+          "tempMaxC": 21.2
+        },
+        {
+          "date": "2011-10-07",
+          "rainMM": 0.0,
+          "tempMaxC": 30.5
+        }
+      ]
+    }
+  }
 }

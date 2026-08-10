@@ -409,5 +409,104 @@
       "Catches_WK": "0",
       "Stumpings": "0"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 18.8,
+      "tempMaxC": 21.7,
+      "rainMM": 0.1,
+      "maxWindKMH": 22.5,
+      "avgHumidityPct": 73.6,
+      "hourly": [
+        {
+          "time": "2024-11-16T09:00",
+          "icon": "sun",
+          "tempC": 20.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-11-16T10:00",
+          "icon": "sun",
+          "tempC": 21.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-11-16T11:00",
+          "icon": "sun",
+          "tempC": 21.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-11-16T12:00",
+          "icon": "sun",
+          "tempC": 21.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-11-16T13:00",
+          "icon": "sun",
+          "tempC": 21.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-11-16T14:00",
+          "icon": "sun",
+          "tempC": 21.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-11-16T15:00",
+          "icon": "sun",
+          "tempC": 21.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-11-16T16:00",
+          "icon": "cloud-rain",
+          "tempC": 20.9,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2024-11-16T17:00",
+          "icon": "sun",
+          "tempC": 20.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-11-16T18:00",
+          "icon": "sun",
+          "tempC": 19.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-11-16T19:00",
+          "icon": "sun",
+          "tempC": 18.8,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 1.7,
+      "maxTempC": 21.3,
+      "daily": [
+        {
+          "date": "2024-11-13",
+          "rainMM": 1.7,
+          "tempMaxC": 19.5
+        },
+        {
+          "date": "2024-11-14",
+          "rainMM": 0.0,
+          "tempMaxC": 18.8
+        },
+        {
+          "date": "2024-11-15",
+          "rainMM": 0.0,
+          "tempMaxC": 21.3
+        }
+      ]
+    }
+  }
 }

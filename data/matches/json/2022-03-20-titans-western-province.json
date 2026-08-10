@@ -423,5 +423,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 18.7,
+      "tempMaxC": 24.9,
+      "rainMM": 0.0,
+      "maxWindKMH": 10.6,
+      "avgHumidityPct": 43.7,
+      "hourly": [
+        {
+          "time": "2022-03-20T09:00",
+          "icon": "sun",
+          "tempC": 18.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T10:00",
+          "icon": "sun",
+          "tempC": 20.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T11:00",
+          "icon": "sun",
+          "tempC": 21.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T12:00",
+          "icon": "sun",
+          "tempC": 22.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T13:00",
+          "icon": "sun",
+          "tempC": 23.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T14:00",
+          "icon": "sun",
+          "tempC": 24.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T15:00",
+          "icon": "cloud",
+          "tempC": 24.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T16:00",
+          "icon": "cloud",
+          "tempC": 24.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T17:00",
+          "icon": "cloud",
+          "tempC": 24.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T18:00",
+          "icon": "cloud",
+          "tempC": 24.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-03-20T19:00",
+          "icon": "cloud",
+          "tempC": 21.6,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 2.1,
+      "maxTempC": 24.8,
+      "daily": [
+        {
+          "date": "2022-03-17",
+          "rainMM": 1.8,
+          "tempMaxC": 21.4
+        },
+        {
+          "date": "2022-03-18",
+          "rainMM": 0.3,
+          "tempMaxC": 23.8
+        },
+        {
+          "date": "2022-03-19",
+          "rainMM": 0.0,
+          "tempMaxC": 24.8
+        }
+      ]
+    }
+  }
 }

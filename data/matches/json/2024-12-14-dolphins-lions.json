@@ -409,5 +409,116 @@
       "Catches_WK": "0",
       "Stumpings": "0"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 21.5,
+      "tempMaxC": 24.2,
+      "rainMM": 0.0,
+      "maxWindKMH": 11.9,
+      "avgHumidityPct": 67.4,
+      "hourly": [
+        {
+          "time": "2024-12-14T09:00",
+          "icon": "cloud",
+          "tempC": 21.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T10:00",
+          "icon": "cloud",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T11:00",
+          "icon": "cloud",
+          "tempC": 22.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T12:00",
+          "icon": "cloud",
+          "tempC": 23.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T13:00",
+          "icon": "cloud",
+          "tempC": 23.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T14:00",
+          "icon": "cloud",
+          "tempC": 24.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T15:00",
+          "icon": "cloud",
+          "tempC": 23.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T16:00",
+          "icon": "cloud",
+          "tempC": 23.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T17:00",
+          "icon": "cloud",
+          "tempC": 22.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T18:00",
+          "icon": "cloud",
+          "tempC": 22.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T19:00",
+          "icon": "cloud",
+          "tempC": 21.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T20:00",
+          "icon": "cloud",
+          "tempC": 21.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-12-14T21:00",
+          "icon": "cloud",
+          "tempC": 21.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 16.7,
+      "maxTempC": 31.4,
+      "daily": [
+        {
+          "date": "2024-12-11",
+          "rainMM": 3.6,
+          "tempMaxC": 30.3
+        },
+        {
+          "date": "2024-12-12",
+          "rainMM": 0.8,
+          "tempMaxC": 31.4
+        },
+        {
+          "date": "2024-12-13",
+          "rainMM": 12.3,
+          "tempMaxC": 24.9
+        }
+      ]
+    }
+  }
 }

@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 18.8,
+      "tempMaxC": 19.4,
+      "rainMM": 12.7,
+      "maxWindKMH": 21.2,
+      "avgHumidityPct": 92.1,
+      "hourly": [
+        {
+          "time": "2006-01-08T09:00",
+          "icon": "cloud-rain",
+          "tempC": 18.8,
+          "rainMM": 1.7
+        },
+        {
+          "time": "2006-01-08T10:00",
+          "icon": "cloud-rain",
+          "tempC": 18.9,
+          "rainMM": 1.7
+        },
+        {
+          "time": "2006-01-08T11:00",
+          "icon": "cloud-rain",
+          "tempC": 19.2,
+          "rainMM": 1.3
+        },
+        {
+          "time": "2006-01-08T12:00",
+          "icon": "cloud-rain",
+          "tempC": 19.4,
+          "rainMM": 1.3
+        },
+        {
+          "time": "2006-01-08T13:00",
+          "icon": "cloud-rain",
+          "tempC": 19.2,
+          "rainMM": 1.6
+        },
+        {
+          "time": "2006-01-08T14:00",
+          "icon": "cloud-rain",
+          "tempC": 19.3,
+          "rainMM": 1.2
+        },
+        {
+          "time": "2006-01-08T15:00",
+          "icon": "cloud-rain",
+          "tempC": 19.2,
+          "rainMM": 1.2
+        },
+        {
+          "time": "2006-01-08T16:00",
+          "icon": "cloud-rain",
+          "tempC": 19.3,
+          "rainMM": 0.8
+        },
+        {
+          "time": "2006-01-08T17:00",
+          "icon": "cloud-rain",
+          "tempC": 19.2,
+          "rainMM": 0.8
+        },
+        {
+          "time": "2006-01-08T18:00",
+          "icon": "cloud-rain",
+          "tempC": 19.2,
+          "rainMM": 0.4
+        },
+        {
+          "time": "2006-01-08T19:00",
+          "icon": "cloud-rain",
+          "tempC": 18.9,
+          "rainMM": 0.7
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 22.2,
+      "maxTempC": 26.4,
+      "daily": [
+        {
+          "date": "2006-01-05",
+          "rainMM": 1.6,
+          "tempMaxC": 24.1
+        },
+        {
+          "date": "2006-01-06",
+          "rainMM": 0.4,
+          "tempMaxC": 25.8
+        },
+        {
+          "date": "2006-01-07",
+          "rainMM": 20.2,
+          "tempMaxC": 26.4
+        }
+      ]
+    }
+  }
 }

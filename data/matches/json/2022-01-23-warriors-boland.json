@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 22.4,
+      "tempMaxC": 26.6,
+      "rainMM": 0.0,
+      "maxWindKMH": 40.9,
+      "avgHumidityPct": 62.7,
+      "hourly": [
+        {
+          "time": "2022-01-23T09:00",
+          "icon": "sun",
+          "tempC": 23.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T10:00",
+          "icon": "sun",
+          "tempC": 24.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T11:00",
+          "icon": "sun",
+          "tempC": 25.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T12:00",
+          "icon": "sun",
+          "tempC": 26.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T13:00",
+          "icon": "sun",
+          "tempC": 26.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T14:00",
+          "icon": "sun",
+          "tempC": 25.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T15:00",
+          "icon": "sun",
+          "tempC": 25.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T16:00",
+          "icon": "sun",
+          "tempC": 24.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T17:00",
+          "icon": "sun",
+          "tempC": 24.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T18:00",
+          "icon": "sun",
+          "tempC": 23.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-01-23T19:00",
+          "icon": "sun",
+          "tempC": 22.4,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.3,
+      "maxTempC": 27.4,
+      "daily": [
+        {
+          "date": "2022-01-20",
+          "rainMM": 0.0,
+          "tempMaxC": 27.4
+        },
+        {
+          "date": "2022-01-21",
+          "rainMM": 0.3,
+          "tempMaxC": 25.7
+        },
+        {
+          "date": "2022-01-22",
+          "rainMM": 0.0,
+          "tempMaxC": 25.7
+        }
+      ]
+    }
+  }
 }

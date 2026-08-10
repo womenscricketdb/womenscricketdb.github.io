@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 15.0,
+      "tempMaxC": 18.4,
+      "rainMM": 14.1,
+      "maxWindKMH": 22.9,
+      "avgHumidityPct": 79.9,
+      "hourly": [
+        {
+          "time": "2005-11-13T09:00",
+          "icon": "cloud-rain",
+          "tempC": 15.0,
+          "rainMM": 2.2
+        },
+        {
+          "time": "2005-11-13T10:00",
+          "icon": "cloud-rain",
+          "tempC": 15.2,
+          "rainMM": 2.1
+        },
+        {
+          "time": "2005-11-13T11:00",
+          "icon": "cloud-rain",
+          "tempC": 16.2,
+          "rainMM": 1.6
+        },
+        {
+          "time": "2005-11-13T12:00",
+          "icon": "cloud-rain",
+          "tempC": 17.6,
+          "rainMM": 1.3
+        },
+        {
+          "time": "2005-11-13T13:00",
+          "icon": "cloud-rain",
+          "tempC": 18.4,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2005-11-13T14:00",
+          "icon": "cloud-rain",
+          "tempC": 18.2,
+          "rainMM": 0.6
+        },
+        {
+          "time": "2005-11-13T15:00",
+          "icon": "cloud-rain",
+          "tempC": 18.0,
+          "rainMM": 2.6
+        },
+        {
+          "time": "2005-11-13T16:00",
+          "icon": "cloud-rain",
+          "tempC": 18.2,
+          "rainMM": 1.0
+        },
+        {
+          "time": "2005-11-13T17:00",
+          "icon": "cloud-rain",
+          "tempC": 17.5,
+          "rainMM": 1.3
+        },
+        {
+          "time": "2005-11-13T18:00",
+          "icon": "cloud-rain",
+          "tempC": 17.6,
+          "rainMM": 0.6
+        },
+        {
+          "time": "2005-11-13T19:00",
+          "icon": "cloud-rain",
+          "tempC": 16.9,
+          "rainMM": 0.5
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 31.4,
+      "maxTempC": 33.8,
+      "daily": [
+        {
+          "date": "2005-11-10",
+          "rainMM": 0.0,
+          "tempMaxC": 30.5
+        },
+        {
+          "date": "2005-11-11",
+          "rainMM": 10.2,
+          "tempMaxC": 33.8
+        },
+        {
+          "date": "2005-11-12",
+          "rainMM": 21.2,
+          "tempMaxC": 26.2
+        }
+      ]
+    }
+  }
 }

@@ -409,5 +409,104 @@
       "Catches_WK": "2",
       "Stumpings": "2"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 15.2,
+      "tempMaxC": 21.2,
+      "rainMM": 0.0,
+      "maxWindKMH": 21.7,
+      "avgHumidityPct": 44.4,
+      "hourly": [
+        {
+          "time": "2006-04-08T09:00",
+          "icon": "sun",
+          "tempC": 15.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T10:00",
+          "icon": "sun",
+          "tempC": 16.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T11:00",
+          "icon": "sun",
+          "tempC": 17.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T12:00",
+          "icon": "sun",
+          "tempC": 19.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T13:00",
+          "icon": "sun",
+          "tempC": 20.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T14:00",
+          "icon": "sun",
+          "tempC": 21.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T15:00",
+          "icon": "sun",
+          "tempC": 21.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T16:00",
+          "icon": "sun",
+          "tempC": 21.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T17:00",
+          "icon": "sun",
+          "tempC": 20.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T18:00",
+          "icon": "sun",
+          "tempC": 19.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-04-08T19:00",
+          "icon": "sun",
+          "tempC": 17.8,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 5.0,
+      "maxTempC": 23.4,
+      "daily": [
+        {
+          "date": "2006-04-05",
+          "rainMM": 0.0,
+          "tempMaxC": 23.4
+        },
+        {
+          "date": "2006-04-06",
+          "rainMM": 0.1,
+          "tempMaxC": 20.4
+        },
+        {
+          "date": "2006-04-07",
+          "rainMM": 4.9,
+          "tempMaxC": 17.5
+        }
+      ]
+    }
+  }
 }

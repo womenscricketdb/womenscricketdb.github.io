@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 26.3,
+      "tempMaxC": 33.3,
+      "rainMM": 0.1,
+      "maxWindKMH": 16.7,
+      "avgHumidityPct": 23.2,
+      "hourly": [
+        {
+          "time": "2018-01-21T09:00",
+          "icon": "sun",
+          "tempC": 26.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-01-21T10:00",
+          "icon": "sun",
+          "tempC": 28.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-01-21T11:00",
+          "icon": "sun",
+          "tempC": 30.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-01-21T12:00",
+          "icon": "sun",
+          "tempC": 31.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-01-21T13:00",
+          "icon": "sun",
+          "tempC": 32.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-01-21T14:00",
+          "icon": "sun",
+          "tempC": 32.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-01-21T15:00",
+          "icon": "sun",
+          "tempC": 33.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-01-21T16:00",
+          "icon": "cloud-rain",
+          "tempC": 32.8,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2018-01-21T17:00",
+          "icon": "sun",
+          "tempC": 32.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-01-21T18:00",
+          "icon": "sun",
+          "tempC": 31.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-01-21T19:00",
+          "icon": "sun",
+          "tempC": 29.0,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.7,
+      "maxTempC": 33.5,
+      "daily": [
+        {
+          "date": "2018-01-18",
+          "rainMM": 0.7,
+          "tempMaxC": 32.4
+        },
+        {
+          "date": "2018-01-19",
+          "rainMM": 0.0,
+          "tempMaxC": 32.2
+        },
+        {
+          "date": "2018-01-20",
+          "rainMM": 0.0,
+          "tempMaxC": 33.5
+        }
+      ]
+    }
+  }
 }

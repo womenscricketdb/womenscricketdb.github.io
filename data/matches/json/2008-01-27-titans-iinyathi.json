@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 19.9,
+      "tempMaxC": 26.1,
+      "rainMM": 0.0,
+      "maxWindKMH": 12.5,
+      "avgHumidityPct": 48.0,
+      "hourly": [
+        {
+          "time": "2008-01-27T09:00",
+          "icon": "sun",
+          "tempC": 19.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T10:00",
+          "icon": "cloud",
+          "tempC": 21.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T11:00",
+          "icon": "sun",
+          "tempC": 22.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T12:00",
+          "icon": "cloud",
+          "tempC": 24.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T13:00",
+          "icon": "cloud",
+          "tempC": 25.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T14:00",
+          "icon": "cloud",
+          "tempC": 25.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T15:00",
+          "icon": "sun",
+          "tempC": 26.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T16:00",
+          "icon": "sun",
+          "tempC": 26.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T17:00",
+          "icon": "sun",
+          "tempC": 25.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T18:00",
+          "icon": "sun",
+          "tempC": 24.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-27T19:00",
+          "icon": "sun",
+          "tempC": 22.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 1.7,
+      "maxTempC": 24.9,
+      "daily": [
+        {
+          "date": "2008-01-24",
+          "rainMM": 1.0,
+          "tempMaxC": 22.0
+        },
+        {
+          "date": "2008-01-25",
+          "rainMM": 0.7,
+          "tempMaxC": 22.8
+        },
+        {
+          "date": "2008-01-26",
+          "rainMM": 0.0,
+          "tempMaxC": 24.9
+        }
+      ]
+    }
+  }
 }

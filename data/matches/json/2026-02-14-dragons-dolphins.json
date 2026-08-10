@@ -409,5 +409,86 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 20.2,
+      "tempMaxC": 27.1,
+      "rainMM": 0.6,
+      "maxWindKMH": 23.7,
+      "avgHumidityPct": 63.1,
+      "hourly": [
+        {
+          "time": "2026-02-14T09:00",
+          "icon": "cloud-rain",
+          "tempC": 20.2,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2026-02-14T10:00",
+          "icon": "cloud-rain",
+          "tempC": 21.2,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2026-02-14T11:00",
+          "icon": "cloud",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-14T12:00",
+          "icon": "cloud",
+          "tempC": 23.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-14T13:00",
+          "icon": "cloud",
+          "tempC": 24.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-14T14:00",
+          "icon": "cloud",
+          "tempC": 27.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-14T15:00",
+          "icon": "cloud-rain",
+          "tempC": 21.9,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2026-02-14T16:00",
+          "icon": "cloud-rain",
+          "tempC": 22.4,
+          "rainMM": 0.3
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 2.0,
+      "maxTempC": 31.8,
+      "daily": [
+        {
+          "date": "2026-02-11",
+          "rainMM": 0.0,
+          "tempMaxC": 31.5
+        },
+        {
+          "date": "2026-02-12",
+          "rainMM": 0.0,
+          "tempMaxC": 31.8
+        },
+        {
+          "date": "2026-02-13",
+          "rainMM": 2.0,
+          "tempMaxC": 28.7
+        }
+      ]
+    }
+  }
 }

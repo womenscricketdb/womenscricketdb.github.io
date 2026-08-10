@@ -409,5 +409,62 @@
       "Catches_WK": "0",
       "Stumpings": "0"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 23.0,
+      "tempMaxC": 28.2,
+      "rainMM": 0.0,
+      "maxWindKMH": 12.1,
+      "avgHumidityPct": 51.2,
+      "hourly": [
+        {
+          "time": "2024-03-10T09:00",
+          "icon": "sun",
+          "tempC": 23.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-03-10T10:00",
+          "icon": "sun",
+          "tempC": 25.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-03-10T11:00",
+          "icon": "sun",
+          "tempC": 27.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-03-10T12:00",
+          "icon": "sun",
+          "tempC": 28.2,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.6,
+      "maxTempC": 29.7,
+      "daily": [
+        {
+          "date": "2024-03-07",
+          "rainMM": 0.6,
+          "tempMaxC": 28.8
+        },
+        {
+          "date": "2024-03-08",
+          "rainMM": 0.0,
+          "tempMaxC": 29.5
+        },
+        {
+          "date": "2024-03-09",
+          "rainMM": 0.0,
+          "tempMaxC": 29.7
+        }
+      ]
+    }
+  }
 }

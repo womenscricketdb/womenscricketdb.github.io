@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 25.0,
+      "tempMaxC": 33.1,
+      "rainMM": 0.0,
+      "maxWindKMH": 12.2,
+      "avgHumidityPct": 12.8,
+      "hourly": [
+        {
+          "time": "2012-10-07T09:00",
+          "icon": "cloud",
+          "tempC": 25.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T10:00",
+          "icon": "cloud",
+          "tempC": 27.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T11:00",
+          "icon": "cloud",
+          "tempC": 29.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T12:00",
+          "icon": "cloud",
+          "tempC": 31.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T13:00",
+          "icon": "cloud",
+          "tempC": 32.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T14:00",
+          "icon": "sun",
+          "tempC": 32.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T15:00",
+          "icon": "sun",
+          "tempC": 33.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T16:00",
+          "icon": "sun",
+          "tempC": 32.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T17:00",
+          "icon": "sun",
+          "tempC": 31.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T18:00",
+          "icon": "sun",
+          "tempC": 29.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-07T19:00",
+          "icon": "sun",
+          "tempC": 26.3,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 33.5,
+      "daily": [
+        {
+          "date": "2012-10-04",
+          "rainMM": 0.0,
+          "tempMaxC": 33.5
+        },
+        {
+          "date": "2012-10-05",
+          "rainMM": 0.0,
+          "tempMaxC": 33.5
+        },
+        {
+          "date": "2012-10-06",
+          "rainMM": 0.0,
+          "tempMaxC": 32.8
+        }
+      ]
+    }
+  }
 }

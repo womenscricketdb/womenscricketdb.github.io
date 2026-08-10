@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 24.6,
+      "tempMaxC": 31.7,
+      "rainMM": 0.0,
+      "maxWindKMH": 13.8,
+      "avgHumidityPct": 36.6,
+      "hourly": [
+        {
+          "time": "2015-02-08T09:00",
+          "icon": "sun",
+          "tempC": 24.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T10:00",
+          "icon": "sun",
+          "tempC": 26.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T11:00",
+          "icon": "sun",
+          "tempC": 28.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T12:00",
+          "icon": "sun",
+          "tempC": 30.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T13:00",
+          "icon": "sun",
+          "tempC": 30.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T14:00",
+          "icon": "sun",
+          "tempC": 31.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T15:00",
+          "icon": "sun",
+          "tempC": 31.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T16:00",
+          "icon": "sun",
+          "tempC": 31.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T17:00",
+          "icon": "sun",
+          "tempC": 31.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T18:00",
+          "icon": "sun",
+          "tempC": 29.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-02-08T19:00",
+          "icon": "sun",
+          "tempC": 28.8,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.2,
+      "maxTempC": 33.0,
+      "daily": [
+        {
+          "date": "2015-02-05",
+          "rainMM": 0.2,
+          "tempMaxC": 31.1
+        },
+        {
+          "date": "2015-02-06",
+          "rainMM": 0.0,
+          "tempMaxC": 32.0
+        },
+        {
+          "date": "2015-02-07",
+          "rainMM": 0.0,
+          "tempMaxC": 33.0
+        }
+      ]
+    }
+  }
 }

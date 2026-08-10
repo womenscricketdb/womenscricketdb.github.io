@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 15.3,
+      "tempMaxC": 21.1,
+      "rainMM": 0.3,
+      "maxWindKMH": 18.4,
+      "avgHumidityPct": 44.5,
+      "hourly": [
+        {
+          "time": "2025-11-01T09:00",
+          "icon": "cloud-rain",
+          "tempC": 17.0,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2025-11-01T10:00",
+          "icon": "cloud-rain",
+          "tempC": 18.7,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2025-11-01T11:00",
+          "icon": "sun",
+          "tempC": 20.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-01T12:00",
+          "icon": "sun",
+          "tempC": 20.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-01T13:00",
+          "icon": "sun",
+          "tempC": 21.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-01T14:00",
+          "icon": "sun",
+          "tempC": 20.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-01T15:00",
+          "icon": "cloud",
+          "tempC": 20.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-01T16:00",
+          "icon": "cloud",
+          "tempC": 19.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-01T17:00",
+          "icon": "cloud",
+          "tempC": 18.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-01T18:00",
+          "icon": "sun",
+          "tempC": 16.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-01T19:00",
+          "icon": "cloud",
+          "tempC": 15.3,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.8,
+      "maxTempC": 34.5,
+      "daily": [
+        {
+          "date": "2025-10-29",
+          "rainMM": 0.0,
+          "tempMaxC": 28.7
+        },
+        {
+          "date": "2025-10-30",
+          "rainMM": 0.0,
+          "tempMaxC": 34.5
+        },
+        {
+          "date": "2025-10-31",
+          "rainMM": 0.8,
+          "tempMaxC": 23.7
+        }
+      ]
+    }
+  }
 }

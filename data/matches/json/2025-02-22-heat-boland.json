@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 20.5,
+      "tempMaxC": 26.6,
+      "rainMM": 0.0,
+      "maxWindKMH": 5.8,
+      "avgHumidityPct": 60.5,
+      "hourly": [
+        {
+          "time": "2025-02-22T09:00",
+          "icon": "cloud",
+          "tempC": 20.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T10:00",
+          "icon": "sun",
+          "tempC": 22.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T11:00",
+          "icon": "sun",
+          "tempC": 23.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T12:00",
+          "icon": "cloud",
+          "tempC": 25.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T13:00",
+          "icon": "cloud",
+          "tempC": 25.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T14:00",
+          "icon": "cloud",
+          "tempC": 26.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T15:00",
+          "icon": "sun",
+          "tempC": 26.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T16:00",
+          "icon": "sun",
+          "tempC": 26.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T17:00",
+          "icon": "sun",
+          "tempC": 26.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T18:00",
+          "icon": "sun",
+          "tempC": 25.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-22T19:00",
+          "icon": "sun",
+          "tempC": 23.4,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 57.2,
+      "maxTempC": 29.7,
+      "daily": [
+        {
+          "date": "2025-02-19",
+          "rainMM": 23.1,
+          "tempMaxC": 29.7
+        },
+        {
+          "date": "2025-02-20",
+          "rainMM": 8.0,
+          "tempMaxC": 21.3
+        },
+        {
+          "date": "2025-02-21",
+          "rainMM": 26.1,
+          "tempMaxC": 23.3
+        }
+      ]
+    }
+  }
 }

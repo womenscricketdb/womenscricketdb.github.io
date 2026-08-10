@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 18.4,
+      "tempMaxC": 30.3,
+      "rainMM": 2.8,
+      "maxWindKMH": 25.1,
+      "avgHumidityPct": 41.3,
+      "hourly": [
+        {
+          "time": "2024-10-20T09:00",
+          "icon": "sun",
+          "tempC": 23.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-20T10:00",
+          "icon": "sun",
+          "tempC": 25.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-20T11:00",
+          "icon": "sun",
+          "tempC": 26.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-20T12:00",
+          "icon": "cloud-rain",
+          "tempC": 26.4,
+          "rainMM": 1.1
+        },
+        {
+          "time": "2024-10-20T13:00",
+          "icon": "sun",
+          "tempC": 30.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-20T14:00",
+          "icon": "cloud-rain",
+          "tempC": 25.8,
+          "rainMM": 1.6
+        },
+        {
+          "time": "2024-10-20T15:00",
+          "icon": "cloud",
+          "tempC": 22.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-20T16:00",
+          "icon": "cloud",
+          "tempC": 24.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-20T17:00",
+          "icon": "cloud",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-20T18:00",
+          "icon": "cloud-rain",
+          "tempC": 20.1,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2024-10-20T19:00",
+          "icon": "cloud",
+          "tempC": 18.4,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 29.6,
+      "daily": [
+        {
+          "date": "2024-10-17",
+          "rainMM": 0.0,
+          "tempMaxC": 24.4
+        },
+        {
+          "date": "2024-10-18",
+          "rainMM": 0.0,
+          "tempMaxC": 27.8
+        },
+        {
+          "date": "2024-10-19",
+          "rainMM": 0.0,
+          "tempMaxC": 29.6
+        }
+      ]
+    }
+  }
 }

@@ -409,5 +409,104 @@
       "Catches_WK": "2",
       "Stumpings": "2"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 25.7,
+      "tempMaxC": 33.1,
+      "rainMM": 0.5,
+      "maxWindKMH": 19.5,
+      "avgHumidityPct": 29.4,
+      "hourly": [
+        {
+          "time": "2019-10-26T09:00",
+          "icon": "cloud",
+          "tempC": 29.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-10-26T10:00",
+          "icon": "cloud",
+          "tempC": 31.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-10-26T11:00",
+          "icon": "cloud",
+          "tempC": 31.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-10-26T12:00",
+          "icon": "cloud",
+          "tempC": 33.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-10-26T13:00",
+          "icon": "cloud-rain",
+          "tempC": 25.8,
+          "rainMM": 0.5
+        },
+        {
+          "time": "2019-10-26T14:00",
+          "icon": "cloud",
+          "tempC": 30.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-10-26T15:00",
+          "icon": "sun",
+          "tempC": 32.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-10-26T16:00",
+          "icon": "sun",
+          "tempC": 31.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-10-26T17:00",
+          "icon": "sun",
+          "tempC": 29.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-10-26T18:00",
+          "icon": "sun",
+          "tempC": 27.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-10-26T19:00",
+          "icon": "sun",
+          "tempC": 25.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 4.2,
+      "maxTempC": 33.3,
+      "daily": [
+        {
+          "date": "2019-10-23",
+          "rainMM": 0.9,
+          "tempMaxC": 29.6
+        },
+        {
+          "date": "2019-10-24",
+          "rainMM": 1.9,
+          "tempMaxC": 33.3
+        },
+        {
+          "date": "2019-10-25",
+          "rainMM": 1.4,
+          "tempMaxC": 30.6
+        }
+      ]
+    }
+  }
 }

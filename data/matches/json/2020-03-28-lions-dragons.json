@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 13.4,
+      "tempMaxC": 19.0,
+      "rainMM": 0.6,
+      "maxWindKMH": 23.3,
+      "avgHumidityPct": 67.9,
+      "hourly": [
+        {
+          "time": "2020-03-28T09:00",
+          "icon": "cloud",
+          "tempC": 13.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-28T10:00",
+          "icon": "cloud",
+          "tempC": 15.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-28T11:00",
+          "icon": "cloud",
+          "tempC": 16.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-28T12:00",
+          "icon": "cloud-rain",
+          "tempC": 17.4,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2020-03-28T13:00",
+          "icon": "cloud-rain",
+          "tempC": 18.0,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2020-03-28T14:00",
+          "icon": "cloud-rain",
+          "tempC": 18.0,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2020-03-28T15:00",
+          "icon": "cloud-rain",
+          "tempC": 18.7,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2020-03-28T16:00",
+          "icon": "cloud-rain",
+          "tempC": 19.0,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2020-03-28T17:00",
+          "icon": "sun",
+          "tempC": 18.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-28T18:00",
+          "icon": "sun",
+          "tempC": 16.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-28T19:00",
+          "icon": "sun",
+          "tempC": 14.2,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 1.1,
+      "maxTempC": 26.0,
+      "daily": [
+        {
+          "date": "2020-03-25",
+          "rainMM": 0.1,
+          "tempMaxC": 26.0
+        },
+        {
+          "date": "2020-03-26",
+          "rainMM": 0.0,
+          "tempMaxC": 25.6
+        },
+        {
+          "date": "2020-03-27",
+          "rainMM": 1.0,
+          "tempMaxC": 24.5
+        }
+      ]
+    }
+  }
 }

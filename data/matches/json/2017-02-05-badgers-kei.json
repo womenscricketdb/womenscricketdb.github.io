@@ -409,5 +409,104 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 18.5,
+      "tempMaxC": 25.6,
+      "rainMM": 0.4,
+      "maxWindKMH": 25.1,
+      "avgHumidityPct": 47.8,
+      "hourly": [
+        {
+          "time": "2017-02-05T09:00",
+          "icon": "cloud-rain",
+          "tempC": 18.5,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2017-02-05T10:00",
+          "icon": "cloud-rain",
+          "tempC": 19.6,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2017-02-05T11:00",
+          "icon": "cloud",
+          "tempC": 21.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-02-05T12:00",
+          "icon": "cloud",
+          "tempC": 22.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-02-05T13:00",
+          "icon": "cloud",
+          "tempC": 23.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-02-05T14:00",
+          "icon": "cloud",
+          "tempC": 24.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-02-05T15:00",
+          "icon": "sun",
+          "tempC": 25.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-02-05T16:00",
+          "icon": "cloud",
+          "tempC": 25.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-02-05T17:00",
+          "icon": "sun",
+          "tempC": 24.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-02-05T18:00",
+          "icon": "sun",
+          "tempC": 21.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-02-05T19:00",
+          "icon": "sun",
+          "tempC": 20.2,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 7.1,
+      "maxTempC": 34.4,
+      "daily": [
+        {
+          "date": "2017-02-02",
+          "rainMM": 6.8,
+          "tempMaxC": 26.7
+        },
+        {
+          "date": "2017-02-03",
+          "rainMM": 0.0,
+          "tempMaxC": 34.4
+        },
+        {
+          "date": "2017-02-04",
+          "rainMM": 0.3,
+          "tempMaxC": 30.2
+        }
+      ]
+    }
+  }
 }

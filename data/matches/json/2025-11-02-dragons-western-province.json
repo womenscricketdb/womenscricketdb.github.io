@@ -409,5 +409,74 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 20.4,
+      "tempMaxC": 26.6,
+      "rainMM": 0.0,
+      "maxWindKMH": 10.9,
+      "avgHumidityPct": 24.8,
+      "hourly": [
+        {
+          "time": "2025-11-02T09:00",
+          "icon": "sun",
+          "tempC": 20.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-02T10:00",
+          "icon": "sun",
+          "tempC": 22.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-02T11:00",
+          "icon": "cloud",
+          "tempC": 24.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-02T12:00",
+          "icon": "cloud",
+          "tempC": 25.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-02T13:00",
+          "icon": "cloud",
+          "tempC": 26.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-02T14:00",
+          "icon": "cloud",
+          "tempC": 26.6,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 18.6,
+      "maxTempC": 28.4,
+      "daily": [
+        {
+          "date": "2025-10-30",
+          "rainMM": 0.1,
+          "tempMaxC": 26.7
+        },
+        {
+          "date": "2025-10-31",
+          "rainMM": 16.1,
+          "tempMaxC": 26.7
+        },
+        {
+          "date": "2025-11-01",
+          "rainMM": 2.4,
+          "tempMaxC": 28.4
+        }
+      ]
+    }
+  }
 }

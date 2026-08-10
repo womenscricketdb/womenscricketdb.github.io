@@ -99,6 +99,84 @@
             color: var(--wca-text-dim);
             font-size: 0.9rem;
         }
+        .wca-weather-card {
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            border-radius: 10px;
+            padding: 1.25rem 1.5rem;
+            font-family: var(--wca-font-body);
+        }
+        .wca-weather-title {
+            font-family: var(--wca-font-body);
+            font-weight: 700;
+            color: #fff;
+            font-size: 1rem;
+            margin-bottom: 1rem;
+        }
+        .wca-weather-section-label,
+        .wca-weather-section-label-plain {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            color: var(--wca-text-dim);
+            margin-bottom: 0.75rem;
+        }
+        .wca-weather-section-label i { margin-right: 0.35rem; }
+        .wca-weather-divider {
+            border-color: var(--wca-border);
+            opacity: 1;
+            margin: 1.1rem 0;
+        }
+        .wca-weather-stat-row {
+            display: flex;
+            gap: 1.25rem;
+            margin-bottom: 1rem;
+        }
+        .wca-weather-stat { flex: 1; min-width: 0; }
+        .wca-weather-stat-value {
+            font-weight: 600;
+            color: #fff;
+            font-size: 1rem;
+            margin-bottom: 0.15rem;
+        }
+        .wca-weather-stat-caption {
+            font-size: 0.75rem;
+            color: var(--wca-text-dim);
+        }
+        .wca-weather-strip {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.25rem;
+        }
+        .wca-weather-strip-hour {
+            color: var(--wca-text-dim);
+            font-size: 0.95rem;
+            cursor: default;
+        }
+        .wca-weather-strip-labels {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.65rem;
+            color: var(--wca-text-dim);
+            margin-bottom: 1rem;
+        }
+        .wca-weather-daily-breakdown {
+            display: flex;
+            justify-content: space-between;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+        .wca-weather-daily-item { flex: 1; min-width: 0; }
+        .wca-weather-daily-value {
+            font-weight: 600;
+            color: var(--wca-text);
+            font-size: 0.85rem;
+        }
+        .wca-weather-daily-caption {
+            font-size: 0.65rem;
+            color: var(--wca-text-dim);
+        }
     </style>
 </head>
 <body>
@@ -146,6 +224,120 @@
             ${batters ? `<p class="wca-perf-heading">Top Batting</p><ul class="wca-perf-list">${batters}</ul>` : ""}
             ${bowlers ? `<p class="wca-perf-heading">Top Bowling</p><ul class="wca-perf-list">${bowlers}</ul>` : ""}
         </div>`;
+    }
+
+    // Timestamps in weather.onTheDay.hourly are already local (Africa/
+    // Johannesburg) strings from the fetch, e.g. "2018-02-10T09:00" - NOT
+    // reinterpreted through Date() here, since that would let the visitor's
+    // own browser timezone silently shift the hour. Parsed directly off
+    // the string instead.
+    function relativeDayLabel(dateStr, matchDateStr) {
+        if (!matchDateStr) return dateStr;
+        // Both plain 'YYYY-MM-DD' dates, forced to UTC midnight so the
+        // day-difference is exact regardless of the visitor's own
+        // timezone, this is a calendar-day count, not a time-of-day value.
+        const d = new Date(dateStr + 'T00:00:00Z');
+        const m = new Date(matchDateStr + 'T00:00:00Z');
+        const diffDays = Math.round((m - d) / 86400000);
+        if (diffDays === 1) return "1 day before";
+        if (diffDays > 1) return `${diffDays} days before`;
+        return dateStr;
+    }
+
+    function formatHourLabel(timeStr) {
+        const hourStr = timeStr.split("T")[1];
+        const hour24 = parseInt(hourStr.split(":")[0], 10);
+        const period = hour24 < 12 ? "am" : "pm";
+        let hour12 = hour24 % 12;
+        if (hour12 === 0) hour12 = 12;
+        return `${hour12}${period}`;
+    }
+
+    function weatherIconClass(icon) {
+        const map = { sun: "bi-sun", cloud: "bi-cloud", "cloud-rain": "bi-cloud-rain", snow: "bi-cloud-snow" };
+        return map[icon] || "bi-question-circle";
+    }
+
+    function iconLabel(icon) {
+        const map = { sun: "clear", cloud: "cloudy", "cloud-rain": "rain", snow: "snow" };
+        return map[icon] || "no data";
+    }
+
+    function hourTooltip(hour) {
+        const label = formatHourLabel(hour.time);
+        const temp = hour.tempC != null ? `${Math.round(hour.tempC)}\u00B0C` : "?";
+        const cond = iconLabel(hour.icon);
+        const rainPart = hour.rainMM > 0 ? `, ${hour.rainMM}mm` : "";
+        return `${label} \u00B7 ${temp} \u00B7 ${cond}${rainPart}`;
+    }
+
+    function weatherCard(weather, matchDate) {
+        if (!weather) return "";
+        const onDay = weather.onTheDay || {};
+        const leading = weather.leadingIntoMatch || {};
+        const hourly = onDay.hourly || [];
+        const dailyBreakdown = leading.daily || [];
+
+        const stripIcons = hourly.map(h => {
+            const tooltip = hourTooltip(h);
+            return `<span class="wca-weather-strip-hour" data-bs-toggle="tooltip" data-bs-placement="top" title="${WCA.escapeHtml(tooltip)}"><i class="bi ${weatherIconClass(h.icon)}"></i></span>`;
+        }).join("");
+
+        const firstLabel = hourly.length ? formatHourLabel(hourly[0].time) : "";
+        const lastLabel = hourly.length ? formatHourLabel(hourly[hourly.length - 1].time) : "";
+
+        const rainLeading = leading.rainMM != null ? `${leading.rainMM}mm rain` : "&mdash;";
+        const tempLeading = leading.maxTempC != null ? `Max ${Math.round(leading.maxTempC)}&deg;C` : "&mdash;";
+
+        const dailyItems = dailyBreakdown.map(d => {
+            const label = relativeDayLabel(d.date, matchDate);
+            const rain = d.rainMM != null ? `${d.rainMM}mm` : "&mdash;";
+            return `<div class="wca-weather-daily-item"><div class="wca-weather-daily-value">${rain}</div><div class="wca-weather-daily-caption">${WCA.escapeHtml(label)}</div></div>`;
+        }).join("");
+        const tempRange = (onDay.tempMinC != null && onDay.tempMaxC != null)
+            ? `${Math.round(onDay.tempMinC)}&ndash;${Math.round(onDay.tempMaxC)}&deg;C` : "&mdash;";
+        const rainOnDay = onDay.rainMM != null ? `${onDay.rainMM}mm rain` : "&mdash;";
+        const windOnDay = onDay.maxWindKMH != null ? `${Math.round(onDay.maxWindKMH)} km/h` : "&mdash;";
+        const humidityOnDay = onDay.avgHumidityPct != null ? `${Math.round(onDay.avgHumidityPct)}%` : "&mdash;";
+
+        return `
+        <div class="wca-weather-card">
+            <div class="wca-weather-title">Weather Summary</div>
+            <div class="wca-weather-section-top">
+                <div class="wca-weather-section-label"><i class="bi bi-cloud-rain"></i>Leading into the match</div>
+                <div class="wca-weather-stat-row">
+                    <div class="wca-weather-stat"><div class="wca-weather-stat-value">${rainLeading}</div><div class="wca-weather-stat-caption">preceding 72 hours</div></div>
+                    <div class="wca-weather-stat"><div class="wca-weather-stat-value">${tempLeading}</div><div class="wca-weather-stat-caption">peak, preceding 72 hours</div></div>
+                </div>
+                ${dailyItems ? `<div class="wca-weather-daily-breakdown">${dailyItems}</div>` : ""}
+                <hr class="wca-weather-divider">
+            </div>
+            <div class="wca-weather-section-bottom">
+                <div class="wca-weather-section-label-plain">On the day, ${WCA.escapeHtml(firstLabel)}&ndash;${WCA.escapeHtml(lastLabel)}</div>
+                <div class="wca-weather-strip">${stripIcons}</div>
+                <div class="wca-weather-strip-labels"><span>${WCA.escapeHtml(firstLabel)}</span><span>${WCA.escapeHtml(lastLabel)}</span></div>
+                <div class="wca-weather-stat-row">
+                    <div class="wca-weather-stat"><div class="wca-weather-stat-value">${tempRange}</div><div class="wca-weather-stat-caption">temperature range</div></div>
+                    <div class="wca-weather-stat"><div class="wca-weather-stat-value">${rainOnDay}</div><div class="wca-weather-stat-caption">total precipitation</div></div>
+                </div>
+                <div class="wca-weather-stat-row">
+                    <div class="wca-weather-stat"><div class="wca-weather-stat-value">${windOnDay}</div><div class="wca-weather-stat-caption">max wind speed</div></div>
+                    <div class="wca-weather-stat"><div class="wca-weather-stat-value">${humidityOnDay}</div><div class="wca-weather-stat-caption">avg humidity</div></div>
+                </div>
+            </div>
+        </div>`;
+    }
+
+    // Wraps whatever the innings/no-data markup is together with the
+    // weather card in a two-column row, IF there's weather to show, and
+    // (re)initialises Bootstrap's tooltips afterwards, they don't
+    // activate on their own just from the data-bs-toggle attribute.
+    function renderBody(mainHtml, weatherHtml) {
+        const body = document.getElementById("matchBody");
+        body.innerHTML = weatherHtml
+            ? `<div class="row g-3 align-items-start"><div class="col-lg-8">${mainHtml}</div><div class="col-lg-4">${weatherHtml}</div></div>`
+            : mainHtml;
+        body.querySelectorAll('[data-bs-toggle="tooltip"]').forEach(el => new bootstrap.Tooltip(el));
     }
 
     async function load() {
@@ -213,12 +405,18 @@
         );
 
         if (!teams.length) {
-            body.innerHTML = `<p class="wca-not-played-note">No further detail is recorded for this match. It may have been abandoned, no-result, or not played.</p>`;
+            renderBody(
+                `<p class="wca-not-played-note">No further detail is recorded for this match. It may have been abandoned, no-result, or not played.</p>`,
+                weatherCard(match.weather, meta.Match_Date)
+            );
             return;
         }
 
-        body.innerHTML = innings.map(inningsCard).join("") ||
-            `<p class="wca-not-played-note">Scorecard detail is not available for this match.</p>`;
+        renderBody(
+            innings.map(inningsCard).join("") ||
+                `<p class="wca-not-played-note">Scorecard detail is not available for this match.</p>`,
+            weatherCard(match.weather, meta.Match_Date)
+        );
     }
 
     /**

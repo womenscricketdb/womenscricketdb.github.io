@@ -409,5 +409,104 @@
       "Catches_WK": "0",
       "Stumpings": "0"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 18.0,
+      "tempMaxC": 23.4,
+      "rainMM": 0.0,
+      "maxWindKMH": 27.8,
+      "avgHumidityPct": 55.2,
+      "hourly": [
+        {
+          "time": "2007-11-17T09:00",
+          "icon": "sun",
+          "tempC": 18.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T10:00",
+          "icon": "sun",
+          "tempC": 20.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T11:00",
+          "icon": "sun",
+          "tempC": 22.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T12:00",
+          "icon": "sun",
+          "tempC": 23.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T13:00",
+          "icon": "sun",
+          "tempC": 23.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T14:00",
+          "icon": "sun",
+          "tempC": 23.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T15:00",
+          "icon": "sun",
+          "tempC": 22.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T16:00",
+          "icon": "sun",
+          "tempC": 20.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T17:00",
+          "icon": "sun",
+          "tempC": 20.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T18:00",
+          "icon": "sun",
+          "tempC": 19.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2007-11-17T19:00",
+          "icon": "sun",
+          "tempC": 18.0,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 1.2,
+      "maxTempC": 22.8,
+      "daily": [
+        {
+          "date": "2007-11-14",
+          "rainMM": 1.0,
+          "tempMaxC": 19.6
+        },
+        {
+          "date": "2007-11-15",
+          "rainMM": 0.2,
+          "tempMaxC": 18.1
+        },
+        {
+          "date": "2007-11-16",
+          "rainMM": 0.0,
+          "tempMaxC": 22.8
+        }
+      ]
+    }
+  }
 }

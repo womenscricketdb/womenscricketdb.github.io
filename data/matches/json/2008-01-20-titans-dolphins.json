@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 16.7,
+      "tempMaxC": 19.3,
+      "rainMM": 9.9,
+      "maxWindKMH": 12.7,
+      "avgHumidityPct": 90.5,
+      "hourly": [
+        {
+          "time": "2008-01-20T09:00",
+          "icon": "cloud-rain",
+          "tempC": 16.7,
+          "rainMM": 2.0
+        },
+        {
+          "time": "2008-01-20T10:00",
+          "icon": "cloud-rain",
+          "tempC": 17.1,
+          "rainMM": 2.0
+        },
+        {
+          "time": "2008-01-20T11:00",
+          "icon": "cloud-rain",
+          "tempC": 17.7,
+          "rainMM": 1.7
+        },
+        {
+          "time": "2008-01-20T12:00",
+          "icon": "cloud-rain",
+          "tempC": 17.9,
+          "rainMM": 1.6
+        },
+        {
+          "time": "2008-01-20T13:00",
+          "icon": "cloud-rain",
+          "tempC": 18.3,
+          "rainMM": 1.1
+        },
+        {
+          "time": "2008-01-20T14:00",
+          "icon": "cloud-rain",
+          "tempC": 19.1,
+          "rainMM": 0.6
+        },
+        {
+          "time": "2008-01-20T15:00",
+          "icon": "cloud-rain",
+          "tempC": 19.2,
+          "rainMM": 0.4
+        },
+        {
+          "time": "2008-01-20T16:00",
+          "icon": "cloud-rain",
+          "tempC": 19.0,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2008-01-20T17:00",
+          "icon": "cloud-rain",
+          "tempC": 19.1,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2008-01-20T18:00",
+          "icon": "cloud",
+          "tempC": 19.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-01-20T19:00",
+          "icon": "cloud",
+          "tempC": 18.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 46.1,
+      "maxTempC": 26.1,
+      "daily": [
+        {
+          "date": "2008-01-17",
+          "rainMM": 15.7,
+          "tempMaxC": 26.1
+        },
+        {
+          "date": "2008-01-18",
+          "rainMM": 25.8,
+          "tempMaxC": 20.2
+        },
+        {
+          "date": "2008-01-19",
+          "rainMM": 4.6,
+          "tempMaxC": 21.1
+        }
+      ]
+    }
+  }
 }

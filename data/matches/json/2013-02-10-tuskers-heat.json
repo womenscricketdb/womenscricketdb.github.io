@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 22.3,
+      "tempMaxC": 26.5,
+      "rainMM": 11.7,
+      "maxWindKMH": 11.3,
+      "avgHumidityPct": 86.0,
+      "hourly": [
+        {
+          "time": "2013-02-10T09:00",
+          "icon": "cloud",
+          "tempC": 24.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-02-10T10:00",
+          "icon": "cloud-rain",
+          "tempC": 25.6,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2013-02-10T11:00",
+          "icon": "cloud-rain",
+          "tempC": 26.5,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2013-02-10T12:00",
+          "icon": "cloud-rain",
+          "tempC": 25.0,
+          "rainMM": 2.8
+        },
+        {
+          "time": "2013-02-10T13:00",
+          "icon": "cloud-rain",
+          "tempC": 25.5,
+          "rainMM": 1.5
+        },
+        {
+          "time": "2013-02-10T14:00",
+          "icon": "cloud-rain",
+          "tempC": 26.0,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2013-02-10T15:00",
+          "icon": "cloud-rain",
+          "tempC": 24.5,
+          "rainMM": 4.2
+        },
+        {
+          "time": "2013-02-10T16:00",
+          "icon": "cloud-rain",
+          "tempC": 23.3,
+          "rainMM": 2.4
+        },
+        {
+          "time": "2013-02-10T17:00",
+          "icon": "cloud-rain",
+          "tempC": 23.2,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2013-02-10T18:00",
+          "icon": "cloud",
+          "tempC": 22.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-02-10T19:00",
+          "icon": "cloud",
+          "tempC": 22.3,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 6.9,
+      "maxTempC": 29.4,
+      "daily": [
+        {
+          "date": "2013-02-07",
+          "rainMM": 4.5,
+          "tempMaxC": 23.9
+        },
+        {
+          "date": "2013-02-08",
+          "rainMM": 2.2,
+          "tempMaxC": 26.2
+        },
+        {
+          "date": "2013-02-09",
+          "rainMM": 0.2,
+          "tempMaxC": 29.4
+        }
+      ]
+    }
+  }
 }

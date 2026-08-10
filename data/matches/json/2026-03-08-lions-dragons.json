@@ -409,5 +409,68 @@
       "Catches_WK": "",
       "Stumpings": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 14.9,
+      "tempMaxC": 21.0,
+      "rainMM": 0.0,
+      "maxWindKMH": 23.8,
+      "avgHumidityPct": 61.4,
+      "hourly": [
+        {
+          "time": "2026-03-08T09:00",
+          "icon": "sun",
+          "tempC": 14.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-03-08T10:00",
+          "icon": "sun",
+          "tempC": 16.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-03-08T11:00",
+          "icon": "cloud",
+          "tempC": 18.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-03-08T12:00",
+          "icon": "cloud",
+          "tempC": 20.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-03-08T13:00",
+          "icon": "cloud",
+          "tempC": 21.0,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 31.3,
+      "maxTempC": 23.8,
+      "daily": [
+        {
+          "date": "2026-03-05",
+          "rainMM": 5.4,
+          "tempMaxC": 19.7
+        },
+        {
+          "date": "2026-03-06",
+          "rainMM": 25.9,
+          "tempMaxC": 21.2
+        },
+        {
+          "date": "2026-03-07",
+          "rainMM": 0.0,
+          "tempMaxC": 23.8
+        }
+      ]
+    }
+  }
 }

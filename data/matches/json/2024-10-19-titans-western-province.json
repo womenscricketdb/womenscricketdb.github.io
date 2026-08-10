@@ -409,5 +409,86 @@
       "Catches_WK": "0",
       "Stumpings": "0"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 22.9,
+      "tempMaxC": 29.6,
+      "rainMM": 0.0,
+      "maxWindKMH": 21.1,
+      "avgHumidityPct": 16.1,
+      "hourly": [
+        {
+          "time": "2024-10-19T09:00",
+          "icon": "sun",
+          "tempC": 22.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-19T10:00",
+          "icon": "sun",
+          "tempC": 24.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-19T11:00",
+          "icon": "sun",
+          "tempC": 26.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-19T12:00",
+          "icon": "sun",
+          "tempC": 27.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-19T13:00",
+          "icon": "sun",
+          "tempC": 28.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-19T14:00",
+          "icon": "sun",
+          "tempC": 29.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-19T15:00",
+          "icon": "sun",
+          "tempC": 29.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-19T16:00",
+          "icon": "sun",
+          "tempC": 28.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 27.8,
+      "daily": [
+        {
+          "date": "2024-10-16",
+          "rainMM": 0.0,
+          "tempMaxC": 20.7
+        },
+        {
+          "date": "2024-10-17",
+          "rainMM": 0.0,
+          "tempMaxC": 24.4
+        },
+        {
+          "date": "2024-10-18",
+          "rainMM": 0.0,
+          "tempMaxC": 27.8
+        }
+      ]
+    }
+  }
 }
