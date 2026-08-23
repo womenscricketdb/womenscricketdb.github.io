@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Player Comparison - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/compare.html">
+    <meta name="description" content="Head-to-head batting and bowling comparison between any two players in South African women's provincial cricket.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Player Comparison - Women's Provincial Cricket Database">
+    <meta property="og:description" content="Head-to-head batting and bowling comparison between any two players in South African women's provincial cricket.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/compare.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Player Comparison - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="Head-to-head batting and bowling comparison between any two players in South African women's provincial cricket.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        /* ---------------------------------------------------------------
+           Player picker (two typeahead inputs either side of a VS divider)
+           --------------------------------------------------------------- */
+        .wca-picker-row {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .wca-picker-line {
+            display: flex;
+            align-items: stretch;
+            gap: 1rem;
+        }
+        @media (max-width: 700px) {
+            .wca-picker-line { flex-wrap: wrap; }
+        }
+        .wca-picker-input-wrap {
+            position: relative;
+            flex: 1;
+            min-width: 0;
+        }
+        .wca-season-select {
+            flex: 1;
+            min-width: 0;
+        }
+        .wca-picker-input-wrap input {
+            width: 100%;
+            font-family: var(--wca-font-body);
+            background: var(--wca-surface-raised);
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text);
+            border-radius: 8px;
+            padding: 0.6rem 2.2rem 0.6rem 0.9rem;
+            font-size: 0.95rem;
+        }
+        .wca-picker-input-wrap input:focus {
+            outline: none;
+            border-color: var(--wca-gold);
+        }
+        .wca-picker-input-wrap .wca-picker-clear {
+            position: absolute;
+            right: 0.6rem;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: var(--wca-text-dim);
+            cursor: pointer;
+            display: none;
+        }
+        .wca-picker-input-wrap.has-value .wca-picker-clear { display: inline-block; }
+        .wca-picker-dropdown {
+            position: absolute;
+            z-index: 40;
+            top: calc(100% + 4px);
+            left: 0;
+            right: 0;
+            max-height: 260px;
+            overflow-y: auto;
+            background: var(--wca-surface-raised);
+            border: 1px solid var(--wca-border);
+            border-radius: 8px;
+            display: none;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+        }
+        .wca-picker-dropdown.open { display: block; }
+        .wca-picker-dropdown button {
+            display: block;
+            width: 100%;
+            text-align: left;
+            background: none;
+            border: none;
+            color: var(--wca-text);
+            font-family: var(--wca-font-body);
+            font-size: 0.9rem;
+            padding: 0.5rem 0.85rem;
+        }
+        .wca-picker-dropdown button:hover,
+        .wca-picker-dropdown button.active {
+            background: var(--wca-header);
+            color: var(--wca-gold);
+        }
+        .wca-picker-dropdown .wca-picker-empty {
+            padding: 0.6rem 0.85rem;
+            color: var(--wca-text-dim);
+            font-size: 0.85rem;
+            font-style: italic;
+        }
+        .wca-season-select {
+            font-family: var(--wca-font-body);
+            background: var(--wca-surface-raised);
+            color: var(--wca-text);
+            border: 1px solid var(--wca-border);
+            border-radius: 6px;
+            padding: 0.3rem 0.5rem;
+            font-size: 0.85rem;
+        }
+        .wca-season-select:disabled { opacity: 0.5; }
+        .wca-swap-btn {
+            background: var(--wca-surface-raised);
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text-dim);
+            border-radius: 50%;
+            width: 34px;
+            height: 34px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .wca-swap-btn:hover { color: var(--wca-gold); border-color: var(--wca-gold); }
+        .wca-match-season-btn {
+            background: var(--wca-surface-raised);
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text-dim);
+            border-radius: 6px;
+            width: 34px;
+            padding: 0;
+            line-height: 1;
+            align-self: stretch;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.8rem;
+        }
+        .wca-match-season-btn:hover { color: var(--wca-gold); border-color: var(--wca-gold); }
+
+        /* ---------------------------------------------------------------
+           Identity cards (name / teams / span) shown once both are picked
+           --------------------------------------------------------------- */
+        .wca-compare-identities {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 1rem;
+            align-items: start;
+            margin-bottom: 1.25rem;
+        }
+        @media (max-width: 700px) {
+            .wca-compare-identities { grid-template-columns: 1fr; text-align: center; }
+        }
+        .wca-compare-identity { display: flex; flex-direction: column; gap: 0.35rem; }
+        .wca-compare-identity.right { align-items: flex-end; }
+        @media (max-width: 700px) {
+            .wca-compare-identity.right { align-items: center; }
+        }
+        .wca-compare-identity h2 {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #fff;
+            margin: 0;
+        }
+        .wca-compare-identity h2 a { color: inherit; text-decoration: none; }
+        .wca-compare-identity h2 a:hover { color: var(--wca-gold); }
+        .wca-compare-identity .wca-compare-sub {
+            font-family: var(--wca-font-body);
+            font-size: 0.82rem;
+            color: var(--wca-text-dim);
+        }
+        .wca-compare-identity .wca-team-logos img { height: 28px; }
+        .wca-compare-vs-mark {
+            font-family: var(--wca-font-display);
+            font-weight: 700;
+            color: var(--wca-gold);
+            font-size: 1.1rem;
+            padding-top: 0.4rem;
+        }
+
+        /* ---------------------------------------------------------------
+           Stat comparison rows
+           --------------------------------------------------------------- */
+        .wca-vs-row {
+            display: grid;
+            grid-template-columns: 1fr 9rem 1fr;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.5rem 0;
+            border-bottom: 1px solid var(--wca-border);
+        }
+        .wca-vs-label {
+            font-family: var(--wca-font-body);
+            font-size: 0.78rem;
+            font-weight: 600;
+            color: var(--wca-text-dim);
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            text-align: center;
+        }
+        .wca-vs-value {
+            position: relative;
+            font-family: var(--wca-font-body);
+            font-weight: 700;
+            font-size: 1.05rem;
+            color: var(--wca-text);
+            padding: 0.35rem 0.7rem;
+            border-radius: 6px;
+            overflow: hidden;
+        }
+        .wca-vs-value.left { text-align: right; }
+        .wca-vs-value.right { text-align: left; }
+        .wca-vs-value .wca-bar {
+            position: absolute;
+            top: 0; bottom: 0;
+            opacity: 0.22;
+            z-index: 0;
+        }
+        .wca-vs-value.left .wca-bar { right: 0; background: #5b9bb0; }
+        .wca-vs-value.right .wca-bar { left: 0; background: var(--wca-gold); }
+        .wca-vs-value .wca-num { position: relative; z-index: 1; }
+        .wca-vs-value.winner { color: var(--wca-gold); }
+        .wca-vs-value.winner.left .wca-bar,
+        .wca-vs-value.winner.right .wca-bar { opacity: 0.32; }
+
+        .wca-compare-note {
+            font-family: var(--wca-font-body);
+            font-size: 0.82rem;
+            color: var(--wca-text-dim);
+            font-style: italic;
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<main class="container py-4">
+    <div class="wca-breadcrumb"><a href="index.html">Home</a> / Compare</div>
+    <h1 class="wca-section-title">Player Comparison</h1>
+
+    <div class="wca-picker-row">
+        <div class="wca-picker-line">
+            <div class="wca-picker-input-wrap" id="picker1">
+                <input type="text" id="input1" placeholder="Search player 1…" autocomplete="off">
+                <button class="wca-picker-clear" id="clear1" type="button" aria-label="Clear"><i class="bi bi-x-circle"></i></button>
+                <div class="wca-picker-dropdown" id="dropdown1"></div>
+            </div>
+            <button class="wca-swap-btn" id="swapBtn" type="button" title="Swap players"><i class="bi bi-arrow-left-right"></i></button>
+            <div class="wca-picker-input-wrap" id="picker2">
+                <input type="text" id="input2" placeholder="Search player 2…" autocomplete="off">
+                <button class="wca-picker-clear" id="clear2" type="button" aria-label="Clear"><i class="bi bi-x-circle"></i></button>
+                <div class="wca-picker-dropdown" id="dropdown2"></div>
+            </div>
+        </div>
+        <div class="wca-picker-line">
+            <select class="wca-season-select" id="season1" disabled></select>
+            <button class="wca-match-season-btn" id="matchSeasonBtn" type="button" title="Match player 2's season to player 1's">
+                <svg width="14" height="14" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M2 8H14M14 8L9 3M14 8L9 13" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </button>
+            <select class="wca-season-select" id="season2" disabled></select>
+        </div>
+    </div>
+
+    <div id="compareBody">
+        <div class="wca-empty-state">Search for two players above to compare their batting and bowling records.</div>
+    </div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-loader.js"></script>
+<script>
+    WCA_NAV.render(null);
+    WCA_NAV.renderFooter();
+
+    // Curated stat rows. Field names match the Archive_Batting_*/Archive_Bowling_*
+    // summary files exactly (same files the Archive Viewer itself reads),
+    // NOT the player-profile JSON's field names, which differ slightly.
+    const BATTING_STATS = [
+        { key: "Innings",       label: "Innings",     better: null   },
+        { key: "Runs",          label: "Runs",         better: "high" },
+        { key: "Highest Score", label: "High Score",   better: "high" },
+        { key: "Average",       label: "Average",      better: "high" },
+        { key: "Strike-Rate",   label: "Strike Rate",  better: "high" },
+        { key: "100s",          label: "100s",         better: "high" },
+        { key: "50s",           label: "50s",          better: "high" },
+        { key: "4s",            label: "Fours",        better: "high" },
+        { key: "6s",            label: "Sixes",        better: "high" },
+    ];
+    const BOWLING_STATS = [
+        { key: "Innings",   label: "Innings",         better: null   },
+        { key: "Wickets",   label: "Wickets",          better: "high" },
+        { key: "Average",   label: "Average",          better: "low"  },
+        { key: "Economy",   label: "Economy",          better: "low"  },
+        { key: "Strike-Rate", label: "Strike Rate",    better: "low"  },
+        { key: "BBI",       label: "Best Bowling",     better: null   },
+        { key: "4 Wickets", label: "4-Wicket Hauls",   better: "high" },
+        { key: "5 Wickets", label: "5-Wicket Hauls",   better: "high" },
+    ];
+
+    // Format toggle mirrors the Archive Viewer's own convention exactly:
+    // "Overall" (all formats combined), then the individual formats.
+    const FORMATS = [
+        { label: "Overall", file: "OVERALL" },
+        { label: "List A",  file: "List_A" },
+        { label: "T20",     file: "T20" },
+    ];
+
+    const TIER_KEY = { batting: "Batting_Opposition_Tier", bowling: "Bowling_Opposition_Tier" };
+    const SECTION_FILE = { batting: "Batting", bowling: "Bowling" };
+
+    let allNames = [];
+    const archiveCache = {}; // "batting|List_A" -> array of row objects
+
+    const state = {
+        tab: "batting",
+        formatLabel: "Overall",
+        sides: {
+            1: { name: null, season: "OVERALL", playerData: null },
+            2: { name: null, season: "OVERALL", playerData: null },
+        },
+    };
+
+    function qs(name) {
+        return new URLSearchParams(location.search).get(name);
+    }
+    function updateUrl() {
+        const params = new URLSearchParams();
+        if (state.sides[1].name) params.set("p1", state.sides[1].name);
+        if (state.sides[2].name) params.set("p2", state.sides[2].name);
+        if (state.sides[1].season !== "OVERALL") params.set("s1", state.sides[1].season);
+        if (state.sides[2].season !== "OVERALL") params.set("s2", state.sides[2].season);
+        params.set("format", state.formatLabel);
+        params.set("tab", state.tab);
+        history.replaceState(null, "", params.toString() ? `?${params}` : location.pathname);
+    }
+
+    async function loadArchive(section, formatFile) {
+        const cacheKey = `${section}|${formatFile}`;
+        if (archiveCache[cacheKey]) return archiveCache[cacheKey];
+        const rows = await WCA.fetchSummary(`Archive_${SECTION_FILE[section]}_${formatFile}`);
+        archiveCache[cacheKey] = rows || [];
+        return archiveCache[cacheKey];
+    }
+
+    function currentFormatFile() {
+        return (FORMATS.find(f => f.label === state.formatLabel) || FORMATS[0]).file;
+    }
+
+    /** Every season (excluding "OVERALL") this player has a real row for, most recent first. */
+    function seasonsForPlayer(rows, name) {
+        const tierKey = TIER_KEY[state.tab];
+        return Array.from(new Set(
+            rows.filter(r => r.Player === name && r[tierKey] === "OVERALL" && r.Season !== "OVERALL")
+                .map(r => r.Season)
+        )).sort().reverse();
+    }
+
+    function rowFor(rows, name, season) {
+        const tierKey = TIER_KEY[state.tab];
+        return rows.find(r => r.Player === name && r.Season === season && r[tierKey] === "OVERALL") || null;
+    }
+
+    // ---------------------------------------------------------------------
+    // Typeahead pickers (unchanged UX, just triggers a full re-resolve)
+    // ---------------------------------------------------------------------
+    function matchesQuery(name, query) {
+        const qTokens = query.trim().toLowerCase().split(/\s+/).filter(Boolean);
+        if (!qTokens.length) return true;
+        const nameLower = name.toLowerCase();
+        if (qTokens.length === 1 && nameLower.includes(qTokens[0])) return true;
+        const nameTokens = nameLower.split(/\s+/);
+        const used = new Set();
+        for (const qt of qTokens) {
+            let matched = false;
+            for (let i = 0; i < nameTokens.length; i++) {
+                if (used.has(i)) continue;
+                if (nameTokens[i].startsWith(qt)) { used.add(i); matched = true; break; }
+            }
+            if (!matched) return false;
+        }
+        return true;
+    }
+
+    function setupPicker(slot, inputEl, dropdownEl, clearEl) {
+        function renderOptions(query) {
+            const matches = query.trim()
+                ? allNames.filter(n => matchesQuery(n, query)).slice(0, 30)
+                : allNames.slice(0, 30);
+            dropdownEl.innerHTML = matches.length
+                ? matches.map(n => `<button type="button" data-name="${WCA.escapeHtml(n)}">${WCA.escapeHtml(n)}</button>`).join("")
+                : `<div class="wca-picker-empty">No players found.</div>`;
+            dropdownEl.classList.add("open");
+        }
+        inputEl.addEventListener("focus", () => renderOptions(inputEl.value));
+        inputEl.addEventListener("input", () => renderOptions(inputEl.value));
+        inputEl.addEventListener("blur", () => setTimeout(() => dropdownEl.classList.remove("open"), 150));
+        dropdownEl.addEventListener("mousedown", (e) => {
+            const btn = e.target.closest("button[data-name]");
+            if (!btn) return;
+            selectPlayer(slot, btn.dataset.name);
+        });
+        clearEl.addEventListener("click", () => selectPlayer(slot, null));
+    }
+
+    function reflectPickerValue(slot) {
+        const side = state.sides[slot];
+        document.getElementById(`input${slot}`).value = side.name || "";
+        document.getElementById(`picker${slot}`).classList.toggle("has-value", !!side.name);
+    }
+
+    async function selectPlayer(slot, name) {
+        const side = state.sides[slot];
+        side.name = name;
+        side.season = "OVERALL";
+        side.playerData = name ? await WCA.fetchPlayer(name) : null; // identity only: span/teams for Career mode
+        reflectPickerValue(slot);
+        document.getElementById(`dropdown${slot}`).classList.remove("open");
+        updateUrl();
+        await render();
+    }
+
+    // ---------------------------------------------------------------------
+    // Rendering
+    // ---------------------------------------------------------------------
+    function overallSpanRow(data) {
+        const span = data && data.misc && data.misc.span;
+        if (!Array.isArray(span) || !span.length) return null;
+        return span.find(r => String(r.Format).toUpperCase() === "OVERALL") || span[0];
+    }
+
+    function renderIdentity(slot, row) {
+        const side = state.sides[slot];
+        if (!side.name) return "";
+        const isCareer = side.season === "OVERALL";
+        const span = overallSpanRow(side.playerData);
+        const pluralMatches = (n) => `${n} ${Number(n) === 1 ? "match" : "matches"}`;
+
+        let teamNames = new Set();
+        if (!isCareer && row && row.Teams) {
+            String(row.Teams).split(/\s*\/\s*/).forEach(t => t && teamNames.add(t.trim()));
+        } else {
+            (side.playerData && side.playerData.misc && side.playerData.misc.span || []).forEach(r => {
+                const raw = r["Teams Represented"];
+                if (!raw) return;
+                String(raw).split(/\s*[&,/]\s*/).forEach(t => t && teamNames.add(t.trim()));
+            });
+        }
+        const logos = Array.from(teamNames).map(team => `
+            <a href="${WCA.teamUrl(team)}" title="${WCA.escapeHtml(team)}">
+                <img src="assets/images/thumb/${encodeURIComponent(team)}.png" alt="${WCA.escapeHtml(team)}"
+                     onerror="this.parentElement.remove()">
+            </a>`).join("");
+
+        const subtext = isCareer
+            ? (span ? `${WCA.escapeHtml(span["Career Span"] || "")} · ${pluralMatches(span["Total Matches"] || "0")}` : "Career")
+            : `${WCA.escapeHtml(side.season)} season${row ? ` · ${pluralMatches(row.Matches || "0")}` : ""}`;
+
+        return `
+            <h2><a href="${WCA.playerUrl(side.name)}">${WCA.escapeHtml(side.name)}</a></h2>
+            <div class="wca-compare-sub">${subtext}</div>
+            <div class="wca-team-logos d-flex gap-2">${logos}</div>
+        `;
+    }
+
+    function renderSeasonSelect(slot, rows) {
+        const selectEl = document.getElementById(`season${slot}`);
+        const side = state.sides[slot];
+        if (!side.name) {
+            selectEl.innerHTML = "";
+            selectEl.disabled = true;
+            return;
+        }
+        const seasons = seasonsForPlayer(rows, side.name);
+        const options = [`<option value="OVERALL">Career (all seasons)</option>`]
+            .concat(seasons.map(s => `<option value="${s}">${s} season</option>`));
+        selectEl.innerHTML = options.join("");
+        selectEl.disabled = false;
+        selectEl.value = seasons.includes(side.season) || side.season === "OVERALL" ? side.season : "OVERALL";
+        if (selectEl.value !== side.season) side.season = "OVERALL";
+    }
+
+    function parseNum(raw) {
+        if (raw === null || raw === undefined || raw === "" || raw === "-") return null;
+        const n = parseFloat(String(raw).replace(/[^0-9.\-]/g, ""));
+        return Number.isFinite(n) ? n : null;
+    }
+
+    function renderStatRows(stats, row1, row2) {
+        return stats.map(stat => {
+            const raw1 = row1 ? row1[stat.key] : null;
+            const raw2 = row2 ? row2[stat.key] : null;
+            const v1 = parseNum(raw1);
+            const v2 = parseNum(raw2);
+
+            let winner = 0;
+            if (stat.better && v1 !== null && v2 !== null && v1 !== v2) {
+                winner = stat.better === "high" ? (v1 > v2 ? 1 : 2) : (v1 < v2 ? 1 : 2);
+            }
+            // Proportional split rather than each bar scaled to its own max:
+            // the larger value would otherwise ALWAYS render at 100% width by
+            // construction, which stops reading as a comparison and starts
+            // looking like a solid background fill. Splitting the row so both
+            // bars sum to 100% keeps even a tie legible (50/50) instead of a
+            // maxed-out block.
+            const total = (v1 !== null ? Math.abs(v1) : 0) + (v2 !== null ? Math.abs(v2) : 0);
+            const pct1 = v1 !== null && total > 0 ? (Math.abs(v1) / total) * 100 : 0;
+            const pct2 = v2 !== null && total > 0 ? (Math.abs(v2) / total) * 100 : 0;
+            const display1 = raw1 === null || raw1 === undefined || raw1 === "" ? "-" : raw1;
+            const display2 = raw2 === null || raw2 === undefined || raw2 === "" ? "-" : raw2;
+
+            return `
+                <div class="wca-vs-row">
+                    <div class="wca-vs-value left${winner === 1 ? " winner" : ""}">
+                        <div class="wca-bar" style="width:${pct1}%"></div>
+                        <span class="wca-num">${WCA.escapeHtml(display1)}</span>
+                    </div>
+                    <div class="wca-vs-label">${WCA.escapeHtml(stat.label)}</div>
+                    <div class="wca-vs-value right${winner === 2 ? " winner" : ""}">
+                        <div class="wca-bar" style="width:${pct2}%"></div>
+                        <span class="wca-num">${WCA.escapeHtml(display2)}</span>
+                    </div>
+                </div>`;
+        }).join("");
+    }
+
+    async function render() {
+        const root = document.getElementById("compareBody");
+        const side1 = state.sides[1], side2 = state.sides[2];
+
+        if (!side1.name || !side2.name) {
+            document.getElementById("season1").disabled = true;
+            document.getElementById("season2").disabled = true;
+            root.innerHTML = `<div class="wca-empty-state">Search for two players above to compare them - career totals, or any specific season each.</div>`;
+            return;
+        }
+
+        const formatFile = currentFormatFile();
+        const rows = await loadArchive(state.tab, formatFile);
+
+        renderSeasonSelect(1, rows);
+        renderSeasonSelect(2, rows);
+
+        const row1 = rowFor(rows, side1.name, side1.season);
+        const row2 = rowFor(rows, side2.name, side2.season);
+
+        const formatToggle = `<div class="wca-format-toggle">${FORMATS.map(f =>
+            `<button type="button" data-format="${WCA.escapeHtml(f.label)}" class="${f.label === state.formatLabel ? "active" : ""}">${WCA.escapeHtml(f.label)}</button>`
+        ).join("")}</div>`;
+
+        const tabNav = `
+            <ul class="nav nav-tabs wca-tab-nav" role="tablist">
+                <li class="nav-item"><button type="button" class="nav-link${state.tab === "batting" ? " active" : ""}" data-tab="batting">Batting</button></li>
+                <li class="nav-item"><button type="button" class="nav-link${state.tab === "bowling" ? " active" : ""}" data-tab="bowling">Bowling</button></li>
+            </ul>`;
+
+        const missingParts = [];
+        if (!row1) missingParts.push(`${side1.name}${side1.season !== "OVERALL" ? ` (${side1.season})` : ""}`);
+        if (!row2) missingParts.push(`${side2.name}${side2.season !== "OVERALL" ? ` (${side2.season})` : ""}`);
+        const missingNote = missingParts.length
+            ? `<div class="wca-compare-note">No ${WCA.escapeHtml(state.formatLabel)} ${state.tab} record for ${missingParts.map(WCA.escapeHtml).join(" or ")}.</div>`
+            : "";
+
+        const stats = state.tab === "batting" ? BATTING_STATS : BOWLING_STATS;
+
+        root.innerHTML = `
+            <div class="wca-compare-identities">
+                <div class="wca-compare-identity left">${renderIdentity(1, row1)}</div>
+                <div class="wca-compare-vs-mark">VS</div>
+                <div class="wca-compare-identity right">${renderIdentity(2, row2)}</div>
+            </div>
+            ${tabNav}
+            <div class="pt-3">
+                ${formatToggle}
+                ${missingNote}
+                ${renderStatRows(stats, row1, row2)}
+            </div>
+        `;
+
+        root.querySelectorAll("[data-tab]").forEach(btn => {
+            btn.addEventListener("click", () => { state.tab = btn.dataset.tab; updateUrl(); render(); });
+        });
+        root.querySelectorAll("[data-format]").forEach(btn => {
+            btn.addEventListener("click", () => { state.formatLabel = btn.dataset.format; updateUrl(); render(); });
+        });
+    }
+
+    document.getElementById("season1").addEventListener("change", (e) => {
+        state.sides[1].season = e.target.value; updateUrl(); render();
+    });
+    document.getElementById("season2").addEventListener("change", (e) => {
+        state.sides[2].season = e.target.value; updateUrl(); render();
+    });
+
+    document.getElementById("swapBtn").addEventListener("click", async () => {
+        const tmp = state.sides[1];
+        state.sides[1] = state.sides[2];
+        state.sides[2] = tmp;
+        reflectPickerValue(1);
+        reflectPickerValue(2);
+        updateUrl();
+        await render();
+    });
+
+    document.getElementById("matchSeasonBtn").addEventListener("click", async () => {
+        if (!state.sides[1].name || !state.sides[2].name) return;
+        state.sides[2].season = state.sides[1].season;
+        updateUrl();
+        await render();
+    });
+
+    async function init() {
+        allNames = await WCA.fetchNameIndex("players");
+        allNames.sort((a, b) => a.localeCompare(b));
+
+        setupPicker(1, document.getElementById("input1"), document.getElementById("dropdown1"), document.getElementById("clear1"));
+        setupPicker(2, document.getElementById("input2"), document.getElementById("dropdown2"), document.getElementById("clear2"));
+
+        const p1 = qs("p1"), p2 = qs("p2");
+        const fmt = qs("format"), tab = qs("tab");
+        const s1 = qs("s1"), s2 = qs("s2");
+        if (tab === "batting" || tab === "bowling") state.tab = tab;
+        if (fmt && FORMATS.some(f => f.label === fmt)) state.formatLabel = fmt;
+
+        if (p1 && allNames.includes(p1)) { await selectPlayer(1, p1); if (s1) state.sides[1].season = s1; }
+        if (p2 && allNames.includes(p2)) { await selectPlayer(2, p2); if (s2) state.sides[2].season = s2; }
+        await render();
+    }
+
+    init();
+</script>
+</body>
+</html>

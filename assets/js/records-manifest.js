@@ -68,6 +68,9 @@ const WCA_RECORD_SECTIONS = {
             { file: "Innings_Boundary", grain: "innings", label: "Best Innings Boundary Percentage",
               qualifier: { unit: "runs", seasonal: { "List A": 30, "T20": 20 }, allTime: null, innings: true },
               note: "Showing the top 25 for the selected filters." },
+            { file: "Highest_PercentTotal", grain: "innings", label: "Highest % of Team Total",
+              qualifier: { unit: "runs", seasonal: { "List A": 30, "T20": 20 }, allTime: null, innings: true },
+              note: "Showing the top 25 for the selected filters. Only innings where the batting team was bowled out or faced its full quota of overs - a short winning run-chase doesn't produce a genuine team total to measure against." },
             { file: "Fastest_50", grain: "innings", label: "Fastest 50", qualifier: null, note: "Showing the top 25 for the selected filters." },
             { file: "Fastest_100", grain: "innings", label: "Fastest 100", qualifier: null, note: "Showing the top 25 for the selected filters." },
             { file: "Fastest_150", grain: "innings", label: "Fastest 150", qualifier: null, note: "Showing the top 25 for the selected filters." },
@@ -123,6 +126,7 @@ const WCA_RECORD_SECTIONS = {
             { file: "Matches_Captained", grain: "career", label: "Matches Captained", sortCol: "Matches Captained", qualifier: null, note: "Showing the top 25 for the selected filters." },
             { file: "Most_Matches_1Team", grain: "career", label: "Most Matches for a Team", sortCol: "Matches", qualifier: null, note: "Showing the top 25 for the selected filters." },
             { file: "Most_TeamsPlayedFor", grain: "career", label: "Most Teams Played For", sortCol: "Team Count", qualifier: null, note: "Showing the top 25 for the selected filters." },
+            { file: "Most_Titles", grain: "career", label: "Most Division 1 Titles", sortCol: "Titles", qualifier: null, note: "Showing the top 25 for the selected filters. Division 1 only - Division 2 is promotion-based, not a title." },
         ],
     },
     partnerships: {
@@ -139,6 +143,7 @@ const WCA_RECORD_SECTIONS = {
         icon: "bi-shield-fill",
         types: [
             { file: "Most_Wins", grain: "career", label: "Most Wins", sortCol: "Wins", qualifier: null, note: "Showing all teams." },
+            { file: "Most_Titles", grain: "career", label: "Most Division 1 Titles", sortCol: "Titles", qualifier: null, note: "Showing every team with at least one Division 1 title. Division 2 is promotion-based, not a title." },
             { file: "Highest_Total", grain: "innings", label: "Highest Total", qualifier: null, note: "Showing the top 25 for the selected filters." },
             { file: "Lowest_Total", grain: "innings", label: "Lowest Total", qualifier: null, note: "Showing the top 25 for the selected filters." },
             { file: "Highest_Agg_Runs", grain: "innings", label: "Highest Aggregate Runs", qualifier: null, note: "Showing the top 25 for the selected filters." },

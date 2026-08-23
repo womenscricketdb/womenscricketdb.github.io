@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T21:49:08.887108Z",
+  "questions": [
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the 150+ runs and 3+ wickets in a match double more times, Susan Benade or Lanette Pienaar?",
+      "options": [
+        "Susan Benade",
+        "Lanette Pienaar"
+      ],
+      "answer_index": 1,
+      "explanation": "Susan Benade: 1 times. Lanette Pienaar: 2 times."
+    },
+    {
+      "type": "curveball",
+      "question": "Which player in the database (2005 onwards) only represented South Africa in the test format?",
+      "options": [
+        "Josephine Barnard",
+        "Leighshe Jacobs",
+        "Ashlyn Kilowan",
+        "Marcia Letsoalo"
+      ],
+      "answer_index": 1,
+      "explanation": "Jacobs played two tests against England in August 2003 and was active in provincial cricket until 2022."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Kayla Reyneke record their career-best innings (39, T20 only)?",
+      "options": [
+        "The Vineyard",
+        "Potchefstroom Oval",
+        "Bloemfontein Oval",
+        "Newlands Stadium"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Newlands Stadium, against Badgers on 2025/03/09."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Matches as Captain' (combined T20 + List A)?",
+      "options": [
+        "Alexis le Breton",
+        "Shafeeqa Pillay",
+        "Robyn Searle",
+        "Susan Benade"
+      ],
+      "answer_index": 3,
+      "explanation": "Susan Benade holds it, with a total of 119."
+    },
+    {
+      "type": "reverse_record",
+      "question": "Laura Wolvaardt set a database record (19/20 season, combined T20 + List A) with a value of 98. Which record is it?",
+      "options": [
+        "Most Fours",
+        "Most Matches Played",
+        "Most Sixes",
+        "Fastest 100 (by balls)"
+      ],
+      "answer_index": 3,
+      "explanation": "It's the record for 'Fastest 100 (by balls)', held by Laura Wolvaardt."
+    },
+    {
+      "type": "season_leader",
+      "question": "Who topped the runs charts in the 07/08 season (List A only)?",
+      "options": [
+        "Susan Benade",
+        "Annelie Minny",
+        "Olivia Anderson",
+        "Cri-Zelda Brits"
+      ],
+      "answer_index": 2,
+      "explanation": "Olivia Anderson led with 590 runs."
+    }
+  ]
+}

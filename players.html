@@ -56,6 +56,18 @@
             font-size: 0.85rem;
             margin-bottom: 1rem;
         }
+        .wca-compare-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            font-family: var(--wca-font-body);
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--wca-text-dim);
+            text-decoration: none;
+            margin-top: 0.5rem;
+        }
+        .wca-compare-link:hover { color: var(--wca-gold); text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -72,6 +84,7 @@
             <input type="text" id="playerSearch" class="form-control bg-transparent border-secondary text-light"
                    placeholder="Search by name…" autocomplete="off">
         </div>
+        <a href="compare.html" class="wca-compare-link"><i class="bi bi-arrow-left-right"></i> Compare two players</a>
     </div>
 
     <div class="wca-player-count" id="playerCount"></div>

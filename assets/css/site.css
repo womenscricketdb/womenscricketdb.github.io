@@ -37,13 +37,38 @@ a:hover { color: #ffd54a; text-decoration: underline; }
 /* Site header + primary nav                                            */
 /* -------------------------------------------------------------------- */
 .wca-header {
+    position: relative;
     background-color: var(--wca-header);
     border-bottom: 4px solid var(--wca-gold);
     padding: 0.6rem 0;
 }
 
+/* Low-poly triangle mosaic, redrawn with fresh random shades on every
+   page load (see WCA_NAV in nav.js). Purely decorative texture, so it
+   sits behind the logo/nav and never intercepts clicks. Faded out toward
+   the centre (via mask) so it stays a background detail, not noise
+   behind the wordmark and links. */
+.wca-header-pattern {
+    position: absolute;
+    inset: 0;
+    background-repeat: repeat;
+    background-position: top left;
+    pointer-events: none;
+    -webkit-mask-image: linear-gradient(100deg,
+        rgba(0,0,0,1) 0%,
+        rgba(0,0,0,0.35) 20%,
+        rgba(0,0,0,0.35) 80%,
+        rgba(0,0,0,1) 100%);
+    mask-image: linear-gradient(100deg,
+        rgba(0,0,0,1) 0%,
+        rgba(0,0,0,0.35) 20%,
+        rgba(0,0,0,0.35) 80%,
+        rgba(0,0,0,1) 100%);
+}
+
 .wca-header-row {
     position: relative;
+    z-index: 1;
     gap: 1rem;
 }
 

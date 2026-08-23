@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Quiz - Women's Provincial Cricket Database</title>
+
+    <link rel="icon" href="favicon.ico" sizes="any">
+    <link rel="icon" href="assets/images/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/apple-touch-icon.png">
+    <link rel="canonical" href="https://womenscricketdb.github.io/quiz.html">
+    <meta name="description" content="A new 6-question daily quiz drawn from South African women's provincial cricket data, plus a hand-picked yorker each day. Same quiz for everyone, every day.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Women's Provincial Cricket Database">
+    <meta property="og:title" content="Daily Quiz - Women's Provincial Cricket Database">
+    <meta property="og:description" content="A new 6-question daily quiz drawn from South African women's provincial cricket data, plus a hand-picked yorker each day.">
+    <meta property="og:url" content="https://womenscricketdb.github.io/quiz.html">
+    <meta property="og:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Daily Quiz - Women's Provincial Cricket Database">
+    <meta name="twitter:description" content="A new 6-question daily quiz drawn from South African women's provincial cricket data, plus a hand-picked yorker each day.">
+    <meta name="twitter:image" content="https://womenscricketdb.github.io/assets/images/share-card.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/site.css">
+
+    <style>
+        .wca-quiz-wrap {
+            max-width: 640px;
+            margin: 0 auto;
+        }
+        .wca-quiz-hero {
+            padding: 2.25rem 0 1.25rem;
+            border-bottom: 1px solid var(--wca-border);
+        }
+        .wca-quiz-hero p.lede {
+            font-family: var(--wca-font-body);
+            color: var(--wca-text-dim);
+            font-size: 1rem;
+            margin-bottom: 0.25rem;
+        }
+        .wca-quiz-date {
+            font-family: var(--wca-font-body);
+            color: var(--wca-gold);
+            font-size: 0.85rem;
+            font-weight: 700;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+        }
+
+        .wca-quiz-progress {
+            font-family: var(--wca-font-body);
+            color: var(--wca-text-dim);
+            font-size: 0.85rem;
+            margin-bottom: 0.6rem;
+        }
+        .wca-quiz-progress-bar {
+            height: 6px;
+            border-radius: 3px;
+            background: var(--wca-border);
+            overflow: hidden;
+            margin-bottom: 1.5rem;
+        }
+        .wca-quiz-progress-fill {
+            height: 100%;
+            background: var(--wca-gold);
+            transition: width 0.25s ease;
+        }
+
+        .wca-quiz-card {
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            border-radius: 10px;
+            padding: 1.6rem;
+        }
+        .wca-quiz-question {
+            font-family: var(--wca-font-body);
+            font-size: 1.08rem;
+            font-weight: 600;
+            margin-bottom: 1.3rem;
+            line-height: 1.45;
+        }
+        .wca-quiz-option {
+            display: block;
+            width: 100%;
+            text-align: left;
+            font-family: var(--wca-font-body);
+            font-size: 0.98rem;
+            background: var(--wca-surface-raised);
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text);
+            border-radius: 8px;
+            padding: 0.7rem 1rem;
+            margin-bottom: 0.6rem;
+            transition: border-color 0.12s, background-color 0.12s;
+        }
+        .wca-quiz-option:hover:not(:disabled) {
+            border-color: var(--wca-gold);
+        }
+        .wca-quiz-option:disabled {
+            cursor: default;
+        }
+        .wca-quiz-option.correct {
+            border-color: #3ecf6a;
+            background: rgba(62, 207, 106, 0.12);
+        }
+        .wca-quiz-option.incorrect {
+            border-color: #e05555;
+            background: rgba(224, 85, 85, 0.12);
+        }
+
+        .wca-quiz-explanation {
+            font-family: var(--wca-font-body);
+            font-size: 0.9rem;
+            color: var(--wca-text-dim);
+            border-top: 1px solid var(--wca-border);
+            margin-top: 1rem;
+            padding-top: 0.9rem;
+        }
+
+        .wca-quiz-next {
+            margin-top: 1.2rem;
+        }
+
+        .wca-quiz-result {
+            text-align: center;
+            padding: 2rem 1rem;
+        }
+        .wca-quiz-result h2 {
+            font-family: var(--wca-font-display);
+            font-size: 1.6rem;
+            margin-bottom: 0.3rem;
+        }
+        .wca-quiz-score {
+            font-size: 2.4rem;
+            font-weight: 700;
+            color: var(--wca-gold);
+            margin: 0.6rem 0;
+        }
+        .wca-quiz-grid {
+            font-size: 1.6rem;
+            letter-spacing: 0.2rem;
+            margin: 1rem 0 1.4rem;
+        }
+        .wca-quiz-loading, .wca-quiz-error {
+            font-family: var(--wca-font-body);
+            color: var(--wca-text-dim);
+            text-align: center;
+            padding: 3rem 1rem;
+        }
+    </style>
+</head>
+<body>
+
+<div id="wca-header-root"></div>
+
+<section class="wca-quiz-hero">
+    <div class="container wca-quiz-wrap">
+        <p class="lede">A new 6-question quiz every day — mostly generated straight from the database, plus one hand-picked yorker. Same questions for everyone.</p>
+        <span class="wca-quiz-date" id="quizDateLabel"></span>
+    </div>
+</section>
+
+<main class="container wca-quiz-wrap py-4">
+    <div id="quizRoot">
+        <div class="wca-quiz-loading">Loading today's quiz…</div>
+    </div>
+</main>
+
+<div id="wca-footer-root"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/quiz.js"></script>
+<script>
+    WCA_NAV.render("quiz");
+    WCA_NAV.renderFooter();
+    WCA_QUIZ.init();
+</script>
+</body>
+</html>

@@ -108,6 +108,20 @@
             font-style: italic;
             margin-top: 0.5rem;
         }
+        .wca-compare-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.35rem;
+            font-family: var(--wca-font-body);
+            font-size: 0.82rem;
+            font-weight: 600;
+            color: var(--wca-text-dim);
+            text-decoration: none;
+            border: 1px solid var(--wca-border);
+            border-radius: 6px;
+            padding: 0.25rem 0.6rem;
+        }
+        .wca-compare-link:hover { color: var(--wca-gold); border-color: var(--wca-gold); text-decoration: none; }
     </style>
 </head>
 <body>
@@ -120,6 +134,7 @@
         <div class="wca-player-heading">
             <h1 id="playerName">Loading player…</h1>
             <div id="playerLogos" class="wca-team-logos"></div>
+            <a id="compareLink" href="#" class="wca-compare-link"><i class="bi bi-arrow-left-right"></i> Compare</a>
         </div>
         <div id="playerSummary" class="mt-3"></div>
     </div>
@@ -150,6 +165,7 @@
     document.getElementById("playerName").textContent = playerName || "Unknown player";
     document.getElementById("crumbName").textContent = playerName || "Unknown";
     document.title = `${playerName || "Player"} - Women's Provincial Cricket Database`;
+    document.getElementById("compareLink").href = `compare.html?p1=${encodeURIComponent(playerName)}`;
 
     // Loaded once in load() below, reused by every Top 5 Innings table
     // (single-innings grain, eligible for the Date -> match link same as
@@ -291,6 +307,60 @@
                 logos.appendChild(link);
             });
         }
+    }
+
+    /**
+     * Titles tab: a per-format summary ("how decorated", at a glance) on
+     * top of the full season-by-season list below it. A prolific player
+     * (Western Province's dynasty era especially) can rack up a dozen-plus
+     * rows in the full list - see Alexis le Breton at 14 - which is too
+     * much to sit in the page header next to Records Held, hence its own
+     * tab rather than a badge row like the Records Held section above.
+     * Team is left in as a real (linked) column in the full list,
+     * deliberately not stripped the way showStampColumns normally strips
+     * Season/Format, since unlike the Records tables, the player's team
+     * itself changes across rows here and is part of what's being said,
+     * not implied context.
+     */
+    function renderTitlesTab(container, titleEntries) {
+        if (!titleEntries || !titleEntries.length) {
+            container.innerHTML = `<div class="wca-empty-state">No Division 1 titles recorded for this player.</div>`;
+            return;
+        }
+
+        const byFormat = {};
+        titleEntries.forEach(t => {
+            byFormat[t.format] = (byFormat[t.format] || 0) + 1;
+        });
+        const summaryRows = Object.keys(byFormat).sort().map(fmt => ({
+            Format: fmt,
+            Titles: byFormat[fmt],
+        }));
+
+        const summaryHeading = document.createElement("div");
+        summaryHeading.className = "wca-subtable-title";
+        summaryHeading.textContent = "By Format";
+        container.appendChild(summaryHeading);
+        const summaryRoot = document.createElement("div");
+        container.appendChild(summaryRoot);
+        WCA_TABLE.render(summaryRoot, summaryRows, { compact: true, showStampColumns: true, noFilters: true });
+
+        const heading = document.createElement("div");
+        heading.className = "wca-subtable-title";
+        heading.style.marginTop = "1.25rem";
+        heading.textContent = titleEntries.length === 1 ? "Division 1 Title" : `All Titles (${titleEntries.length})`;
+        container.appendChild(heading);
+
+        const rows = titleEntries.map(t => ({
+            Season: t.season,
+            Format: t.format,
+            Team: t.team,
+            Result: WCA.finishTypeLabel(t.finish_type),
+        }));
+
+        const tableRoot = document.createElement("div");
+        container.appendChild(tableRoot);
+        WCA_TABLE.render(tableRoot, rows, { compact: true, showStampColumns: true, noFilters: true });
     }
 
     /**
@@ -443,6 +513,12 @@
         if (WCA.hasData(data.bowling)) tabs.push({ id: "bowling", label: "Bowling" });
         if (WCA.hasData(data.misc)) tabs.push({ id: "misc", label: "Fielding & Misc" });
         if (data.matches && Object.keys(data.matches).length) tabs.push({ id: "matches", label: "Matches" });
+        // Only appears for the ~230 players with at least one Division 1
+        // title (see build_player_titles() in consolidate.py) - same
+        // "no data, no tab" convention as every other tab here rather than
+        // showing an always-empty tab for the other ~1500 players.
+        const titleEntries = data.titles || [];
+        if (titleEntries.length) tabs.push({ id: "titles", label: "Titles" });
         // Records tab now shows every career record (see renderRecordsTab),
         // not just the per-format breakdown, so any recordEntries at all
         // means there's something to show there - a player whose only
@@ -479,6 +555,7 @@
         if (tabs.some(t => t.id === "bowling")) renderBattingBowlingSection("content-bowling", data.bowling);
         if (tabs.some(t => t.id === "misc")) renderMiscSection("content-misc", data.misc);
         if (tabs.some(t => t.id === "matches")) renderMatchesTab(document.getElementById("content-matches"), data.matches);
+        if (tabs.some(t => t.id === "titles")) renderTitlesTab(document.getElementById("content-titles"), titleEntries);
         if (tabs.some(t => t.id === "records")) renderRecordsTab(document.getElementById("content-records"), recordEntries, doublesEntries);
     }
 
