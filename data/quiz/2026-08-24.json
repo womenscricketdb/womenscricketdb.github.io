@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T02:23:59.099970Z",
+  "questions": [
+    {
+      "type": "guess_player",
+      "question": "Guess the player: 2144 runs in 62 innings (average 51.05, high score 119*, 2 centuries) for Badgers / Dragons / Lions. (T20 only career totals.)",
+      "options": [
+        "Susan Benade",
+        "Alexandra Candler",
+        "Robyn Searle",
+        "Tazmin Brits"
+      ],
+      "answer_index": 3,
+      "explanation": "It's Tazmin Brits."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Maidens' in the 19/20 season (List A only)?",
+      "options": [
+        "Jade de Figueiredo",
+        "Delmi Tucker",
+        "Paulinah Mashishi",
+        "Nobulumko Baneti"
+      ],
+      "answer_index": 1,
+      "explanation": "Delmi Tucker holds it, with a total of 15."
+    },
+    {
+      "type": "higher_lower",
+      "question": "Who has more wickets — Gcobisa Makebasane or Tanya Brits? (List A only.)",
+      "options": [
+        "Gcobisa Makebasane",
+        "Tanya Brits"
+      ],
+      "answer_index": 1,
+      "explanation": "Gcobisa Makebasane: 20 — Tanya Brits: 37."
+    },
+    {
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Lowest Team Total (all out or completed innings)' in the 20/21 season (combined T20 + List A)?",
+      "options": [
+        "Rhinos",
+        "Limpopo Lillies",
+        "Kei",
+        "Titans"
+      ],
+      "answer_index": 2,
+      "explanation": "Kei — 32."
+    },
+    {
+      "type": "curveball",
+      "question": "Who won CSA Women's Cricketer of the Year in the 2013 season?",
+      "options": [
+        "Shabnim Ismail",
+        "Marizanne Kapp",
+        "Dané van Niekerk",
+        "Sune Luus"
+      ],
+      "answer_index": 1,
+      "explanation": "Marizanne Kapp won it in 2013."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many runs separate the #1 (Tazmin Brits) and #2 (Susan Benade)? (combined T20 + List A.)",
+      "options": [
+        "57",
+        "62",
+        "92",
+        "82"
+      ],
+      "answer_index": 1,
+      "explanation": "Tazmin Brits: 6400 — Susan Benade: 6338 — a gap of 62."
+    }
+  ]
+}
