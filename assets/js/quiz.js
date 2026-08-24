@@ -175,7 +175,7 @@ const WCA_QUIZ = (() => {
 
         const grid = answers.map(a => (a ? "🟩" : "🟥")).join("");
         const shareText =
-            `Women's Provincial Cricket Quiz — ${quiz.date}\n${score}/${total}\n${grid}\nhttps://womenscricketdb.github.io/quiz.html`;
+            `Women's Provincial Cricket Quiz - ${quiz.date}\n${score}/${total}\n${grid}\nhttps://womenscricketdb.github.io/quiz.html`;
 
         root.innerHTML = `
             <div class="wca-quiz-card wca-quiz-result">
