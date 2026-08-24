@@ -1035,10 +1035,12 @@ def q_magnitude_gap(rng, used_files):
         players = _batting_rows(fmt, min_runs=0)
         value_col = "Runs"
         stat_label = "runs"
+        stat_noun = "run-scorers"
     else:
         players = _bowling_rows(fmt, min_wickets=0)
         value_col = "Wickets"
         stat_label = "wickets"
+        stat_noun = "wicket-takers"
 
     if len(players) < 2:
         return None
@@ -1067,8 +1069,8 @@ def q_magnitude_gap(rng, used_files):
     answer_index = options.index(str(gap))
 
     question = (
-        f"How many {stat_label} separate the #1 ({p1['Player']}) "
-        f"and #2 ({p2['Player']})? ({FORMAT_LABEL[fmt]}.)"
+        f"How many {stat_label} separate the all-time #1 ({p1['Player']}) "
+        f"and #2 ({p2['Player']}) {stat_noun} ({FORMAT_LABEL[fmt]})?"
     )
     explanation = f"{p1['Player']}: {v1} — {p2['Player']}: {v2} — a gap of {gap}."
 
