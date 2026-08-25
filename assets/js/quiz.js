@@ -15,11 +15,21 @@ const WCA_QUIZ = (() => {
     let answers = []; // array of booleans, one per answered question
     let root = null;
 
+    // "Today" is anchored to UTC, not the visitor's local clock -- this is
+    // a shared daily puzzle ("same questions for everyone"), so it has to
+    // change at the same real-world instant for every visitor, the same
+    // way Wordle/Connections-style daily games work. Using local time here
+    // would give visitors east of UTC (NZ, Kiribati, etc.) a shrunk
+    // window each day -- sometimes many hours shorter -- since their local
+    // calendar date rolls over well before the UTC-anchored file exists.
+    // UTC anchoring means everyone gets a full, equal 24 hours; the only
+    // cost is the date label won't always match your own local calendar
+    // right at the boundary.
     function todayISO() {
         const d = new Date();
-        const y = d.getFullYear();
-        const m = String(d.getMonth() + 1).padStart(2, "0");
-        const day = String(d.getDate()).padStart(2, "0");
+        const y = d.getUTCFullYear();
+        const m = String(d.getUTCMonth() + 1).padStart(2, "0");
+        const day = String(d.getUTCDate()).padStart(2, "0");
         return `${y}-${m}-${day}`;
     }
 
@@ -80,13 +90,13 @@ const WCA_QUIZ = (() => {
             let streak = 0;
             let d = new Date();
             for (;;) {
-                const y = d.getFullYear();
-                const m = String(d.getMonth() + 1).padStart(2, "0");
-                const day = String(d.getDate()).padStart(2, "0");
+                const y = d.getUTCFullYear();
+                const m = String(d.getUTCMonth() + 1).padStart(2, "0");
+                const day = String(d.getUTCDate()).padStart(2, "0");
                 const iso = `${y}-${m}-${day}`;
                 if (hist[iso]) {
                     streak++;
-                    d.setDate(d.getDate() - 1);
+                    d.setUTCDate(d.getUTCDate() - 1);
                 } else {
                     break;
                 }
@@ -175,7 +185,7 @@ const WCA_QUIZ = (() => {
 
         const grid = answers.map(a => (a ? "🟩" : "🟥")).join("");
         const shareText =
-            `Women's Provincial Cricket Quiz - ${quiz.date}\n${score}/${total}\n${grid}\nhttps://womenscricketdb.github.io/quiz.html`;
+            `Women's Provincial Cricket Quiz — ${quiz.date}\n${score}/${total}\n${grid}\nhttps://womenscricketdb.github.io/quiz.html`;
 
         root.innerHTML = `
             <div class="wca-quiz-card wca-quiz-result">
