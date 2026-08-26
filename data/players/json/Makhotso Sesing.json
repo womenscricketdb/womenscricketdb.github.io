@@ -289,6 +289,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "24/25",
+        "Matches": "4",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "16",
+        "Highest Score": "9",
+        "Average": "5.33",
+        "Strike-Rate": "39.02",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Eastern Storm",
+        "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Matches": "9",
+        "Innings": "3",
+        "Not Out": "1",
+        "Runs": "22",
+        "Highest Score": "9",
+        "Average": "2.75",
+        "Strike-Rate": "52.38",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "4",
+        "6s": "0",
+        "Teams": "Eastern Storm",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -566,6 +602,76 @@
         "Figures": "0-16",
         "Overs": "3",
         "Economy": "5.33"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "24/25",
+        "Teams": "Eastern Storm",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "29.0",
+        "Maidens": "2",
+        "Runs": "117",
+        "Wickets": "5",
+        "BBI": "2/22",
+        "Average": "23.40",
+        "Economy": "4.03",
+        "Strike-Rate": "34.80",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "24/25",
+        "Teams": "Eastern Storm",
+        "Matches": "2",
+        "Innings": "1",
+        "Overs": "4.0",
+        "Maidens": "0",
+        "Runs": "18",
+        "Wickets": "2",
+        "BBI": "2/18",
+        "Average": "9.00",
+        "Economy": "4.50",
+        "Strike-Rate": "12.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "25/26",
+        "Teams": "Eastern Storm",
+        "Matches": "9",
+        "Innings": "8",
+        "Overs": "53.3",
+        "Maidens": "12",
+        "Runs": "137",
+        "Wickets": "11",
+        "BBI": "2/7",
+        "Average": "12.45",
+        "Economy": "2.56",
+        "Strike-Rate": "29.18",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Teams": "Eastern Storm",
+        "Matches": "4",
+        "Innings": "3",
+        "Overs": "8.0",
+        "Maidens": "0",
+        "Runs": "40",
+        "Wickets": "2",
+        "BBI": "2/19",
+        "Average": "20.00",
+        "Economy": "5.00",
+        "Strike-Rate": "24.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

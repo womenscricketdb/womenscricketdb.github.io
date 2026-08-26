@@ -92,6 +92,42 @@
         "Sixes": "0",
         "Strike-Rate": "0"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "20/21",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "3",
+        "Highest Score": "3",
+        "Average": "1.50",
+        "Strike-Rate": "15.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -136,6 +172,25 @@
         "Figures": "0-11",
         "Overs": "2",
         "Economy": "5.5"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "20/21",
+        "Teams": "Rhinos",
+        "Matches": "2",
+        "Innings": "1",
+        "Overs": "2.0",
+        "Maidens": "0",
+        "Runs": "11",
+        "Wickets": "0",
+        "BBI": "0/11",
+        "Average": "-",
+        "Economy": "5.50",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

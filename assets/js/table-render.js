@@ -475,6 +475,125 @@ const WCA_TABLE = (() => {
     }
 
     /**
+     * Like renderFormatToggleTable, but each format's view also gets a
+     * Table / Chart switch. This file stays chart-library-agnostic - it
+     * doesn't draw the chart itself, it just calls chartOpts.render(el,
+     * rows) with the same filtered/Format-stripped rows the table would
+     * have gotten, and lets the caller (player.html, in Chart.js or
+     * whatever) decide what a "correct" chart looks like for that data.
+     * That decision (which metric is the Y axis, bar vs line, etc.) is
+     * inherently page-specific in a way column-inference isn't, so it
+     * doesn't belong in this generic renderer.
+     *
+     * Falls back to table-only (no switch shown at all) when chartOpts is
+     * omitted, or when a given format's row count is below chartOpts.minRows
+     * - a switch offering a "chart" of one point isn't a real option, and
+     * silently hiding it beats showing a button that leads nowhere useful.
+     *
+     * @param {HTMLElement} container
+     * @param {string|null} title - subtable heading, or null for none
+     * @param {Array<Object>} rows - must include a "Format" key
+     * @param {Object} [tableOpts] - forwarded to render() for the table view
+     * @param {Object} [chartOpts]
+     * @param {(container: HTMLElement, rows: Array<Object>) => void} chartOpts.render
+     *        Draws a chart into `container` for the given (already
+     *        Format-filtered, Format-key-stripped) rows. Called fresh on
+     *        every format switch and every switch into Chart view - not
+     *        expected to manage its own destroy/init lifecycle across
+     *        calls, same as WCA_TABLE.render's own contract.
+     * @param {number} [chartOpts.minRows=2] - below this many rows for the
+     *        currently selected format, Chart view isn't offered for it.
+     */
+    function renderChartableTable(container, title, rows, tableOpts = {}, chartOpts = null) {
+        if (!rows || !rows.length) return;
+        const formats = Array.from(new Set(rows.map(r => r.Format).filter(Boolean)));
+
+        if (title) {
+            const heading = document.createElement("div");
+            heading.className = "wca-subtable-title";
+            heading.textContent = title;
+            container.appendChild(heading);
+        }
+
+        const toggleRow = document.createElement("div");
+        toggleRow.className = "wca-toggle-row";
+
+        let currentFormat = formats.includes("List A") ? "List A" : (formats[0] || null);
+        const formatToggle = document.createElement("div");
+        if (formats.length > 1) {
+            formatToggle.className = "wca-format-toggle";
+            formats.forEach(fmt => {
+                const btn = document.createElement("button");
+                btn.type = "button";
+                btn.textContent = fmt;
+                btn.className = fmt === currentFormat ? "active" : "";
+                btn.addEventListener("click", () => {
+                    currentFormat = fmt;
+                    [...formatToggle.children].forEach(b => b.classList.toggle("active", b === btn));
+                    draw(); // format switch can change whether Chart is even offered - see canChart()
+                });
+                formatToggle.appendChild(btn);
+            });
+            toggleRow.appendChild(formatToggle);
+        }
+
+        const minRows = (chartOpts && chartOpts.minRows) || 2;
+        const viewToggle = document.createElement("div");
+        viewToggle.className = "wca-format-toggle wca-view-toggle";
+        let currentView = "table";
+        toggleRow.appendChild(viewToggle);
+        container.appendChild(toggleRow);
+
+        const contentRoot = document.createElement("div");
+        container.appendChild(contentRoot);
+
+        function currentRows() {
+            const subset = currentFormat ? rows.filter(r => r.Format === currentFormat) : rows;
+            return omitKey(subset, "Format");
+        }
+
+        function canChart() {
+            return !!(chartOpts && chartOpts.render) && currentRows().length >= minRows;
+        }
+
+        function buildViewToggle() {
+            viewToggle.innerHTML = "";
+            if (!canChart()) return; // no real chart option for this format - don't show a switch that leads nowhere
+            ["Table", "Chart"].forEach(label => {
+                const view = label.toLowerCase();
+                const btn = document.createElement("button");
+                btn.type = "button";
+                btn.textContent = label;
+                btn.className = currentView === view ? "active" : "";
+                btn.addEventListener("click", () => {
+                    currentView = view;
+                    [...viewToggle.children].forEach(b => b.classList.toggle("active", b === btn));
+                    drawContent();
+                });
+                viewToggle.appendChild(btn);
+            });
+        }
+
+        function drawContent() {
+            contentRoot.innerHTML = "";
+            const rowsNow = currentRows();
+            if (currentView === "chart" && canChart()) {
+                chartOpts.render(contentRoot, rowsNow);
+            } else {
+                render(contentRoot, rowsNow, tableOpts);
+            }
+        }
+
+        function draw() {
+            if (!canChart()) currentView = "table"; // e.g. switched to a format with too few seasons to chart
+            buildViewToggle();
+            drawContent();
+        }
+
+        draw();
+    }
+
+    /**
      * Splits rows into one table per distinct value of splitKey (e.g. "Most
      * Runs" / "Most Wickets" / "Most Catches" all interleaved under one
      * "Type" or "Record" column), each resulting table also gets the
@@ -512,5 +631,5 @@ const WCA_TABLE = (() => {
         });
     }
 
-    return { render, columnsFromRows, sortValue, omitKey, renderFormatToggleTable, renderRecordGroups };
+    return { render, columnsFromRows, sortValue, omitKey, renderFormatToggleTable, renderChartableTable, renderRecordGroups };
 })();

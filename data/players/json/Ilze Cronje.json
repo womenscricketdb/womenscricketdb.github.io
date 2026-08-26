@@ -184,6 +184,42 @@
         "Sixes": "0",
         "Strike-Rate": "53.85"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "08/09",
+        "Matches": "7",
+        "Innings": "5",
+        "Not Out": "0",
+        "Runs": "50",
+        "Highest Score": "18",
+        "Average": "7.14",
+        "Strike-Rate": "46.30",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "6",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Matches": "3",
+        "Innings": "3",
+        "Not Out": "0",
+        "Runs": "28",
+        "Highest Score": "25",
+        "Average": "9.33",
+        "Strike-Rate": "31.82",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -291,6 +327,59 @@
         "Figures": "0-18",
         "Overs": "5",
         "Economy": "3.6"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "08/09",
+        "Teams": "Boland",
+        "Matches": "7",
+        "Innings": "3",
+        "Overs": "11.0",
+        "Maidens": "1",
+        "Runs": "48",
+        "Wickets": "0",
+        "BBI": "0/13",
+        "Average": "-",
+        "Economy": "4.36",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Teams": "Boland",
+        "Matches": "3",
+        "Innings": "2",
+        "Overs": "6.4",
+        "Maidens": "1",
+        "Runs": "15",
+        "Wickets": "3",
+        "BBI": "2/6",
+        "Average": "5.00",
+        "Economy": "2.25",
+        "Strike-Rate": "13.33",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Teams": "Boland",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "7.0",
+        "Maidens": "1",
+        "Runs": "20",
+        "Wickets": "0",
+        "BBI": "0/20",
+        "Average": "-",
+        "Economy": "2.86",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

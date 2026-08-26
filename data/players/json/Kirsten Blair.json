@@ -216,6 +216,59 @@
         "Sixes": "0",
         "Strike-Rate": "122.73"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "9",
+        "Innings": "9",
+        "Not Out": "2",
+        "Runs": "140",
+        "Highest Score": "36",
+        "Average": "20.00",
+        "Strike-Rate": "59.43",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "9",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "3",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "36",
+        "Highest Score": "25",
+        "Average": "18.00",
+        "Strike-Rate": "50.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Matches": "7",
+        "Innings": "6",
+        "Not Out": "1",
+        "Runs": "275",
+        "Highest Score": "138*",
+        "Average": "45.83",
+        "Strike-Rate": "114.29",
+        "100s": "1",
+        "50s": "2",
+        "0s": "0",
+        "4s": "27",
+        "6s": "5",
+        "Teams": "Lions",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -411,6 +464,59 @@
         "Figures": "2-13",
         "Overs": "8",
         "Economy": "1.62"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Teams": "Lions",
+        "Matches": "9",
+        "Innings": "8",
+        "Overs": "59.0",
+        "Maidens": "14",
+        "Runs": "133",
+        "Wickets": "17",
+        "BBI": "6/11",
+        "Average": "7.82",
+        "Economy": "2.25",
+        "Strike-Rate": "20.82",
+        "4 Wickets": "2",
+        "5 Wickets": "2",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Teams": "Lions",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "18.0",
+        "Maidens": "4",
+        "Runs": "70",
+        "Wickets": "3",
+        "BBI": "2/28",
+        "Average": "23.33",
+        "Economy": "3.89",
+        "Strike-Rate": "36.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Teams": "Lions",
+        "Matches": "7",
+        "Innings": "5",
+        "Overs": "34.0",
+        "Maidens": "8",
+        "Runs": "99",
+        "Wickets": "13",
+        "BBI": "6/8",
+        "Average": "7.62",
+        "Economy": "2.91",
+        "Strike-Rate": "15.69",
+        "4 Wickets": "1",
+        "5 Wickets": "1",
+        "Format": "List A"
       }
     ]
   },

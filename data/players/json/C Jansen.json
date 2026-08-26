@@ -192,6 +192,59 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "18/19",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "17",
+        "Highest Score": "10",
+        "Average": "8.50",
+        "Strike-Rate": "65.38",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "3",
+        "6s": "0",
+        "Teams": "Eastern Storm",
+        "Format": "List A"
+      },
+      {
+        "Season": "18/19",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "9",
+        "Highest Score": "5",
+        "Average": "4.50",
+        "Strike-Rate": "75.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Eastern Storm",
+        "Format": "T20"
+      },
+      {
+        "Season": "19/20",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "33",
+        "Highest Score": "33",
+        "Average": "16.50",
+        "Strike-Rate": "113.79",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "6",
+        "6s": "0",
+        "Teams": "Eastern Storm",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -261,6 +314,42 @@
         "Figures": "0-7",
         "Overs": "3",
         "Economy": "2.33"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "19/20",
+        "Teams": "Eastern Storm",
+        "Matches": "2",
+        "Innings": "1",
+        "Overs": "6.2",
+        "Maidens": "0",
+        "Runs": "44",
+        "Wickets": "3",
+        "BBI": "3/44",
+        "Average": "14.67",
+        "Economy": "6.95",
+        "Strike-Rate": "12.67",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "19/20",
+        "Teams": "Eastern Storm",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "3.0",
+        "Maidens": "1",
+        "Runs": "7",
+        "Wickets": "0",
+        "BBI": "0/7",
+        "Average": "-",
+        "Economy": "2.33",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

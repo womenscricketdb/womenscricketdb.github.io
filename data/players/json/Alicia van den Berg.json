@@ -181,6 +181,76 @@
         "Sixes": "0",
         "Strike-Rate": "63.64"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "3",
+        "Innings": "3",
+        "Not Out": "1",
+        "Runs": "5",
+        "Highest Score": "5",
+        "Average": "2.50",
+        "Strike-Rate": "14.29",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "30",
+        "Highest Score": "20",
+        "Average": "15.00",
+        "Strike-Rate": "46.15",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "3",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Matches": "4",
+        "Innings": "4",
+        "Not Out": "0",
+        "Runs": "23",
+        "Highest Score": "12",
+        "Average": "5.75",
+        "Strike-Rate": "38.46",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "1",
+        "Runs": "7",
+        "Highest Score": "7*",
+        "Average": "-",
+        "Strike-Rate": "63.64",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -298,6 +368,59 @@
         "Figures": "0-20",
         "Overs": "4",
         "Economy": "5"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Teams": "Limpopo Lillies",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "23.0",
+        "Maidens": "2",
+        "Runs": "110",
+        "Wickets": "2",
+        "BBI": "2/34",
+        "Average": "55.00",
+        "Economy": "4.78",
+        "Strike-Rate": "69.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Teams": "Limpopo Lillies",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "10.5",
+        "Maidens": "0",
+        "Runs": "51",
+        "Wickets": "0",
+        "BBI": "0/18",
+        "Average": "-",
+        "Economy": "4.71",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Teams": "Limpopo Lillies",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "11.4",
+        "Maidens": "1",
+        "Runs": "76",
+        "Wickets": "0",
+        "BBI": "0/7",
+        "Average": "-",
+        "Economy": "6.51",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

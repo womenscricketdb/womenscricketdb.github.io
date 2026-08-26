@@ -215,6 +215,51 @@ a:hover { color: #ffd54a; text-decoration: underline; }
     border-color: var(--wca-gold);
 }
 
+/* Row that holds a format toggle and/or a Table/Chart view toggle
+   (renderChartableTable) side by side - format on the left, view switch
+   pushed to the right. Either half can be empty (single-format data, or
+   a format with too few rows to chart) and the row still lays out fine
+   since flex collapses an empty child to nothing. */
+.wca-toggle-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0.5rem 0 0.75rem;
+}
+.wca-toggle-row .wca-format-toggle,
+.wca-toggle-row .wca-view-toggle {
+    margin: 0; /* the row above already handles spacing */
+}
+
+.wca-chart-wrap {
+    padding: 0.5rem 0 1rem;
+}
+.wca-chart-metric-picker {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+.wca-chart-metric-picker label {
+    font-family: var(--wca-font-body);
+    font-size: 0.8rem;
+    color: var(--wca-text-dim);
+    white-space: nowrap;
+}
+.wca-chart-metric-picker select {
+    max-width: 220px;
+    background-color: var(--wca-surface);
+    color: var(--wca-text);
+    border-color: var(--wca-border);
+}
+.wca-chart-canvas-holder {
+    position: relative;
+    height: 320px;
+    width: 100%;
+}
+
 .wca-empty-state {
     font-family: var(--wca-font-body);
     color: var(--wca-text-dim);

@@ -232,6 +232,42 @@
         "Sixes": "0",
         "Strike-Rate": "100"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "5",
+        "Innings": "3",
+        "Not Out": "0",
+        "Runs": "70",
+        "Highest Score": "50",
+        "Average": "14.00",
+        "Strike-Rate": "50.00",
+        "100s": "0",
+        "50s": "1",
+        "0s": "0",
+        "4s": "5",
+        "6s": "0",
+        "Teams": "Western Province",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "13",
+        "Innings": "10",
+        "Not Out": "2",
+        "Runs": "161",
+        "Highest Score": "35",
+        "Average": "14.64",
+        "Strike-Rate": "59.85",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "13",
+        "6s": "1",
+        "Teams": "Western Province",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -307,6 +343,25 @@
         "Figures": "0-7",
         "Overs": "3",
         "Economy": "2.33"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "06/07",
+        "Teams": "Western Province",
+        "Matches": "13",
+        "Innings": "3",
+        "Overs": "12.2",
+        "Maidens": "0",
+        "Runs": "51",
+        "Wickets": "4",
+        "BBI": "3/6",
+        "Average": "12.75",
+        "Economy": "4.14",
+        "Strike-Rate": "18.50",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

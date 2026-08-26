@@ -200,6 +200,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "06/07",
+        "Matches": "4",
+        "Innings": "4",
+        "Not Out": "0",
+        "Runs": "1",
+        "Highest Score": "1",
+        "Average": "0.25",
+        "Strike-Rate": "2.50",
+        "100s": "0",
+        "50s": "0",
+        "0s": "3",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "5",
+        "Innings": "4",
+        "Not Out": "0",
+        "Runs": "58",
+        "Highest Score": "53",
+        "Average": "11.60",
+        "Strike-Rate": "54.21",
+        "100s": "0",
+        "50s": "1",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Titans",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -325,6 +361,59 @@
         "Figures": "0-14",
         "Overs": "3",
         "Economy": "4.67"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "06/07",
+        "Teams": "Limpopo Lillies",
+        "Matches": "4",
+        "Innings": "2",
+        "Overs": "15.1",
+        "Maidens": "0",
+        "Runs": "76",
+        "Wickets": "0",
+        "BBI": "0/31",
+        "Average": "-",
+        "Economy": "5.01",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Titans",
+        "Matches": "5",
+        "Innings": "1",
+        "Overs": "3.0",
+        "Maidens": "0",
+        "Runs": "23",
+        "Wickets": "1",
+        "BBI": "1/23",
+        "Average": "23.00",
+        "Economy": "7.67",
+        "Strike-Rate": "18.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Titans",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "5.0",
+        "Maidens": "1",
+        "Runs": "27",
+        "Wickets": "1",
+        "BBI": "1/13",
+        "Average": "27.00",
+        "Economy": "5.40",
+        "Strike-Rate": "30.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

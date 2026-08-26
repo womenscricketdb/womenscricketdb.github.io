@@ -256,6 +256,93 @@
         "Sixes": "0",
         "Strike-Rate": "51.02"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "13",
+        "Innings": "9",
+        "Not Out": "1",
+        "Runs": "137",
+        "Highest Score": "51",
+        "Average": "11.42",
+        "Strike-Rate": "41.02",
+        "100s": "0",
+        "50s": "1",
+        "0s": "1",
+        "4s": "6",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "12",
+        "Innings": "11",
+        "Not Out": "5",
+        "Runs": "73",
+        "Highest Score": "41*",
+        "Average": "10.43",
+        "Strike-Rate": "26.84",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Matches": "11",
+        "Innings": "6",
+        "Not Out": "3",
+        "Runs": "54",
+        "Highest Score": "25",
+        "Average": "6.75",
+        "Strike-Rate": "57.45",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "6",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      },
+      {
+        "Season": "08/09",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "8",
+        "Highest Score": "6",
+        "Average": "4.00",
+        "Strike-Rate": "17.02",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Matches": "4",
+        "Innings": "4",
+        "Not Out": "1",
+        "Runs": "59",
+        "Highest Score": "28",
+        "Average": "19.67",
+        "Strike-Rate": "35.98",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "3",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -347,6 +434,42 @@
         "Figures": "0-15",
         "Overs": "4",
         "Economy": "3.75"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "08/09",
+        "Teams": "Boland",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "11.0",
+        "Maidens": "2",
+        "Runs": "37",
+        "Wickets": "2",
+        "BBI": "2/23",
+        "Average": "18.50",
+        "Economy": "3.36",
+        "Strike-Rate": "33.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Teams": "Boland",
+        "Matches": "4",
+        "Innings": "2",
+        "Overs": "6.0",
+        "Maidens": "0",
+        "Runs": "29",
+        "Wickets": "0",
+        "BBI": "0/14",
+        "Average": "-",
+        "Economy": "4.83",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

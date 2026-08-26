@@ -238,6 +238,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Matches": "7",
+        "Innings": "7",
+        "Not Out": "2",
+        "Runs": "129",
+        "Highest Score": "52*",
+        "Average": "25.80",
+        "Strike-Rate": "50.59",
+        "100s": "0",
+        "50s": "1",
+        "0s": "1",
+        "4s": "13",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "4",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "5",
+        "Highest Score": "4",
+        "Average": "1.25",
+        "Strike-Rate": "55.56",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -427,6 +463,42 @@
         "Figures": "0-29",
         "Overs": "4",
         "Economy": "7.25"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Teams": "Dragons",
+        "Matches": "7",
+        "Innings": "7",
+        "Overs": "31.0",
+        "Maidens": "0",
+        "Runs": "170",
+        "Wickets": "5",
+        "BBI": "3/15",
+        "Average": "34.00",
+        "Economy": "5.48",
+        "Strike-Rate": "37.20",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Lions",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "9.0",
+        "Maidens": "0",
+        "Runs": "51",
+        "Wickets": "3",
+        "BBI": "2/8",
+        "Average": "17.00",
+        "Economy": "5.67",
+        "Strike-Rate": "18.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

@@ -297,6 +297,59 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "15/16",
+        "Matches": "10",
+        "Innings": "10",
+        "Not Out": "1",
+        "Runs": "62",
+        "Highest Score": "18",
+        "Average": "6.89",
+        "Strike-Rate": "26.96",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "7",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      },
+      {
+        "Season": "15/16",
+        "Matches": "5",
+        "Innings": "4",
+        "Not Out": "1",
+        "Runs": "21",
+        "Highest Score": "14",
+        "Average": "5.25",
+        "Strike-Rate": "56.76",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "T20"
+      },
+      {
+        "Season": "16/17",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -502,6 +555,59 @@
         "Figures": "0-12",
         "Overs": "2",
         "Economy": "6"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "15/16",
+        "Teams": "Boland",
+        "Matches": "10",
+        "Innings": "8",
+        "Overs": "36.0",
+        "Maidens": "3",
+        "Runs": "203",
+        "Wickets": "5",
+        "BBI": "3/27",
+        "Average": "40.60",
+        "Economy": "5.64",
+        "Strike-Rate": "43.20",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "15/16",
+        "Teams": "Boland",
+        "Matches": "5",
+        "Innings": "3",
+        "Overs": "5.0",
+        "Maidens": "0",
+        "Runs": "33",
+        "Wickets": "1",
+        "BBI": "1/12",
+        "Average": "33.00",
+        "Economy": "6.60",
+        "Strike-Rate": "30.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "16/17",
+        "Teams": "Boland",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "5.0",
+        "Maidens": "0",
+        "Runs": "16",
+        "Wickets": "1",
+        "BBI": "1/16",
+        "Average": "16.00",
+        "Economy": "3.20",
+        "Strike-Rate": "30.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

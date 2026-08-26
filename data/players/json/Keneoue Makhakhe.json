@@ -160,6 +160,59 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "18/19",
+        "Matches": "2",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "1",
+        "Runs": "0",
+        "Highest Score": "0*",
+        "Average": "-",
+        "Strike-Rate": "-",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Matches": "2",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "3",
+        "Highest Score": "3",
+        "Average": "1.50",
+        "Strike-Rate": "50.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -325,6 +378,76 @@
         "Figures": "0-6",
         "Overs": "2",
         "Economy": "3"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "18/19",
+        "Teams": "Lions",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "9.0",
+        "Maidens": "1",
+        "Runs": "33",
+        "Wickets": "2",
+        "BBI": "1/16",
+        "Average": "16.50",
+        "Economy": "3.67",
+        "Strike-Rate": "27.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "18/19",
+        "Teams": "Lions",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "2.2",
+        "Maidens": "0",
+        "Runs": "12",
+        "Wickets": "1",
+        "BBI": "1/11",
+        "Average": "12.00",
+        "Economy": "5.14",
+        "Strike-Rate": "14.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "21/22",
+        "Teams": "Lions",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "7.0",
+        "Maidens": "1",
+        "Runs": "33",
+        "Wickets": "0",
+        "BBI": "0/33",
+        "Average": "-",
+        "Economy": "4.71",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Teams": "Lions",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "6.0",
+        "Maidens": "0",
+        "Runs": "21",
+        "Wickets": "2",
+        "BBI": "2/15",
+        "Average": "10.50",
+        "Economy": "3.50",
+        "Strike-Rate": "18.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

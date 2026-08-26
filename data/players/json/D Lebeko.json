@@ -168,6 +168,42 @@
         "Sixes": "0",
         "Strike-Rate": "5.56"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "10",
+        "Innings": "6",
+        "Not Out": "3",
+        "Runs": "6",
+        "Highest Score": "3",
+        "Average": "0.86",
+        "Strike-Rate": "12.50",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Knights",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "3",
+        "Innings": "3",
+        "Not Out": "1",
+        "Runs": "34",
+        "Highest Score": "27*",
+        "Average": "17.00",
+        "Strike-Rate": "34.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Knights",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -315,6 +351,42 @@
         "Figures": "1-19",
         "Overs": "5",
         "Economy": "3.8"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Teams": "Knights",
+        "Matches": "10",
+        "Innings": "6",
+        "Overs": "34.4",
+        "Maidens": "4",
+        "Runs": "132",
+        "Wickets": "9",
+        "BBI": "3/16",
+        "Average": "14.67",
+        "Economy": "3.81",
+        "Strike-Rate": "23.11",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Teams": "Knights",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "13.0",
+        "Maidens": "0",
+        "Runs": "46",
+        "Wickets": "4",
+        "BBI": "3/24",
+        "Average": "11.50",
+        "Economy": "3.54",
+        "Strike-Rate": "19.50",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

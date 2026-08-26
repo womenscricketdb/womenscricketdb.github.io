@@ -165,6 +165,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Matches": "5",
+        "Innings": "4",
+        "Not Out": "1",
+        "Runs": "38",
+        "Highest Score": "19",
+        "Average": "9.50",
+        "Strike-Rate": "53.52",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "3",
+        "6s": "0",
+        "Teams": "Dolphins",
+        "Format": "List A"
+      },
+      {
+        "Season": "13/14",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Tuskers",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -266,6 +302,25 @@
         "Figures": "1-29",
         "Overs": "5",
         "Economy": "5.8"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Teams": "Dolphins",
+        "Matches": "5",
+        "Innings": "3",
+        "Overs": "11.0",
+        "Maidens": "0",
+        "Runs": "54",
+        "Wickets": "4",
+        "BBI": "2/18",
+        "Average": "13.50",
+        "Economy": "4.91",
+        "Strike-Rate": "16.50",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

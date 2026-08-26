@@ -64,6 +64,25 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "18/19",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Kei",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -124,6 +143,42 @@
         "Figures": "0-20",
         "Overs": "2",
         "Economy": "10"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "18/19",
+        "Teams": "Kei",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "6.0",
+        "Maidens": "0",
+        "Runs": "67",
+        "Wickets": "0",
+        "BBI": "0/67",
+        "Average": "-",
+        "Economy": "11.17",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "18/19",
+        "Teams": "Kei",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "2.0",
+        "Maidens": "0",
+        "Runs": "20",
+        "Wickets": "0",
+        "BBI": "0/20",
+        "Average": "-",
+        "Economy": "10.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

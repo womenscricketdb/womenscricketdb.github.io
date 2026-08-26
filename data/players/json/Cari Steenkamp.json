@@ -81,6 +81,42 @@
         "Sixes": "0",
         "Strike-Rate": "63.64"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "22/23",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "6",
+        "Highest Score": "6",
+        "Average": "6.00",
+        "Strike-Rate": "54.55",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      },
+      {
+        "Season": "22/23",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "7",
+        "Highest Score": "7",
+        "Average": "7.00",
+        "Strike-Rate": "63.64",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -134,6 +170,25 @@
         "Figures": "1-7",
         "Overs": "1",
         "Economy": "7"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "22/23",
+        "Teams": "Boland",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "1.0",
+        "Maidens": "0",
+        "Runs": "7",
+        "Wickets": "1",
+        "BBI": "1/7",
+        "Average": "7.00",
+        "Economy": "7.00",
+        "Strike-Rate": "6.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

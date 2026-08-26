@@ -232,6 +232,76 @@
         "Sixes": "0",
         "Strike-Rate": "80"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "9",
+        "Innings": "8",
+        "Not Out": "1",
+        "Runs": "43",
+        "Highest Score": "17",
+        "Average": "5.38",
+        "Strike-Rate": "65.15",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "5",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "5",
+        "Innings": "4",
+        "Not Out": "0",
+        "Runs": "15",
+        "Highest Score": "5",
+        "Average": "3.00",
+        "Strike-Rate": "39.47",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Matches": "6",
+        "Innings": "6",
+        "Not Out": "0",
+        "Runs": "40",
+        "Highest Score": "18",
+        "Average": "6.67",
+        "Strike-Rate": "64.52",
+        "100s": "0",
+        "50s": "0",
+        "0s": "3",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "1",
+        "Highest Score": "1",
+        "Average": "0.50",
+        "Strike-Rate": "33.33",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -307,6 +377,42 @@
         "Figures": "0-44",
         "Overs": "8",
         "Economy": "5.5"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "07/08",
+        "Teams": "Rhinos",
+        "Matches": "6",
+        "Innings": "2",
+        "Overs": "10.0",
+        "Maidens": "0",
+        "Runs": "57",
+        "Wickets": "1",
+        "BBI": "1/13",
+        "Average": "57.00",
+        "Economy": "5.70",
+        "Strike-Rate": "60.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Teams": "Rhinos",
+        "Matches": "2",
+        "Innings": "1",
+        "Overs": "0.3",
+        "Maidens": "0",
+        "Runs": "10",
+        "Wickets": "0",
+        "BBI": "0/10",
+        "Average": "-",
+        "Economy": "20.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

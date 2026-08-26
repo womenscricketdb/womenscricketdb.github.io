@@ -195,6 +195,59 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "21/22",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "1",
+        "Highest Score": "1",
+        "Average": "0.50",
+        "Strike-Rate": "7.69",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Matches": "4",
+        "Innings": "3",
+        "Not Out": "1",
+        "Runs": "1",
+        "Highest Score": "1*",
+        "Average": "0.33",
+        "Strike-Rate": "11.11",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "T20"
+      },
+      {
+        "Season": "23/24",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "1",
+        "Runs": "2",
+        "Highest Score": "2*",
+        "Average": "-",
+        "Strike-Rate": "50.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -360,6 +413,76 @@
         "Figures": "0-26",
         "Overs": "3",
         "Economy": "8.67"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "21/22",
+        "Teams": "Rhinos",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "17.0",
+        "Maidens": "0",
+        "Runs": "85",
+        "Wickets": "2",
+        "BBI": "1/40",
+        "Average": "42.50",
+        "Economy": "5.00",
+        "Strike-Rate": "51.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Teams": "Rhinos",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "10.0",
+        "Maidens": "0",
+        "Runs": "72",
+        "Wickets": "0",
+        "BBI": "0/13",
+        "Average": "-",
+        "Economy": "7.20",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "23/24",
+        "Teams": "Rhinos",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "5.0",
+        "Maidens": "0",
+        "Runs": "25",
+        "Wickets": "0",
+        "BBI": "0/25",
+        "Average": "-",
+        "Economy": "5.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "23/24",
+        "Teams": "Rhinos",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "2.0",
+        "Maidens": "0",
+        "Runs": "12",
+        "Wickets": "0",
+        "BBI": "0/12",
+        "Average": "-",
+        "Economy": "6.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

@@ -326,6 +326,59 @@
         "Sixes": "0",
         "Strike-Rate": "40"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "24/25",
+        "Matches": "5",
+        "Innings": "5",
+        "Not Out": "0",
+        "Runs": "27",
+        "Highest Score": "14",
+        "Average": "5.40",
+        "Strike-Rate": "47.37",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Kei",
+        "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Matches": "8",
+        "Innings": "8",
+        "Not Out": "0",
+        "Runs": "58",
+        "Highest Score": "24",
+        "Average": "7.25",
+        "Strike-Rate": "38.16",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "6",
+        "6s": "0",
+        "Teams": "Kei",
+        "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Matches": "4",
+        "Innings": "4",
+        "Not Out": "1",
+        "Runs": "25",
+        "Highest Score": "16",
+        "Average": "8.33",
+        "Strike-Rate": "56.82",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Kei",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -555,6 +608,59 @@
         "Figures": "0-17",
         "Overs": "1",
         "Economy": "17"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "24/25",
+        "Teams": "Kei",
+        "Matches": "5",
+        "Innings": "4",
+        "Overs": "14.2",
+        "Maidens": "0",
+        "Runs": "84",
+        "Wickets": "5",
+        "BBI": "4/55",
+        "Average": "16.80",
+        "Economy": "5.86",
+        "Strike-Rate": "17.20",
+        "4 Wickets": "1",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Teams": "Kei",
+        "Matches": "8",
+        "Innings": "6",
+        "Overs": "29.0",
+        "Maidens": "0",
+        "Runs": "154",
+        "Wickets": "7",
+        "BBI": "4/37",
+        "Average": "22.00",
+        "Economy": "5.31",
+        "Strike-Rate": "24.86",
+        "4 Wickets": "1",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Teams": "Kei",
+        "Matches": "4",
+        "Innings": "3",
+        "Overs": "7.0",
+        "Maidens": "0",
+        "Runs": "50",
+        "Wickets": "3",
+        "BBI": "3/18",
+        "Average": "16.67",
+        "Economy": "7.14",
+        "Strike-Rate": "14.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

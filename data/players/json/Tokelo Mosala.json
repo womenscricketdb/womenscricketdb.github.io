@@ -289,6 +289,59 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "18/19",
+        "Matches": "6",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "2",
+        "Highest Score": "2",
+        "Average": "0.33",
+        "Strike-Rate": "18.18",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      },
+      {
+        "Season": "19/20",
+        "Matches": "8",
+        "Innings": "5",
+        "Not Out": "1",
+        "Runs": "33",
+        "Highest Score": "17",
+        "Average": "4.71",
+        "Strike-Rate": "41.77",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      },
+      {
+        "Season": "19/20",
+        "Matches": "7",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "4",
+        "Highest Score": "3",
+        "Average": "0.67",
+        "Strike-Rate": "40.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -502,6 +555,76 @@
         "Figures": "0-18",
         "Overs": "2",
         "Economy": "9"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "18/19",
+        "Teams": "Dragons",
+        "Matches": "6",
+        "Innings": "6",
+        "Overs": "20.0",
+        "Maidens": "0",
+        "Runs": "112",
+        "Wickets": "1",
+        "BBI": "1/37",
+        "Average": "112.00",
+        "Economy": "5.60",
+        "Strike-Rate": "120.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "18/19",
+        "Teams": "Dragons",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "5.0",
+        "Maidens": "1",
+        "Runs": "11",
+        "Wickets": "2",
+        "BBI": "1/0",
+        "Average": "5.50",
+        "Economy": "2.20",
+        "Strike-Rate": "15.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "19/20",
+        "Teams": "Dragons",
+        "Matches": "8",
+        "Innings": "2",
+        "Overs": "5.0",
+        "Maidens": "0",
+        "Runs": "21",
+        "Wickets": "3",
+        "BBI": "2/12",
+        "Average": "7.00",
+        "Economy": "4.20",
+        "Strike-Rate": "10.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "19/20",
+        "Teams": "Dragons",
+        "Matches": "7",
+        "Innings": "2",
+        "Overs": "6.0",
+        "Maidens": "0",
+        "Runs": "40",
+        "Wickets": "2",
+        "BBI": "2/22",
+        "Average": "20.00",
+        "Economy": "6.67",
+        "Strike-Rate": "18.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

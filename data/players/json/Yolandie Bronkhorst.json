@@ -192,6 +192,42 @@
         "Sixes": "0",
         "Strike-Rate": "71.93"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "11",
+        "Innings": "11",
+        "Not Out": "1",
+        "Runs": "355",
+        "Highest Score": "79",
+        "Average": "35.50",
+        "Strike-Rate": "63.96",
+        "100s": "0",
+        "50s": "2",
+        "0s": "1",
+        "4s": "51",
+        "6s": "0",
+        "Teams": "Titans",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "44",
+        "Highest Score": "44*",
+        "Average": "44.00",
+        "Strike-Rate": "60.27",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "4",
+        "6s": "0",
+        "Teams": "Eastern Storm",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -355,6 +391,42 @@
         "Figures": "2-31",
         "Overs": "10",
         "Economy": "3.1"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Teams": "Titans",
+        "Matches": "11",
+        "Innings": "11",
+        "Overs": "89.2",
+        "Maidens": "19",
+        "Runs": "284",
+        "Wickets": "21",
+        "BBI": "7/19",
+        "Average": "13.52",
+        "Economy": "3.18",
+        "Strike-Rate": "25.52",
+        "4 Wickets": "2",
+        "5 Wickets": "1",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Teams": "Eastern Storm",
+        "Matches": "2",
+        "Innings": "1",
+        "Overs": "5.1",
+        "Maidens": "0",
+        "Runs": "21",
+        "Wickets": "0",
+        "BBI": "0/21",
+        "Average": "-",
+        "Economy": "4.06",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

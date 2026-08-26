@@ -176,6 +176,76 @@
         "Sixes": "0",
         "Strike-Rate": "14.29"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "2",
+        "Highest Score": "1",
+        "Average": "1.00",
+        "Strike-Rate": "13.33",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Heat",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "2",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "2",
+        "Highest Score": "2",
+        "Average": "1.00",
+        "Strike-Rate": "15.38",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Heat",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Matches": "4",
+        "Innings": "3",
+        "Not Out": "0",
+        "Runs": "3",
+        "Highest Score": "3",
+        "Average": "0.75",
+        "Strike-Rate": "25.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Heat",
+        "Format": "List A"
+      },
+      {
+        "Season": "08/09",
+        "Matches": "3",
+        "Innings": "3",
+        "Not Out": "1",
+        "Runs": "7",
+        "Highest Score": "4",
+        "Average": "3.50",
+        "Strike-Rate": "46.67",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Heat",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -218,6 +288,42 @@
         "Figures": "0-23",
         "Overs": "3.3",
         "Economy": "6.57"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "07/08",
+        "Teams": "Heat",
+        "Matches": "4",
+        "Innings": "1",
+        "Overs": "3.3",
+        "Maidens": "0",
+        "Runs": "23",
+        "Wickets": "0",
+        "BBI": "0/23",
+        "Average": "-",
+        "Economy": "6.57",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Teams": "Heat",
+        "Matches": "2",
+        "Innings": "1",
+        "Overs": "2.0",
+        "Maidens": "0",
+        "Runs": "15",
+        "Wickets": "0",
+        "BBI": "0/15",
+        "Average": "-",
+        "Economy": "7.50",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

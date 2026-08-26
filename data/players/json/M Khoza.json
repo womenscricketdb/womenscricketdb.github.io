@@ -63,6 +63,42 @@
         "Sixes": "0",
         "Strike-Rate": "0"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "22/23",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      },
+      {
+        "Season": "23/24",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "1",
+        "Runs": "29",
+        "Highest Score": "29*",
+        "Average": "-",
+        "Strike-Rate": "58.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "3",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -122,6 +158,42 @@
         "Figures": "0-33",
         "Overs": "7",
         "Economy": "4.71"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "22/23",
+        "Teams": "Limpopo Lillies",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "7.0",
+        "Maidens": "0",
+        "Runs": "33",
+        "Wickets": "0",
+        "BBI": "0/33",
+        "Average": "-",
+        "Economy": "4.71",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "23/24",
+        "Teams": "Limpopo Lillies",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "8.0",
+        "Maidens": "0",
+        "Runs": "35",
+        "Wickets": "1",
+        "BBI": "1/35",
+        "Average": "35.00",
+        "Economy": "4.38",
+        "Strike-Rate": "48.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

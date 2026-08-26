@@ -128,6 +128,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "10/11",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "2",
+        "Highest Score": "2*",
+        "Average": "2.00",
+        "Strike-Rate": "12.50",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Knights",
+        "Format": "List A"
+      },
+      {
+        "Season": "11/12",
+        "Matches": "3",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "2",
+        "Highest Score": "1*",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Knights",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -162,6 +198,25 @@
         "Figures": "0-18",
         "Overs": "2",
         "Economy": "9"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Teams": "Knights",
+        "Matches": "3",
+        "Innings": "1",
+        "Overs": "2.0",
+        "Maidens": "0",
+        "Runs": "18",
+        "Wickets": "0",
+        "BBI": "0/18",
+        "Average": "-",
+        "Economy": "9.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

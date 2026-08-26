@@ -200,6 +200,59 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Matches": "4",
+        "Innings": "4",
+        "Not Out": "1",
+        "Runs": "2",
+        "Highest Score": "1*",
+        "Average": "0.67",
+        "Strike-Rate": "7.41",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Kei",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "5",
+        "Innings": "5",
+        "Not Out": "1",
+        "Runs": "9",
+        "Highest Score": "7",
+        "Average": "2.25",
+        "Strike-Rate": "23.68",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Kei",
+        "Format": "List A"
+      },
+      {
+        "Season": "14/15",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "6",
+        "Highest Score": "6",
+        "Average": "6.00",
+        "Strike-Rate": "75.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Kei",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -373,6 +426,76 @@
         "Figures": "0-27",
         "Overs": "3",
         "Economy": "9"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Teams": "Kei",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "17.0",
+        "Maidens": "0",
+        "Runs": "136",
+        "Wickets": "0",
+        "BBI": "0/16",
+        "Average": "-",
+        "Economy": "8.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Kei",
+        "Matches": "5",
+        "Innings": "5",
+        "Overs": "31.0",
+        "Maidens": "0",
+        "Runs": "226",
+        "Wickets": "3",
+        "BBI": "2/43",
+        "Average": "75.33",
+        "Economy": "7.29",
+        "Strike-Rate": "62.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "14/15",
+        "Teams": "Kei",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "9.0",
+        "Maidens": "1",
+        "Runs": "62",
+        "Wickets": "3",
+        "BBI": "3/62",
+        "Average": "20.67",
+        "Economy": "6.89",
+        "Strike-Rate": "18.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "14/15",
+        "Teams": "Kei",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "7.0",
+        "Maidens": "0",
+        "Runs": "48",
+        "Wickets": "2",
+        "BBI": "2/21",
+        "Average": "24.00",
+        "Economy": "6.86",
+        "Strike-Rate": "21.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

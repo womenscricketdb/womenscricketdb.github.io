@@ -144,6 +144,42 @@
         "Sixes": "0",
         "Strike-Rate": "20"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Matches": "6",
+        "Innings": "6",
+        "Not Out": "0",
+        "Runs": "52",
+        "Highest Score": "30",
+        "Average": "8.67",
+        "Strike-Rate": "82.93",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "3",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -194,6 +230,25 @@
         "Figures": "0-45",
         "Overs": "6",
         "Economy": "7.5"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "10/11",
+        "Teams": "Limpopo Lillies",
+        "Matches": "6",
+        "Innings": "2",
+        "Overs": "8.0",
+        "Maidens": "1",
+        "Runs": "47",
+        "Wickets": "0",
+        "BBI": "0/2",
+        "Average": "-",
+        "Economy": "5.88",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

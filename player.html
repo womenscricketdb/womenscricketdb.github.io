@@ -151,10 +151,12 @@
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
 
 <script src="assets/js/nav.js"></script>
 <script src="assets/js/data-loader.js"></script>
 <script src="assets/js/table-render.js"></script>
+<script src="assets/js/chart-render.js"></script>
 <script>
     WCA_NAV.render("players");
     WCA_NAV.renderFooter();
@@ -275,6 +277,51 @@
         // Career Span moved to the page summary above the tabs, only the
         // fielding/captaincy/keeping figures live here now.
         renderPlainSubtable(container, "Fielding, Captaincy & Keeping", sectionData.career);
+    }
+
+    /**
+     * Season by Season tab: batting.bySeason / bowling.bySeason, each row
+     * already Format-tagged and pre-sorted chronologically ascending (see
+     * build_player_season_stats() in consolidate.py). One subtable per
+     * discipline, each via renderChartableTable rather than the plain
+     * renderFormatToggleTable used elsewhere on this page - this is the
+     * one section of the player page where a trend across rows is itself
+     * the point (a career arc), unlike By Opposition/By Venue where every
+     * row is its own independent fact with nothing to plot between them.
+     * A player who only ever bowled a handful of overs in her career (or
+     * never bowled at all) still gets a Bowling subtable here whenever she
+     * has ANY qualifying season - build_player_season_stats() already
+     * drops the seasons she didn't bowl in at all, so what's left is real.
+     */
+    function renderSeasonTab(container, data) {
+        const battingRows = (data.batting && data.batting.bySeason) || [];
+        const bowlingRows = (data.bowling && data.bowling.bySeason) || [];
+
+        if (!battingRows.length && !bowlingRows.length) {
+            container.innerHTML = `<div class="wca-empty-state">No season-by-season data recorded for this player.</div>`;
+            return;
+        }
+
+        const chartOpts = {
+            render: (el, rows) => WCA_CHART.renderLineChart(el, rows, { xKey: "Season" }),
+            minRows: 2,
+        };
+        // seasonLeaderboard: true is the same escape hatch records.html's
+        // By Season leaderboard view already uses - without it,
+        // WCA.detectStampColumns treats any column literally named
+        // "Season" as a filterable stamp column unconditionally (right
+        // call for every OTHER table on the site, where Season is either
+        // constant or a browsing filter over otherwise-unrelated rows),
+        // which here would hide every row but one behind a "pick a
+        // season" dropdown - exactly backwards for a table whose entire
+        // point is showing every season at once.
+        const tableOpts = { compact: true, seasonLeaderboard: true };
+        if (battingRows.length) {
+            WCA_TABLE.renderChartableTable(container, "Batting", battingRows, tableOpts, chartOpts);
+        }
+        if (bowlingRows.length) {
+            WCA_TABLE.renderChartableTable(container, "Bowling", bowlingRows, tableOpts, chartOpts);
+        }
     }
 
     function renderSummary(data) {
@@ -511,6 +558,15 @@
         const tabs = [];
         if (WCA.hasData(data.batting)) tabs.push({ id: "batting", label: "Batting" });
         if (WCA.hasData(data.bowling)) tabs.push({ id: "bowling", label: "Bowling" });
+        // Sourced from the same batting/bowling objects as the tabs above,
+        // so this can only ever be non-empty when at least one of those
+        // is too - checked separately (rather than folded into that
+        // hasData check) since a player can have career/top5/byOpposition
+        // data but, per build_player_season_stats()'s Innings>0 filter,
+        // genuinely no qualifying season in one or even both disciplines.
+        const hasSeasonData = WCA.hasData(data.batting && data.batting.bySeason)
+            || WCA.hasData(data.bowling && data.bowling.bySeason);
+        if (hasSeasonData) tabs.push({ id: "season", label: "Season by Season" });
         if (WCA.hasData(data.misc)) tabs.push({ id: "misc", label: "Fielding & Misc" });
         if (data.matches && Object.keys(data.matches).length) tabs.push({ id: "matches", label: "Matches" });
         // Only appears for the ~230 players with at least one Division 1
@@ -553,6 +609,7 @@
 
         if (tabs.some(t => t.id === "batting")) renderBattingBowlingSection("content-batting", data.batting);
         if (tabs.some(t => t.id === "bowling")) renderBattingBowlingSection("content-bowling", data.bowling);
+        if (tabs.some(t => t.id === "season")) renderSeasonTab(document.getElementById("content-season"), data);
         if (tabs.some(t => t.id === "misc")) renderMiscSection("content-misc", data.misc);
         if (tabs.some(t => t.id === "matches")) renderMatchesTab(document.getElementById("content-matches"), data.matches);
         if (tabs.some(t => t.id === "titles")) renderTitlesTab(document.getElementById("content-titles"), titleEntries);

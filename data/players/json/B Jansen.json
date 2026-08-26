@@ -152,6 +152,42 @@
         "Sixes": "0",
         "Strike-Rate": "41.18"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "5",
+        "Innings": "5",
+        "Not Out": "0",
+        "Runs": "27",
+        "Highest Score": "8",
+        "Average": "5.40",
+        "Strike-Rate": "25.33",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Badgers",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "3",
+        "Innings": "3",
+        "Not Out": "0",
+        "Runs": "24",
+        "Highest Score": "12",
+        "Average": "8.00",
+        "Strike-Rate": "32.43",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Badgers",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -195,6 +231,25 @@
         "Figures": "1-23",
         "Overs": "4",
         "Economy": "5.75"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Teams": "Badgers",
+        "Matches": "5",
+        "Innings": "1",
+        "Overs": "4.0",
+        "Maidens": "0",
+        "Runs": "23",
+        "Wickets": "1",
+        "BBI": "1/23",
+        "Average": "23.00",
+        "Economy": "5.75",
+        "Strike-Rate": "24.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

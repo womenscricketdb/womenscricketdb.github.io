@@ -224,6 +224,76 @@
         "Sixes": "0",
         "Strike-Rate": "39.29"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "8",
+        "Innings": "5",
+        "Not Out": "2",
+        "Runs": "28",
+        "Highest Score": "16",
+        "Average": "4.67",
+        "Strike-Rate": "36.84",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Warriors",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "4",
+        "Innings": "4",
+        "Not Out": "0",
+        "Runs": "9",
+        "Highest Score": "6",
+        "Average": "2.25",
+        "Strike-Rate": "16.36",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Warriors",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Matches": "7",
+        "Innings": "6",
+        "Not Out": "3",
+        "Runs": "32",
+        "Highest Score": "12*",
+        "Average": "8.00",
+        "Strike-Rate": "24.43",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Warriors",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Matches": "9",
+        "Innings": "7",
+        "Not Out": "0",
+        "Runs": "47",
+        "Highest Score": "25",
+        "Average": "5.22",
+        "Strike-Rate": "29.94",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Warriors",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -371,6 +441,59 @@
         "Figures": "1-24",
         "Overs": "6",
         "Economy": "4"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Teams": "Warriors",
+        "Matches": "8",
+        "Innings": "8",
+        "Overs": "61.0",
+        "Maidens": "9",
+        "Runs": "208",
+        "Wickets": "7",
+        "BBI": "2/13",
+        "Average": "29.71",
+        "Economy": "3.41",
+        "Strike-Rate": "52.29",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Teams": "Warriors",
+        "Matches": "4",
+        "Innings": "3",
+        "Overs": "11.5",
+        "Maidens": "3",
+        "Runs": "39",
+        "Wickets": "3",
+        "BBI": "3/14",
+        "Average": "13.00",
+        "Economy": "3.30",
+        "Strike-Rate": "23.67",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Teams": "Warriors",
+        "Matches": "9",
+        "Innings": "4",
+        "Overs": "13.0",
+        "Maidens": "2",
+        "Runs": "60",
+        "Wickets": "0",
+        "BBI": "0/6",
+        "Average": "-",
+        "Economy": "4.62",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

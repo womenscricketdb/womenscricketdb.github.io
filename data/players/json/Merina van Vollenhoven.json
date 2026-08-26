@@ -128,6 +128,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Matches": "2",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "5",
+        "Highest Score": "5",
+        "Average": "2.50",
+        "Strike-Rate": "17.24",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Titans",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "4",
+        "Innings": "3",
+        "Not Out": "2",
+        "Runs": "31",
+        "Highest Score": "15*",
+        "Average": "15.50",
+        "Strike-Rate": "44.93",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "3",
+        "6s": "0",
+        "Teams": "Titans",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -243,6 +279,42 @@
         "Figures": "0-9",
         "Overs": "2",
         "Economy": "4.5"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Teams": "Titans",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "8.0",
+        "Maidens": "1",
+        "Runs": "28",
+        "Wickets": "2",
+        "BBI": "1/5",
+        "Average": "14.00",
+        "Economy": "3.50",
+        "Strike-Rate": "24.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Titans",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "8.0",
+        "Maidens": "1",
+        "Runs": "28",
+        "Wickets": "2",
+        "BBI": "1/2",
+        "Average": "14.00",
+        "Economy": "3.50",
+        "Strike-Rate": "24.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

@@ -208,6 +208,42 @@
         "Sixes": "0",
         "Strike-Rate": "36.96"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "6",
+        "Innings": "5",
+        "Not Out": "1",
+        "Runs": "76",
+        "Highest Score": "38",
+        "Average": "15.20",
+        "Strike-Rate": "44.19",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "4",
+        "6s": "0",
+        "Teams": "Dolphins",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "9",
+        "Innings": "9",
+        "Not Out": "0",
+        "Runs": "144",
+        "Highest Score": "43",
+        "Average": "16.00",
+        "Strike-Rate": "37.70",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "6",
+        "6s": "0",
+        "Teams": "Dolphins",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -331,6 +367,25 @@
         "Figures": "2-24",
         "Overs": "10",
         "Economy": "2.4"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "06/07",
+        "Teams": "Dolphins",
+        "Matches": "9",
+        "Innings": "5",
+        "Overs": "42.0",
+        "Maidens": "5",
+        "Runs": "133",
+        "Wickets": "16",
+        "BBI": "4/34",
+        "Average": "8.31",
+        "Economy": "3.17",
+        "Strike-Rate": "15.75",
+        "4 Wickets": "2",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

@@ -206,6 +206,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "23/24",
+        "Matches": "4",
+        "Innings": "3",
+        "Not Out": "2",
+        "Runs": "2",
+        "Highest Score": "2*",
+        "Average": "1.00",
+        "Strike-Rate": "15.38",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Badgers",
+        "Format": "List A"
+      },
+      {
+        "Season": "24/25",
+        "Matches": "2",
+        "Innings": "1",
+        "Not Out": "1",
+        "Runs": "2",
+        "Highest Score": "2*",
+        "Average": "2.00",
+        "Strike-Rate": "28.57",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Badgers",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -403,6 +439,59 @@
         "Figures": "0-11",
         "Overs": "1",
         "Economy": "11"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "23/24",
+        "Teams": "Badgers",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "33.0",
+        "Maidens": "1",
+        "Runs": "153",
+        "Wickets": "2",
+        "BBI": "1/14",
+        "Average": "76.50",
+        "Economy": "4.64",
+        "Strike-Rate": "99.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "23/24",
+        "Teams": "Badgers",
+        "Matches": "5",
+        "Innings": "5",
+        "Overs": "9.0",
+        "Maidens": "0",
+        "Runs": "85",
+        "Wickets": "1",
+        "BBI": "1/36",
+        "Average": "85.00",
+        "Economy": "9.44",
+        "Strike-Rate": "54.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "24/25",
+        "Teams": "Badgers",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "7.0",
+        "Maidens": "1",
+        "Runs": "35",
+        "Wickets": "2",
+        "BBI": "2/19",
+        "Average": "17.50",
+        "Economy": "5.00",
+        "Strike-Rate": "21.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

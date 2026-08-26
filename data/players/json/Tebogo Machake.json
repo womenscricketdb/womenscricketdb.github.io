@@ -219,6 +219,59 @@
         "Sixes": "0",
         "Strike-Rate": "100"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "20/21",
+        "Matches": "3",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Matches": "4",
+        "Innings": "4",
+        "Not Out": "0",
+        "Runs": "152",
+        "Highest Score": "75",
+        "Average": "38.00",
+        "Strike-Rate": "81.28",
+        "100s": "0",
+        "50s": "1",
+        "0s": "0",
+        "4s": "20",
+        "6s": "1",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Matches": "3",
+        "Innings": "3",
+        "Not Out": "2",
+        "Runs": "109",
+        "Highest Score": "57*",
+        "Average": "109.00",
+        "Strike-Rate": "104.81",
+        "100s": "0",
+        "50s": "1",
+        "0s": "0",
+        "4s": "10",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -288,6 +341,25 @@
         "Figures": "0-25",
         "Overs": "3",
         "Economy": "8.33"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "20/21",
+        "Teams": "Limpopo Lillies",
+        "Matches": "3",
+        "Innings": "2",
+        "Overs": "10.0",
+        "Maidens": "1",
+        "Runs": "54",
+        "Wickets": "1",
+        "BBI": "1/29",
+        "Average": "54.00",
+        "Economy": "5.40",
+        "Strike-Rate": "60.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

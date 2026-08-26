@@ -149,6 +149,25 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "13/14",
+        "Matches": "2",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "1",
+        "Highest Score": "1",
+        "Average": "0.50",
+        "Strike-Rate": "8.33",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -290,6 +309,59 @@
         "Figures": "0-21",
         "Overs": "3",
         "Economy": "7"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "12/13",
+        "Teams": "Lions",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "3.0",
+        "Maidens": "1",
+        "Runs": "9",
+        "Wickets": "0",
+        "BBI": "0/9",
+        "Average": "-",
+        "Economy": "3.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "13/14",
+        "Teams": "Lions",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "13.0",
+        "Maidens": "1",
+        "Runs": "50",
+        "Wickets": "3",
+        "BBI": "3/30",
+        "Average": "16.67",
+        "Economy": "3.85",
+        "Strike-Rate": "26.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "13/14",
+        "Teams": "Lions",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "7.0",
+        "Maidens": "0",
+        "Runs": "44",
+        "Wickets": "1",
+        "BBI": "1/9",
+        "Average": "44.00",
+        "Economy": "6.29",
+        "Strike-Rate": "42.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

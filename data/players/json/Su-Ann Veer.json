@@ -206,6 +206,76 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "09/10",
+        "Matches": "3",
+        "Innings": "1",
+        "Not Out": "1",
+        "Runs": "18",
+        "Highest Score": "18*",
+        "Average": "9.00",
+        "Strike-Rate": "200.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Titans",
+        "Format": "List A"
+      },
+      {
+        "Season": "11/12",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "12",
+        "Highest Score": "12",
+        "Average": "12.00",
+        "Strike-Rate": "85.71",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Titans",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "3",
+        "Highest Score": "3",
+        "Average": "3.00",
+        "Strike-Rate": "50.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Titans",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "4",
+        "Innings": "3",
+        "Not Out": "2",
+        "Runs": "82",
+        "Highest Score": "61*",
+        "Average": "41.00",
+        "Strike-Rate": "120.59",
+        "100s": "0",
+        "50s": "1",
+        "0s": "0",
+        "4s": "14",
+        "6s": "0",
+        "Teams": "Titans",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -250,6 +320,25 @@
         "Figures": "0-5",
         "Overs": "0.3",
         "Economy": "10"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "12/13",
+        "Teams": "Titans",
+        "Matches": "4",
+        "Innings": "1",
+        "Overs": "0.3",
+        "Maidens": "0",
+        "Runs": "5",
+        "Wickets": "0",
+        "BBI": "0/5",
+        "Average": "-",
+        "Economy": "10.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

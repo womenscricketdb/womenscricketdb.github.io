@@ -165,6 +165,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "10/11",
+        "Matches": "5",
+        "Innings": "4",
+        "Not Out": "0",
+        "Runs": "17",
+        "Highest Score": "14",
+        "Average": "3.40",
+        "Strike-Rate": "35.42",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Knights",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "3",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "15",
+        "Highest Score": "11",
+        "Average": "7.50",
+        "Strike-Rate": "45.45",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "3",
+        "6s": "0",
+        "Teams": "Knights",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -306,6 +342,59 @@
         "Figures": "1-23",
         "Overs": "4",
         "Economy": "5.75"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "10/11",
+        "Teams": "Knights",
+        "Matches": "5",
+        "Innings": "5",
+        "Overs": "31.0",
+        "Maidens": "0",
+        "Runs": "127",
+        "Wickets": "11",
+        "BBI": "5/33",
+        "Average": "11.55",
+        "Economy": "4.10",
+        "Strike-Rate": "16.91",
+        "4 Wickets": "1",
+        "5 Wickets": "1",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Knights",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "15.0",
+        "Maidens": "0",
+        "Runs": "61",
+        "Wickets": "1",
+        "BBI": "1/21",
+        "Average": "61.00",
+        "Economy": "4.07",
+        "Strike-Rate": "90.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Knights",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "4.0",
+        "Maidens": "0",
+        "Runs": "23",
+        "Wickets": "1",
+        "BBI": "1/23",
+        "Average": "23.00",
+        "Economy": "5.75",
+        "Strike-Rate": "24.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

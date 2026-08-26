@@ -160,6 +160,42 @@
         "Sixes": "0",
         "Strike-Rate": "16.13"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "5",
+        "Innings": "5",
+        "Not Out": "0",
+        "Runs": "81",
+        "Highest Score": "34",
+        "Average": "16.20",
+        "Strike-Rate": "36.82",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "6",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "List A"
+      },
+      {
+        "Season": "11/12",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "10",
+        "Highest Score": "10",
+        "Average": "10.00",
+        "Strike-Rate": "50.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -194,6 +230,25 @@
         "Figures": "0-33",
         "Overs": "6",
         "Economy": "5.5"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Teams": "Rhinos",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "6.0",
+        "Maidens": "0",
+        "Runs": "33",
+        "Wickets": "0",
+        "BBI": "0/33",
+        "Average": "-",
+        "Economy": "5.50",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

@@ -214,6 +214,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Matches": "7",
+        "Innings": "4",
+        "Not Out": "0",
+        "Runs": "5",
+        "Highest Score": "5",
+        "Average": "0.71",
+        "Strike-Rate": "27.78",
+        "100s": "0",
+        "50s": "0",
+        "0s": "3",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "19",
+        "Highest Score": "16*",
+        "Average": "19.00",
+        "Strike-Rate": "35.85",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -363,6 +399,59 @@
         "Figures": "0-18",
         "Overs": "1",
         "Economy": "18"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "11/12",
+        "Teams": "Dragons",
+        "Matches": "7",
+        "Innings": "6",
+        "Overs": "21.0",
+        "Maidens": "1",
+        "Runs": "119",
+        "Wickets": "10",
+        "BBI": "5/14",
+        "Average": "11.90",
+        "Economy": "5.67",
+        "Strike-Rate": "12.60",
+        "4 Wickets": "2",
+        "5 Wickets": "1",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Dragons",
+        "Matches": "2",
+        "Innings": "1",
+        "Overs": "1.0",
+        "Maidens": "0",
+        "Runs": "2",
+        "Wickets": "1",
+        "BBI": "1/2",
+        "Average": "2.00",
+        "Economy": "2.00",
+        "Strike-Rate": "6.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Dragons",
+        "Matches": "4",
+        "Innings": "1",
+        "Overs": "1.0",
+        "Maidens": "0",
+        "Runs": "18",
+        "Wickets": "0",
+        "BBI": "0/18",
+        "Average": "-",
+        "Economy": "18.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

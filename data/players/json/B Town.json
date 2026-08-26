@@ -200,6 +200,59 @@
         "Sixes": "1",
         "Strike-Rate": "55.56"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "14",
+        "Innings": "9",
+        "Not Out": "2",
+        "Runs": "171",
+        "Highest Score": "44*",
+        "Average": "14.25",
+        "Strike-Rate": "73.39",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "17",
+        "6s": "2",
+        "Teams": "Boland",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "11",
+        "Innings": "7",
+        "Not Out": "3",
+        "Runs": "90",
+        "Highest Score": "28",
+        "Average": "11.25",
+        "Strike-Rate": "43.48",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "8",
+        "6s": "1",
+        "Teams": "Boland",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Matches": "3",
+        "Innings": "1",
+        "Not Out": "1",
+        "Runs": "5",
+        "Highest Score": "5*",
+        "Average": "2.50",
+        "Strike-Rate": "10.20",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -403,6 +456,59 @@
         "Figures": "2-19",
         "Overs": "5",
         "Economy": "3.8"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Teams": "Boland",
+        "Matches": "14",
+        "Innings": "12",
+        "Overs": "53.0",
+        "Maidens": "5",
+        "Runs": "196",
+        "Wickets": "8",
+        "BBI": "2/15",
+        "Average": "24.50",
+        "Economy": "3.70",
+        "Strike-Rate": "39.75",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Teams": "Boland",
+        "Matches": "11",
+        "Innings": "10",
+        "Overs": "60.5",
+        "Maidens": "7",
+        "Runs": "181",
+        "Wickets": "11",
+        "BBI": "5/20",
+        "Average": "16.45",
+        "Economy": "2.98",
+        "Strike-Rate": "33.18",
+        "4 Wickets": "1",
+        "5 Wickets": "1",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Teams": "Boland",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "18.0",
+        "Maidens": "4",
+        "Runs": "49",
+        "Wickets": "3",
+        "BBI": "3/12",
+        "Average": "16.33",
+        "Economy": "2.72",
+        "Strike-Rate": "36.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

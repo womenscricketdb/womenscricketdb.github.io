@@ -304,6 +304,59 @@
         "Sixes": "0",
         "Strike-Rate": "37.88"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "10",
+        "Innings": "7",
+        "Not Out": "1",
+        "Runs": "44",
+        "Highest Score": "19*",
+        "Average": "4.89",
+        "Strike-Rate": "39.29",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "3",
+        "6s": "0",
+        "Teams": "Knights",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "12",
+        "Innings": "12",
+        "Not Out": "2",
+        "Runs": "209",
+        "Highest Score": "45",
+        "Average": "20.90",
+        "Strike-Rate": "38.56",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "14",
+        "6s": "0",
+        "Teams": "Knights",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Matches": "11",
+        "Innings": "9",
+        "Not Out": "2",
+        "Runs": "127",
+        "Highest Score": "33*",
+        "Average": "14.11",
+        "Strike-Rate": "30.53",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "16",
+        "6s": "0",
+        "Teams": "Knights",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -539,6 +592,59 @@
         "Figures": "2-15",
         "Overs": "5",
         "Economy": "3"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Teams": "Knights",
+        "Matches": "10",
+        "Innings": "8",
+        "Overs": "36.0",
+        "Maidens": "2",
+        "Runs": "151",
+        "Wickets": "4",
+        "BBI": "2/15",
+        "Average": "37.75",
+        "Economy": "4.19",
+        "Strike-Rate": "54.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Teams": "Knights",
+        "Matches": "12",
+        "Innings": "10",
+        "Overs": "92.4",
+        "Maidens": "7",
+        "Runs": "289",
+        "Wickets": "14",
+        "BBI": "4/18",
+        "Average": "20.64",
+        "Economy": "3.12",
+        "Strike-Rate": "39.71",
+        "4 Wickets": "2",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Teams": "Knights",
+        "Matches": "11",
+        "Innings": "10",
+        "Overs": "58.0",
+        "Maidens": "13",
+        "Runs": "162",
+        "Wickets": "12",
+        "BBI": "4/13",
+        "Average": "13.50",
+        "Economy": "2.79",
+        "Strike-Rate": "29.00",
+        "4 Wickets": "1",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

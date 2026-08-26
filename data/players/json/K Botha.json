@@ -144,6 +144,42 @@
         "Sixes": "0",
         "Strike-Rate": "11.76"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "10/11",
+        "Matches": "5",
+        "Innings": "5",
+        "Not Out": "0",
+        "Runs": "28",
+        "Highest Score": "12",
+        "Average": "5.60",
+        "Strike-Rate": "21.54",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Eastern Storm",
+        "Format": "List A"
+      },
+      {
+        "Season": "11/12",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "11",
+        "Highest Score": "11",
+        "Average": "5.50",
+        "Strike-Rate": "42.31",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Eastern Storm",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -178,6 +214,25 @@
         "Figures": "0-13",
         "Overs": "1",
         "Economy": "13"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "10/11",
+        "Teams": "Eastern Storm",
+        "Matches": "5",
+        "Innings": "1",
+        "Overs": "1.0",
+        "Maidens": "0",
+        "Runs": "13",
+        "Wickets": "0",
+        "BBI": "0/13",
+        "Average": "-",
+        "Economy": "13.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

@@ -168,6 +168,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "17/18",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "6",
+        "Highest Score": "6",
+        "Average": "6.00",
+        "Strike-Rate": "30.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Dolphins",
+        "Format": "List A"
+      },
+      {
+        "Season": "18/19",
+        "Matches": "3",
+        "Innings": "1",
+        "Not Out": "1",
+        "Runs": "4",
+        "Highest Score": "4*",
+        "Average": "2.00",
+        "Strike-Rate": "80.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Dolphins",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -309,6 +345,59 @@
         "Figures": "0-11",
         "Overs": "3",
         "Economy": "3.67"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "17/18",
+        "Teams": "Dolphins",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "3.0",
+        "Maidens": "0",
+        "Runs": "7",
+        "Wickets": "1",
+        "BBI": "1/2",
+        "Average": "7.00",
+        "Economy": "2.33",
+        "Strike-Rate": "18.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "18/19",
+        "Teams": "Dolphins",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "5.0",
+        "Maidens": "0",
+        "Runs": "10",
+        "Wickets": "1",
+        "BBI": "1/10",
+        "Average": "10.00",
+        "Economy": "2.00",
+        "Strike-Rate": "30.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "18/19",
+        "Teams": "Dolphins",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "9.0",
+        "Maidens": "0",
+        "Runs": "24",
+        "Wickets": "2",
+        "BBI": "1/2",
+        "Average": "12.00",
+        "Economy": "2.67",
+        "Strike-Rate": "27.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

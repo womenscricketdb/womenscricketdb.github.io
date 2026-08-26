@@ -187,6 +187,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "23/24",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "4",
+        "Highest Score": "3",
+        "Average": "2.00",
+        "Strike-Rate": "17.39",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Badgers",
+        "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Matches": "3",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "12",
+        "Highest Score": "11",
+        "Average": "4.00",
+        "Strike-Rate": "75.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Badgers",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -352,6 +388,76 @@
         "Figures": "0-24",
         "Overs": "4",
         "Economy": "6"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "23/24",
+        "Teams": "Badgers",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "17.0",
+        "Maidens": "0",
+        "Runs": "76",
+        "Wickets": "3",
+        "BBI": "3/39",
+        "Average": "25.33",
+        "Economy": "4.47",
+        "Strike-Rate": "34.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "23/24",
+        "Teams": "Badgers",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "5.0",
+        "Maidens": "0",
+        "Runs": "29",
+        "Wickets": "1",
+        "BBI": "1/5",
+        "Average": "29.00",
+        "Economy": "5.80",
+        "Strike-Rate": "30.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "25/26",
+        "Teams": "Badgers",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "6.0",
+        "Maidens": "0",
+        "Runs": "34",
+        "Wickets": "0",
+        "BBI": "0/34",
+        "Average": "-",
+        "Economy": "5.67",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Teams": "Badgers",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "11.0",
+        "Maidens": "0",
+        "Runs": "88",
+        "Wickets": "2",
+        "BBI": "1/27",
+        "Average": "44.00",
+        "Economy": "8.00",
+        "Strike-Rate": "33.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

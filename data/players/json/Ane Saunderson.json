@@ -265,6 +265,42 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "23/24",
+        "Matches": "8",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "41",
+        "Highest Score": "41*",
+        "Average": "5.86",
+        "Strike-Rate": "107.89",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "4",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      },
+      {
+        "Season": "24/25",
+        "Matches": "9",
+        "Innings": "3",
+        "Not Out": "1",
+        "Runs": "10",
+        "Highest Score": "8",
+        "Average": "1.25",
+        "Strike-Rate": "58.82",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -614,6 +650,76 @@
         "Figures": "1-12",
         "Overs": "4",
         "Economy": "3"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "23/24",
+        "Teams": "Dragons",
+        "Matches": "8",
+        "Innings": "7",
+        "Overs": "48.0",
+        "Maidens": "7",
+        "Runs": "135",
+        "Wickets": "14",
+        "BBI": "5/26",
+        "Average": "9.64",
+        "Economy": "2.81",
+        "Strike-Rate": "20.57",
+        "4 Wickets": "1",
+        "5 Wickets": "1",
+        "Format": "List A"
+      },
+      {
+        "Season": "23/24",
+        "Teams": "Dragons",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "13.0",
+        "Maidens": "1",
+        "Runs": "49",
+        "Wickets": "4",
+        "BBI": "2/19",
+        "Average": "12.25",
+        "Economy": "3.77",
+        "Strike-Rate": "19.50",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "24/25",
+        "Teams": "Dragons",
+        "Matches": "9",
+        "Innings": "9",
+        "Overs": "75.0",
+        "Maidens": "16",
+        "Runs": "168",
+        "Wickets": "21",
+        "BBI": "4/14",
+        "Average": "8.00",
+        "Economy": "2.24",
+        "Strike-Rate": "21.43",
+        "4 Wickets": "2",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "24/25",
+        "Teams": "Dragons",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "16.0",
+        "Maidens": "1",
+        "Runs": "56",
+        "Wickets": "5",
+        "BBI": "2/12",
+        "Average": "11.20",
+        "Economy": "3.50",
+        "Strike-Rate": "19.20",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

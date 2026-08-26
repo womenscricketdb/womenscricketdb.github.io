@@ -165,6 +165,59 @@
         "Sixes": "0",
         "Strike-Rate": "0"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "10/11",
+        "Matches": "6",
+        "Innings": "5",
+        "Not Out": "0",
+        "Runs": "6",
+        "Highest Score": "2",
+        "Average": "1.00",
+        "Strike-Rate": "13.33",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Badgers",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Badgers",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Badgers",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -234,6 +287,42 @@
         "Figures": "0-7",
         "Overs": "3",
         "Economy": "2.33"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "12/13",
+        "Teams": "Badgers",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "2.0",
+        "Maidens": "0",
+        "Runs": "3",
+        "Wickets": "1",
+        "BBI": "1/3",
+        "Average": "3.00",
+        "Economy": "1.50",
+        "Strike-Rate": "12.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "12/13",
+        "Teams": "Badgers",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "3.0",
+        "Maidens": "0",
+        "Runs": "7",
+        "Wickets": "0",
+        "BBI": "0/7",
+        "Average": "-",
+        "Economy": "2.33",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },

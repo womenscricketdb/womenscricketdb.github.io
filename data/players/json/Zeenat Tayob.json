@@ -152,6 +152,59 @@
         "Sixes": "0",
         "Strike-Rate": "10"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Matches": "3",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "1",
+        "Highest Score": "1",
+        "Average": "0.50",
+        "Strike-Rate": "33.33",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Limpopo Lillies",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Matches": "7",
+        "Innings": "6",
+        "Not Out": "0",
+        "Runs": "60",
+        "Highest Score": "29",
+        "Average": "8.57",
+        "Strike-Rate": "39.22",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Titans",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -267,6 +320,59 @@
         "Figures": "1-47",
         "Overs": "10",
         "Economy": "4.7"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "05/06",
+        "Teams": "Limpopo Lillies",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "27.0",
+        "Maidens": "2",
+        "Runs": "96",
+        "Wickets": "3",
+        "BBI": "1/17",
+        "Average": "32.00",
+        "Economy": "3.56",
+        "Strike-Rate": "54.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "06/07",
+        "Teams": "Limpopo Lillies",
+        "Matches": "2",
+        "Innings": "2",
+        "Overs": "15.0",
+        "Maidens": "0",
+        "Runs": "51",
+        "Wickets": "1",
+        "BBI": "1/35",
+        "Average": "51.00",
+        "Economy": "3.40",
+        "Strike-Rate": "90.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Teams": "Titans",
+        "Matches": "7",
+        "Innings": "1",
+        "Overs": "1.4",
+        "Maidens": "0",
+        "Runs": "3",
+        "Wickets": "1",
+        "BBI": "1/3",
+        "Average": "3.00",
+        "Economy": "1.80",
+        "Strike-Rate": "10.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

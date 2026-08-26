@@ -280,6 +280,59 @@
         "Sixes": "0",
         "Strike-Rate": "50"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "06/07",
+        "Matches": "16",
+        "Innings": "9",
+        "Not Out": "1",
+        "Runs": "53",
+        "Highest Score": "24",
+        "Average": "3.31",
+        "Strike-Rate": "31.74",
+        "100s": "0",
+        "50s": "0",
+        "0s": "4",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Dolphins / Tuskers",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Matches": "9",
+        "Innings": "6",
+        "Not Out": "1",
+        "Runs": "29",
+        "Highest Score": "12",
+        "Average": "3.63",
+        "Strike-Rate": "35.37",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "1",
+        "6s": "0",
+        "Teams": "Dolphins / Tuskers",
+        "Format": "List A"
+      },
+      {
+        "Season": "08/09",
+        "Matches": "5",
+        "Innings": "4",
+        "Not Out": "2",
+        "Runs": "27",
+        "Highest Score": "16*",
+        "Average": "9.00",
+        "Strike-Rate": "45.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Tuskers",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -459,6 +512,59 @@
         "Figures": "1-18",
         "Overs": "5",
         "Economy": "3.6"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "06/07",
+        "Teams": "Dolphins / Tuskers",
+        "Matches": "16",
+        "Innings": "9",
+        "Overs": "29.4",
+        "Maidens": "1",
+        "Runs": "128",
+        "Wickets": "4",
+        "BBI": "1/3",
+        "Average": "32.00",
+        "Economy": "4.31",
+        "Strike-Rate": "44.50",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "07/08",
+        "Teams": "Dolphins / Tuskers",
+        "Matches": "9",
+        "Innings": "3",
+        "Overs": "7.0",
+        "Maidens": "0",
+        "Runs": "32",
+        "Wickets": "2",
+        "BBI": "1/2",
+        "Average": "16.00",
+        "Economy": "4.57",
+        "Strike-Rate": "21.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "08/09",
+        "Teams": "Tuskers",
+        "Matches": "5",
+        "Innings": "1",
+        "Overs": "3.0",
+        "Maidens": "0",
+        "Runs": "7",
+        "Wickets": "0",
+        "BBI": "0/7",
+        "Average": "-",
+        "Economy": "2.33",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

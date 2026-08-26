@@ -101,6 +101,42 @@
         "Sixes": "0",
         "Strike-Rate": "0"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "07/08",
+        "Matches": "2",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "3",
+        "Highest Score": "2",
+        "Average": "1.50",
+        "Strike-Rate": "9.68",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Dragons",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -135,6 +171,25 @@
         "Figures": "0-34",
         "Overs": "7",
         "Economy": "4.86"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "07/08",
+        "Teams": "Dragons",
+        "Matches": "2",
+        "Innings": "1",
+        "Overs": "7.0",
+        "Maidens": "0",
+        "Runs": "34",
+        "Wickets": "0",
+        "BBI": "0/34",
+        "Average": "-",
+        "Economy": "4.86",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

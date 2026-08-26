@@ -136,6 +136,59 @@
         "Sixes": "0",
         "Strike-Rate": ""
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "07/08",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "09/10",
+        "Matches": "4",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "2",
+        "Highest Score": "1",
+        "Average": "0.50",
+        "Strike-Rate": "13.33",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Matches": "6",
+        "Innings": "2",
+        "Not Out": "0",
+        "Runs": "12",
+        "Highest Score": "12",
+        "Average": "2.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -283,6 +336,42 @@
         "Figures": "2-30",
         "Overs": "10",
         "Economy": "3"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "09/10",
+        "Teams": "Lions",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "16.2",
+        "Maidens": "2",
+        "Runs": "50",
+        "Wickets": "6",
+        "BBI": "2/5",
+        "Average": "8.33",
+        "Economy": "3.06",
+        "Strike-Rate": "16.33",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "10/11",
+        "Teams": "Lions",
+        "Matches": "6",
+        "Innings": "5",
+        "Overs": "30.0",
+        "Maidens": "7",
+        "Runs": "65",
+        "Wickets": "9",
+        "BBI": "3/4",
+        "Average": "7.22",
+        "Economy": "2.17",
+        "Strike-Rate": "20.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

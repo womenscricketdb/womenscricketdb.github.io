@@ -64,6 +64,42 @@
         "Sixes": "0",
         "Strike-Rate": "0"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "22/23",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Warriors",
+        "Format": "T20"
+      },
+      {
+        "Season": "23/24",
+        "Matches": "1",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Boland",
+        "Format": "List A"
+      }
     ]
   },
   "bowling": {
@@ -117,6 +153,25 @@
         "Figures": "1-0",
         "Overs": "0.2",
         "Economy": "0"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "23/24",
+        "Teams": "Boland",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "0.2",
+        "Maidens": "0",
+        "Runs": "0",
+        "Wickets": "1",
+        "BBI": "1/0",
+        "Average": "0.00",
+        "Economy": "0.00",
+        "Strike-Rate": "2.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
       }
     ]
   },

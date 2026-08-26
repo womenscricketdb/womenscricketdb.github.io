@@ -128,6 +128,42 @@
         "Sixes": "0",
         "Strike-Rate": "0"
       }
+    ],
+    "bySeason": [
+      {
+        "Season": "18/19",
+        "Matches": "2",
+        "Innings": "2",
+        "Not Out": "1",
+        "Runs": "5",
+        "Highest Score": "4",
+        "Average": "5.00",
+        "Strike-Rate": "62.50",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "T20"
+      },
+      {
+        "Season": "19/20",
+        "Matches": "3",
+        "Innings": "3",
+        "Not Out": "0",
+        "Runs": "1",
+        "Highest Score": "1",
+        "Average": "0.33",
+        "Strike-Rate": "12.50",
+        "100s": "0",
+        "50s": "0",
+        "0s": "2",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Rhinos",
+        "Format": "T20"
+      }
     ]
   },
   "bowling": {
@@ -162,6 +198,25 @@
         "Figures": "0-8",
         "Overs": "1",
         "Economy": "8"
+      }
+    ],
+    "bySeason": [
+      {
+        "Season": "19/20",
+        "Teams": "Rhinos",
+        "Matches": "3",
+        "Innings": "1",
+        "Overs": "1.0",
+        "Maidens": "0",
+        "Runs": "8",
+        "Wickets": "0",
+        "BBI": "0/8",
+        "Average": "-",
+        "Economy": "8.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },
