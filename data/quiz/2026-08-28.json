@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T04:12:01.170699Z",
+  "questions": [
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Wicketkeeping Dismissals' in the 15/16 season (T20 only)?",
+      "options": [
+        "Faye Tunnicliffe",
+        "Mieke de Ridder",
+        "Jolandi Wilson",
+        "Lerato Langa"
+      ],
+      "answer_index": 1,
+      "explanation": "Mieke de Ridder holds it, with a total of 5, a joint record shared with Sinalo Jafta."
+    },
+    {
+      "type": "reverse_record",
+      "question": "Dolphins set a database record (15/16 season, List A only) with a value of 228. Which record is it?",
+      "options": [
+        "Highest Team Total",
+        "Biggest Win by Runs",
+        "Lowest Team Total (all out or completed innings)",
+        "Most Wins"
+      ],
+      "answer_index": 1,
+      "explanation": "It's the record for 'Biggest Win by Runs', held by Dolphins."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the 50+ runs and 5+ wickets in a match double more times, Cherri Cannon or Jana Nell?",
+      "options": [
+        "Cherri Cannon",
+        "Jana Nell"
+      ],
+      "answer_index": 1,
+      "explanation": "Cherri Cannon: 1 times. Jana Nell: 2 times."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Titans record their 'Highest Total' (T20 only)?",
+      "options": [
+        "Willowmoore Park B Field",
+        "Police Ground",
+        "Polokwane Outer Oval",
+        "Sinovich Park"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Sinovich Park — highest total of 176, against Limpopo Lillies on 2017/02/12."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head T20 only meetings, who has the edge, Dragons or Lions?",
+      "options": [
+        "Dragons",
+        "Lions"
+      ],
+      "answer_index": 1,
+      "explanation": "Lions lead 8-3 across 13 meetings (T20 only)."
+    },
+    {
+      "type": "curveball",
+      "question": "Which player is the only one in this database's history to score 200+ runs AND take 3+ wickets in the same match?",
+      "options": [
+        "Susan Benade",
+        "Jana Nell",
+        "Tazmin Brits",
+        "Marizanne Kapp"
+      ],
+      "answer_index": 0,
+      "explanation": "Susan Benade is the sole member of the 200-run/3-wicket club, achieving it in a single match against Kei on 10 February 2018 (212 runs, 3 for 26)."
+    }
+  ]
+}
