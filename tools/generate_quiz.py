@@ -1052,7 +1052,20 @@ def q_magnitude_gap(rng, used_files):
     if gap <= 0:
         return None
 
-    offsets = [o for o in (-20, -10, -5, 5, 10, 20, 30) if gap + o > 0 and gap + o != gap]
+    # Scale decoys to the gap's own size rather than a fixed absolute
+    # offset -- a flat +/-30 is a fine spread when the gap is ~12, but
+    # is an unnoticeable rounding error when the gap is ~600+, leaving
+    # all four options clustered together and effectively unguessable.
+    # A minimum floor keeps small gaps spread out too.
+    scale = max(gap, 10)
+    frac_offsets = (-0.6, -0.4, -0.2, 0.2, 0.4, 0.6, 0.9)
+    offsets = []
+    for frac in frac_offsets:
+        o = round(scale * frac)
+        if o == 0:
+            o = 1 if frac > 0 else -1
+        offsets.append(o)
+    offsets = [o for o in offsets if gap + o > 0 and gap + o != gap]
     rng.shuffle(offsets)
     decoy_values = []
     for o in offsets:
