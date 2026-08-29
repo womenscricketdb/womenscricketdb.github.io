@@ -21,8 +21,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate today's quiz
-        run: python3 tools/generate_quiz.py
+      - name: Generate quiz for the next few days
+        run: |
+          for i in 0 1 2 3; do
+            d=$(date -u -d "+$i day" +%Y-%m-%d)
+            python3 tools/generate_quiz.py --date "$d"
+          done
 
       - name: Commit if changed
         run: |
