@@ -2,14 +2,9 @@ name: Generate daily quiz
 
 on:
   schedule:
-    # 00:05 UTC -- as close to UTC midnight as practical without landing
-    # exactly on the hour (GitHub's scheduler queues get congested right
-    # at :00, so runs can be delayed further there than a few minutes off
-    # it). quiz.js's "today" is UTC-anchored (see quiz.js comments), so
-    # this window is the same for every visitor worldwide, not just SA --
-    # keeping it small matters equally for everyone, not just one region.
     - cron: "5 0 * * *"
-  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+    - cron: "5 3 * * *"   # retry a few hours later if the first one got skipped
+  workflow_dispatch: {}
 
 permissions:
   contents: write

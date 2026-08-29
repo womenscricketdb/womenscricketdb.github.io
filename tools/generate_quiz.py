@@ -67,8 +67,8 @@ def filter_overall(columns, rows, extra_filters=None):
 FORMAT_CHOICES = ["OVERALL", "T20", "List A"]
 FORMAT_LABEL = {
     "OVERALL": "combined T20 + List A",
-    "T20": "T20 only",
-    "List A": "List A only",
+    "T20": "T20",
+    "List A": "List A",
 }
 
 
