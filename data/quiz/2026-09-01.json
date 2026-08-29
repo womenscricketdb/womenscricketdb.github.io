@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-08-29T11:36:27.293699Z",
+  "questions": [
+    {
+      "type": "magnitude_gap",
+      "question": "How many runs separate the all-time #1 (Tazmin Brits) and #2 (Susan Benade) run-scorers (combined T20 + List A)?",
+      "options": [
+        "62",
+        "99",
+        "25",
+        "118"
+      ],
+      "answer_index": 0,
+      "explanation": "Tazmin Brits: 6400 — Susan Benade: 6338 — a gap of 62."
+    },
+    {
+      "type": "higher_lower",
+      "question": "Who has more runs — L van den Berg or Tharina van Wyk? (List A.)",
+      "options": [
+        "L van den Berg",
+        "Tharina van Wyk"
+      ],
+      "answer_index": 1,
+      "explanation": "L van den Berg: 428 — Tharina van Wyk: 768."
+    },
+    {
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Most Wins' (List A)?",
+      "options": [
+        "Western Province",
+        "Dolphins",
+        "Boland",
+        "Titans"
+      ],
+      "answer_index": 0,
+      "explanation": "Western Province — 156."
+    },
+    {
+      "type": "guess_player",
+      "question": "Guess the player: 2720 runs in 114 innings (average 25.19, high score 203*, 3 centuries) for Dolphins. (combined T20 + List A career totals.)",
+      "options": [
+        "Angelique Taai",
+        "Dinesha Devnarain",
+        "Lara Goodall",
+        "Yolandi van der Westhuizen"
+      ],
+      "answer_index": 1,
+      "explanation": "It's Dinesha Devnarain."
+    },
+    {
+      "type": "curveball",
+      "question": "Which player has scored the most double centuries (200+) in this database's history, with two?",
+      "options": [
+        "Susan Benade",
+        "Dane van Niekerk",
+        "Mignon du Preez",
+        "Kirstie Thomson"
+      ],
+      "answer_index": 0,
+      "explanation": "Benade is the only player with two double centuries in this database. Four others (van Niekerk, du Preez, Thomson and Dinesha Devnarain) have one each, six double centuries in total across the database's history."
+    },
+    {
+      "type": "season_leader",
+      "question": "Who topped the wickets charts in the 21/22 season (T20)?",
+      "options": [
+        "Sisanda Ngubane",
+        "Sarah Nettleton",
+        "Kgomotso Rapoo",
+        "Evodia Yekile"
+      ],
+      "answer_index": 2,
+      "explanation": "Kgomotso Rapoo led with 10 wickets, a joint record shared with Micaela Andrews."
+    }
+  ]
+}

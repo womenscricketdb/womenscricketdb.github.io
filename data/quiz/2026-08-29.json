@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T06:21:53.092572Z",
+  "generated_at": "2026-08-29T11:36:26.899043Z",
   "questions": [
     {
       "type": "curveball",
@@ -16,7 +16,7 @@
     },
     {
       "type": "higher_lower",
-      "question": "Who has more wickets — Faye Tunnicliffe or Annemie Koen? (List A only.)",
+      "question": "Who has more wickets — Faye Tunnicliffe or Annemie Koen? (List A.)",
       "options": [
         "Faye Tunnicliffe",
         "Annemie Koen"
@@ -26,7 +26,7 @@
     },
     {
       "type": "team_record",
-      "question": "Which provincial union holds the record for 'Biggest Win by Runs' in the 12/13 season (T20 only)?",
+      "question": "Which provincial union holds the record for 'Biggest Win by Runs' in the 12/13 season (T20)?",
       "options": [
         "Dolphins",
         "Lions",
@@ -38,7 +38,7 @@
     },
     {
       "type": "season_leader",
-      "question": "Who topped the wickets charts in the 17/18 season (T20 only)?",
+      "question": "Who topped the wickets charts in the 17/18 season (T20)?",
       "options": [
         "Tumi Sekhukhune",
         "Marnazelle Rabie",
@@ -50,25 +50,25 @@
     },
     {
       "type": "magnitude_gap",
-      "question": "How many runs separate the all-time #1 (Susan Benade) and #2 (Tazmin Brits) run-scorers (List A only)?",
+      "question": "How many runs separate the all-time #1 (Susan Benade) and #2 (Tazmin Brits) run-scorers (List A)?",
       "options": [
         "642",
-        "652",
-        "647",
-        "632"
+        "899",
+        "770",
+        "385"
       ],
       "answer_index": 0,
       "explanation": "Susan Benade: 4898 — Tazmin Brits: 4256 — a gap of 642."
     },
     {
       "type": "head_to_head",
-      "question": "In head-to-head T20 only meetings, who has the edge, Titans or Dragons?",
+      "question": "In head-to-head T20 meetings, who has the edge, Titans or Dragons?",
       "options": [
         "Dragons",
         "Titans"
       ],
       "answer_index": 0,
-      "explanation": "Dragons lead 6-5 across 12 meetings (T20 only)."
+      "explanation": "Dragons lead 6-5 across 12 meetings (T20)."
     }
   ]
 }
