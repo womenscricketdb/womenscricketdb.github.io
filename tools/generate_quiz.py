@@ -1024,33 +1024,77 @@ def q_reverse_record(rng, used_files):
     return None
 
 
+# Counting stats where "gap between #1 and #2" is a meaningful, well-
+# formed question: higher is unambiguously better, and the value is a
+# plain integer count. Deliberately excludes rate stats (Batting/Bowling
+# Average -- a decimal, and "gap" reads oddly), Bowling Figures (not a
+# single number), and Fastest 50/100 (lower is better -- would need the
+# gap logic inverted, not worth the special-casing for two files).
+# Tuple shape: (rel_path, holder_col, value_col, stat_label, stat_noun)
+MAGNITUDE_GAP_FILES = [
+    ("records/batting/json/Most_Runs.json", "Player", "Runs", "runs", "run-scorers"),
+    ("records/batting/json/100Plus_Scores.json", "Player", "100+ Scores", "100+ scores", "century-makers"),
+    ("records/batting/json/50Plus_Scores.json", "Player", "50+ Scores", "50+ scores", "half-century makers"),
+    ("records/batting/json/Most_Sixes.json", "Player", "Sixes", "sixes", "six-hitters"),
+    ("records/batting/json/Most_Fours.json", "Player", "Fours", "fours", "boundary-hitters"),
+    ("records/bowling/json/Most_Wickets.json", "Player", "Wickets", "wickets", "wicket-takers"),
+    ("records/bowling/json/Most_5Wickets.json", "Player", "5-for's", "5-wicket hauls", "bowlers"),
+    ("records/bowling/json/Most_Maidens.json", "Player", "Maidens", "maidens", "bowlers"),
+    ("records/fielding/json/Field_Catches.json", "Player", "Catches (Field)", "catches", "fielders"),
+    ("records/fielding/json/WK_Dismissals.json", "Player", "Wicketkeeping Dismissals", "wicketkeeping dismissals", "wicketkeepers"),
+    ("records/misc/json/Most_Matches.json", "Player", "Matches", "matches played", "players"),
+]
+
+
 def q_magnitude_gap(rng, used_files):
     """Tests intuition about scale rather than recall of a name --
     how big is the gap between #1 and #2 on a leaderboard?"""
-    key = "magnitude_gap"
-    fmt = rng.choice(FORMAT_CHOICES)
-    stat_choice = rng.choice(["runs", "wickets"])
-
-    if stat_choice == "runs":
-        players = _batting_rows(fmt, min_runs=0)
-        value_col = "Runs"
-        stat_label = "runs"
-        stat_noun = "run-scorers"
-    else:
-        players = _bowling_rows(fmt, min_wickets=0)
-        value_col = "Wickets"
-        stat_label = "wickets"
-        stat_noun = "wicket-takers"
-
-    if len(players) < 2:
+    # This template almost never fails (any of the record files below
+    # reliably has 2+ ranked entries), unlike several pickier templates
+    # (venue/head-to-head records etc.) that often return None. Since
+    # selection is "shuffle 15 templates, take the first 6 that succeed,"
+    # an always-succeeds template quietly outcompetes the fussier ones
+    # and shows up far more than its single slot in TEMPLATES would
+    # suggest. Throttle it down explicitly.
+    if rng.random() < 0.5:
         return None
 
-    ranked = sorted(players, key=lambda p: int(p[value_col]), reverse=True)
-    p1, p2 = ranked[0], ranked[1]
-    v1, v2 = int(p1[value_col]), int(p2[value_col])
+    candidates = [f for f in MAGNITUDE_GAP_FILES if f[0] not in used_files]
+    if not candidates:
+        candidates = MAGNITUDE_GAP_FILES
+    rel_path, holder_col, value_col, stat_label, stat_noun = rng.choice(candidates)
+
+    columns, rows = rows_of(rel_path)
+    fmt = rng.choice(FORMAT_CHOICES)
+    scope_fmt, season, filtered = _pick_record_scope(columns, rows, rng, fmt, min_rows=4)
+    if season is None:
+        scope_fmt, season, filtered = "OVERALL", "OVERALL", filter_by_format(columns, rows, "OVERALL", "OVERALL")
+        if len(filtered) < 4:
+            return None
+    fmt = scope_fmt
+
+    holder_i = col_index(columns, holder_col)
+    value_i = col_index(columns, value_col)
+
+    # Compare the top two *distinct* values, not the top two rows -- a
+    # tie for #1 is common on lower-ceiling counting stats (maidens,
+    # 5-wicket hauls) and would otherwise give a gap of 0 and silently
+    # kill the whole call far more often on those stats than on runs.
+    try:
+        distinct_values = sorted({int(r[value_i]) for r in filtered}, reverse=True)
+    except ValueError:
+        return None
+    if len(distinct_values) < 2:
+        return None
+    v1, v2 = distinct_values[0], distinct_values[1]
     gap = v1 - v2
     if gap <= 0:
         return None
+
+    names_v1 = [r[holder_i] for r in filtered if int(r[value_i]) == v1]
+    names_v2 = [r[holder_i] for r in filtered if int(r[value_i]) == v2]
+    p1_name = rng.choice(names_v1)
+    p2_name = rng.choice(names_v2)
 
     # Scale decoys to the gap's own size rather than a fixed absolute
     # offset -- a flat +/-30 is a fine spread when the gap is ~12, but
@@ -1082,10 +1126,13 @@ def q_magnitude_gap(rng, used_files):
     answer_index = options.index(str(gap))
 
     question = (
-        f"How many {stat_label} separate the all-time #1 ({p1['Player']}) "
-        f"and #2 ({p2['Player']}) {stat_noun} ({FORMAT_LABEL[fmt]})?"
+        f"How many {stat_label} separate the all-time #1 ({p1_name}) "
+        f"and #2 ({p2_name}) {stat_noun} ({FORMAT_LABEL[fmt]})"
     )
-    explanation = f"{p1['Player']}: {v1} — {p2['Player']}: {v2} — a gap of {gap}."
+    question += "?" if season == "OVERALL" else f" in the {season} season?"
+    explanation = f"{p1_name}: {v1} — {p2_name}: {v2} — a gap of {gap}."
+
+    key = f"magnitude_gap:{rel_path}:{fmt}:{season}"
 
     return {
         "type": "magnitude_gap",
@@ -1352,10 +1399,42 @@ def get_curveball_for_date(for_date):
 
 
 # --------------------------------------------------------------------------
-# Quiz assembly
+# Cross-day repeat prevention: a rolling window of the last N questions'
+# source keys (template name + the same source_key already used for
+# same-day dedup above), so the exact same question can't reappear until
+# it ages out of the window. Deliberately a flat rolling list rather than
+# "scan the last N days of data/quiz/" -- this repo regenerates several
+# days ahead each run (see the buffer-days workflow step), so re-running
+# for an already-generated date would double count that date's questions
+# if we scanned by day. A flat list sidesteps that: regenerating a date
+# just replaces that date's entries in place rather than duplicating them.
 # --------------------------------------------------------------------------
 
-def generate_quiz(for_date, seed=None):
+RECENT_KEYS_PATH = REPO_ROOT / "tools" / "recent_keys.json"
+RECENT_KEYS_MAX = 100
+
+
+def load_recent_keys():
+    if not RECENT_KEYS_PATH.exists():
+        return []
+    try:
+        with open(RECENT_KEYS_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return []
+
+
+def save_recent_keys(entries):
+    RECENT_KEYS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with open(RECENT_KEYS_PATH, "w", encoding="utf-8") as f:
+        json.dump(entries[-RECENT_KEYS_MAX:], f, indent=2, ensure_ascii=False)
+
+
+def generate_quiz(for_date, seed=None, recent_keys=None):
+    """recent_keys: entries from load_recent_keys(), or None to skip
+    cross-day dedup entirely (e.g. an isolated/one-off --preview run).
+    Returns (quiz_dict, updated_recent_keys) -- the caller decides
+    whether updated_recent_keys is worth persisting via save_recent_keys."""
     rng = random.Random(seed if seed is not None else for_date.isoformat())
     templates = TEMPLATES[:]
     rng.shuffle(templates)
@@ -1365,8 +1444,20 @@ def generate_quiz(for_date, seed=None):
     curveball = get_curveball_for_date(for_date)
     if curveball:
         questions.append(curveball)
+        # curveballs have their own separate anti-repeat mechanism (the
+        # deck-shuffle in get_curveball_for_date) -- not tracked here.
+
+    recent_keys = recent_keys if recent_keys is not None else []
+    # Regenerating an already-generated date (buffer days re-running)
+    # shouldn't double-count that date's entries -- drop them first, the
+    # fresh set for this date gets appended back at the end below.
+    recent_keys = [e for e in recent_keys if e.get("date") != for_date.isoformat()]
 
     used_files_by_template = {}
+    for entry in recent_keys:
+        used_files_by_template.setdefault(entry["template"], set()).add(entry["source_key"])
+
+    todays_entries = []
     attempts = 0
     template_cycle = list(templates)
 
@@ -1386,6 +1477,7 @@ def generate_quiz(for_date, seed=None):
             continue
         used.add(source_key)
         questions.append(q)
+        todays_entries.append({"date": for_date.isoformat(), "template": key, "source_key": source_key})
 
     if len(questions) < QUESTIONS_PER_DAY:
         print(
@@ -1395,12 +1487,15 @@ def generate_quiz(for_date, seed=None):
 
     rng.shuffle(questions)
 
-    return {
+    updated_recent_keys = recent_keys + todays_entries
+
+    quiz = {
         "date": for_date.isoformat(),
         "generated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
         "questions": questions,
     }
 
+    return quiz, updated_recent_keys
 
 def main():
     parser = argparse.ArgumentParser()
@@ -1409,9 +1504,13 @@ def main():
     args = parser.parse_args()
 
     for_date = date.fromisoformat(args.date) if args.date else date.today()
-    quiz = generate_quiz(for_date)
+    recent_keys = load_recent_keys()
+    quiz, updated_recent_keys = generate_quiz(for_date, recent_keys=recent_keys)
 
     if args.preview:
+        # Read from recent_keys so the preview reflects real dedup
+        # behavior, but never write -- a preview run shouldn't consume
+        # a slot in the rolling window for a quiz nothing actually saw.
         print(json.dumps(quiz, indent=2, ensure_ascii=False))
         return
 
@@ -1419,6 +1518,7 @@ def main():
     out_path = QUIZ_OUT_DIR / f"{for_date.isoformat()}.json"
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(quiz, f, indent=2, ensure_ascii=False)
+    save_recent_keys(updated_recent_keys)
     print(f"Wrote {out_path} ({len(quiz['questions'])} questions)")
 
 
