@@ -7,7 +7,7 @@
   {
     "date": "2026-09-02",
     "template": "q_player_record",
-    "source_key": "records/batting/json/Batting_Average.json"
+    "source_key": "records/fielding/json/WK_Dismissals.json"
   },
   {
     "date": "2026-09-02",
@@ -47,7 +47,7 @@
   {
     "date": "2026-09-03",
     "template": "q_player_record",
-    "source_key": "records/batting/json/Most_Fours.json"
+    "source_key": "records/bowling/json/Most_Maidens.json"
   },
   {
     "date": "2026-09-04",
@@ -91,12 +91,12 @@
   },
   {
     "date": "2026-09-05",
-    "template": "q_player_record",
-    "source_key": "records/fielding/json/Field_Catches.json"
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
   },
   {
     "date": "2026-09-05",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Badgers:Highest Total:T20"
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Fours.json"
   }
 ]
