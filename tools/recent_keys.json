@@ -47,7 +47,7 @@
   {
     "date": "2026-09-03",
     "template": "q_player_record",
-    "source_key": "records/bowling/json/Most_Maidens.json"
+    "source_key": "records/fielding/json/Field_Catches.json"
   },
   {
     "date": "2026-09-04",
@@ -98,5 +98,30 @@
     "date": "2026-09-05",
     "template": "q_player_record",
     "source_key": "records/batting/json/Most_Fours.json"
+  },
+  {
+    "date": "2026-09-06",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Highest_Score.json"
+  },
+  {
+    "date": "2026-09-06",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:T20"
+  },
+  {
+    "date": "2026-09-06",
+    "template": "q_reverse_record",
+    "source_key": "records/batting/json/Highest_Score.json"
+  },
+  {
+    "date": "2026-09-06",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Rhinos-Titans:List A"
+  },
+  {
+    "date": "2026-09-06",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_50_3"
   }
 ]

@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-03T03:39:52.096987Z",
+  "questions": [
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Eastern Storm record their 'Largest Win by Runs' (T20)?",
+      "options": [
+        "Sir Lionel Phillips Park",
+        "St. Andrews Vossie",
+        "Country Club B Field",
+        "Polokwane Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Polokwane Oval — largest win by runs of 90, against Limpopo Lillies on 2013/10/12."
+    },
+    {
+      "type": "reverse_record",
+      "question": "Nadine Moodley set a database record (21/22 season, T20) with a value of 108. Which record is it?",
+      "options": [
+        "Fastest 50 (by balls)",
+        "Best Bowling Average",
+        "Highest Individual Score",
+        "Most Wickets"
+      ],
+      "answer_index": 2,
+      "explanation": "It's the record for 'Highest Individual Score', held by Nadine Moodley."
+    },
+    {
+      "type": "curveball",
+      "question": "Who won CSA Women's Cricketer of the Year in the 2022/23 season?",
+      "options": [
+        "Nonkululeko Mlaba",
+        "Laura Wolvaardt",
+        "Shabnim Ismail",
+        "Marizanne Kapp"
+      ],
+      "answer_index": 2,
+      "explanation": "Shabnim Ismail won it in 2022/23."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the 50+ runs and 3+ wickets in a match double more times, Kirstie Thomson or Khushi Mistry?",
+      "options": [
+        "Kirstie Thomson",
+        "Khushi Mistry"
+      ],
+      "answer_index": 0,
+      "explanation": "Kirstie Thomson: 3 times. Khushi Mistry: 1 times."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Rhinos or Titans?",
+      "options": [
+        "Titans",
+        "Rhinos"
+      ],
+      "answer_index": 0,
+      "explanation": "Titans lead 14-0 across 16 meetings (List A)."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Highest Individual Score' in the 24/25 season (List A)?",
+      "options": [
+        "Diedre van Rensburg",
+        "Karabo Meso",
+        "Suné Luus",
+        "Annerie Dercksen"
+      ],
+      "answer_index": 0,
+      "explanation": "Diedre van Rensburg holds it, with a total of 165."
+    }
+  ]
+}
