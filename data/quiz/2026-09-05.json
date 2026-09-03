@@ -1,16 +1,18 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-03T03:39:51.976982Z",
+  "generated_at": "2026-09-03T07:58:39.864442Z",
   "questions": [
     {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the 100+ runs and 4+ wickets in a match double more times, Mieke van Voorst or Suné Luus?",
+      "type": "career_best_venue",
+      "question": "At which ground did Mieke de Ridder record their career-best innings (55, T20)?",
       "options": [
-        "Mieke van Voorst",
-        "Suné Luus"
+        "Khaya Majola Oval",
+        "Bloemfontein Oval",
+        "Westering High School",
+        "Buffalo Park"
       ],
-      "answer_index": 1,
-      "explanation": "Mieke van Voorst: 1 times. Suné Luus: 2 times."
+      "answer_index": 3,
+      "explanation": "It was at Buffalo Park, against Iinyathi on 2022/03/13."
     },
     {
       "type": "curveball",
@@ -25,52 +27,50 @@
       "explanation": "Dané van Niekerk won it in 2016."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Terry-Lee Kleynhans record their career-best bowling figures (3-19, List A)?",
+      "type": "venue_record",
+      "question": "At Victory Park, who holds the record for 'Most Runs' (T20)?",
       "options": [
-        "City Oval",
-        "Potchefstroom Oval",
-        "Willowmoore Park A Field",
-        "West End Cricket Club Ground"
+        "Lizelle Lee",
+        "Shania-Lee Swart",
+        "Elriesa Theunissen",
+        "Tazmin Brits"
       ],
-      "answer_index": 3,
-      "explanation": "It was at West End Cricket Club Ground, against Heat on 2007/10/20."
+      "answer_index": 0,
+      "explanation": "Lizelle Lee holds it with 121."
     },
     {
-      "type": "player_record",
-      "question": "Who holds the record for 'Most Fours' in the 12/13 season (T20)?",
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the 100+ runs and 3+ wickets in a match double more times, Lanette Pienaar or Susan Benade?",
       "options": [
-        "Cri-Zelda Brits",
-        "Kirstie Thomson",
-        "Elriesa Theunissen",
-        "Gezelle Jansen van Rensburg"
+        "Lanette Pienaar",
+        "Susan Benade"
       ],
       "answer_index": 1,
-      "explanation": "Kirstie Thomson holds it, with a total of 28."
+      "explanation": "Lanette Pienaar: 1 times. Susan Benade: 2 times."
     },
     {
       "type": "team_record_venue",
-      "question": "At which ground did Badgers record their 'Largest Win by Runs' (T20)?",
+      "question": "At which ground did Eastern Storm record their 'Largest Win by Runs' (List A)?",
       "options": [
-        "Kingsmead stadium",
-        "Easterns Cricket Club Ground",
-        "Military Ground",
-        "Recreation Ground"
-      ],
-      "answer_index": 3,
-      "explanation": "It was at Recreation Ground — largest win by runs of 146, against Kei on 2018/11/18."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Boland Park, Paarl, who holds the record for 'Most Catches' (List A)?",
-      "options": [
-        "Yolandi van der Westhuizen",
-        "Stacey Lackay",
-        "Sunette Loubser",
-        "Beth Cartledge"
+        "Columbus Oval",
+        "Oudtshoorn High School",
+        "Uplands College",
+        "Wanderers"
       ],
       "answer_index": 2,
-      "explanation": "Sunette Loubser holds it with 11, a joint record shared with Alicia Smith."
+      "explanation": "It was at Uplands College — largest win by runs of 218, against Rhinos on 2025/03/01."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most 50+ Scores' in the 05/06 season (List A)?",
+      "options": [
+        "Johmari Logtenberg",
+        "Alicia Smith",
+        "Susan Benade",
+        "Annelie Minny"
+      ],
+      "answer_index": 0,
+      "explanation": "Johmari Logtenberg holds it, with a total of 5."
     }
   ]
 }
