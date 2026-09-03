@@ -160,7 +160,7 @@ const WCA_QUIZ = (() => {
             explWrap.innerHTML = `<div class="wca-quiz-explanation">${escapeHtml(q.explanation)}</div>`;
         }
 
-        answers[current] = correct;
+        answers[current] = { correct, selectedIndex: i };
         saveProgress(quiz.date, answers, current);
 
         const nextWrap = document.getElementById("quizNextWrap");
@@ -179,11 +179,11 @@ const WCA_QUIZ = (() => {
 
     function renderResult() {
         const total = quiz.questions.length;
-        const score = answers.filter(Boolean).length;
+        const score = answers.filter(a => a && a.correct).length;
         recordHistory(quiz.date, score, total);
         const streak = computeStreak();
 
-        const grid = answers.map(a => (a ? "🟩" : "🟥")).join("");
+        const grid = answers.map(a => (a && a.correct ? "🟩" : "🟥")).join("");
         const shareText =
             `Women's Provincial Cricket Quiz — ${quiz.date}\n${score}/${total}\n${grid}\nhttps://womenscricketdb.github.io/quiz.html`;
 
@@ -195,6 +195,12 @@ const WCA_QUIZ = (() => {
                 ${streak > 1 ? `<p class="wca-quiz-progress">🔥 ${streak}-day streak</p>` : ""}
                 <button type="button" class="btn btn-warning" id="quizShareBtn">Copy result to share</button>
                 <p class="wca-quiz-progress" style="margin-top:1rem;">A new quiz is generated every day from the site's data.</p>
+            </div>
+            <div class="wca-quiz-review">
+                <button type="button" class="wca-quiz-review-toggle" id="quizReviewToggle" aria-expanded="false">
+                    Review your answers <i class="bi bi-chevron-down"></i>
+                </button>
+                <div id="quizReviewList" class="wca-quiz-review-list" hidden></div>
             </div>
         `;
 
@@ -209,10 +215,59 @@ const WCA_QUIZ = (() => {
                 alert(shareText);
             }
         });
+
+        const toggle = document.getElementById("quizReviewToggle");
+        const list = document.getElementById("quizReviewList");
+        let built = false;
+        toggle.addEventListener("click", () => {
+            const expanded = toggle.getAttribute("aria-expanded") === "true";
+            if (!built) {
+                list.innerHTML = buildReviewHtml();
+                built = true;
+            }
+            toggle.setAttribute("aria-expanded", String(!expanded));
+            toggle.classList.toggle("open", !expanded);
+            list.hidden = expanded;
+        });
+    }
+
+    function buildReviewHtml() {
+        return quiz.questions.map((q, idx) => {
+            const a = answers[idx];
+            const correct = !!(a && a.correct);
+            const selectedIndex = a ? a.selectedIndex : undefined;
+
+            const optionsHtml = q.options.map((opt, i) => {
+                let cls = "wca-quiz-review-option";
+                if (i === q.answer_index) cls += " correct";
+                else if (i === selectedIndex) cls += " incorrect";
+                return `<div class="${cls}">${escapeHtml(opt)}</div>`;
+            }).join("");
+
+            return `
+                <div class="wca-quiz-review-item">
+                    <div class="wca-quiz-review-header">
+                        <span class="wca-quiz-review-icon">${correct ? "✅" : "❌"}</span>
+                        <span class="wca-quiz-review-question">${idx + 1}. ${escapeHtml(q.question)}</span>
+                    </div>
+                    <div class="wca-quiz-review-options">${optionsHtml}</div>
+                    ${q.explanation ? `<div class="wca-quiz-explanation">${escapeHtml(q.explanation)}</div>` : ""}
+                </div>
+            `;
+        }).join("");
     }
 
     function renderError(message) {
         root.innerHTML = `<div class="wca-quiz-error">${escapeHtml(message)}</div>`;
+    }
+
+    // Progress saved before the "review your answers" feature stored plain
+    // booleans (just correct/incorrect, no selected option). Upgrade those
+    // in place to {correct, selectedIndex: undefined} so every other
+    // function can assume the object shape and just show a blank review
+    // row for that one question instead of miscounting the score.
+    function normalizeAnswers(arr) {
+        return (arr || []).map(a => (typeof a === "boolean" ? { correct: a, selectedIndex: undefined } : a));
     }
 
     function escapeHtml(str) {
@@ -258,7 +313,7 @@ const WCA_QUIZ = (() => {
         } else {
             const saved = loadProgress(date);
             if (saved) {
-                answers = saved.answers || [];
+                answers = normalizeAnswers(saved.answers);
                 current = saved.current || 0;
             } else {
                 answers = [];

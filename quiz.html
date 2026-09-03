@@ -156,6 +156,87 @@
             text-align: center;
             padding: 3rem 1rem;
         }
+
+        .wca-quiz-review {
+            margin-top: 1rem;
+        }
+        .wca-quiz-review-toggle {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.4rem;
+            font-family: var(--wca-font-body);
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--wca-text);
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            border-radius: 10px;
+            padding: 0.8rem 1rem;
+            cursor: pointer;
+            transition: border-color 0.12s;
+        }
+        .wca-quiz-review-toggle:hover {
+            border-color: var(--wca-gold);
+        }
+        .wca-quiz-review-toggle .bi {
+            transition: transform 0.15s ease;
+        }
+        .wca-quiz-review-toggle.open .bi {
+            transform: rotate(180deg);
+        }
+        .wca-quiz-review-list {
+            margin-top: 0.8rem;
+        }
+        .wca-quiz-review-item {
+            background: var(--wca-surface);
+            border: 1px solid var(--wca-border);
+            border-radius: 10px;
+            padding: 1.1rem 1.3rem;
+            margin-bottom: 0.8rem;
+        }
+        .wca-quiz-review-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.6rem;
+            margin-bottom: 0.8rem;
+        }
+        .wca-quiz-review-question {
+            font-family: var(--wca-font-body);
+            font-size: 0.98rem;
+            font-weight: 600;
+            line-height: 1.45;
+        }
+        .wca-quiz-review-options {
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+        }
+        .wca-quiz-review-option {
+            font-family: var(--wca-font-body);
+            font-size: 0.9rem;
+            background: var(--wca-surface-raised);
+            border: 1px solid var(--wca-border);
+            color: var(--wca-text-dim);
+            border-radius: 8px;
+            padding: 0.5rem 0.8rem;
+        }
+        .wca-quiz-review-option.correct {
+            border-color: #3ecf6a;
+            background: rgba(62, 207, 106, 0.12);
+            color: var(--wca-text);
+        }
+        .wca-quiz-review-option.incorrect {
+            border-color: #e05555;
+            background: rgba(224, 85, 85, 0.12);
+            color: var(--wca-text);
+        }
+        .wca-quiz-review-item .wca-quiz-explanation {
+            border-top: 1px solid var(--wca-border);
+            margin-top: 0.9rem;
+            padding-top: 0.8rem;
+        }
     </style>
 </head>
 <body>
