@@ -284,7 +284,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "0.00",
         "100s": "0",
         "50s": "0",
@@ -630,6 +630,300 @@
         "Bowling": "0/10",
         "Fielding": "",
         "Match_Slug": "2016-03-31-lions-western-province"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2016/01/31",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2017/02/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "47.37",
+        "Opposition": "Titans",
+        "Date": "2018/11/04",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "24",
+        "Average": "6.00",
+        "Strike-Rate": "46.15",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "24",
+        "Average": "4.80",
+        "Strike-Rate": "46.15",
+        "Opposition": "Knights",
+        "Date": "2020/01/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2016/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "13.33",
+        "Opposition": "Boland",
+        "Date": "2016/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "13.33",
+        "Opposition": "Boland",
+        "Date": "2017/01/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "11.11",
+        "Opposition": "Knights",
+        "Date": "2017/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "22",
+        "Average": "7.33",
+        "Strike-Rate": "30.56",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "22",
+        "Average": "5.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "26",
+        "Average": "5.20",
+        "Strike-Rate": "29.21",
+        "Opposition": "Dragons",
+        "Date": "2019/01/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2016/01/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2016/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "11.76",
+        "Opposition": "Boland",
+        "Date": "2016/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "11.76",
+        "Opposition": "Boland",
+        "Date": "2017/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "10.00",
+        "Opposition": "Knights",
+        "Date": "2017/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "10.00",
+        "Opposition": "Knights",
+        "Date": "2017/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "22",
+        "Average": "4.40",
+        "Strike-Rate": "29.73",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "31",
+        "Average": "5.17",
+        "Strike-Rate": "34.07",
+        "Opposition": "Titans",
+        "Date": "2018/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "31",
+        "Average": "4.43",
+        "Strike-Rate": "28.97",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "46",
+        "Average": "5.75",
+        "Strike-Rate": "32.86",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "50",
+        "Average": "5.56",
+        "Strike-Rate": "35.46",
+        "Opposition": "Dragons",
+        "Date": "2019/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "50",
+        "Average": "5.00",
+        "Strike-Rate": "35.46",
+        "Opposition": "Knights",
+        "Date": "2020/01/19",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.75",
+        "Opposition": "Western Province",
+        "Date": "2016/01/31",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.88",
+        "Opposition": "Knights",
+        "Date": "2020/01/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50",
+        "Opposition": "Western Province",
+        "Date": "2016/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "6.00",
+        "Opposition": "Boland",
+        "Date": "2017/01/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.75",
+        "Opposition": "Western Province",
+        "Date": "2016/01/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.44",
+        "Opposition": "Western Province",
+        "Date": "2016/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "45.00",
+        "Economy": "5.40",
+        "Opposition": "Boland",
+        "Date": "2017/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "65.00",
+        "Economy": "5.27",
+        "Opposition": "Knights",
+        "Date": "2020/01/19",
+        "Format": "OVERALL"
       }
     ]
   }

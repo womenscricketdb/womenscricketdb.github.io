@@ -168,5 +168,47 @@
         "Match_Slug": "2009-10-04-titans-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "48.00",
+        "Opposition": "Titans",
+        "Date": "2009/10/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "48.00",
+        "Opposition": "Titans",
+        "Date": "2009/10/04",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "46.00",
+        "Economy": "5.11",
+        "Opposition": "Titans",
+        "Date": "2009/10/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "46.00",
+        "Economy": "5.11",
+        "Opposition": "Titans",
+        "Date": "2009/10/04",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

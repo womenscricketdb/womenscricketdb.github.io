@@ -195,5 +195,65 @@
         "Match_Slug": "2012-02-26-rhinos-lions"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "29",
+        "Average": "-",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "38",
+        "Average": "38.00",
+        "Strike-Rate": "190.00",
+        "Opposition": "Titans",
+        "Date": "2012/03/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "29",
+        "Average": "-",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "38",
+        "Average": "38.00",
+        "Strike-Rate": "190.00",
+        "Opposition": "Titans",
+        "Date": "2012/03/24",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "2.75",
+        "Economy": "4.12",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "2.75",
+        "Economy": "4.12",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

@@ -203,5 +203,83 @@
         "Match_Slug": "2014-02-08-rhinos-lions"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "35.29",
+        "Opposition": "Lions",
+        "Date": "2014/02/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "40.74",
+        "Opposition": "Eastern Storm",
+        "Date": "2014/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "35.29",
+        "Opposition": "Lions",
+        "Date": "2014/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "40.74",
+        "Opposition": "Eastern Storm",
+        "Date": "2014/02/22",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50",
+        "Opposition": "Lions",
+        "Date": "2014/02/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "12.00",
+        "Economy": "7.20",
+        "Opposition": "Eastern Storm",
+        "Date": "2014/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50",
+        "Opposition": "Lions",
+        "Date": "2014/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "12.00",
+        "Economy": "7.20",
+        "Opposition": "Eastern Storm",
+        "Date": "2014/02/22",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

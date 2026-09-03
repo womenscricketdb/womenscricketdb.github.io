@@ -159,5 +159,46 @@
         "Match_Slug": "2007-03-17-lions-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Dragons",
+        "Date": "2007/03/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2007/03/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Dragons",
+        "Date": "2007/03/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2007/03/17",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

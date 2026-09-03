@@ -283,5 +283,83 @@
         "Match_Slug": "2022-02-19-badgers-kei"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "37.50",
+        "Opposition": "Warriors",
+        "Date": "2022/02/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Badgers",
+        "Date": "2022/02/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "37.50",
+        "Opposition": "Warriors",
+        "Date": "2022/02/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "33.33",
+        "Opposition": "Badgers",
+        "Date": "2022/02/19",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "7.50",
+        "Opposition": "Warriors",
+        "Date": "2022/02/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "5.00",
+        "Opposition": "Badgers",
+        "Date": "2022/02/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "7.50",
+        "Opposition": "Warriors",
+        "Date": "2022/02/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "15.00",
+        "Economy": "6.00",
+        "Opposition": "Badgers",
+        "Date": "2022/02/19",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

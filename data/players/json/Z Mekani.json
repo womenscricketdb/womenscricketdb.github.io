@@ -201,7 +201,7 @@
         "Not Out": "1",
         "Runs": "9",
         "Highest Score": "4*",
-        "Average": "2.25",
+        "Average": "3.00",
         "Strike-Rate": "16.67",
         "100s": "0",
         "50s": "0",
@@ -218,7 +218,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "25.00",
         "100s": "0",
         "50s": "0",
@@ -512,6 +512,246 @@
         "Bowling": "1/14",
         "Fielding": "",
         "Match_Slug": "2016-01-10-kei-warriors"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2016/01/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "9.09",
+        "Opposition": "Dragons",
+        "Date": "2016/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "11.63",
+        "Opposition": "Boland",
+        "Date": "2016/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "16.67",
+        "Opposition": "Titans",
+        "Date": "2016/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2016/01/10",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2016/01/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2016/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "20.00",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "13.33",
+        "Opposition": "Dragons",
+        "Date": "2016/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "6",
+        "Average": "1.20",
+        "Strike-Rate": "12.77",
+        "Opposition": "Boland",
+        "Date": "2016/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "10",
+        "Average": "1.67",
+        "Strike-Rate": "17.24",
+        "Opposition": "Titans",
+        "Date": "2016/04/01",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "3.00",
+        "Opposition": "Kei",
+        "Date": "2016/01/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "24.00",
+        "Economy": "6.00",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "19.50",
+        "Economy": "6.50",
+        "Opposition": "Dragons",
+        "Date": "2016/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "23.50",
+        "Economy": "5.88",
+        "Opposition": "Titans",
+        "Date": "2016/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "7.00",
+        "Opposition": "Kei",
+        "Date": "2016/01/10",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "6.92",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "3.00",
+        "Opposition": "Kei",
+        "Date": "2016/01/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "8.50",
+        "Economy": "5.67",
+        "Opposition": "Kei",
+        "Date": "2016/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "19.00",
+        "Economy": "6.33",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "19.50",
+        "Economy": "6.32",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "18.00",
+        "Economy": "6.61",
+        "Opposition": "Dragons",
+        "Date": "2016/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "3",
+        "Average": "20.67",
+        "Economy": "6.10",
+        "Opposition": "Titans",
+        "Date": "2016/04/01",
+        "Format": "OVERALL"
       }
     ]
   }

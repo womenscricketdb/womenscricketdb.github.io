@@ -72,7 +72,7 @@
         "Not Out": "1",
         "Runs": "26",
         "Highest Score": "26*",
-        "Average": "26.00",
+        "Average": "",
         "Strike-Rate": "76.47",
         "100s": "0",
         "50s": "0",
@@ -167,5 +167,46 @@
         "Match_Slug": "2012-01-14-western-province-badgers"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Badgers",
+        "Date": "2012/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "26",
+        "Average": "26.00",
+        "Strike-Rate": "76.47",
+        "Opposition": "Kei",
+        "Date": "2012/01/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Badgers",
+        "Date": "2012/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "26",
+        "Average": "26.00",
+        "Strike-Rate": "76.47",
+        "Opposition": "Kei",
+        "Date": "2012/01/29",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

@@ -101,7 +101,7 @@
         "Not Out": "1",
         "Runs": "7",
         "Highest Score": "7*",
-        "Average": "7.00",
+        "Average": "",
         "Strike-Rate": "22.58",
         "100s": "0",
         "50s": "0",
@@ -291,6 +291,120 @@
         "Bowling": "0/16",
         "Fielding": "",
         "Match_Slug": "2023-11-12-eastern-storm-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2023/10/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "22.58",
+        "Opposition": "Dragons",
+        "Date": "2024/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2023/11/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2023/10/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2023/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "22.58",
+        "Opposition": "Dragons",
+        "Date": "2024/03/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "22.00",
+        "Economy": "3.67",
+        "Opposition": "Rhinos",
+        "Date": "2023/10/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "31.00",
+        "Economy": "3.88",
+        "Opposition": "Dragons",
+        "Date": "2024/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2023/11/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "22.00",
+        "Economy": "3.67",
+        "Opposition": "Rhinos",
+        "Date": "2023/10/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "38.00",
+        "Economy": "4.22",
+        "Opposition": "Eastern Storm",
+        "Date": "2023/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "47.00",
+        "Economy": "4.27",
+        "Opposition": "Dragons",
+        "Date": "2024/03/23",
+        "Format": "OVERALL"
       }
     ]
   }

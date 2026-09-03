@@ -72,7 +72,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "2.00",
+        "Average": "4.00",
         "Strike-Rate": "80.00",
         "100s": "0",
         "50s": "0",
@@ -159,5 +159,46 @@
         "Match_Slug": "2007-10-13-dragons-heat"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Heat",
+        "Date": "2007/10/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2007/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Heat",
+        "Date": "2007/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2007/11/03",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

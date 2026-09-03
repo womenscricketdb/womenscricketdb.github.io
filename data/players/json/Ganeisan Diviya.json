@@ -129,7 +129,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.25",
+        "Average": "",
         "Strike-Rate": "25.00",
         "100s": "0",
         "50s": "0",
@@ -322,6 +322,156 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2014-01-11-boland-iinyathi"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "25.00",
+        "Opposition": "Iinyathi",
+        "Date": "2014/01/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Kei",
+        "Date": "2014/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Western Province",
+        "Date": "2014/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "25.00",
+        "Opposition": "Badgers",
+        "Date": "2014/02/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "25.00",
+        "Opposition": "Warriors",
+        "Date": "2014/02/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "25.00",
+        "Opposition": "Iinyathi",
+        "Date": "2014/01/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Kei",
+        "Date": "2014/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Western Province",
+        "Date": "2014/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "25.00",
+        "Opposition": "Badgers",
+        "Date": "2014/02/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "25.00",
+        "Opposition": "Warriors",
+        "Date": "2014/02/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "2.00",
+        "Economy": "0.67",
+        "Opposition": "Kei",
+        "Date": "2014/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "13.25",
+        "Economy": "3.57",
+        "Opposition": "Western Province",
+        "Date": "2014/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "10.60",
+        "Economy": "3.38",
+        "Opposition": "Warriors",
+        "Date": "2014/02/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "2.00",
+        "Economy": "0.67",
+        "Opposition": "Kei",
+        "Date": "2014/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "13.25",
+        "Economy": "3.57",
+        "Opposition": "Western Province",
+        "Date": "2014/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "10.60",
+        "Economy": "3.38",
+        "Opposition": "Warriors",
+        "Date": "2014/02/02",
+        "Format": "OVERALL"
       }
     ]
   }

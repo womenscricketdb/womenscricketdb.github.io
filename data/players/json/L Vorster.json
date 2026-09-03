@@ -189,7 +189,7 @@
         "Not Out": "0",
         "Runs": "15",
         "Highest Score": "15",
-        "Average": "7.50",
+        "Average": "15.00",
         "Strike-Rate": "107.14",
         "100s": "0",
         "50s": "0",
@@ -500,6 +500,192 @@
         "Bowling": "2/23",
         "Fielding": "1 ct",
         "Match_Slug": "2019-02-24-knights-warriors"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "16.67",
+        "Opposition": "Knights",
+        "Date": "2019/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67",
+        "Opposition": "Boland",
+        "Date": "2019/11/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "16",
+        "Average": "8.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Iinyathi",
+        "Date": "2020/02/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "16.00",
+        "Opposition": "Knights",
+        "Date": "2019/02/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "16.00",
+        "Opposition": "Boland",
+        "Date": "2019/11/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "16.67",
+        "Opposition": "Knights",
+        "Date": "2019/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "16.13",
+        "Opposition": "Knights",
+        "Date": "2019/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "16.13",
+        "Opposition": "Boland",
+        "Date": "2019/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "16.13",
+        "Opposition": "Boland",
+        "Date": "2019/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "20",
+        "Average": "5.00",
+        "Strike-Rate": "44.44",
+        "Opposition": "Iinyathi",
+        "Date": "2020/02/29",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.00",
+        "Economy": "3.00",
+        "Opposition": "Knights",
+        "Date": "2019/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "13.67",
+        "Economy": "3.73",
+        "Opposition": "Boland",
+        "Date": "2019/11/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "24.00",
+        "Economy": "4.80",
+        "Opposition": "Iinyathi",
+        "Date": "2020/02/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "11.50",
+        "Economy": "5.75",
+        "Opposition": "Knights",
+        "Date": "2019/02/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "9.75",
+        "Economy": "4.88",
+        "Opposition": "Boland",
+        "Date": "2019/11/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.00",
+        "Economy": "3.00",
+        "Opposition": "Knights",
+        "Date": "2019/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "7.25",
+        "Economy": "4.83",
+        "Opposition": "Knights",
+        "Date": "2019/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "12.80",
+        "Economy": "4.27",
+        "Opposition": "Boland",
+        "Date": "2019/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "7",
+        "Average": "11.43",
+        "Economy": "4.21",
+        "Opposition": "Boland",
+        "Date": "2019/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "7",
+        "Average": "15.86",
+        "Economy": "4.83",
+        "Opposition": "Iinyathi",
+        "Date": "2020/02/29",
+        "Format": "OVERALL"
       }
     ]
   }

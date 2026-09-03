@@ -151,5 +151,47 @@
         "Match_Slug": "2013-10-26-titans-dolphins"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Titans",
+        "Date": "2013/10/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Titans",
+        "Date": "2013/10/26",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00",
+        "Opposition": "Titans",
+        "Date": "2013/10/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00",
+        "Opposition": "Titans",
+        "Date": "2013/10/26",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

@@ -229,5 +229,101 @@
         "Match_Slug": "2013-02-09-dolphins-heat"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2013/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2013/02/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "21.21",
+        "Opposition": "Dragons",
+        "Date": "2013/03/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2013/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2013/02/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "21.21",
+        "Opposition": "Dragons",
+        "Date": "2013/03/09",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.88",
+        "Opposition": "Dolphins",
+        "Date": "2013/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.22",
+        "Opposition": "Knights",
+        "Date": "2013/02/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.88",
+        "Opposition": "Dolphins",
+        "Date": "2013/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.22",
+        "Opposition": "Knights",
+        "Date": "2013/02/17",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

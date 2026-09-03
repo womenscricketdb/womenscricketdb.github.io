@@ -273,5 +273,119 @@
         "Match_Slug": "2009-01-10-eastern-storm-dragons"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.88",
+        "Opposition": "Dragons",
+        "Date": "2009/01/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "8.70",
+        "Opposition": "Heat",
+        "Date": "2009/01/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "8",
+        "Average": "2.67",
+        "Strike-Rate": "18.60",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "14",
+        "Average": "4.67",
+        "Strike-Rate": "19.72",
+        "Opposition": "Rhinos",
+        "Date": "2009/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.88",
+        "Opposition": "Dragons",
+        "Date": "2009/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "8.70",
+        "Opposition": "Heat",
+        "Date": "2009/01/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "8",
+        "Average": "2.67",
+        "Strike-Rate": "18.60",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "14",
+        "Average": "4.67",
+        "Strike-Rate": "19.72",
+        "Opposition": "Rhinos",
+        "Date": "2009/01/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.75",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "27.50",
+        "Economy": "6.23",
+        "Opposition": "Rhinos",
+        "Date": "2009/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.75",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "27.50",
+        "Economy": "6.23",
+        "Opposition": "Rhinos",
+        "Date": "2009/01/14",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

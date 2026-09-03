@@ -249,5 +249,83 @@
         "Match_Slug": "2022-10-02-warriors-iinyathi"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Boland",
+        "Date": "2022/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Boland",
+        "Date": "2022/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Iinyathi",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "24.00",
+        "Economy": "2.94",
+        "Opposition": "Boland",
+        "Date": "2022/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50",
+        "Opposition": "Iinyathi",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "24.00",
+        "Economy": "2.94",
+        "Opposition": "Boland",
+        "Date": "2022/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "43.00",
+        "Economy": "4.23",
+        "Opposition": "Iinyathi",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

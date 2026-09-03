@@ -174,7 +174,7 @@
         "Not Out": "0",
         "Runs": "6",
         "Highest Score": "2",
-        "Average": "1.00",
+        "Average": "1.20",
         "Strike-Rate": "13.33",
         "100s": "0",
         "50s": "0",
@@ -422,6 +422,192 @@
         "Bowling": "0/7",
         "Fielding": "",
         "Match_Slug": "2012-10-07-western-province-badgers"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2010/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "16.67",
+        "Opposition": "Boland",
+        "Date": "2011/01/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "27.27",
+        "Opposition": "Iinyathi",
+        "Date": "2011/01/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "16.67",
+        "Opposition": "Western Province",
+        "Date": "2011/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "17.86",
+        "Opposition": "Iinyathi",
+        "Date": "2011/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "6",
+        "Average": "1.00",
+        "Strike-Rate": "13.33",
+        "Opposition": "Warriors",
+        "Date": "2011/03/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "6",
+        "Average": "0.86",
+        "Strike-Rate": "12.77",
+        "Opposition": "Kei",
+        "Date": "2012/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2010/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "16.67",
+        "Opposition": "Boland",
+        "Date": "2011/01/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "27.27",
+        "Opposition": "Iinyathi",
+        "Date": "2011/01/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "16.67",
+        "Opposition": "Western Province",
+        "Date": "2011/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "17.86",
+        "Opposition": "Iinyathi",
+        "Date": "2011/03/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "6",
+        "Average": "1.00",
+        "Strike-Rate": "13.33",
+        "Opposition": "Warriors",
+        "Date": "2011/03/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "6",
+        "Average": "0.86",
+        "Strike-Rate": "12.77",
+        "Opposition": "Western Province",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "6",
+        "Average": "0.75",
+        "Strike-Rate": "12.24",
+        "Opposition": "Kei",
+        "Date": "2012/11/10",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.33",
+        "Opposition": "Western Province",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "1.50",
+        "Opposition": "Kei",
+        "Date": "2012/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.33",
+        "Opposition": "Western Province",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "2.00",
+        "Opposition": "Kei",
+        "Date": "2012/11/10",
+        "Format": "OVERALL"
       }
     ]
   }

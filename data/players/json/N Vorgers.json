@@ -166,7 +166,7 @@
         "Not Out": "0",
         "Runs": "6",
         "Highest Score": "6",
-        "Average": "3.00",
+        "Average": "6.00",
         "Strike-Rate": "35.29",
         "100s": "0",
         "50s": "0",
@@ -183,7 +183,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -200,7 +200,7 @@
         "Not Out": "1",
         "Runs": "2",
         "Highest Score": "2*",
-        "Average": "2.00",
+        "Average": "",
         "Strike-Rate": "100.00",
         "100s": "0",
         "50s": "0",
@@ -512,6 +512,228 @@
         "Bowling": "1/8",
         "Fielding": "",
         "Match_Slug": "2015-02-08-warriors-iinyathi"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2005/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "35.29",
+        "Opposition": "Boland",
+        "Date": "2005/12/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "35.29",
+        "Opposition": "Kei",
+        "Date": "2013/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "1.75",
+        "Strike-Rate": "36.84",
+        "Opposition": "Badgers",
+        "Date": "2013/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "7",
+        "Average": "1.40",
+        "Strike-Rate": "36.84",
+        "Opposition": "Kei",
+        "Date": "2014/11/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "9",
+        "Average": "1.80",
+        "Strike-Rate": "42.86",
+        "Opposition": "Iinyathi",
+        "Date": "2015/02/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2015/02/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2005/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "35.29",
+        "Opposition": "Boland",
+        "Date": "2005/12/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "35.29",
+        "Opposition": "Kei",
+        "Date": "2013/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "1.75",
+        "Strike-Rate": "36.84",
+        "Opposition": "Badgers",
+        "Date": "2013/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "7",
+        "Average": "1.40",
+        "Strike-Rate": "36.84",
+        "Opposition": "Kei",
+        "Date": "2014/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "9",
+        "Average": "1.80",
+        "Strike-Rate": "42.86",
+        "Opposition": "Iinyathi",
+        "Date": "2015/02/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "9",
+        "Average": "1.50",
+        "Strike-Rate": "42.86",
+        "Opposition": "Iinyathi",
+        "Date": "2015/02/08",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "3.38",
+        "Opposition": "Boland",
+        "Date": "2005/12/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "43.00",
+        "Economy": "3.91",
+        "Opposition": "Badgers",
+        "Date": "2013/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "16.67",
+        "Economy": "3.57",
+        "Opposition": "Kei",
+        "Date": "2014/11/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "16.00",
+        "Economy": "3.56",
+        "Opposition": "Iinyathi",
+        "Date": "2015/02/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "8.00",
+        "Economy": "2.67",
+        "Opposition": "Iinyathi",
+        "Date": "2015/02/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "3.38",
+        "Opposition": "Boland",
+        "Date": "2005/12/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "43.00",
+        "Economy": "3.91",
+        "Opposition": "Badgers",
+        "Date": "2013/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "16.67",
+        "Economy": "3.57",
+        "Opposition": "Kei",
+        "Date": "2014/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "16.00",
+        "Economy": "3.56",
+        "Opposition": "Iinyathi",
+        "Date": "2015/02/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "5",
+        "Average": "14.40",
+        "Economy": "3.43",
+        "Opposition": "Iinyathi",
+        "Date": "2015/02/08",
+        "Format": "OVERALL"
       }
     ]
   }

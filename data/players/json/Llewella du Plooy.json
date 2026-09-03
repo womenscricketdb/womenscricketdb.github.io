@@ -160,5 +160,47 @@
         "Match_Slug": "2005-12-11-dragons-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "28",
+        "Average": "28.00",
+        "Strike-Rate": "51.85",
+        "Opposition": "Rhinos",
+        "Date": "2005/12/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "28",
+        "Average": "28.00",
+        "Strike-Rate": "51.85",
+        "Opposition": "Rhinos",
+        "Date": "2005/12/11",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "6.00",
+        "Economy": "2.00",
+        "Opposition": "Rhinos",
+        "Date": "2005/12/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "6.00",
+        "Economy": "2.00",
+        "Opposition": "Rhinos",
+        "Date": "2005/12/11",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

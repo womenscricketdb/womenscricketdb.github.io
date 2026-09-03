@@ -322,7 +322,7 @@
         "Not Out": "1",
         "Runs": "4",
         "Highest Score": "2",
-        "Average": "0.50",
+        "Average": "1.33",
         "Strike-Rate": "22.22",
         "100s": "0",
         "50s": "0",
@@ -339,7 +339,7 @@
         "Not Out": "3",
         "Runs": "2",
         "Highest Score": "1*",
-        "Average": "0.67",
+        "Average": "1.00",
         "Strike-Rate": "3.64",
         "100s": "0",
         "50s": "0",
@@ -373,7 +373,7 @@
         "Not Out": "0",
         "Runs": "14",
         "Highest Score": "10",
-        "Average": "2.00",
+        "Average": "2.33",
         "Strike-Rate": "18.67",
         "100s": "0",
         "50s": "0",
@@ -1070,6 +1070,912 @@
         "Bowling": "1/15",
         "Fielding": "",
         "Match_Slug": "2012-11-10-iinyathi-warriors"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2013/10/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Boland",
+        "Date": "2013/10/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2013/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Badgers",
+        "Date": "2015/03/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2015/03/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "12.50",
+        "Opposition": "Iinyathi",
+        "Date": "2012/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "14.29",
+        "Opposition": "Western Province",
+        "Date": "2012/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "14.29",
+        "Opposition": "Boland",
+        "Date": "2012/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2013/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "13.33",
+        "Opposition": "Western Province",
+        "Date": "2013/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "13.33",
+        "Opposition": "Boland",
+        "Date": "2013/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "4",
+        "Average": "0.67",
+        "Strike-Rate": "22.22",
+        "Opposition": "Kei",
+        "Date": "2013/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "4",
+        "Average": "0.57",
+        "Strike-Rate": "22.22",
+        "Opposition": "Badgers",
+        "Date": "2013/03/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "4",
+        "Average": "0.50",
+        "Strike-Rate": "22.22",
+        "Opposition": "Iinyathi",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "4",
+        "Average": "0.44",
+        "Strike-Rate": "13.79",
+        "Opposition": "Iinyathi",
+        "Date": "2013/11/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Runs": "4",
+        "Average": "0.40",
+        "Strike-Rate": "13.79",
+        "Opposition": "Kei",
+        "Date": "2013/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Runs": "4",
+        "Average": "0.40",
+        "Strike-Rate": "10.53",
+        "Opposition": "Western Province",
+        "Date": "2013/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "13",
+        "Runs": "5",
+        "Average": "0.50",
+        "Strike-Rate": "11.90",
+        "Opposition": "Western Province",
+        "Date": "2014/02/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "14",
+        "Runs": "6",
+        "Average": "0.60",
+        "Strike-Rate": "8.33",
+        "Opposition": "Boland",
+        "Date": "2014/02/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "15",
+        "Runs": "6",
+        "Average": "0.55",
+        "Strike-Rate": "8.22",
+        "Opposition": "Kei",
+        "Date": "2014/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "16",
+        "Runs": "6",
+        "Average": "0.50",
+        "Strike-Rate": "8.22",
+        "Opposition": "Kei",
+        "Date": "2014/11/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "17",
+        "Runs": "16",
+        "Average": "1.23",
+        "Strike-Rate": "14.41",
+        "Opposition": "Badgers",
+        "Date": "2015/03/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "18",
+        "Runs": "16",
+        "Average": "1.14",
+        "Strike-Rate": "14.04",
+        "Opposition": "Heat",
+        "Date": "2015/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "19",
+        "Runs": "16",
+        "Average": "1.07",
+        "Strike-Rate": "13.45",
+        "Opposition": "Western Province",
+        "Date": "2015/04/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "20",
+        "Runs": "18",
+        "Average": "1.12",
+        "Strike-Rate": "14.29",
+        "Opposition": "Titans",
+        "Date": "2015/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "21",
+        "Runs": "18",
+        "Average": "1.06",
+        "Strike-Rate": "13.43",
+        "Opposition": "Knights",
+        "Date": "2015/04/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "22",
+        "Runs": "20",
+        "Average": "1.11",
+        "Strike-Rate": "13.51",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "12.50",
+        "Opposition": "Iinyathi",
+        "Date": "2012/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "14.29",
+        "Opposition": "Western Province",
+        "Date": "2012/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "14.29",
+        "Opposition": "Boland",
+        "Date": "2012/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2013/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "2",
+        "Average": "0.33",
+        "Strike-Rate": "13.33",
+        "Opposition": "Western Province",
+        "Date": "2013/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "2",
+        "Average": "0.29",
+        "Strike-Rate": "13.33",
+        "Opposition": "Boland",
+        "Date": "2013/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "4",
+        "Average": "0.50",
+        "Strike-Rate": "22.22",
+        "Opposition": "Kei",
+        "Date": "2013/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "4",
+        "Average": "0.44",
+        "Strike-Rate": "22.22",
+        "Opposition": "Badgers",
+        "Date": "2013/03/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "4",
+        "Average": "0.40",
+        "Strike-Rate": "22.22",
+        "Opposition": "Iinyathi",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "4",
+        "Average": "0.36",
+        "Strike-Rate": "22.22",
+        "Opposition": "Kei",
+        "Date": "2013/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "4",
+        "Average": "0.33",
+        "Strike-Rate": "22.22",
+        "Opposition": "Boland",
+        "Date": "2013/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "4",
+        "Average": "0.31",
+        "Strike-Rate": "16.00",
+        "Opposition": "Dolphins",
+        "Date": "2013/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "4",
+        "Average": "0.29",
+        "Strike-Rate": "11.11",
+        "Opposition": "Iinyathi",
+        "Date": "2013/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "4",
+        "Average": "0.27",
+        "Strike-Rate": "11.11",
+        "Opposition": "Kei",
+        "Date": "2013/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "4",
+        "Average": "0.27",
+        "Strike-Rate": "8.89",
+        "Opposition": "Western Province",
+        "Date": "2013/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "5",
+        "Average": "0.33",
+        "Strike-Rate": "10.20",
+        "Opposition": "Western Province",
+        "Date": "2014/02/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "6",
+        "Average": "0.40",
+        "Strike-Rate": "7.59",
+        "Opposition": "Boland",
+        "Date": "2014/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "6",
+        "Average": "0.38",
+        "Strike-Rate": "7.50",
+        "Opposition": "Kei",
+        "Date": "2014/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "6",
+        "Average": "0.35",
+        "Strike-Rate": "7.50",
+        "Opposition": "Kei",
+        "Date": "2014/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "22",
+        "Runs": "16",
+        "Average": "0.89",
+        "Strike-Rate": "13.56",
+        "Opposition": "Badgers",
+        "Date": "2015/03/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "23",
+        "Runs": "16",
+        "Average": "0.84",
+        "Strike-Rate": "13.56",
+        "Opposition": "Badgers",
+        "Date": "2015/03/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "24",
+        "Runs": "16",
+        "Average": "0.80",
+        "Strike-Rate": "13.22",
+        "Opposition": "Heat",
+        "Date": "2015/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "25",
+        "Runs": "16",
+        "Average": "0.76",
+        "Strike-Rate": "13.22",
+        "Opposition": "Heat",
+        "Date": "2015/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "26",
+        "Runs": "16",
+        "Average": "0.73",
+        "Strike-Rate": "12.70",
+        "Opposition": "Western Province",
+        "Date": "2015/04/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "27",
+        "Runs": "18",
+        "Average": "0.78",
+        "Strike-Rate": "13.53",
+        "Opposition": "Titans",
+        "Date": "2015/04/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "28",
+        "Runs": "18",
+        "Average": "0.75",
+        "Strike-Rate": "12.77",
+        "Opposition": "Knights",
+        "Date": "2015/04/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "29",
+        "Runs": "20",
+        "Average": "0.80",
+        "Strike-Rate": "12.90",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/11",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.00",
+        "Economy": "1.50",
+        "Opposition": "Kei",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "5.33",
+        "Economy": "2.29",
+        "Opposition": "Iinyathi",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "5.33",
+        "Economy": "2.00",
+        "Opposition": "Kei",
+        "Date": "2013/10/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "8.50",
+        "Economy": "3.09",
+        "Opposition": "Dolphins",
+        "Date": "2013/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "4",
+        "Average": "11.00",
+        "Economy": "3.38",
+        "Opposition": "Badgers",
+        "Date": "2015/03/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "5",
+        "Average": "9.80",
+        "Economy": "3.27",
+        "Opposition": "Heat",
+        "Date": "2015/03/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "3.75",
+        "Opposition": "Iinyathi",
+        "Date": "2012/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "4.60",
+        "Opposition": "Western Province",
+        "Date": "2012/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "9.75",
+        "Economy": "3.90",
+        "Opposition": "Badgers",
+        "Date": "2013/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "13.40",
+        "Economy": "3.35",
+        "Opposition": "Western Province",
+        "Date": "2013/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "5",
+        "Average": "19.20",
+        "Economy": "3.84",
+        "Opposition": "Boland",
+        "Date": "2013/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "5",
+        "Average": "20.60",
+        "Economy": "3.81",
+        "Opposition": "Iinyathi",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "7",
+        "Average": "18.86",
+        "Economy": "3.77",
+        "Opposition": "Iinyathi",
+        "Date": "2013/11/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "9",
+        "Average": "15.44",
+        "Economy": "3.31",
+        "Opposition": "Kei",
+        "Date": "2013/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "10",
+        "Average": "16.80",
+        "Economy": "3.36",
+        "Opposition": "Western Province",
+        "Date": "2013/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "10",
+        "Average": "22.70",
+        "Economy": "3.78",
+        "Opposition": "Western Province",
+        "Date": "2014/02/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "10",
+        "Average": "23.30",
+        "Economy": "3.70",
+        "Opposition": "Kei",
+        "Date": "2014/11/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "12",
+        "Average": "20.25",
+        "Economy": "3.57",
+        "Opposition": "Heat",
+        "Date": "2015/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "12",
+        "Average": "21.92",
+        "Economy": "3.55",
+        "Opposition": "Western Province",
+        "Date": "2015/04/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "12",
+        "Average": "23.67",
+        "Economy": "3.55",
+        "Opposition": "Knights",
+        "Date": "2015/04/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "13",
+        "Average": "23.62",
+        "Economy": "3.53",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.00",
+        "Economy": "1.50",
+        "Opposition": "Kei",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "5.33",
+        "Economy": "2.29",
+        "Opposition": "Iinyathi",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "7.75",
+        "Economy": "2.82",
+        "Opposition": "Iinyathi",
+        "Date": "2012/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "9.75",
+        "Economy": "3.25",
+        "Opposition": "Western Province",
+        "Date": "2012/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "7",
+        "Average": "7.86",
+        "Economy": "3.24",
+        "Opposition": "Badgers",
+        "Date": "2013/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "8",
+        "Average": "10.38",
+        "Economy": "3.07",
+        "Opposition": "Western Province",
+        "Date": "2013/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "8",
+        "Average": "14.00",
+        "Economy": "3.50",
+        "Opposition": "Boland",
+        "Date": "2013/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "8",
+        "Average": "14.88",
+        "Economy": "3.50",
+        "Opposition": "Iinyathi",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "8",
+        "Average": "14.88",
+        "Economy": "3.40",
+        "Opposition": "Kei",
+        "Date": "2013/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "9",
+        "Average": "15.22",
+        "Economy": "3.61",
+        "Opposition": "Dolphins",
+        "Date": "2013/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "11",
+        "Average": "15.09",
+        "Economy": "3.61",
+        "Opposition": "Iinyathi",
+        "Date": "2013/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "13",
+        "Average": "13.31",
+        "Economy": "3.26",
+        "Opposition": "Kei",
+        "Date": "2013/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "14",
+        "Average": "14.43",
+        "Economy": "3.31",
+        "Opposition": "Western Province",
+        "Date": "2013/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "14",
+        "Average": "18.64",
+        "Economy": "3.68",
+        "Opposition": "Western Province",
+        "Date": "2014/02/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "14",
+        "Average": "19.07",
+        "Economy": "3.61",
+        "Opposition": "Kei",
+        "Date": "2014/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Wickets": "14",
+        "Average": "19.79",
+        "Economy": "3.64",
+        "Opposition": "Badgers",
+        "Date": "2015/03/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Wickets": "16",
+        "Average": "17.94",
+        "Economy": "3.54",
+        "Opposition": "Heat",
+        "Date": "2015/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Wickets": "17",
+        "Average": "17.18",
+        "Economy": "3.52",
+        "Opposition": "Heat",
+        "Date": "2015/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Wickets": "17",
+        "Average": "18.35",
+        "Economy": "3.51",
+        "Opposition": "Western Province",
+        "Date": "2015/04/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Wickets": "17",
+        "Average": "19.59",
+        "Economy": "3.51",
+        "Opposition": "Knights",
+        "Date": "2015/04/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Wickets": "18",
+        "Average": "19.78",
+        "Economy": "3.49",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/11",
+        "Format": "OVERALL"
       }
     ]
   }

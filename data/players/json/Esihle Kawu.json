@@ -166,7 +166,7 @@
         "Not Out": "0",
         "Runs": "12",
         "Highest Score": "12",
-        "Average": "4.00",
+        "Average": "6.00",
         "Strike-Rate": "92.31",
         "100s": "0",
         "50s": "0",
@@ -200,7 +200,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.33",
+        "Average": "",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -479,6 +479,246 @@
         "Bowling": "0/17",
         "Fielding": "",
         "Match_Slug": "2025-11-08-dolphins-dragons"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2024/12/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2025/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "12",
+        "Average": "4.00",
+        "Strike-Rate": "92.31",
+        "Opposition": "Western Province",
+        "Date": "2025/03/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "12",
+        "Average": "3.00",
+        "Strike-Rate": "92.31",
+        "Opposition": "Badgers",
+        "Date": "2025/10/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "12",
+        "Average": "2.40",
+        "Strike-Rate": "92.31",
+        "Opposition": "Dragons",
+        "Date": "2025/11/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "13",
+        "Average": "2.60",
+        "Strike-Rate": "86.67",
+        "Opposition": "Western Province",
+        "Date": "2025/11/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "13",
+        "Average": "2.17",
+        "Strike-Rate": "86.67",
+        "Opposition": "Dragons",
+        "Date": "2026/02/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "59.26",
+        "Opposition": "Dragons",
+        "Date": "2025/11/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2024/12/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2025/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "12",
+        "Average": "4.00",
+        "Strike-Rate": "92.31",
+        "Opposition": "Western Province",
+        "Date": "2025/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "12",
+        "Average": "3.00",
+        "Strike-Rate": "92.31",
+        "Opposition": "Badgers",
+        "Date": "2025/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "28",
+        "Average": "5.60",
+        "Strike-Rate": "70.00",
+        "Opposition": "Dragons",
+        "Date": "2025/11/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "28",
+        "Average": "4.67",
+        "Strike-Rate": "70.00",
+        "Opposition": "Dragons",
+        "Date": "2025/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "29",
+        "Average": "4.83",
+        "Strike-Rate": "69.05",
+        "Opposition": "Western Province",
+        "Date": "2025/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "29",
+        "Average": "4.14",
+        "Strike-Rate": "69.05",
+        "Opposition": "Dragons",
+        "Date": "2026/02/15",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "7.67",
+        "Opposition": "Lions",
+        "Date": "2024/12/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "7.00",
+        "Opposition": "Knights",
+        "Date": "2025/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "42.00",
+        "Economy": "7.00",
+        "Opposition": "Dragons",
+        "Date": "2025/11/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "59.00",
+        "Economy": "8.43",
+        "Opposition": "Western Province",
+        "Date": "2025/11/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.67",
+        "Opposition": "Dragons",
+        "Date": "2025/11/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "7.67",
+        "Opposition": "Lions",
+        "Date": "2024/12/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "7.00",
+        "Opposition": "Knights",
+        "Date": "2025/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "52.00",
+        "Economy": "6.50",
+        "Opposition": "Dragons",
+        "Date": "2025/11/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "59.00",
+        "Economy": "6.56",
+        "Opposition": "Dragons",
+        "Date": "2025/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "1",
+        "Average": "76.00",
+        "Economy": "7.60",
+        "Opposition": "Western Province",
+        "Date": "2025/11/16",
+        "Format": "OVERALL"
       }
     ]
   }

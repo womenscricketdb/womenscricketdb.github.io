@@ -166,7 +166,7 @@
         "Not Out": "1",
         "Runs": "16",
         "Highest Score": "15",
-        "Average": "5.33",
+        "Average": "16.00",
         "Strike-Rate": "177.78",
         "100s": "0",
         "50s": "0",
@@ -313,5 +313,118 @@
         "Match_Slug": "2026-02-21-dragons-badgers"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "187.50",
+        "Opposition": "Dolphins",
+        "Date": "2026/02/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "15",
+        "Average": "7.50",
+        "Strike-Rate": "187.50",
+        "Opposition": "Badgers",
+        "Date": "2026/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "15",
+        "Average": "5.00",
+        "Strike-Rate": "187.50",
+        "Opposition": "Western Province",
+        "Date": "2026/03/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "16",
+        "Average": "5.33",
+        "Strike-Rate": "177.78",
+        "Opposition": "Lions",
+        "Date": "2026/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Badgers",
+        "Date": "2026/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2026/02/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "187.50",
+        "Opposition": "Dolphins",
+        "Date": "2026/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "15",
+        "Average": "7.50",
+        "Strike-Rate": "187.50",
+        "Opposition": "Badgers",
+        "Date": "2026/02/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "15",
+        "Average": "5.00",
+        "Strike-Rate": "187.50",
+        "Opposition": "Badgers",
+        "Date": "2026/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "15",
+        "Average": "3.75",
+        "Strike-Rate": "187.50",
+        "Opposition": "Western Province",
+        "Date": "2026/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "15",
+        "Average": "3.00",
+        "Strike-Rate": "187.50",
+        "Opposition": "Western Province",
+        "Date": "2026/03/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "16",
+        "Average": "3.20",
+        "Strike-Rate": "177.78",
+        "Opposition": "Lions",
+        "Date": "2026/03/08",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

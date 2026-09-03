@@ -274,5 +274,83 @@
         "Match_Slug": "2015-11-08-rhinos-dolphins"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "52.38",
+        "Opposition": "Dolphins",
+        "Date": "2015/11/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "45",
+        "Average": "45.00",
+        "Strike-Rate": "109.76",
+        "Opposition": "Dolphins",
+        "Date": "2015/11/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "52.38",
+        "Opposition": "Dolphins",
+        "Date": "2015/11/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "56",
+        "Average": "28.00",
+        "Strike-Rate": "90.32",
+        "Opposition": "Dolphins",
+        "Date": "2015/11/08",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.75",
+        "Opposition": "Dolphins",
+        "Date": "2015/11/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.75",
+        "Opposition": "Dolphins",
+        "Date": "2015/11/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.75",
+        "Opposition": "Dolphins",
+        "Date": "2015/11/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.75",
+        "Opposition": "Dolphins",
+        "Date": "2015/11/08",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

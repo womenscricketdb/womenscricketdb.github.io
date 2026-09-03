@@ -196,7 +196,7 @@
         "Not Out": "0",
         "Runs": "3",
         "Highest Score": "2",
-        "Average": "0.60",
+        "Average": "1.00",
         "Strike-Rate": "5.88",
         "100s": "0",
         "50s": "0",
@@ -213,7 +213,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "1.33",
+        "Average": "4.00",
         "Strike-Rate": "100.00",
         "100s": "0",
         "50s": "0",
@@ -376,5 +376,154 @@
         "Match_Slug": "2012-11-11-eastern-storm-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2012/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "100.00",
+        "Opposition": "Lions",
+        "Date": "2012/10/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2012/11/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "3.23",
+        "Opposition": "Titans",
+        "Date": "2013/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "5.88",
+        "Opposition": "Lions",
+        "Date": "2013/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "5.88",
+        "Opposition": "Rhinos",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2012/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "100.00",
+        "Opposition": "Lions",
+        "Date": "2012/10/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Rhinos",
+        "Date": "2012/11/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "4",
+        "Average": "0.80",
+        "Strike-Rate": "100.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "5",
+        "Average": "0.83",
+        "Strike-Rate": "14.29",
+        "Opposition": "Titans",
+        "Date": "2013/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "7",
+        "Average": "1.00",
+        "Strike-Rate": "12.73",
+        "Opposition": "Lions",
+        "Date": "2013/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "7",
+        "Average": "0.88",
+        "Strike-Rate": "12.73",
+        "Opposition": "Rhinos",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

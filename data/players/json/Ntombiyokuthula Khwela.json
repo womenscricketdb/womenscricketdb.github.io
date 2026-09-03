@@ -229,5 +229,101 @@
         "Match_Slug": "2016-03-29-lions-dolphins"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "100.00",
+        "Opposition": "Lions",
+        "Date": "2016/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "80.00",
+        "Opposition": "Western Province",
+        "Date": "2016/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "31.82",
+        "Opposition": "Titans",
+        "Date": "2016/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "100.00",
+        "Opposition": "Lions",
+        "Date": "2016/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "80.00",
+        "Opposition": "Western Province",
+        "Date": "2016/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "31.82",
+        "Opposition": "Titans",
+        "Date": "2016/03/31",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.33",
+        "Opposition": "Lions",
+        "Date": "2016/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Titans",
+        "Date": "2016/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.33",
+        "Opposition": "Lions",
+        "Date": "2016/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Titans",
+        "Date": "2016/03/31",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

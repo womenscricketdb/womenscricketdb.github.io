@@ -139,7 +139,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.33",
+        "Average": "1.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -270,5 +270,100 @@
         "Match_Slug": "2012-11-24-knights-dolphins"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Knights",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "50.00",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2012/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2012/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Knights",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "50.00",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "50.00",
+        "Opposition": "Knights",
+        "Date": "2012/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "50.00",
+        "Opposition": "Heat",
+        "Date": "2012/11/25",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

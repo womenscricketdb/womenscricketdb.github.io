@@ -160,5 +160,47 @@
         "Match_Slug": "2006-10-07-lions-dragons"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67",
+        "Opposition": "Lions",
+        "Date": "2006/10/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67",
+        "Opposition": "Lions",
+        "Date": "2006/10/07",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "15.00",
+        "Economy": "3.75",
+        "Opposition": "Lions",
+        "Date": "2006/10/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "15.00",
+        "Economy": "3.75",
+        "Opposition": "Lions",
+        "Date": "2006/10/07",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

@@ -72,7 +72,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "6.25",
         "100s": "0",
         "50s": "0",
@@ -176,6 +176,66 @@
         "Bowling": "0/12",
         "Fielding": "",
         "Match_Slug": "2021-03-05-warriors-knights"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "6.25",
+        "Opposition": "Knights",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "6.25",
+        "Opposition": "Kei",
+        "Date": "2021/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "6.25",
+        "Opposition": "Knights",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "6.25",
+        "Opposition": "Kei",
+        "Date": "2021/03/07",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Knights",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Knights",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
       }
     ]
   }

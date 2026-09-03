@@ -247,5 +247,101 @@
         "Match_Slug": "2010-01-24-titans-eastern-storm"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "80.00",
+        "Opposition": "Titans",
+        "Date": "2010/01/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "45.45",
+        "Opposition": "Titans",
+        "Date": "2011/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "45.45",
+        "Opposition": "Lions",
+        "Date": "2011/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "80.00",
+        "Opposition": "Titans",
+        "Date": "2010/01/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "45.45",
+        "Opposition": "Titans",
+        "Date": "2011/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "45.45",
+        "Opposition": "Lions",
+        "Date": "2011/02/26",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00",
+        "Opposition": "Titans",
+        "Date": "2010/01/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00",
+        "Opposition": "Titans",
+        "Date": "2011/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00",
+        "Opposition": "Titans",
+        "Date": "2010/01/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00",
+        "Opposition": "Titans",
+        "Date": "2011/02/13",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

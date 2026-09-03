@@ -299,5 +299,137 @@
         "Match_Slug": "2007-10-13-lions-eastern-storm"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2007/10/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "11.43",
+        "Opposition": "Titans",
+        "Date": "2007/10/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "9.80",
+        "Opposition": "Dragons",
+        "Date": "2007/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "1.75",
+        "Strike-Rate": "10.94",
+        "Opposition": "Titans",
+        "Date": "2010/01/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2007/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "11.43",
+        "Opposition": "Titans",
+        "Date": "2007/10/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "9.80",
+        "Opposition": "Dragons",
+        "Date": "2007/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "1.75",
+        "Strike-Rate": "10.94",
+        "Opposition": "Titans",
+        "Date": "2010/01/24",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "20.50",
+        "Economy": "6.83",
+        "Opposition": "Lions",
+        "Date": "2007/10/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "47.50",
+        "Economy": "8.64",
+        "Opposition": "Titans",
+        "Date": "2007/10/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "70.50",
+        "Economy": "8.81",
+        "Opposition": "Titans",
+        "Date": "2010/01/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "20.50",
+        "Economy": "6.83",
+        "Opposition": "Lions",
+        "Date": "2007/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "47.50",
+        "Economy": "8.64",
+        "Opposition": "Titans",
+        "Date": "2007/10/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "70.50",
+        "Economy": "8.81",
+        "Opposition": "Titans",
+        "Date": "2010/01/24",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

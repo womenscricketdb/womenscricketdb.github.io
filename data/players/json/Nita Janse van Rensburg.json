@@ -395,5 +395,137 @@
         "Match_Slug": "2022-09-24-knights-boland"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "61.90",
+        "Opposition": "Warriors",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "33",
+        "Average": "33.00",
+        "Strike-Rate": "68.75",
+        "Opposition": "Knights",
+        "Date": "2022/09/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "33",
+        "Average": "16.50",
+        "Strike-Rate": "67.35",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "30.00",
+        "Opposition": "Knights",
+        "Date": "2022/09/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "61.90",
+        "Opposition": "Warriors",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "16",
+        "Average": "8.00",
+        "Strike-Rate": "51.61",
+        "Opposition": "Knights",
+        "Date": "2022/09/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "36",
+        "Average": "18.00",
+        "Strike-Rate": "62.07",
+        "Opposition": "Knights",
+        "Date": "2022/09/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "36",
+        "Average": "12.00",
+        "Strike-Rate": "61.02",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "7.00",
+        "Opposition": "Warriors",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "5.00",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25",
+        "Opposition": "Knights",
+        "Date": "2022/09/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "7.00",
+        "Opposition": "Warriors",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "32.00",
+        "Economy": "6.40",
+        "Opposition": "Knights",
+        "Date": "2022/09/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "5.71",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

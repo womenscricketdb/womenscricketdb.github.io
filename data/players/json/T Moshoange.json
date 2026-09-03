@@ -277,5 +277,83 @@
         "Match_Slug": "2019-12-01-eastern-storm-heat"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2018/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "34.62",
+        "Opposition": "Dragons",
+        "Date": "2022/02/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "33.33",
+        "Opposition": "Heat",
+        "Date": "2019/12/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2018/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Heat",
+        "Date": "2019/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "34.38",
+        "Opposition": "Dragons",
+        "Date": "2022/02/05",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Dolphins",
+        "Date": "2018/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Dolphins",
+        "Date": "2018/11/17",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

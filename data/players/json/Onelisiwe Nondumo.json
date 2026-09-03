@@ -221,5 +221,83 @@
         "Match_Slug": "2024-11-16-warriors-iinyathi"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "32.26",
+        "Opposition": "Warriors",
+        "Date": "2024/11/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "32.50",
+        "Opposition": "Dragons",
+        "Date": "2025/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "16",
+        "Average": "5.33",
+        "Strike-Rate": "32.65",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2025/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "10.00",
+        "Strike-Rate": "32.26",
+        "Opposition": "Warriors",
+        "Date": "2024/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "32.50",
+        "Opposition": "Dragons",
+        "Date": "2025/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "16",
+        "Average": "5.33",
+        "Strike-Rate": "32.65",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2025/04/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Opposition": "Warriors",
+        "Date": "2024/11/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Opposition": "Warriors",
+        "Date": "2024/11/16",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

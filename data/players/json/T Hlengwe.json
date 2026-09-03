@@ -91,7 +91,7 @@
         "Not Out": "1",
         "Runs": "4",
         "Highest Score": "4*",
-        "Average": "4.00",
+        "Average": "",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -194,5 +194,64 @@
         "Match_Slug": "2005-11-12-rhinos-dolphins"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2005/11/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2006/11/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2006/11/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2005/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2006/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2006/11/05",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

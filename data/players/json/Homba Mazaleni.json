@@ -191,7 +191,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "1.00",
+        "Average": "",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -421,6 +421,174 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2017-10-14-dragons-iinyathi"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Badgers",
+        "Date": "2017/01/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2019/02/10",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Knights",
+        "Date": "2019/02/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "28.57",
+        "Opposition": "Dragons",
+        "Date": "2017/10/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "17.24",
+        "Opposition": "Titans",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "17.24",
+        "Opposition": "Kei",
+        "Date": "2019/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Badgers",
+        "Date": "2017/01/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "28.57",
+        "Opposition": "Dragons",
+        "Date": "2017/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "17.24",
+        "Opposition": "Titans",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "17.24",
+        "Opposition": "Kei",
+        "Date": "2019/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "17.24",
+        "Opposition": "Kei",
+        "Date": "2019/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "6",
+        "Average": "1.20",
+        "Strike-Rate": "19.35",
+        "Opposition": "Knights",
+        "Date": "2019/02/24",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "3.50",
+        "Opposition": "Kei",
+        "Date": "2019/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "9.00",
+        "Economy": "4.50",
+        "Opposition": "Kei",
+        "Date": "2019/02/10",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "4.33",
+        "Opposition": "Knights",
+        "Date": "2019/02/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "3.50",
+        "Opposition": "Kei",
+        "Date": "2019/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "8.00",
+        "Economy": "4.00",
+        "Opposition": "Kei",
+        "Date": "2019/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "10.00",
+        "Economy": "4.00",
+        "Opposition": "Knights",
+        "Date": "2019/02/24",
+        "Format": "OVERALL"
       }
     ]
   }

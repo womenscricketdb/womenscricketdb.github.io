@@ -147,7 +147,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.33",
+        "Average": "1.00",
         "Strike-Rate": "33.33",
         "100s": "0",
         "50s": "0",
@@ -164,7 +164,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "1.00",
+        "Average": "",
         "Strike-Rate": "7.69",
         "100s": "0",
         "50s": "0",
@@ -434,6 +434,192 @@
         "Bowling": "1/33",
         "Fielding": "",
         "Match_Slug": "2022-10-02-eastern-storm-tuskers"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "33.33",
+        "Opposition": "Rhinos",
+        "Date": "2022/11/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "7.69",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.69",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.69",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "7.69",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "7.69",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/10/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "12.50",
+        "Opposition": "Rhinos",
+        "Date": "2022/11/12",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "28.00",
+        "Economy": "6.22",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "25.33",
+        "Economy": "6.33",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "32.67",
+        "Economy": "7.00",
+        "Opposition": "Rhinos",
+        "Date": "2022/11/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "8.25",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "24.50",
+        "Economy": "6.12",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "28.00",
+        "Economy": "6.22",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "29.67",
+        "Economy": "6.85",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "27.25",
+        "Economy": "6.81",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "25.00",
+        "Economy": "6.25",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/10/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "5",
+        "Average": "29.40",
+        "Economy": "6.68",
+        "Opposition": "Rhinos",
+        "Date": "2022/11/12",
+        "Format": "OVERALL"
       }
     ]
   }

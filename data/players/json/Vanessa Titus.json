@@ -137,7 +137,7 @@
         "Not Out": "2",
         "Runs": "2",
         "Highest Score": "2*",
-        "Average": "2.00",
+        "Average": "",
         "Strike-Rate": "100.00",
         "100s": "0",
         "50s": "0",
@@ -154,7 +154,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "1.33",
+        "Average": "2.00",
         "Strike-Rate": "15.38",
         "100s": "0",
         "50s": "0",
@@ -299,6 +299,138 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2005-11-12-badgers-boland"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "200.00",
+        "Opposition": "Boland",
+        "Date": "2005/11/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "100.00",
+        "Opposition": "Knights",
+        "Date": "2005/11/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Heat",
+        "Date": "2005/11/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Heat",
+        "Date": "2008/03/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "21.43",
+        "Opposition": "Eastern Storm",
+        "Date": "2008/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "6",
+        "Average": "1.50",
+        "Strike-Rate": "21.43",
+        "Opposition": "Rhinos",
+        "Date": "2008/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "200.00",
+        "Opposition": "Boland",
+        "Date": "2005/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "100.00",
+        "Opposition": "Knights",
+        "Date": "2005/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Heat",
+        "Date": "2005/11/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Heat",
+        "Date": "2008/03/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "21.43",
+        "Opposition": "Eastern Storm",
+        "Date": "2008/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "6",
+        "Average": "1.50",
+        "Strike-Rate": "21.43",
+        "Opposition": "Rhinos",
+        "Date": "2008/03/29",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "1.75",
+        "Opposition": "Heat",
+        "Date": "2005/11/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "1.75",
+        "Opposition": "Heat",
+        "Date": "2005/11/27",
+        "Format": "OVERALL"
       }
     ]
   }

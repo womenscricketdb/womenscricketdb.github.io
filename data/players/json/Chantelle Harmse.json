@@ -118,7 +118,7 @@
         "Not Out": "0",
         "Runs": "10",
         "Highest Score": "6",
-        "Average": "3.33",
+        "Average": "5.00",
         "Strike-Rate": "41.67",
         "100s": "0",
         "50s": "0",
@@ -238,5 +238,82 @@
         "Match_Slug": "2007-02-03-warriors-knights"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "60.00",
+        "Opposition": "Knights",
+        "Date": "2007/02/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "60.00",
+        "Opposition": "Heat",
+        "Date": "2007/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "10",
+        "Average": "3.33",
+        "Strike-Rate": "41.67",
+        "Opposition": "Knights",
+        "Date": "2007/02/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "20",
+        "Average": "5.00",
+        "Strike-Rate": "44.44",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/02/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "60.00",
+        "Opposition": "Knights",
+        "Date": "2007/02/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "60.00",
+        "Opposition": "Heat",
+        "Date": "2007/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "10",
+        "Average": "3.33",
+        "Strike-Rate": "41.67",
+        "Opposition": "Knights",
+        "Date": "2007/02/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "20",
+        "Average": "5.00",
+        "Strike-Rate": "44.44",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/02/12",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

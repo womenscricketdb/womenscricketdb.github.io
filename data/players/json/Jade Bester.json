@@ -260,5 +260,83 @@
         "Match_Slug": "2021-03-06-boland-kei"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Warriors",
+        "Date": "2019/11/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2021/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Warriors",
+        "Date": "2019/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "33.33",
+        "Opposition": "Kei",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "27.27",
+        "Opposition": "Knights",
+        "Date": "2021/03/08",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.50",
+        "Opposition": "Kei",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.50",
+        "Opposition": "Kei",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

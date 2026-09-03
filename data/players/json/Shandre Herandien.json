@@ -137,7 +137,7 @@
         "Not Out": "1",
         "Runs": "5",
         "Highest Score": "5*",
-        "Average": "2.50",
+        "Average": "5.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -154,7 +154,7 @@
         "Not Out": "1",
         "Runs": "12",
         "Highest Score": "12*",
-        "Average": "12.00",
+        "Average": "",
         "Strike-Rate": "85.71",
         "100s": "0",
         "50s": "0",
@@ -356,6 +356,174 @@
         "Bowling": "0/23",
         "Fielding": "",
         "Match_Slug": "2008-10-18-lions-western-province"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2008/10/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Boland",
+        "Date": "2009/01/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Iinyathi",
+        "Date": "2009/01/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "50.00",
+        "Opposition": "Warriors",
+        "Date": "2009/10/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "17",
+        "Average": "5.67",
+        "Strike-Rate": "70.83",
+        "Opposition": "Boland",
+        "Date": "2010/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "17",
+        "Average": "4.25",
+        "Strike-Rate": "70.83",
+        "Opposition": "Badgers",
+        "Date": "2011/01/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2008/10/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Boland",
+        "Date": "2009/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Iinyathi",
+        "Date": "2009/01/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "50.00",
+        "Opposition": "Warriors",
+        "Date": "2009/10/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "17",
+        "Average": "5.67",
+        "Strike-Rate": "70.83",
+        "Opposition": "Boland",
+        "Date": "2010/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "17",
+        "Average": "4.25",
+        "Strike-Rate": "70.83",
+        "Opposition": "Badgers",
+        "Date": "2011/01/15",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.50",
+        "Opposition": "Lions",
+        "Date": "2008/10/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.17",
+        "Opposition": "Warriors",
+        "Date": "2009/10/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Boland",
+        "Date": "2010/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.50",
+        "Opposition": "Lions",
+        "Date": "2008/10/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.17",
+        "Opposition": "Warriors",
+        "Date": "2009/10/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Boland",
+        "Date": "2010/10/09",
+        "Format": "OVERALL"
       }
     ]
   },

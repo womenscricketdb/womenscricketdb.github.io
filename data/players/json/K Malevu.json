@@ -158,7 +158,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "8.33",
         "100s": "0",
         "50s": "0",
@@ -445,6 +445,228 @@
         "Bowling": "0/21",
         "Fielding": "",
         "Match_Slug": "2013-09-28-rhinos-lions"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2013/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "8.33",
+        "Opposition": "Dolphins",
+        "Date": "2014/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/09/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2013/10/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/10/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/09/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2013/10/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2013/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.17",
+        "Strike-Rate": "8.33",
+        "Opposition": "Dolphins",
+        "Date": "2014/03/08",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "13.00",
+        "Economy": "3.25",
+        "Opposition": "Titans",
+        "Date": "2013/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "19.67",
+        "Economy": "3.69",
+        "Opposition": "Dolphins",
+        "Date": "2014/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/09/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Titans",
+        "Date": "2013/10/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "44.00",
+        "Economy": "6.29",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/10/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/09/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50",
+        "Opposition": "Titans",
+        "Date": "2013/10/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "53.00",
+        "Economy": "5.30",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "4",
+        "Average": "20.75",
+        "Economy": "4.37",
+        "Opposition": "Titans",
+        "Date": "2013/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "4",
+        "Average": "25.75",
+        "Economy": "4.48",
+        "Opposition": "Dolphins",
+        "Date": "2014/03/08",
+        "Format": "OVERALL"
       }
     ]
   }

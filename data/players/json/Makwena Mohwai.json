@@ -72,7 +72,7 @@
         "Not Out": "0",
         "Runs": "13",
         "Highest Score": "13",
-        "Average": "6.50",
+        "Average": "13.00",
         "Strike-Rate": "41.94",
         "100s": "0",
         "50s": "0",
@@ -176,6 +176,66 @@
         "Bowling": "0/23",
         "Fielding": "",
         "Match_Slug": "2023-10-28-limpopo-lillies-rhinos"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2023/10/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "41.94",
+        "Opposition": "Eastern Storm",
+        "Date": "2024/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2023/10/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "41.94",
+        "Opposition": "Eastern Storm",
+        "Date": "2024/02/24",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.67",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2023/10/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.67",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2023/10/28",
+        "Format": "OVERALL"
       }
     ]
   }

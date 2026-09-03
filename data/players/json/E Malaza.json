@@ -340,7 +340,7 @@
         "Not Out": "2",
         "Runs": "5",
         "Highest Score": "5*",
-        "Average": "2.50",
+        "Average": "5.00",
         "Strike-Rate": "16.67",
         "100s": "0",
         "50s": "0",
@@ -357,7 +357,7 @@
         "Not Out": "3",
         "Runs": "8",
         "Highest Score": "3*",
-        "Average": "2.00",
+        "Average": "2.67",
         "Strike-Rate": "10.13",
         "100s": "0",
         "50s": "0",
@@ -425,7 +425,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "-",
         "100s": "0",
         "50s": "0",
@@ -442,7 +442,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "0.00",
         "100s": "0",
         "50s": "0",
@@ -814,6 +814,588 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2015-01-18-rhinos-eastern-storm"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2005/11/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/11/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2005/12/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "16.67",
+        "Opposition": "Titans",
+        "Date": "2006/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "20.59",
+        "Opposition": "Dragons",
+        "Date": "2006/10/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "20.59",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2007/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "8",
+        "Average": "2.00",
+        "Strike-Rate": "11.11",
+        "Opposition": "Titans",
+        "Date": "2007/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "10",
+        "Average": "2.00",
+        "Strike-Rate": "13.16",
+        "Opposition": "Tuskers",
+        "Date": "2007/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "10",
+        "Average": "1.67",
+        "Strike-Rate": "10.64",
+        "Opposition": "Dolphins",
+        "Date": "2007/01/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "10",
+        "Average": "1.67",
+        "Strike-Rate": "10.10",
+        "Opposition": "Dragons",
+        "Date": "2007/03/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Runs": "13",
+        "Average": "2.17",
+        "Strike-Rate": "11.93",
+        "Opposition": "Lions",
+        "Date": "2007/03/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Runs": "13",
+        "Average": "1.86",
+        "Strike-Rate": "10.92",
+        "Opposition": "Knights",
+        "Date": "2007/10/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "13",
+        "Runs": "19",
+        "Average": "2.38",
+        "Strike-Rate": "13.77",
+        "Opposition": "Heat",
+        "Date": "2007/10/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "14",
+        "Runs": "28",
+        "Average": "3.50",
+        "Strike-Rate": "18.06",
+        "Opposition": "Titans",
+        "Date": "2007/11/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "15",
+        "Runs": "32",
+        "Average": "3.56",
+        "Strike-Rate": "20.00",
+        "Opposition": "Dragons",
+        "Date": "2007/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "16",
+        "Runs": "35",
+        "Average": "3.50",
+        "Strike-Rate": "20.23",
+        "Opposition": "Warriors",
+        "Date": "2008/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "17",
+        "Runs": "37",
+        "Average": "3.36",
+        "Strike-Rate": "20.44",
+        "Opposition": "Western Province",
+        "Date": "2008/03/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "18",
+        "Runs": "37",
+        "Average": "3.08",
+        "Strike-Rate": "20.00",
+        "Opposition": "Tuskers",
+        "Date": "2008/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "19",
+        "Runs": "40",
+        "Average": "3.08",
+        "Strike-Rate": "20.83",
+        "Opposition": "Badgers",
+        "Date": "2008/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "20",
+        "Runs": "40",
+        "Average": "2.86",
+        "Strike-Rate": "20.51",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "21",
+        "Runs": "42",
+        "Average": "2.80",
+        "Strike-Rate": "21.21",
+        "Opposition": "Dragons",
+        "Date": "2009/01/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "22",
+        "Runs": "53",
+        "Average": "3.31",
+        "Strike-Rate": "22.75",
+        "Opposition": "Heat",
+        "Date": "2009/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "23",
+        "Runs": "60",
+        "Average": "3.53",
+        "Strike-Rate": "21.98",
+        "Opposition": "Badgers",
+        "Date": "2009/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "24",
+        "Runs": "62",
+        "Average": "3.44",
+        "Strike-Rate": "22.06",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "25",
+        "Runs": "63",
+        "Average": "3.32",
+        "Strike-Rate": "22.26",
+        "Opposition": "Titans",
+        "Date": "2013/02/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "26",
+        "Runs": "63",
+        "Average": "3.15",
+        "Strike-Rate": "22.26",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2014/11/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "27",
+        "Runs": "63",
+        "Average": "3.15",
+        "Strike-Rate": "22.26",
+        "Opposition": "Dragons",
+        "Date": "2015/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2015/01/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2015/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Tuskers",
+        "Date": "2015/03/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2005/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/11/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2005/12/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "16.67",
+        "Opposition": "Titans",
+        "Date": "2006/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "20.59",
+        "Opposition": "Dragons",
+        "Date": "2006/10/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "20.59",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2007/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "8",
+        "Average": "2.00",
+        "Strike-Rate": "11.11",
+        "Opposition": "Titans",
+        "Date": "2007/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "10",
+        "Average": "2.00",
+        "Strike-Rate": "13.16",
+        "Opposition": "Tuskers",
+        "Date": "2007/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "10",
+        "Average": "1.67",
+        "Strike-Rate": "10.64",
+        "Opposition": "Dolphins",
+        "Date": "2007/01/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "10",
+        "Average": "1.67",
+        "Strike-Rate": "10.10",
+        "Opposition": "Dragons",
+        "Date": "2007/03/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "13",
+        "Average": "2.17",
+        "Strike-Rate": "11.93",
+        "Opposition": "Lions",
+        "Date": "2007/03/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "13",
+        "Average": "1.86",
+        "Strike-Rate": "10.92",
+        "Opposition": "Knights",
+        "Date": "2007/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "19",
+        "Average": "2.38",
+        "Strike-Rate": "13.77",
+        "Opposition": "Heat",
+        "Date": "2007/10/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "28",
+        "Average": "3.50",
+        "Strike-Rate": "18.06",
+        "Opposition": "Titans",
+        "Date": "2007/11/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "32",
+        "Average": "3.56",
+        "Strike-Rate": "20.00",
+        "Opposition": "Dragons",
+        "Date": "2007/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "35",
+        "Average": "3.50",
+        "Strike-Rate": "20.23",
+        "Opposition": "Warriors",
+        "Date": "2008/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "37",
+        "Average": "3.36",
+        "Strike-Rate": "20.44",
+        "Opposition": "Western Province",
+        "Date": "2008/03/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "37",
+        "Average": "3.08",
+        "Strike-Rate": "20.00",
+        "Opposition": "Tuskers",
+        "Date": "2008/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "40",
+        "Average": "3.08",
+        "Strike-Rate": "20.83",
+        "Opposition": "Badgers",
+        "Date": "2008/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "40",
+        "Average": "2.86",
+        "Strike-Rate": "20.51",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "42",
+        "Average": "2.80",
+        "Strike-Rate": "21.21",
+        "Opposition": "Dragons",
+        "Date": "2009/01/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "22",
+        "Runs": "53",
+        "Average": "3.31",
+        "Strike-Rate": "22.75",
+        "Opposition": "Heat",
+        "Date": "2009/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "23",
+        "Runs": "60",
+        "Average": "3.53",
+        "Strike-Rate": "21.98",
+        "Opposition": "Badgers",
+        "Date": "2009/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "24",
+        "Runs": "62",
+        "Average": "3.44",
+        "Strike-Rate": "22.06",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "25",
+        "Runs": "63",
+        "Average": "3.32",
+        "Strike-Rate": "22.26",
+        "Opposition": "Titans",
+        "Date": "2013/02/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "26",
+        "Runs": "63",
+        "Average": "3.15",
+        "Strike-Rate": "22.26",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2014/11/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "27",
+        "Runs": "63",
+        "Average": "3.15",
+        "Strike-Rate": "22.18",
+        "Opposition": "Eastern Storm",
+        "Date": "2015/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "28",
+        "Runs": "63",
+        "Average": "3.15",
+        "Strike-Rate": "22.18",
+        "Opposition": "Dragons",
+        "Date": "2015/02/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "29",
+        "Runs": "63",
+        "Average": "3.00",
+        "Strike-Rate": "22.18",
+        "Opposition": "Dragons",
+        "Date": "2015/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "30",
+        "Runs": "63",
+        "Average": "2.86",
+        "Strike-Rate": "22.18",
+        "Opposition": "Tuskers",
+        "Date": "2015/03/15",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00",
+        "Opposition": "Dragons",
+        "Date": "2009/01/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.50",
+        "Opposition": "Badgers",
+        "Date": "2009/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00",
+        "Opposition": "Dragons",
+        "Date": "2009/01/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.50",
+        "Opposition": "Badgers",
+        "Date": "2009/01/13",
+        "Format": "OVERALL"
       }
     ]
   }

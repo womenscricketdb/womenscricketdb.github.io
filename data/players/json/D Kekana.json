@@ -223,7 +223,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.17",
+        "Average": "0.33",
         "Strike-Rate": "4.55",
         "100s": "0",
         "50s": "0",
@@ -240,7 +240,7 @@
         "Not Out": "1",
         "Runs": "2",
         "Highest Score": "2*",
-        "Average": "1.00",
+        "Average": "",
         "Strike-Rate": "33.33",
         "100s": "0",
         "50s": "0",
@@ -665,6 +665,444 @@
         "Bowling": "0/13",
         "Fielding": "",
         "Match_Slug": "2014-11-16-western-province-titans"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "12.50",
+        "Opposition": "Western Province",
+        "Date": "2014/11/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "8.33",
+        "Opposition": "Lions",
+        "Date": "2014/12/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "8.33",
+        "Opposition": "Dolphins",
+        "Date": "2015/02/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "5.56",
+        "Opposition": "Boland",
+        "Date": "2015/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "5.56",
+        "Opposition": "Knights",
+        "Date": "2015/04/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "5.56",
+        "Opposition": "Warriors",
+        "Date": "2015/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "1",
+        "Average": "0.17",
+        "Strike-Rate": "4.55",
+        "Opposition": "Western Province",
+        "Date": "2015/04/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "1",
+        "Average": "0.14",
+        "Strike-Rate": "4.55",
+        "Opposition": "Western Province",
+        "Date": "2015/11/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "1",
+        "Average": "0.14",
+        "Strike-Rate": "4.17",
+        "Opposition": "Lions",
+        "Date": "2015/11/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "1",
+        "Average": "0.12",
+        "Strike-Rate": "3.23",
+        "Opposition": "Knights",
+        "Date": "2016/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "33.33",
+        "Opposition": "Western Province",
+        "Date": "2014/11/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Lions",
+        "Date": "2014/12/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Boland",
+        "Date": "2015/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "33.33",
+        "Opposition": "Lions",
+        "Date": "2015/11/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "12.50",
+        "Opposition": "Western Province",
+        "Date": "2014/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "21.43",
+        "Opposition": "Western Province",
+        "Date": "2014/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "16.67",
+        "Opposition": "Lions",
+        "Date": "2014/12/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "16.67",
+        "Opposition": "Lions",
+        "Date": "2014/12/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "16.67",
+        "Opposition": "Dolphins",
+        "Date": "2015/02/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "12.50",
+        "Opposition": "Boland",
+        "Date": "2015/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "12.50",
+        "Opposition": "Boland",
+        "Date": "2015/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "12.50",
+        "Opposition": "Knights",
+        "Date": "2015/04/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "3",
+        "Average": "0.43",
+        "Strike-Rate": "12.50",
+        "Opposition": "Warriors",
+        "Date": "2015/04/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "3",
+        "Average": "0.38",
+        "Strike-Rate": "10.71",
+        "Opposition": "Western Province",
+        "Date": "2015/04/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "3",
+        "Average": "0.33",
+        "Strike-Rate": "10.71",
+        "Opposition": "Western Province",
+        "Date": "2015/11/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "3",
+        "Average": "0.33",
+        "Strike-Rate": "10.00",
+        "Opposition": "Lions",
+        "Date": "2015/11/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "3",
+        "Average": "0.30",
+        "Strike-Rate": "10.00",
+        "Opposition": "Lions",
+        "Date": "2015/11/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "3",
+        "Average": "0.27",
+        "Strike-Rate": "8.11",
+        "Opposition": "Knights",
+        "Date": "2016/02/27",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.44",
+        "Opposition": "Western Province",
+        "Date": "2014/11/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.82",
+        "Opposition": "Lions",
+        "Date": "2014/12/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.54",
+        "Opposition": "Dolphins",
+        "Date": "2015/02/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "60.00",
+        "Economy": "4.34",
+        "Opposition": "Knights",
+        "Date": "2015/04/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "1",
+        "Average": "84.00",
+        "Economy": "4.71",
+        "Opposition": "Lions",
+        "Date": "2015/11/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "95.00",
+        "Economy": "5.04",
+        "Opposition": "Knights",
+        "Date": "2016/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "13.00",
+        "Opposition": "Western Province",
+        "Date": "2014/11/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.67",
+        "Opposition": "Lions",
+        "Date": "2014/12/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "37.00",
+        "Economy": "6.17",
+        "Opposition": "Boland",
+        "Date": "2015/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "49.00",
+        "Economy": "6.12",
+        "Opposition": "Lions",
+        "Date": "2015/11/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.44",
+        "Opposition": "Western Province",
+        "Date": "2014/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.40",
+        "Opposition": "Western Province",
+        "Date": "2014/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.58",
+        "Opposition": "Lions",
+        "Date": "2014/12/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.64",
+        "Opposition": "Lions",
+        "Date": "2014/12/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.12",
+        "Opposition": "Dolphins",
+        "Date": "2015/02/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "96.00",
+        "Economy": "5.05",
+        "Opposition": "Boland",
+        "Date": "2015/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "2",
+        "Average": "48.50",
+        "Economy": "4.89",
+        "Opposition": "Knights",
+        "Date": "2015/04/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "2",
+        "Average": "60.50",
+        "Economy": "5.08",
+        "Opposition": "Lions",
+        "Date": "2015/11/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "2",
+        "Average": "66.50",
+        "Economy": "5.15",
+        "Opposition": "Lions",
+        "Date": "2015/11/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "2",
+        "Average": "72.00",
+        "Economy": "5.37",
+        "Opposition": "Knights",
+        "Date": "2016/02/27",
+        "Format": "OVERALL"
       }
     ]
   }

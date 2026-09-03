@@ -339,7 +339,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "1.00",
+        "Average": "",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -356,7 +356,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.33",
+        "Average": "1.00",
         "Strike-Rate": "7.14",
         "100s": "0",
         "50s": "0",
@@ -373,7 +373,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "3",
-        "Average": "1.33",
+        "Average": "2.00",
         "Strike-Rate": "80.00",
         "100s": "0",
         "50s": "0",
@@ -424,7 +424,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "0.00",
         "100s": "0",
         "50s": "0",
@@ -441,7 +441,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "1.00",
+        "Average": "",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -1174,6 +1174,804 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2016-10-30-tuskers-badgers"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "66.67",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "13.04",
+        "Opposition": "Iinyathi",
+        "Date": "2017/01/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "13.04",
+        "Opposition": "Warriors",
+        "Date": "2017/10/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "13.04",
+        "Opposition": "Kei",
+        "Date": "2017/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "12.50",
+        "Opposition": "Boland",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "4",
+        "Average": "0.80",
+        "Strike-Rate": "10.81",
+        "Opposition": "Heat",
+        "Date": "2018/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "13",
+        "Average": "2.60",
+        "Strike-Rate": "24.53",
+        "Opposition": "Kei",
+        "Date": "2018/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "13",
+        "Average": "2.17",
+        "Strike-Rate": "20.63",
+        "Opposition": "Knights",
+        "Date": "2019/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "13",
+        "Average": "2.17",
+        "Strike-Rate": "19.70",
+        "Opposition": "Kei",
+        "Date": "2020/01/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "13",
+        "Average": "1.86",
+        "Strike-Rate": "19.70",
+        "Opposition": "Boland",
+        "Date": "2020/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Runs": "13",
+        "Average": "1.62",
+        "Strike-Rate": "19.70",
+        "Opposition": "Kei",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Runs": "13",
+        "Average": "1.44",
+        "Strike-Rate": "19.70",
+        "Opposition": "Knights",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "13",
+        "Runs": "13",
+        "Average": "1.30",
+        "Strike-Rate": "19.70",
+        "Opposition": "Warriors",
+        "Date": "2021/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "14",
+        "Runs": "13",
+        "Average": "1.18",
+        "Strike-Rate": "18.84",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/04/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Iinyathi",
+        "Date": "2017/01/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Warriors",
+        "Date": "2017/10/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "80.00",
+        "Opposition": "Kei",
+        "Date": "2017/11/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "71.43",
+        "Opposition": "Boland",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Warriors",
+        "Date": "2018/10/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "5",
+        "Average": "0.83",
+        "Strike-Rate": "33.33",
+        "Opposition": "Kei",
+        "Date": "2018/11/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Runs": "5",
+        "Average": "0.71",
+        "Strike-Rate": "26.32",
+        "Opposition": "Knights",
+        "Date": "2019/01/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Runs": "5",
+        "Average": "0.62",
+        "Strike-Rate": "26.32",
+        "Opposition": "Heat",
+        "Date": "2019/02/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Runs": "5",
+        "Average": "0.56",
+        "Strike-Rate": "26.32",
+        "Opposition": "Kei",
+        "Date": "2020/01/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "11",
+        "Runs": "6",
+        "Average": "0.67",
+        "Strike-Rate": "28.57",
+        "Opposition": "Boland",
+        "Date": "2020/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "66.67",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "66.67",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "13.04",
+        "Opposition": "Iinyathi",
+        "Date": "2017/01/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "16.00",
+        "Opposition": "Iinyathi",
+        "Date": "2017/01/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "16.00",
+        "Opposition": "Warriors",
+        "Date": "2017/10/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "4",
+        "Average": "0.80",
+        "Strike-Rate": "16.00",
+        "Opposition": "Warriors",
+        "Date": "2017/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "4",
+        "Average": "0.67",
+        "Strike-Rate": "16.00",
+        "Opposition": "Kei",
+        "Date": "2017/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "7",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Kei",
+        "Date": "2017/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "7",
+        "Average": "1.00",
+        "Strike-Rate": "24.14",
+        "Opposition": "Boland",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "8",
+        "Average": "1.00",
+        "Strike-Rate": "25.81",
+        "Opposition": "Boland",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "9",
+        "Average": "1.00",
+        "Strike-Rate": "20.45",
+        "Opposition": "Heat",
+        "Date": "2018/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "9",
+        "Average": "0.90",
+        "Strike-Rate": "17.31",
+        "Opposition": "Warriors",
+        "Date": "2018/10/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "18",
+        "Average": "1.80",
+        "Strike-Rate": "26.47",
+        "Opposition": "Kei",
+        "Date": "2018/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "18",
+        "Average": "1.64",
+        "Strike-Rate": "26.47",
+        "Opposition": "Kei",
+        "Date": "2018/11/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "18",
+        "Average": "1.50",
+        "Strike-Rate": "23.08",
+        "Opposition": "Knights",
+        "Date": "2019/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "18",
+        "Average": "1.38",
+        "Strike-Rate": "21.95",
+        "Opposition": "Knights",
+        "Date": "2019/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "18",
+        "Average": "1.29",
+        "Strike-Rate": "21.95",
+        "Opposition": "Heat",
+        "Date": "2019/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "18",
+        "Average": "1.29",
+        "Strike-Rate": "21.18",
+        "Opposition": "Kei",
+        "Date": "2020/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "18",
+        "Average": "1.20",
+        "Strike-Rate": "21.18",
+        "Opposition": "Kei",
+        "Date": "2020/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "18",
+        "Average": "1.12",
+        "Strike-Rate": "21.18",
+        "Opposition": "Boland",
+        "Date": "2020/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "19",
+        "Average": "1.19",
+        "Strike-Rate": "21.84",
+        "Opposition": "Boland",
+        "Date": "2020/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "22",
+        "Runs": "19",
+        "Average": "1.12",
+        "Strike-Rate": "21.84",
+        "Opposition": "Kei",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "23",
+        "Runs": "19",
+        "Average": "1.06",
+        "Strike-Rate": "21.84",
+        "Opposition": "Knights",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "24",
+        "Runs": "19",
+        "Average": "1.00",
+        "Strike-Rate": "21.84",
+        "Opposition": "Warriors",
+        "Date": "2021/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "25",
+        "Runs": "19",
+        "Average": "0.95",
+        "Strike-Rate": "21.11",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/04/24",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "5.71",
+        "Opposition": "Iinyathi",
+        "Date": "2017/01/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "30.50",
+        "Economy": "5.55",
+        "Opposition": "Warriors",
+        "Date": "2017/10/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "22.67",
+        "Economy": "4.25",
+        "Opposition": "Kei",
+        "Date": "2017/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "37.67",
+        "Economy": "4.71",
+        "Opposition": "Boland",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "4",
+        "Average": "28.25",
+        "Economy": "4.52",
+        "Opposition": "Heat",
+        "Date": "2018/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "4",
+        "Average": "42.75",
+        "Economy": "4.89",
+        "Opposition": "Knights",
+        "Date": "2019/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "5",
+        "Average": "34.40",
+        "Economy": "4.89",
+        "Opposition": "Kei",
+        "Date": "2020/01/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "7",
+        "Average": "27.14",
+        "Economy": "4.21",
+        "Opposition": "Boland",
+        "Date": "2020/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "7",
+        "Average": "27.86",
+        "Economy": "3.89",
+        "Opposition": "Kei",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "7",
+        "Average": "29.29",
+        "Economy": "4.01",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/04/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "4.00",
+        "Opposition": "Iinyathi",
+        "Date": "2017/01/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "5.20",
+        "Opposition": "Warriors",
+        "Date": "2017/10/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "13.50",
+        "Economy": "3.86",
+        "Opposition": "Kei",
+        "Date": "2017/11/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "15.67",
+        "Economy": "4.27",
+        "Opposition": "Boland",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "4",
+        "Average": "13.25",
+        "Economy": "4.08",
+        "Opposition": "Warriors",
+        "Date": "2018/10/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "5",
+        "Average": "12.00",
+        "Economy": "4.00",
+        "Opposition": "Kei",
+        "Date": "2018/11/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "5",
+        "Average": "17.00",
+        "Economy": "5.00",
+        "Opposition": "Knights",
+        "Date": "2019/01/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "8",
+        "Average": "12.25",
+        "Economy": "4.67",
+        "Opposition": "Heat",
+        "Date": "2019/02/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "9",
+        "Average": "11.56",
+        "Economy": "4.52",
+        "Opposition": "Boland",
+        "Date": "2020/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "5.71",
+        "Opposition": "Iinyathi",
+        "Date": "2017/01/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "28.00",
+        "Economy": "5.09",
+        "Opposition": "Iinyathi",
+        "Date": "2017/01/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "25.67",
+        "Economy": "5.13",
+        "Opposition": "Warriors",
+        "Date": "2017/10/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "29.00",
+        "Economy": "5.44",
+        "Opposition": "Warriors",
+        "Date": "2017/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "4",
+        "Average": "23.50",
+        "Economy": "4.48",
+        "Opposition": "Kei",
+        "Date": "2017/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "5",
+        "Average": "19.00",
+        "Economy": "4.13",
+        "Opposition": "Kei",
+        "Date": "2017/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "5",
+        "Average": "28.00",
+        "Economy": "4.52",
+        "Opposition": "Boland",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "6",
+        "Average": "26.67",
+        "Economy": "4.57",
+        "Opposition": "Boland",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "7",
+        "Average": "22.86",
+        "Economy": "4.44",
+        "Opposition": "Heat",
+        "Date": "2018/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "8",
+        "Average": "20.75",
+        "Economy": "4.37",
+        "Opposition": "Warriors",
+        "Date": "2018/10/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "9",
+        "Average": "19.22",
+        "Economy": "4.33",
+        "Opposition": "Kei",
+        "Date": "2018/11/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "9",
+        "Average": "25.67",
+        "Economy": "4.62",
+        "Opposition": "Knights",
+        "Date": "2019/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "9",
+        "Average": "28.44",
+        "Economy": "4.92",
+        "Opposition": "Knights",
+        "Date": "2019/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "12",
+        "Average": "22.42",
+        "Economy": "4.80",
+        "Opposition": "Heat",
+        "Date": "2019/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "13",
+        "Average": "20.77",
+        "Economy": "4.81",
+        "Opposition": "Kei",
+        "Date": "2020/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Wickets": "15",
+        "Average": "19.20",
+        "Economy": "4.35",
+        "Opposition": "Boland",
+        "Date": "2020/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Wickets": "16",
+        "Average": "18.38",
+        "Economy": "4.31",
+        "Opposition": "Boland",
+        "Date": "2020/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Wickets": "16",
+        "Average": "18.69",
+        "Economy": "4.09",
+        "Opposition": "Kei",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Wickets": "16",
+        "Average": "19.31",
+        "Economy": "4.17",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/04/24",
+        "Format": "OVERALL"
       }
     ]
   }

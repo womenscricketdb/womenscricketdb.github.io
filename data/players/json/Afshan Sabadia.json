@@ -259,7 +259,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "1.00",
+        "Average": "",
         "Strike-Rate": "25.00",
         "100s": "0",
         "50s": "0",
@@ -276,7 +276,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.50",
+        "Average": "",
         "Strike-Rate": "14.29",
         "100s": "0",
         "50s": "0",
@@ -692,6 +692,426 @@
         "Bowling": "0/14",
         "Fielding": "",
         "Match_Slug": "2021-03-04-tuskers-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2020/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "14.29",
+        "Opposition": "Knights",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "14.29",
+        "Opposition": "Rhinos",
+        "Date": "2022/02/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "14.29",
+        "Opposition": "Heat",
+        "Date": "2022/02/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Rhinos",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "8.64",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "8.14",
+        "Opposition": "Heat",
+        "Date": "2021/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "7",
+        "Average": "1.75",
+        "Strike-Rate": "8.14",
+        "Opposition": "Rhinos",
+        "Date": "2022/02/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "8",
+        "Average": "2.00",
+        "Strike-Rate": "8.89",
+        "Opposition": "Heat",
+        "Date": "2022/02/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2020/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Rhinos",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "7",
+        "Average": "1.17",
+        "Strike-Rate": "8.64",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "7",
+        "Average": "1.17",
+        "Strike-Rate": "8.14",
+        "Opposition": "Heat",
+        "Date": "2021/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "8",
+        "Average": "1.33",
+        "Strike-Rate": "8.60",
+        "Opposition": "Knights",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "8",
+        "Average": "1.14",
+        "Strike-Rate": "8.60",
+        "Opposition": "Rhinos",
+        "Date": "2022/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "8",
+        "Average": "1.00",
+        "Strike-Rate": "8.60",
+        "Opposition": "Rhinos",
+        "Date": "2022/02/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "9",
+        "Average": "1.12",
+        "Strike-Rate": "9.28",
+        "Opposition": "Heat",
+        "Date": "2022/02/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "9",
+        "Average": "1.00",
+        "Strike-Rate": "9.28",
+        "Opposition": "Heat",
+        "Date": "2022/02/20",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "3.25",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "3.00",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "18.33",
+        "Economy": "5.50",
+        "Opposition": "Heat",
+        "Date": "2020/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "24.67",
+        "Economy": "5.29",
+        "Opposition": "Knights",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "26.00",
+        "Economy": "4.88",
+        "Opposition": "Heat",
+        "Date": "2022/02/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.80",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.91",
+        "Opposition": "Rhinos",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "55.00",
+        "Economy": "2.89",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "76.00",
+        "Economy": "2.62",
+        "Opposition": "Heat",
+        "Date": "2021/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "1",
+        "Average": "99.00",
+        "Economy": "2.61",
+        "Opposition": "Rhinos",
+        "Date": "2022/02/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "2",
+        "Average": "68.50",
+        "Economy": "2.98",
+        "Opposition": "Heat",
+        "Date": "2022/02/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "13.00",
+        "Economy": "3.25",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "3.00",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "18.33",
+        "Economy": "5.50",
+        "Opposition": "Heat",
+        "Date": "2020/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "23.00",
+        "Economy": "4.60",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "29.00",
+        "Economy": "4.14",
+        "Opposition": "Rhinos",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "4",
+        "Average": "27.50",
+        "Economy": "3.79",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "4",
+        "Average": "32.75",
+        "Economy": "3.36",
+        "Opposition": "Heat",
+        "Date": "2021/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "4",
+        "Average": "37.50",
+        "Economy": "3.49",
+        "Opposition": "Knights",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "4",
+        "Average": "43.25",
+        "Economy": "3.33",
+        "Opposition": "Rhinos",
+        "Date": "2022/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "5",
+        "Average": "42.20",
+        "Economy": "3.52",
+        "Opposition": "Heat",
+        "Date": "2022/02/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "5",
+        "Average": "43.00",
+        "Economy": "3.47",
+        "Opposition": "Heat",
+        "Date": "2022/02/20",
+        "Format": "OVERALL"
       }
     ]
   }

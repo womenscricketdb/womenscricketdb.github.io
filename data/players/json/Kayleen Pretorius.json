@@ -167,5 +167,46 @@
         "Match_Slug": "2013-03-10-warriors-badgers"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Warriors",
+        "Date": "2013/03/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "12.00",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Warriors",
+        "Date": "2013/03/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "12.00",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

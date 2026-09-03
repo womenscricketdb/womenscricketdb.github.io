@@ -203,5 +203,83 @@
         "Match_Slug": "2006-10-08-titans-limpopo-lillies"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "51.85",
+        "Opposition": "Titans",
+        "Date": "2006/10/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "14",
+        "Average": "7.00",
+        "Strike-Rate": "46.67",
+        "Opposition": "Tuskers",
+        "Date": "2006/11/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "51.85",
+        "Opposition": "Titans",
+        "Date": "2006/10/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "14",
+        "Average": "7.00",
+        "Strike-Rate": "46.67",
+        "Opposition": "Tuskers",
+        "Date": "2006/11/04",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "9.00",
+        "Economy": "3.66",
+        "Opposition": "Titans",
+        "Date": "2006/10/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "15.25",
+        "Economy": "4.75",
+        "Opposition": "Tuskers",
+        "Date": "2006/11/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "9.00",
+        "Economy": "3.66",
+        "Opposition": "Titans",
+        "Date": "2006/10/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "15.25",
+        "Economy": "4.75",
+        "Opposition": "Tuskers",
+        "Date": "2006/11/04",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

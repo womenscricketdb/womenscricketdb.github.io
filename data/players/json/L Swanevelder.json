@@ -164,7 +164,7 @@
         "Not Out": "1",
         "Runs": "14",
         "Highest Score": "14*",
-        "Average": "14.00",
+        "Average": "",
         "Strike-Rate": "70.00",
         "100s": "0",
         "50s": "0",
@@ -329,6 +329,120 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2015-02-21-dragons-rhinos"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "200.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "200.00",
+        "Opposition": "Tuskers",
+        "Date": "2015/01/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "200.00",
+        "Opposition": "Rhinos",
+        "Date": "2015/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2015/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "14",
+        "Average": "14.00",
+        "Strike-Rate": "70.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "200.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "200.00",
+        "Opposition": "Tuskers",
+        "Date": "2015/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "200.00",
+        "Opposition": "Rhinos",
+        "Date": "2015/02/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "200.00",
+        "Opposition": "Rhinos",
+        "Date": "2015/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "16",
+        "Average": "5.33",
+        "Strike-Rate": "76.19",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/03/28",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "10.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "10.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/12",
+        "Format": "OVERALL"
       }
     ]
   }

@@ -216,7 +216,7 @@
         "Not Out": "0",
         "Runs": "15",
         "Highest Score": "15",
-        "Average": "7.50",
+        "Average": "15.00",
         "Strike-Rate": "83.33",
         "100s": "0",
         "50s": "0",
@@ -413,6 +413,156 @@
         "Bowling": "0/19",
         "Fielding": "",
         "Match_Slug": "2022-10-22-boland-warriors"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Rhinos",
+        "Date": "2018/11/04",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "47.37",
+        "Opposition": "Dolphins",
+        "Date": "2018/11/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/01/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "42.86",
+        "Opposition": "Iinyathi",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "24",
+        "Average": "4.80",
+        "Strike-Rate": "61.54",
+        "Opposition": "Boland",
+        "Date": "2022/10/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "35",
+        "Average": "35.00",
+        "Strike-Rate": "76.09",
+        "Opposition": "Boland",
+        "Date": "2022/10/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Rhinos",
+        "Date": "2018/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "47.37",
+        "Opposition": "Dolphins",
+        "Date": "2018/11/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "42.86",
+        "Opposition": "Iinyathi",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "44",
+        "Average": "8.80",
+        "Strike-Rate": "65.67",
+        "Opposition": "Boland",
+        "Date": "2022/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "59",
+        "Average": "9.83",
+        "Strike-Rate": "69.41",
+        "Opposition": "Boland",
+        "Date": "2022/10/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00",
+        "Opposition": "Iinyathi",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.33",
+        "Opposition": "Boland",
+        "Date": "2022/10/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00",
+        "Opposition": "Iinyathi",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.75",
+        "Opposition": "Boland",
+        "Date": "2022/10/22",
+        "Format": "OVERALL"
       }
     ]
   }

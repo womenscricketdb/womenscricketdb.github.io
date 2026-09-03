@@ -258,7 +258,7 @@
         "Not Out": "1",
         "Runs": "32",
         "Highest Score": "32*",
-        "Average": "32.00",
+        "Average": "",
         "Strike-Rate": "100.00",
         "100s": "0",
         "50s": "0",
@@ -309,7 +309,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.25",
+        "Average": "1.00",
         "Strike-Rate": "20.00",
         "100s": "0",
         "50s": "0",
@@ -619,6 +619,354 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2020-01-19-kei-badgers"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "32",
+        "Average": "-",
+        "Strike-Rate": "100.00",
+        "Opposition": "Kei",
+        "Date": "2020/01/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "32",
+        "Average": "32.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Boland",
+        "Date": "2020/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "32",
+        "Average": "16.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Kei",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "32",
+        "Average": "10.67",
+        "Strike-Rate": "100.00",
+        "Opposition": "Knights",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "32",
+        "Average": "8.00",
+        "Strike-Rate": "94.12",
+        "Opposition": "Boland",
+        "Date": "2021/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "32",
+        "Average": "6.40",
+        "Strike-Rate": "94.12",
+        "Opposition": "Warriors",
+        "Date": "2021/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "50",
+        "Average": "8.33",
+        "Strike-Rate": "60.98",
+        "Opposition": "Iinyathi",
+        "Date": "2022/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "64",
+        "Average": "9.14",
+        "Strike-Rate": "53.33",
+        "Opposition": "Kei",
+        "Date": "2022/02/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "64",
+        "Average": "8.00",
+        "Strike-Rate": "49.61",
+        "Opposition": "Warriors",
+        "Date": "2022/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "71",
+        "Average": "7.89",
+        "Strike-Rate": "42.01",
+        "Opposition": "Boland",
+        "Date": "2022/03/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Runs": "105",
+        "Average": "10.50",
+        "Strike-Rate": "40.08",
+        "Opposition": "Knights",
+        "Date": "2022/04/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2020/01/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2022/02/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "20.00",
+        "Opposition": "Warriors",
+        "Date": "2022/03/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "20.00",
+        "Opposition": "Boland",
+        "Date": "2022/03/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "32",
+        "Average": "-",
+        "Strike-Rate": "100.00",
+        "Opposition": "Kei",
+        "Date": "2020/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "32",
+        "Average": "32.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Kei",
+        "Date": "2020/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "32",
+        "Average": "16.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Boland",
+        "Date": "2020/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "32",
+        "Average": "10.67",
+        "Strike-Rate": "100.00",
+        "Opposition": "Kei",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "32",
+        "Average": "8.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Knights",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "32",
+        "Average": "6.40",
+        "Strike-Rate": "94.12",
+        "Opposition": "Boland",
+        "Date": "2021/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "32",
+        "Average": "5.33",
+        "Strike-Rate": "94.12",
+        "Opposition": "Warriors",
+        "Date": "2021/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "50",
+        "Average": "7.14",
+        "Strike-Rate": "60.98",
+        "Opposition": "Iinyathi",
+        "Date": "2022/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "50",
+        "Average": "6.25",
+        "Strike-Rate": "60.98",
+        "Opposition": "Iinyathi",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "64",
+        "Average": "7.11",
+        "Strike-Rate": "53.33",
+        "Opposition": "Kei",
+        "Date": "2022/02/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "64",
+        "Average": "6.40",
+        "Strike-Rate": "53.33",
+        "Opposition": "Kei",
+        "Date": "2022/02/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "64",
+        "Average": "5.82",
+        "Strike-Rate": "49.61",
+        "Opposition": "Warriors",
+        "Date": "2022/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "65",
+        "Average": "5.42",
+        "Strike-Rate": "48.51",
+        "Opposition": "Warriors",
+        "Date": "2022/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "72",
+        "Average": "5.54",
+        "Strike-Rate": "41.38",
+        "Opposition": "Boland",
+        "Date": "2022/03/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "72",
+        "Average": "5.14",
+        "Strike-Rate": "41.38",
+        "Opposition": "Boland",
+        "Date": "2022/03/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "106",
+        "Average": "7.07",
+        "Strike-Rate": "39.70",
+        "Opposition": "Knights",
+        "Date": "2022/04/09",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "8.00",
+        "Economy": "2.00",
+        "Opposition": "Kei",
+        "Date": "2022/02/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "3.71",
+        "Opposition": "Warriors",
+        "Date": "2022/03/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "3.75",
+        "Opposition": "Warriors",
+        "Date": "2022/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "8.00",
+        "Economy": "2.00",
+        "Opposition": "Kei",
+        "Date": "2022/02/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "11.50",
+        "Economy": "2.88",
+        "Opposition": "Warriors",
+        "Date": "2022/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "20.50",
+        "Economy": "3.73",
+        "Opposition": "Warriors",
+        "Date": "2022/03/06",
+        "Format": "OVERALL"
       }
     ]
   }

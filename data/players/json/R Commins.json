@@ -164,7 +164,7 @@
         "Not Out": "0",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "1.00",
+        "Average": "2.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -312,6 +312,120 @@
         "Bowling": "0/9",
         "Fielding": "",
         "Match_Slug": "2013-11-09-iinyathi-warriors"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2013/10/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Dolphins",
+        "Date": "2013/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "18.18",
+        "Opposition": "Iinyathi",
+        "Date": "2013/11/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "18.18",
+        "Opposition": "Boland",
+        "Date": "2013/11/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "16.67",
+        "Opposition": "Western Province",
+        "Date": "2013/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2013/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Dolphins",
+        "Date": "2013/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "26.67",
+        "Opposition": "Iinyathi",
+        "Date": "2013/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "26.67",
+        "Opposition": "Boland",
+        "Date": "2013/11/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Western Province",
+        "Date": "2013/11/24",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00",
+        "Opposition": "Iinyathi",
+        "Date": "2013/11/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00",
+        "Opposition": "Iinyathi",
+        "Date": "2013/11/09",
+        "Format": "OVERALL"
       }
     ]
   }

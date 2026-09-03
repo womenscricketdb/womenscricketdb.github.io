@@ -72,7 +72,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "5.56",
         "100s": "0",
         "50s": "0",
@@ -159,5 +159,46 @@
         "Match_Slug": "2007-11-17-dragons-titans"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.56",
+        "Opposition": "Titans",
+        "Date": "2007/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "5.56",
+        "Opposition": "Rhinos",
+        "Date": "2007/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.56",
+        "Opposition": "Titans",
+        "Date": "2007/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "5.56",
+        "Opposition": "Rhinos",
+        "Date": "2007/11/24",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

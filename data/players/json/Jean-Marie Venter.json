@@ -204,7 +204,7 @@
         "Not Out": "1",
         "Runs": "2",
         "Highest Score": "1*",
-        "Average": "1.00",
+        "Average": "2.00",
         "Strike-Rate": "12.50",
         "100s": "0",
         "50s": "0",
@@ -221,7 +221,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.50",
+        "Average": "",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -418,6 +418,192 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2016-02-28-iinyathi-warriors"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2016/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "33.33",
+        "Opposition": "Kei",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "12.50",
+        "Opposition": "Warriors",
+        "Date": "2017/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Warriors",
+        "Date": "2016/02/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2016/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Badgers",
+        "Date": "2017/01/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "50.00",
+        "Opposition": "Dolphins",
+        "Date": "2017/02/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2016/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Warriors",
+        "Date": "2016/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "33.33",
+        "Opposition": "Kei",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "33.33",
+        "Opposition": "Kei",
+        "Date": "2016/10/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "33.33",
+        "Opposition": "Badgers",
+        "Date": "2017/01/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "40.00",
+        "Opposition": "Dolphins",
+        "Date": "2017/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "16.67",
+        "Opposition": "Warriors",
+        "Date": "2017/04/01",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.00",
+        "Opposition": "Kei",
+        "Date": "2016/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.75",
+        "Opposition": "Kei",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.00",
+        "Opposition": "Kei",
+        "Date": "2016/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.75",
+        "Opposition": "Kei",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
       }
     ]
   }

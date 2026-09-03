@@ -137,7 +137,7 @@
         "Not Out": "1",
         "Runs": "7",
         "Highest Score": "6",
-        "Average": "1.75",
+        "Average": "2.33",
         "Strike-Rate": "43.75",
         "100s": "0",
         "50s": "0",
@@ -314,6 +314,156 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2008-11-02-titans-western-province"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "120.00",
+        "Opposition": "Western Province",
+        "Date": "2008/11/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "70.00",
+        "Opposition": "Iinyathi",
+        "Date": "2008/11/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "53.85",
+        "Opposition": "Knights",
+        "Date": "2009/01/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "1.75",
+        "Strike-Rate": "53.85",
+        "Opposition": "Dolphins",
+        "Date": "2009/01/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "7",
+        "Average": "1.75",
+        "Strike-Rate": "43.75",
+        "Opposition": "Boland",
+        "Date": "2009/02/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "7",
+        "Average": "1.40",
+        "Strike-Rate": "43.75",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/11/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "120.00",
+        "Opposition": "Western Province",
+        "Date": "2008/11/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "70.00",
+        "Opposition": "Iinyathi",
+        "Date": "2008/11/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "53.85",
+        "Opposition": "Knights",
+        "Date": "2009/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "1.75",
+        "Strike-Rate": "53.85",
+        "Opposition": "Dolphins",
+        "Date": "2009/01/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "7",
+        "Average": "1.75",
+        "Strike-Rate": "43.75",
+        "Opposition": "Boland",
+        "Date": "2009/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "7",
+        "Average": "1.40",
+        "Strike-Rate": "43.75",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/11/01",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.00",
+        "Opposition": "Knights",
+        "Date": "2009/01/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/11/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.00",
+        "Opposition": "Knights",
+        "Date": "2009/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/11/01",
+        "Format": "OVERALL"
       }
     ]
   }

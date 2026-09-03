@@ -207,7 +207,7 @@
         "Not Out": "1",
         "Runs": "9",
         "Highest Score": "6*",
-        "Average": "3.00",
+        "Average": "9.00",
         "Strike-Rate": "75.00",
         "100s": "0",
         "50s": "0",
@@ -558,6 +558,336 @@
         "Bowling": "0/15",
         "Fielding": "",
         "Match_Slug": "2023-10-01-lions-knights"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2023/09/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "75.00",
+        "Opposition": "Western Province",
+        "Date": "2023/11/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Titans",
+        "Date": "2023/11/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Dolphins",
+        "Date": "2024/04/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "75.00",
+        "Opposition": "Badgers",
+        "Date": "2024/10/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2023/10/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2023/10/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2023/11/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dolphins",
+        "Date": "2024/04/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2023/09/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2023/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2023/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "75.00",
+        "Opposition": "Western Province",
+        "Date": "2023/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "75.00",
+        "Opposition": "Titans",
+        "Date": "2023/11/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "75.00",
+        "Opposition": "Titans",
+        "Date": "2023/11/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "9",
+        "Average": "1.50",
+        "Strike-Rate": "75.00",
+        "Opposition": "Dolphins",
+        "Date": "2024/04/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "9",
+        "Average": "1.29",
+        "Strike-Rate": "75.00",
+        "Opposition": "Dolphins",
+        "Date": "2024/04/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "9",
+        "Average": "1.12",
+        "Strike-Rate": "75.00",
+        "Opposition": "Badgers",
+        "Date": "2024/10/19",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "19.50",
+        "Economy": "3.90",
+        "Opposition": "Knights",
+        "Date": "2023/09/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "31.00",
+        "Economy": "4.13",
+        "Opposition": "Western Province",
+        "Date": "2023/11/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "41.50",
+        "Economy": "3.46",
+        "Opposition": "Titans",
+        "Date": "2023/11/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "40.00",
+        "Economy": "3.53",
+        "Opposition": "Dolphins",
+        "Date": "2024/04/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "4",
+        "Average": "38.50",
+        "Economy": "4.05",
+        "Opposition": "Badgers",
+        "Date": "2024/10/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "15.00",
+        "Opposition": "Knights",
+        "Date": "2023/10/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "34.00",
+        "Economy": "8.50",
+        "Opposition": "Knights",
+        "Date": "2023/10/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "59.00",
+        "Economy": "8.43",
+        "Opposition": "Titans",
+        "Date": "2023/11/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "82.00",
+        "Economy": "7.45",
+        "Opposition": "Dolphins",
+        "Date": "2024/04/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "19.50",
+        "Economy": "3.90",
+        "Opposition": "Knights",
+        "Date": "2023/09/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "27.00",
+        "Economy": "4.91",
+        "Opposition": "Knights",
+        "Date": "2023/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "24.33",
+        "Economy": "5.21",
+        "Opposition": "Knights",
+        "Date": "2023/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "32.00",
+        "Economy": "5.05",
+        "Opposition": "Western Province",
+        "Date": "2023/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "39.00",
+        "Economy": "4.18",
+        "Opposition": "Titans",
+        "Date": "2023/11/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "3",
+        "Average": "47.33",
+        "Economy": "4.58",
+        "Opposition": "Titans",
+        "Date": "2023/11/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "4",
+        "Average": "44.75",
+        "Economy": "4.37",
+        "Opposition": "Dolphins",
+        "Date": "2024/04/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "4",
+        "Average": "50.50",
+        "Economy": "4.49",
+        "Opposition": "Dolphins",
+        "Date": "2024/04/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "5",
+        "Average": "47.20",
+        "Economy": "4.82",
+        "Opposition": "Badgers",
+        "Date": "2024/10/19",
+        "Format": "OVERALL"
       }
     ]
   },

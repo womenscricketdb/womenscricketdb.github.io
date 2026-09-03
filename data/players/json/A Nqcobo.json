@@ -275,5 +275,83 @@
         "Match_Slug": "2022-01-23-rhinos-tuskers"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "35.71",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "35.71",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "29.41",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "2.33",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "7.50",
+        "Economy": "3.91",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "2.33",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "9.67",
+        "Economy": "2.95",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

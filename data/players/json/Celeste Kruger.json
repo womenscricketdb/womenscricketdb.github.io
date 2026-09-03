@@ -151,5 +151,47 @@
         "Match_Slug": "2012-01-14-dragons-knights"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Dragons",
+        "Date": "2012/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Dragons",
+        "Date": "2012/01/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00",
+        "Opposition": "Dragons",
+        "Date": "2012/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00",
+        "Opposition": "Dragons",
+        "Date": "2012/01/14",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

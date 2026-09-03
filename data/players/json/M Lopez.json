@@ -137,7 +137,7 @@
         "Not Out": "0",
         "Runs": "63",
         "Highest Score": "45",
-        "Average": "15.75",
+        "Average": "21.00",
         "Strike-Rate": "44.06",
         "100s": "0",
         "50s": "0",
@@ -307,6 +307,138 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2005-10-23-titans-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "16.67",
+        "Opposition": "Titans",
+        "Date": "2005/10/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "52",
+        "Average": "26.00",
+        "Strike-Rate": "42.28",
+        "Opposition": "Lions",
+        "Date": "2005/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "63",
+        "Average": "21.00",
+        "Strike-Rate": "44.06",
+        "Opposition": "Titans",
+        "Date": "2006/01/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "63",
+        "Average": "15.75",
+        "Strike-Rate": "44.06",
+        "Opposition": "Lions",
+        "Date": "2006/02/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "78",
+        "Average": "15.60",
+        "Strike-Rate": "45.35",
+        "Opposition": "Rhinos",
+        "Date": "2007/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "16.67",
+        "Opposition": "Titans",
+        "Date": "2005/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "52",
+        "Average": "26.00",
+        "Strike-Rate": "42.28",
+        "Opposition": "Lions",
+        "Date": "2005/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "63",
+        "Average": "21.00",
+        "Strike-Rate": "44.06",
+        "Opposition": "Titans",
+        "Date": "2006/01/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "63",
+        "Average": "15.75",
+        "Strike-Rate": "44.06",
+        "Opposition": "Lions",
+        "Date": "2006/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "78",
+        "Average": "15.60",
+        "Strike-Rate": "45.35",
+        "Opposition": "Rhinos",
+        "Date": "2007/01/13",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.60",
+        "Opposition": "Lions",
+        "Date": "2005/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "63.00",
+        "Economy": "4.50",
+        "Opposition": "Lions",
+        "Date": "2006/02/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.60",
+        "Opposition": "Lions",
+        "Date": "2005/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "63.00",
+        "Economy": "4.50",
+        "Opposition": "Lions",
+        "Date": "2006/02/05",
+        "Format": "OVERALL"
       }
     ]
   }

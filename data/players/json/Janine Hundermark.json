@@ -91,7 +91,7 @@
         "Not Out": "1",
         "Runs": "28",
         "Highest Score": "28*",
-        "Average": "14.00",
+        "Average": "",
         "Strike-Rate": "84.85",
         "100s": "0",
         "50s": "0",
@@ -194,5 +194,64 @@
         "Match_Slug": "2011-11-06-limpopo-lillies-lions"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "28",
+        "Average": "-",
+        "Strike-Rate": "84.85",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "28",
+        "Average": "28.00",
+        "Strike-Rate": "84.85",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "28",
+        "Average": "14.00",
+        "Strike-Rate": "84.85",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "28",
+        "Average": "-",
+        "Strike-Rate": "84.85",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "28",
+        "Average": "28.00",
+        "Strike-Rate": "84.85",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "28",
+        "Average": "14.00",
+        "Strike-Rate": "84.85",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

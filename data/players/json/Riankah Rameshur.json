@@ -177,7 +177,7 @@
         "Not Out": "0",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "0.50",
+        "Average": "2.00",
         "Strike-Rate": "33.33",
         "100s": "0",
         "50s": "0",
@@ -430,6 +430,228 @@
         "Bowling": "0/8",
         "Fielding": "",
         "Match_Slug": "2026-02-07-tuskers-knights"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2025/10/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2026/02/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2026/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Knights",
+        "Date": "2026/02/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Rhinos",
+        "Date": "2026/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "33.33",
+        "Opposition": "Kei",
+        "Date": "2026/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "33.33",
+        "Opposition": "Iinyathi",
+        "Date": "2026/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2025/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Knights",
+        "Date": "2026/02/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "33.33",
+        "Opposition": "Knights",
+        "Date": "2026/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "33.33",
+        "Opposition": "Rhinos",
+        "Date": "2026/02/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "33.33",
+        "Opposition": "Rhinos",
+        "Date": "2026/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.33",
+        "Strike-Rate": "33.33",
+        "Opposition": "Kei",
+        "Date": "2026/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "2",
+        "Average": "0.29",
+        "Strike-Rate": "33.33",
+        "Opposition": "Iinyathi",
+        "Date": "2026/04/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50",
+        "Opposition": "Eastern Storm",
+        "Date": "2025/10/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.33",
+        "Opposition": "Rhinos",
+        "Date": "2026/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00",
+        "Opposition": "Knights",
+        "Date": "2026/02/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.25",
+        "Opposition": "Rhinos",
+        "Date": "2026/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.50",
+        "Opposition": "Kei",
+        "Date": "2026/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50",
+        "Opposition": "Eastern Storm",
+        "Date": "2025/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00",
+        "Opposition": "Knights",
+        "Date": "2026/02/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.33",
+        "Opposition": "Rhinos",
+        "Date": "2026/02/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.29",
+        "Opposition": "Rhinos",
+        "Date": "2026/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.78",
+        "Opposition": "Kei",
+        "Date": "2026/04/01",
+        "Format": "OVERALL"
       }
     ]
   }

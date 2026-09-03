@@ -108,7 +108,7 @@
         "Not Out": "0",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "1.00",
+        "Average": "2.00",
         "Strike-Rate": "28.57",
         "100s": "0",
         "50s": "0",
@@ -228,6 +228,102 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2010-10-09-dolphins-tuskers"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "29",
+        "Average": "-",
+        "Strike-Rate": "30.53",
+        "Opposition": "Tuskers",
+        "Date": "2010/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "29",
+        "Average": "29.00",
+        "Strike-Rate": "30.53",
+        "Opposition": "Dragons",
+        "Date": "2013/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "31",
+        "Average": "15.50",
+        "Strike-Rate": "30.39",
+        "Opposition": "Dragons",
+        "Date": "2013/03/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "29",
+        "Average": "-",
+        "Strike-Rate": "30.53",
+        "Opposition": "Tuskers",
+        "Date": "2010/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "29",
+        "Average": "29.00",
+        "Strike-Rate": "30.53",
+        "Opposition": "Dragons",
+        "Date": "2013/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "31",
+        "Average": "15.50",
+        "Strike-Rate": "30.39",
+        "Opposition": "Dragons",
+        "Date": "2013/03/16",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50",
+        "Opposition": "Dragons",
+        "Date": "2013/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.62",
+        "Opposition": "Dragons",
+        "Date": "2013/03/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50",
+        "Opposition": "Dragons",
+        "Date": "2013/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.62",
+        "Opposition": "Dragons",
+        "Date": "2013/03/16",
+        "Format": "OVERALL"
       }
     ]
   }

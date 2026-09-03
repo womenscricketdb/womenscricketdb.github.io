@@ -144,6 +144,18 @@ TEAM_RECORD_FILES = [
     ("records/team/json/Most_Wins.json", "Most Wins", "Wins"),
 ]
 
+# Fielding is a secondary action in the sport -- fans can reasonably be
+# expected to know a career-wide fielding/keeping record (e.g. "most
+# catches, ever"), but not a version of it sliced down to one specific
+# season, which nobody outside this database is tracking. Rather than
+# drop these categories from rotation, we keep them but pin them to
+# OVERALL scope only wherever a season could otherwise be picked --
+# see the allow_season_scope param on _pick_record_scope.
+FIELDING_RECORD_FILES = {
+    "records/fielding/json/Field_Catches.json",
+    "records/fielding/json/WK_Dismissals.json",
+}
+
 
 # --------------------------------------------------------------------------
 # Question templates
@@ -197,7 +209,7 @@ def _joint_holder_suffix(answer_name, tied_top):
 
 
 
-def _pick_record_scope(columns, rows, rng, fmt, min_rows=4):
+def _pick_record_scope(columns, rows, rng, fmt, min_rows=4, allow_season_scope=True):
     """
     Given a record file's (columns, rows) and a chosen format, pick a
     (season_value, filtered_rows) pair -- trying real seasons first (in
@@ -209,8 +221,12 @@ def _pick_record_scope(columns, rows, rng, fmt, min_rows=4):
     This is what turns "record" questions from ~19 files x 3 formats
     (~57 combos) into files x formats x seasons (roughly 15-20x more),
     which is the actual lever for reducing repeat frequency.
+
+    allow_season_scope=False skips straight to the OVERALL scope --
+    used for record categories (currently: fielding) that are fine as
+    a career-wide fact but not as an arbitrary single-season slice.
     """
-    if "Season" not in columns:
+    if not allow_season_scope or "Season" not in columns:
         filtered = filter_by_format(columns, rows, fmt, "OVERALL")
         return fmt, ("OVERALL" if len(filtered) >= min_rows else None), filtered
 
@@ -245,7 +261,8 @@ def q_player_record(rng, used_files):
     columns, rows = rows_of(rel_path)
 
     fmt = rng.choice(FORMAT_CHOICES)
-    scope_fmt, season, filtered = _pick_record_scope(columns, rows, rng, fmt)
+    allow_season = rel_path not in FIELDING_RECORD_FILES
+    scope_fmt, season, filtered = _pick_record_scope(columns, rows, rng, fmt, allow_season_scope=allow_season)
     if season is None:
         # This format is entirely too sparse for this record -- try the
         # combined figure as a last resort.
@@ -628,6 +645,31 @@ VENUE_MIN_MATCHES = 10  # avoid trivial "records" from venues with only a handfu
 _VENUE_MATCH_COUNTS_CACHE = None
 _MATCH_LOOKUP_CACHE = None
 _TEAM_VENUES_CACHE = None
+_HOME_VENUES_CACHE = None
+
+
+def _home_venues():
+    """The set of each union's designated home ground (from each team
+    file's 'Home Venue' summary row) -- not every well-attended venue,
+    but the ones that actually mean something within the sport, which a
+    raw match-count threshold can't tell apart from a busy club ground
+    that just happens to host a lot of matches (e.g. a real Test venue
+    like St George's Park has fewer women's domestic matches on record
+    than several ordinary club ovals). Read live from the team files
+    rather than hardcoded so it stays correct if a union ever changes
+    grounds.
+    """
+    global _HOME_VENUES_CACHE
+    if _HOME_VENUES_CACHE is None:
+        venues = set()
+        for pf in (DATA_DIR / "teams" / "json").glob("*.json"):
+            with open(pf, "r", encoding="utf-8") as f:
+                tdata = json.load(f)
+            for row in tdata.get("summary", []):
+                if row.get("Metric") == "Home Venue" and row.get("Value"):
+                    venues.add(row["Value"])
+        _HOME_VENUES_CACHE = venues
+    return _HOME_VENUES_CACHE
 
 
 def _venue_match_counts(min_matches=VENUE_MIN_MATCHES):
@@ -690,7 +732,12 @@ def q_career_best_venue(rng, used_files):
     """At which ground did {player} record their career-best innings /
     bowling figures in a given format? Resolved by joining the player's
     top5 (Date, Format, Opposition) entry against MatchIndex -- works
-    for ~97% of entries; the rest are silently skipped and retried."""
+    for ~97% of entries; the rest are silently skipped and retried.
+    Also skipped: career-bests that happened away from any union's home
+    venue (see _home_venues) -- about 43% of matches are played at a
+    home venue, so this halves the pool rather than emptying it, and
+    the bounded 60-file scan plus caller-level retries comfortably
+    absorb that."""
     player_dir = DATA_DIR / "players" / "json"
     player_files = list(player_dir.glob("*.json"))
     rng.shuffle(player_files)
@@ -744,7 +791,7 @@ def q_career_best_venue(rng, used_files):
         if len(candidates) != 1:
             continue  # unresolved or ambiguous -- skip, try another player
         correct_venue = candidates[0].get("venue")
-        if not correct_venue:
+        if not correct_venue or correct_venue not in _home_venues():
             continue
 
         player_venues = [e["Venue"] for e in section.get("byVenue", []) if e.get("Venue")]
@@ -775,7 +822,8 @@ def q_career_best_venue(rng, used_files):
 def q_team_record_venue(rng, used_files):
     """At which ground did {team} set a given record (highest total,
     biggest win by X) in a given format? Teams already carry Venue
-    directly on each record entry -- no join needed, 100% coverage."""
+    directly on each record entry -- no join needed, 100% coverage
+    before the home-venue filter below (see _home_venues)."""
     # Excluded: margin types that are circumstantial (chase target, DLS
     # overs, run rate) rather than genuinely indicative of team quality
     # -- same standard applied when 'Biggest Win by Wickets' was cut
@@ -808,7 +856,7 @@ def q_team_record_venue(rng, used_files):
             fmt = rec.get("Format")
             label = rec.get("Record")
             value = rec.get("Value")
-            if not venue or not fmt or not label:
+            if not venue or not fmt or not label or venue not in _home_venues():
                 continue
             key = f"team_record_venue:{team_name}:{label}:{fmt}"
             if key in used_files:
@@ -844,10 +892,15 @@ def q_team_record_venue(rng, used_files):
 
 
 def q_venue_record(rng, used_files):
-    """Records scoped to a single venue -- e.g. most catches ever taken
-    at a specific ground -- restricted to venues with enough matches
-    played there for the 'record' to mean something."""
-    venues = list(_venue_match_counts().keys())
+    """Records scoped to a single venue -- e.g. most runs ever scored
+    at a specific ground -- restricted to each union's actual home
+    venue (see _home_venues) rather than just any well-attended ground,
+    since match volume alone doesn't track with a venue meaning
+    anything to a fan (a real Test venue can have fewer women's
+    domestic matches on record than an ordinary club ground). Fielding
+    categories are excluded here too: a venue-slice of an
+    already-secondary stat stacks both problems at once."""
+    venues = [v for v in _home_venues() if v in _venue_match_counts()]
     if not venues:
         return None
     rng.shuffle(venues)
@@ -862,6 +915,7 @@ def q_venue_record(rng, used_files):
         with open(path, "r", encoding="utf-8") as f:
             vdata = json.load(f)
         records = vdata.get("careerRecords", [])
+        records = [r for r in records if r.get("Record") != "Most Catches"]
         if not records:
             continue
 
@@ -947,7 +1001,10 @@ def q_which_union(rng, used_files):
 
 def _record_top_row(rel_path, holder_col, value_col, rng, fmt):
     columns, rows = rows_of(rel_path)
-    scope_fmt, season, filtered = _pick_record_scope(columns, rows, rng, fmt, min_rows=1)
+    allow_season = rel_path not in FIELDING_RECORD_FILES
+    scope_fmt, season, filtered = _pick_record_scope(
+        columns, rows, rng, fmt, min_rows=1, allow_season_scope=allow_season
+    )
     if season is None:
         return None
     holder_i = col_index(columns, holder_col)
@@ -1066,7 +1123,10 @@ def q_magnitude_gap(rng, used_files):
 
     columns, rows = rows_of(rel_path)
     fmt = rng.choice(FORMAT_CHOICES)
-    scope_fmt, season, filtered = _pick_record_scope(columns, rows, rng, fmt, min_rows=4)
+    allow_season = rel_path not in FIELDING_RECORD_FILES
+    scope_fmt, season, filtered = _pick_record_scope(
+        columns, rows, rng, fmt, min_rows=4, allow_season_scope=allow_season
+    )
     if season is None:
         scope_fmt, season, filtered = "OVERALL", "OVERALL", filter_by_format(columns, rows, "OVERALL", "OVERALL")
         if len(filtered) < 4:

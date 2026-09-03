@@ -267,7 +267,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -301,7 +301,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.50",
+        "Average": "",
         "Strike-Rate": "16.67",
         "100s": "0",
         "50s": "0",
@@ -652,6 +652,336 @@
         "Bowling": "0/19",
         "Fielding": "",
         "Match_Slug": "2019-11-24-dragons-knights"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2019/11/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2020/01/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Warriors",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "6",
+        "Average": "1.50",
+        "Strike-Rate": "35.29",
+        "Opposition": "Warriors",
+        "Date": "2023/02/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "13",
+        "Average": "3.25",
+        "Strike-Rate": "40.62",
+        "Opposition": "Iinyathi",
+        "Date": "2023/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2019/11/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2020/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "16.67",
+        "Opposition": "Boland",
+        "Date": "2022/09/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "16.67",
+        "Opposition": "Warriors",
+        "Date": "2023/02/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "16.67",
+        "Opposition": "Iinyathi",
+        "Date": "2023/03/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2019/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2019/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2020/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2020/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Warriors",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "15.38",
+        "Opposition": "Boland",
+        "Date": "2022/09/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "7",
+        "Average": "1.17",
+        "Strike-Rate": "30.43",
+        "Opposition": "Warriors",
+        "Date": "2023/02/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "7",
+        "Average": "1.00",
+        "Strike-Rate": "30.43",
+        "Opposition": "Warriors",
+        "Date": "2023/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "14",
+        "Average": "2.00",
+        "Strike-Rate": "36.84",
+        "Opposition": "Iinyathi",
+        "Date": "2023/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "14",
+        "Average": "1.75",
+        "Strike-Rate": "36.84",
+        "Opposition": "Iinyathi",
+        "Date": "2023/03/26",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.50",
+        "Opposition": "Lions",
+        "Date": "2019/11/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Warriors",
+        "Date": "2023/02/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.67",
+        "Opposition": "Iinyathi",
+        "Date": "2023/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "19.00",
+        "Opposition": "Dragons",
+        "Date": "2019/11/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.33",
+        "Opposition": "Boland",
+        "Date": "2022/09/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.75",
+        "Opposition": "Warriors",
+        "Date": "2023/02/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.50",
+        "Opposition": "Iinyathi",
+        "Date": "2023/03/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.50",
+        "Opposition": "Lions",
+        "Date": "2019/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.67",
+        "Opposition": "Dragons",
+        "Date": "2019/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.40",
+        "Opposition": "Boland",
+        "Date": "2022/09/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.17",
+        "Opposition": "Warriors",
+        "Date": "2023/02/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.57",
+        "Opposition": "Warriors",
+        "Date": "2023/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.30",
+        "Opposition": "Iinyathi",
+        "Date": "2023/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.58",
+        "Opposition": "Iinyathi",
+        "Date": "2023/03/26",
+        "Format": "OVERALL"
       }
     ]
   }

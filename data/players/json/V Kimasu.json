@@ -216,5 +216,101 @@
         "Match_Slug": "2011-01-15-knights-dragons"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2011/01/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2011/01/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2011/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "8.33",
+        "Opposition": "Heat",
+        "Date": "2011/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2011/01/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2011/01/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2011/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "8.33",
+        "Opposition": "Heat",
+        "Date": "2011/03/12",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "14.00",
+        "Opposition": "Heat",
+        "Date": "2011/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "14.00",
+        "Opposition": "Heat",
+        "Date": "2011/03/12",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

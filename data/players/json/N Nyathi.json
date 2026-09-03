@@ -72,7 +72,7 @@
         "Not Out": "1",
         "Runs": "3",
         "Highest Score": "3*",
-        "Average": "3.00",
+        "Average": "",
         "Strike-Rate": "25.00",
         "100s": "0",
         "50s": "0",
@@ -167,5 +167,46 @@
         "Match_Slug": "2009-10-04-iinyathi-western-province"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2009/10/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Warriors",
+        "Date": "2009/10/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2009/10/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Warriors",
+        "Date": "2009/10/31",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

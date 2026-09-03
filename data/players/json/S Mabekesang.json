@@ -83,7 +83,7 @@
         "Not Out": "1",
         "Runs": "2",
         "Highest Score": "2*",
-        "Average": "1.00",
+        "Average": "2.00",
         "Strike-Rate": "33.33",
         "100s": "0",
         "50s": "0",
@@ -203,6 +203,102 @@
         "Bowling": "0/12",
         "Fielding": "",
         "Match_Slug": "2019-03-25-boland-iinyathi"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2019/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "66.67",
+        "Opposition": "Western Province",
+        "Date": "2019/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Iinyathi",
+        "Date": "2019/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2019/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "66.67",
+        "Opposition": "Western Province",
+        "Date": "2019/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Iinyathi",
+        "Date": "2019/03/29",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Iinyathi",
+        "Date": "2019/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.67",
+        "Opposition": "Iinyathi",
+        "Date": "2019/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Iinyathi",
+        "Date": "2019/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.67",
+        "Opposition": "Iinyathi",
+        "Date": "2019/03/29",
+        "Format": "OVERALL"
       }
     ]
   }

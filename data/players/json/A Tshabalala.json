@@ -137,7 +137,7 @@
         "Not Out": "0",
         "Runs": "3",
         "Highest Score": "2",
-        "Average": "0.60",
+        "Average": "0.75",
         "Strike-Rate": "12.50",
         "100s": "0",
         "50s": "0",
@@ -248,5 +248,100 @@
         "Match_Slug": "2009-01-10-tuskers-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "14.29",
+        "Opposition": "Dragons",
+        "Date": "2009/01/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "11.11",
+        "Opposition": "Heat",
+        "Date": "2009/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "10.00",
+        "Opposition": "Badgers",
+        "Date": "2009/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "12.50",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "14.29",
+        "Opposition": "Dragons",
+        "Date": "2009/01/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "11.11",
+        "Opposition": "Heat",
+        "Date": "2009/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "10.00",
+        "Opposition": "Badgers",
+        "Date": "2009/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "12.50",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/01/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

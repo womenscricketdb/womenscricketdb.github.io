@@ -166,7 +166,7 @@
         "Not Out": "0",
         "Runs": "36",
         "Highest Score": "27",
-        "Average": "7.20",
+        "Average": "9.00",
         "Strike-Rate": "25.35",
         "100s": "0",
         "50s": "0",
@@ -322,5 +322,118 @@
         "Match_Slug": "2015-11-28-lions-boland"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Titans",
+        "Date": "2015/11/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Boland",
+        "Date": "2015/11/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Dolphins",
+        "Date": "2016/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "31",
+        "Average": "10.33",
+        "Strike-Rate": "28.70",
+        "Opposition": "Titans",
+        "Date": "2016/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "34",
+        "Average": "8.50",
+        "Strike-Rate": "25.37",
+        "Opposition": "Boland",
+        "Date": "2016/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "36",
+        "Average": "7.20",
+        "Strike-Rate": "25.35",
+        "Opposition": "Western Province",
+        "Date": "2016/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Titans",
+        "Date": "2015/11/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Boland",
+        "Date": "2015/11/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "40.91",
+        "Opposition": "Dolphins",
+        "Date": "2016/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "36",
+        "Average": "9.00",
+        "Strike-Rate": "30.51",
+        "Opposition": "Titans",
+        "Date": "2016/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "39",
+        "Average": "7.80",
+        "Strike-Rate": "27.08",
+        "Opposition": "Boland",
+        "Date": "2016/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "41",
+        "Average": "6.83",
+        "Strike-Rate": "26.97",
+        "Opposition": "Western Province",
+        "Date": "2016/04/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

@@ -151,5 +151,47 @@
         "Match_Slug": "2017-01-28-western-province-warriors"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Warriors",
+        "Date": "2017/01/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Warriors",
+        "Date": "2017/01/28",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "15.00",
+        "Opposition": "Warriors",
+        "Date": "2017/01/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "15.00",
+        "Opposition": "Warriors",
+        "Date": "2017/01/28",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

@@ -145,7 +145,7 @@
         "Not Out": "0",
         "Runs": "13",
         "Highest Score": "13",
-        "Average": "6.50",
+        "Average": "13.00",
         "Strike-Rate": "108.33",
         "100s": "0",
         "50s": "0",
@@ -276,5 +276,82 @@
         "Match_Slug": "2025-10-19-rhinos-knights"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "28.00",
+        "Opposition": "Rhinos",
+        "Date": "2025/10/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "26.92",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2025/11/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2025/10/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "108.33",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2025/11/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "28.00",
+        "Opposition": "Rhinos",
+        "Date": "2025/10/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "28.00",
+        "Opposition": "Rhinos",
+        "Date": "2025/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "26.92",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2025/11/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "20",
+        "Average": "5.00",
+        "Strike-Rate": "52.63",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2025/11/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

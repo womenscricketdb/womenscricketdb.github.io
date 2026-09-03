@@ -241,5 +241,83 @@
         "Match_Slug": "2016-10-29-heat-titans"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2016/10/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2016/10/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "4.50",
+        "Economy": "4.50",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2016/10/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.20",
+        "Opposition": "Titans",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "4.50",
+        "Economy": "4.50",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2016/10/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "20.00",
+        "Economy": "5.71",
+        "Opposition": "Titans",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

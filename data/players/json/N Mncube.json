@@ -152,6 +152,48 @@
       }
     ]
   },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2010/10/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2010/10/10",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00",
+        "Opposition": "Lions",
+        "Date": "2010/10/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00",
+        "Opposition": "Lions",
+        "Date": "2010/10/10",
+        "Format": "OVERALL"
+      }
+    ]
+  },
   "titles": [
     {
       "season": "10/11",

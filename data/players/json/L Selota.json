@@ -175,7 +175,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.33",
+        "Average": "1.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -461,6 +461,228 @@
         "Bowling": "1/14",
         "Fielding": "",
         "Match_Slug": "2019-11-24-rhinos-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/10/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2020/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Rhinos",
+        "Date": "2019/11/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "50.00",
+        "Opposition": "Heat",
+        "Date": "2020/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "33.33",
+        "Opposition": "Rhinos",
+        "Date": "2019/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "16.67",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "16.67",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "16.67",
+        "Opposition": "Heat",
+        "Date": "2020/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "16.67",
+        "Opposition": "Heat",
+        "Date": "2020/02/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.29",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/10/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "2.86",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "25.00",
+        "Economy": "2.94",
+        "Opposition": "Heat",
+        "Date": "2020/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "4.67",
+        "Opposition": "Rhinos",
+        "Date": "2019/11/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "4.50",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "40.00",
+        "Economy": "5.00",
+        "Opposition": "Heat",
+        "Date": "2020/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.29",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "44.00",
+        "Economy": "4.40",
+        "Opposition": "Rhinos",
+        "Date": "2019/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "27.00",
+        "Economy": "3.18",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "33.50",
+        "Economy": "3.35",
+        "Opposition": "Tuskers",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "25.67",
+        "Economy": "3.35",
+        "Opposition": "Heat",
+        "Date": "2020/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "3",
+        "Average": "30.00",
+        "Economy": "3.60",
+        "Opposition": "Heat",
+        "Date": "2020/02/23",
+        "Format": "OVERALL"
       }
     ]
   }

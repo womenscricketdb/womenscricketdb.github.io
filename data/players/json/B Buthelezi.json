@@ -398,5 +398,137 @@
         "Match_Slug": "2018-01-21-eastern-storm-tuskers"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Rhinos",
+        "Date": "2017/10/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "45.95",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "17",
+        "Average": "5.67",
+        "Strike-Rate": "42.50",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "12.50",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "10.00",
+        "Opposition": "Rhinos",
+        "Date": "2018/11/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Rhinos",
+        "Date": "2017/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "45.95",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "19",
+        "Average": "6.33",
+        "Strike-Rate": "35.85",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "19",
+        "Average": "4.75",
+        "Strike-Rate": "33.93",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "19",
+        "Average": "3.80",
+        "Strike-Rate": "31.67",
+        "Opposition": "Rhinos",
+        "Date": "2018/11/25",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "16.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "11.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "16.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "11.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/11/10",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

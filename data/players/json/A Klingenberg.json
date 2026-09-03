@@ -282,7 +282,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.25",
+        "Average": "0.50",
         "Strike-Rate": "14.29",
         "100s": "0",
         "50s": "0",
@@ -299,7 +299,7 @@
         "Not Out": "2",
         "Runs": "8",
         "Highest Score": "7",
-        "Average": "4.00",
+        "Average": "8.00",
         "Strike-Rate": "100.00",
         "100s": "0",
         "50s": "0",
@@ -350,7 +350,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "33.33",
         "100s": "0",
         "50s": "0",
@@ -1069,6 +1069,768 @@
         "Bowling": "0/12",
         "Fielding": "",
         "Match_Slug": "2017-10-15-tuskers-rhinos"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2017/10/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "100.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/11/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "14.29",
+        "Opposition": "Dolphins",
+        "Date": "2018/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "14.29",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "25.00",
+        "Opposition": "Tuskers",
+        "Date": "2018/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "30.77",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/11/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "4",
+        "Average": "0.80",
+        "Strike-Rate": "28.57",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/02/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "4",
+        "Average": "0.67",
+        "Strike-Rate": "26.67",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "4",
+        "Average": "0.57",
+        "Strike-Rate": "22.22",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "4",
+        "Average": "0.50",
+        "Strike-Rate": "20.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Runs": "4",
+        "Average": "0.44",
+        "Strike-Rate": "16.67",
+        "Opposition": "Heat",
+        "Date": "2021/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Runs": "8",
+        "Average": "0.89",
+        "Strike-Rate": "27.59",
+        "Opposition": "Tuskers",
+        "Date": "2022/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "33.33",
+        "Opposition": "Tuskers",
+        "Date": "2017/10/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "25.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/11/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Dolphins",
+        "Date": "2018/01/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/01/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "8",
+        "Average": "2.67",
+        "Strike-Rate": "100.00",
+        "Opposition": "Tuskers",
+        "Date": "2018/11/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "8",
+        "Average": "2.00",
+        "Strike-Rate": "88.89",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/11/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "8",
+        "Average": "1.60",
+        "Strike-Rate": "88.89",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/02/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Runs": "9",
+        "Average": "1.80",
+        "Strike-Rate": "81.82",
+        "Opposition": "Heat",
+        "Date": "2020/03/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Runs": "9",
+        "Average": "1.50",
+        "Strike-Rate": "69.23",
+        "Opposition": "Tuskers",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2017/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Tuskers",
+        "Date": "2017/10/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/11/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "40.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "18.18",
+        "Opposition": "Dolphins",
+        "Date": "2018/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "60.00",
+        "Opposition": "Dolphins",
+        "Date": "2018/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "9",
+        "Average": "1.80",
+        "Strike-Rate": "60.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "9",
+        "Average": "1.50",
+        "Strike-Rate": "60.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/01/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "11",
+        "Average": "1.83",
+        "Strike-Rate": "55.00",
+        "Opposition": "Tuskers",
+        "Date": "2018/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "11",
+        "Average": "1.57",
+        "Strike-Rate": "55.00",
+        "Opposition": "Tuskers",
+        "Date": "2018/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "12",
+        "Average": "1.71",
+        "Strike-Rate": "57.14",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/11/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "12",
+        "Average": "1.50",
+        "Strike-Rate": "54.55",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "12",
+        "Average": "1.33",
+        "Strike-Rate": "52.17",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "12",
+        "Average": "1.20",
+        "Strike-Rate": "52.17",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "13",
+        "Average": "1.30",
+        "Strike-Rate": "52.00",
+        "Opposition": "Heat",
+        "Date": "2020/03/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "13",
+        "Average": "1.18",
+        "Strike-Rate": "50.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "13",
+        "Average": "1.08",
+        "Strike-Rate": "44.83",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "13",
+        "Average": "1.00",
+        "Strike-Rate": "41.94",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "13",
+        "Average": "0.93",
+        "Strike-Rate": "37.14",
+        "Opposition": "Heat",
+        "Date": "2021/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "17",
+        "Average": "1.21",
+        "Strike-Rate": "42.50",
+        "Opposition": "Tuskers",
+        "Date": "2022/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "17",
+        "Average": "1.13",
+        "Strike-Rate": "40.48",
+        "Opposition": "Tuskers",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "3.75",
+        "Economy": "2.50",
+        "Opposition": "Tuskers",
+        "Date": "2017/10/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "6",
+        "Average": "6.50",
+        "Economy": "3.25",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/11/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "7",
+        "Average": "11.57",
+        "Economy": "4.50",
+        "Opposition": "Dolphins",
+        "Date": "2018/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "7",
+        "Average": "12.14",
+        "Economy": "4.05",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "8",
+        "Average": "12.88",
+        "Economy": "4.29",
+        "Opposition": "Tuskers",
+        "Date": "2018/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "8",
+        "Average": "14.25",
+        "Economy": "4.22",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/11/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "9",
+        "Average": "14.78",
+        "Economy": "4.29",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/02/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "13",
+        "Average": "12.38",
+        "Economy": "3.93",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "13",
+        "Average": "13.31",
+        "Economy": "3.72",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "14",
+        "Average": "14.57",
+        "Economy": "3.96",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "14",
+        "Average": "17.57",
+        "Economy": "4.03",
+        "Opposition": "Heat",
+        "Date": "2021/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "14",
+        "Average": "17.86",
+        "Economy": "3.85",
+        "Opposition": "Tuskers",
+        "Date": "2022/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Tuskers",
+        "Date": "2017/10/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "15.00",
+        "Economy": "5.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/11/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "12.75",
+        "Economy": "6.38",
+        "Opposition": "Dolphins",
+        "Date": "2018/01/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "6",
+        "Average": "9.67",
+        "Economy": "5.61",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/01/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "6",
+        "Average": "12.17",
+        "Economy": "6.44",
+        "Opposition": "Tuskers",
+        "Date": "2018/11/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "9",
+        "Average": "9.89",
+        "Economy": "6.21",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/11/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "11",
+        "Average": "8.64",
+        "Economy": "5.18",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/02/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "11",
+        "Average": "9.27",
+        "Economy": "5.28",
+        "Opposition": "Heat",
+        "Date": "2020/03/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "11",
+        "Average": "10.91",
+        "Economy": "5.37",
+        "Opposition": "Tuskers",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "3.75",
+        "Economy": "2.50",
+        "Opposition": "Tuskers",
+        "Date": "2017/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "6.75",
+        "Economy": "3.38",
+        "Opposition": "Tuskers",
+        "Date": "2017/10/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "8.50",
+        "Economy": "3.64",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/11/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "8",
+        "Average": "8.62",
+        "Economy": "3.83",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "9",
+        "Average": "12.33",
+        "Economy": "4.62",
+        "Opposition": "Dolphins",
+        "Date": "2018/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "11",
+        "Average": "12.00",
+        "Economy": "5.08",
+        "Opposition": "Dolphins",
+        "Date": "2018/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "11",
+        "Average": "12.36",
+        "Economy": "4.69",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "13",
+        "Average": "11.00",
+        "Economy": "4.56",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/01/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "14",
+        "Average": "11.50",
+        "Economy": "4.69",
+        "Opposition": "Tuskers",
+        "Date": "2018/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "14",
+        "Average": "12.57",
+        "Economy": "4.98",
+        "Opposition": "Tuskers",
+        "Date": "2018/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "14",
+        "Average": "13.36",
+        "Economy": "4.88",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/11/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "17",
+        "Average": "11.94",
+        "Economy": "4.91",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2019/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "18",
+        "Average": "12.33",
+        "Economy": "4.90",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "20",
+        "Average": "11.40",
+        "Economy": "4.62",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "20",
+        "Average": "11.75",
+        "Economy": "4.67",
+        "Opposition": "Heat",
+        "Date": "2020/03/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Wickets": "24",
+        "Average": "10.96",
+        "Economy": "4.36",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Wickets": "24",
+        "Average": "11.46",
+        "Economy": "4.18",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Wickets": "25",
+        "Average": "12.24",
+        "Economy": "4.32",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Wickets": "25",
+        "Average": "13.92",
+        "Economy": "4.33",
+        "Opposition": "Heat",
+        "Date": "2021/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Wickets": "25",
+        "Average": "14.08",
+        "Economy": "4.17",
+        "Opposition": "Tuskers",
+        "Date": "2022/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Wickets": "25",
+        "Average": "14.80",
+        "Economy": "4.24",
+        "Opposition": "Tuskers",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
       }
     ]
   }

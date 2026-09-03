@@ -137,7 +137,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.25",
+        "Average": "0.50",
         "Strike-Rate": "14.29",
         "100s": "0",
         "50s": "0",
@@ -154,7 +154,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "2.00",
+        "Average": "4.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -323,6 +323,156 @@
         "Bowling": "–",
         "Fielding": "1 ct",
         "Match_Slug": "2007-02-10-heat-warriors"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2007/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2007/02/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "14.29",
+        "Opposition": "Boland",
+        "Date": "2007/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2007/03/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Western Province",
+        "Date": "2007/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "5",
+        "Average": "0.83",
+        "Strike-Rate": "33.33",
+        "Opposition": "Badgers",
+        "Date": "2007/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2007/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2007/02/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "14.29",
+        "Opposition": "Boland",
+        "Date": "2007/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2007/03/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Western Province",
+        "Date": "2007/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "5",
+        "Average": "0.83",
+        "Strike-Rate": "33.33",
+        "Opposition": "Badgers",
+        "Date": "2007/11/17",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "15.50",
+        "Economy": "6.20",
+        "Opposition": "Western Province",
+        "Date": "2007/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "13.50",
+        "Economy": "5.40",
+        "Opposition": "Badgers",
+        "Date": "2007/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "15.50",
+        "Economy": "6.20",
+        "Opposition": "Western Province",
+        "Date": "2007/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "13.50",
+        "Economy": "5.40",
+        "Opposition": "Badgers",
+        "Date": "2007/11/17",
+        "Format": "OVERALL"
       }
     ]
   }

@@ -72,7 +72,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "1.00",
+        "Average": "",
         "Strike-Rate": "25.00",
         "100s": "0",
         "50s": "0",
@@ -159,5 +159,46 @@
         "Match_Slug": "2017-02-05-heat-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2017/02/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/03/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2017/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/03/12",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

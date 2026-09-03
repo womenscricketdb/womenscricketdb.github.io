@@ -72,7 +72,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "20.00",
         "100s": "0",
         "50s": "0",
@@ -176,6 +176,66 @@
         "Bowling": "0/22",
         "Fielding": "",
         "Match_Slug": "2006-10-07-lions-dragons"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00",
+        "Opposition": "Dragons",
+        "Date": "2006/10/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "20.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2007/02/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "20.00",
+        "Opposition": "Dragons",
+        "Date": "2006/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "20.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2007/02/03",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50",
+        "Opposition": "Dragons",
+        "Date": "2006/10/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50",
+        "Opposition": "Dragons",
+        "Date": "2006/10/07",
+        "Format": "OVERALL"
       }
     ]
   }

@@ -158,7 +158,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "14.29",
         "100s": "0",
         "50s": "0",
@@ -497,6 +497,210 @@
         "Bowling": "0/1",
         "Fielding": "",
         "Match_Slug": "2016-02-14-heat-badgers"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2015/11/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2016/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "55.56",
+        "Opposition": "Titans",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "33.33",
+        "Opposition": "Badgers",
+        "Date": "2019/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "38.46",
+        "Opposition": "Badgers",
+        "Date": "2016/02/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "38.46",
+        "Opposition": "Titans",
+        "Date": "2016/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2015/11/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2016/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "30.00",
+        "Opposition": "Badgers",
+        "Date": "2016/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "10",
+        "Average": "2.50",
+        "Strike-Rate": "45.45",
+        "Opposition": "Titans",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "10",
+        "Average": "2.00",
+        "Strike-Rate": "45.45",
+        "Opposition": "Titans",
+        "Date": "2016/10/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "10",
+        "Average": "1.67",
+        "Strike-Rate": "35.71",
+        "Opposition": "Badgers",
+        "Date": "2019/02/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.20",
+        "Opposition": "Kei",
+        "Date": "2015/11/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.80",
+        "Opposition": "Badgers",
+        "Date": "2016/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "91.00",
+        "Economy": "5.35",
+        "Opposition": "Titans",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Badgers",
+        "Date": "2016/02/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "31.00",
+        "Economy": "7.44",
+        "Opposition": "Titans",
+        "Date": "2016/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.20",
+        "Opposition": "Kei",
+        "Date": "2015/11/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.80",
+        "Opposition": "Badgers",
+        "Date": "2016/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.82",
+        "Opposition": "Badgers",
+        "Date": "2016/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "92.00",
+        "Economy": "5.36",
+        "Opposition": "Titans",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "2",
+        "Average": "61.00",
+        "Economy": "5.76",
+        "Opposition": "Titans",
+        "Date": "2016/10/30",
+        "Format": "OVERALL"
       }
     ]
   }

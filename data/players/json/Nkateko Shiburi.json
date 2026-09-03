@@ -202,7 +202,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "14.29",
         "100s": "0",
         "50s": "0",
@@ -416,6 +416,174 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2022-02-20-heat-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2021/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "8.33",
+        "Opposition": "Rhinos",
+        "Date": "2022/10/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "14",
+        "Average": "3.50",
+        "Strike-Rate": "26.92",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2022/02/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "14.29",
+        "Opposition": "Tuskers",
+        "Date": "2022/03/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "23.53",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2021/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2022/02/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "10.00",
+        "Opposition": "Tuskers",
+        "Date": "2022/03/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "10.53",
+        "Opposition": "Rhinos",
+        "Date": "2022/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "15",
+        "Average": "2.50",
+        "Strike-Rate": "25.42",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "18",
+        "Average": "3.00",
+        "Strike-Rate": "26.09",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/10/09",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.25",
+        "Opposition": "Heat",
+        "Date": "2021/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.25",
+        "Opposition": "Heat",
+        "Date": "2021/03/07",
+        "Format": "OVERALL"
       }
     ]
   }

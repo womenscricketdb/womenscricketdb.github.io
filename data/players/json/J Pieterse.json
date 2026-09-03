@@ -91,7 +91,7 @@
         "Not Out": "0",
         "Runs": "7",
         "Highest Score": "7",
-        "Average": "2.33",
+        "Average": "3.50",
         "Strike-Rate": "58.33",
         "100s": "0",
         "50s": "0",
@@ -227,6 +227,102 @@
         "Bowling": "0/30",
         "Fielding": "1 ct",
         "Match_Slug": "2010-10-09-knights-heat"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "70.00",
+        "Opposition": "Heat",
+        "Date": "2010/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "58.33",
+        "Opposition": "Dolphins",
+        "Date": "2011/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "58.33",
+        "Opposition": "Dragons",
+        "Date": "2011/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "70.00",
+        "Opposition": "Heat",
+        "Date": "2010/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "58.33",
+        "Opposition": "Dolphins",
+        "Date": "2011/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "58.33",
+        "Opposition": "Dragons",
+        "Date": "2011/02/26",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50",
+        "Opposition": "Heat",
+        "Date": "2010/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.86",
+        "Opposition": "Dolphins",
+        "Date": "2011/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50",
+        "Opposition": "Heat",
+        "Date": "2010/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.86",
+        "Opposition": "Dolphins",
+        "Date": "2011/02/13",
+        "Format": "OVERALL"
       }
     ]
   }

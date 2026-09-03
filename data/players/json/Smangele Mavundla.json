@@ -214,5 +214,46 @@
         "Match_Slug": "2022-01-23-eastern-storm-titans"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Titans",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Tuskers",
+        "Date": "2021/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "31.25",
+        "Opposition": "Titans",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

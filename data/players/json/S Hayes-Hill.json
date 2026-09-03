@@ -161,7 +161,7 @@
         "Not Out": "1",
         "Runs": "7",
         "Highest Score": "7*",
-        "Average": "3.50",
+        "Average": "",
         "Strike-Rate": "18.92",
         "100s": "0",
         "50s": "0",
@@ -178,7 +178,7 @@
         "Not Out": "1",
         "Runs": "6",
         "Highest Score": "4",
-        "Average": "3.00",
+        "Average": "6.00",
         "Strike-Rate": "66.67",
         "100s": "0",
         "50s": "0",
@@ -195,7 +195,7 @@
         "Not Out": "1",
         "Runs": "24",
         "Highest Score": "19*",
-        "Average": "12.00",
+        "Average": "24.00",
         "Strike-Rate": "46.15",
         "100s": "0",
         "50s": "0",
@@ -363,6 +363,192 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2008-03-26-heat-tuskers"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2008/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "18.92",
+        "Opposition": "Dragons",
+        "Date": "2008/03/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "18.92",
+        "Opposition": "Eastern Storm",
+        "Date": "2008/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "18.92",
+        "Opposition": "Rhinos",
+        "Date": "2009/01/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "21.43",
+        "Opposition": "Dragons",
+        "Date": "2009/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "13",
+        "Average": "3.25",
+        "Strike-Rate": "28.26",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "13",
+        "Average": "2.60",
+        "Strike-Rate": "28.26",
+        "Opposition": "Heat",
+        "Date": "2009/10/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "32",
+        "Average": "6.40",
+        "Strike-Rate": "42.11",
+        "Opposition": "Knights",
+        "Date": "2009/10/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "37",
+        "Average": "6.17",
+        "Strike-Rate": "37.76",
+        "Opposition": "Dragons",
+        "Date": "2009/11/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2008/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "18.92",
+        "Opposition": "Dragons",
+        "Date": "2008/03/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "7",
+        "Average": "3.50",
+        "Strike-Rate": "18.92",
+        "Opposition": "Eastern Storm",
+        "Date": "2008/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "7",
+        "Average": "2.33",
+        "Strike-Rate": "18.92",
+        "Opposition": "Rhinos",
+        "Date": "2009/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "21.43",
+        "Opposition": "Dragons",
+        "Date": "2009/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "13",
+        "Average": "3.25",
+        "Strike-Rate": "28.26",
+        "Opposition": "Eastern Storm",
+        "Date": "2009/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "13",
+        "Average": "2.60",
+        "Strike-Rate": "28.26",
+        "Opposition": "Heat",
+        "Date": "2009/10/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "32",
+        "Average": "6.40",
+        "Strike-Rate": "42.11",
+        "Opposition": "Knights",
+        "Date": "2009/10/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "37",
+        "Average": "6.17",
+        "Strike-Rate": "37.76",
+        "Opposition": "Dragons",
+        "Date": "2009/11/22",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00",
+        "Opposition": "Heat",
+        "Date": "2009/10/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00",
+        "Opposition": "Heat",
+        "Date": "2009/10/03",
+        "Format": "OVERALL"
       }
     ]
   }

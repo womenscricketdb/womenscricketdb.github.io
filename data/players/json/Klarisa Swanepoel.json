@@ -221,7 +221,7 @@
         "Not Out": "0",
         "Runs": "5",
         "Highest Score": "5",
-        "Average": "1.25",
+        "Average": "5.00",
         "Strike-Rate": "71.43",
         "100s": "0",
         "50s": "0",
@@ -238,7 +238,7 @@
         "Not Out": "0",
         "Runs": "5",
         "Highest Score": "5",
-        "Average": "1.67",
+        "Average": "5.00",
         "Strike-Rate": "20.00",
         "100s": "0",
         "50s": "0",
@@ -581,6 +581,300 @@
         "Bowling": "3/18",
         "Fielding": "",
         "Match_Slug": "2012-10-06-dragons-titans"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "32",
+        "Average": "-",
+        "Strike-Rate": "128.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2011/11/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "32",
+        "Average": "32.00",
+        "Strike-Rate": "128.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "32",
+        "Average": "16.00",
+        "Strike-Rate": "128.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "32",
+        "Average": "10.67",
+        "Strike-Rate": "128.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "37",
+        "Average": "9.25",
+        "Strike-Rate": "115.62",
+        "Opposition": "Lions",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "20.00",
+        "Opposition": "Lions",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "20.00",
+        "Opposition": "Rhinos",
+        "Date": "2012/10/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "32",
+        "Average": "-",
+        "Strike-Rate": "128.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2011/11/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "32",
+        "Average": "32.00",
+        "Strike-Rate": "128.00",
+        "Opposition": "Dragons",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "37",
+        "Average": "18.50",
+        "Strike-Rate": "74.00",
+        "Opposition": "Lions",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "37",
+        "Average": "12.33",
+        "Strike-Rate": "74.00",
+        "Opposition": "Rhinos",
+        "Date": "2012/10/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "37",
+        "Average": "9.25",
+        "Strike-Rate": "74.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "37",
+        "Average": "7.40",
+        "Strike-Rate": "74.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "37",
+        "Average": "6.17",
+        "Strike-Rate": "74.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "42",
+        "Average": "6.00",
+        "Strike-Rate": "73.68",
+        "Opposition": "Lions",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2011/11/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "22.50",
+        "Economy": "3.51",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "20.00",
+        "Economy": "3.56",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "29.67",
+        "Economy": "3.73",
+        "Opposition": "Lions",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "6.00",
+        "Economy": "4.50",
+        "Opposition": "Dragons",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "10.00",
+        "Economy": "5.00",
+        "Opposition": "Lions",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "7",
+        "Average": "6.00",
+        "Economy": "4.20",
+        "Opposition": "Rhinos",
+        "Date": "2012/10/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2011/11/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "15.00",
+        "Economy": "6.43",
+        "Opposition": "Dragons",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "19.00",
+        "Economy": "6.33",
+        "Opposition": "Lions",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "7",
+        "Average": "9.86",
+        "Economy": "5.31",
+        "Opposition": "Rhinos",
+        "Date": "2012/10/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "7",
+        "Average": "11.43",
+        "Economy": "5.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "9",
+        "Average": "9.67",
+        "Economy": "3.81",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "10",
+        "Average": "10.20",
+        "Economy": "3.80",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "10",
+        "Average": "13.10",
+        "Economy": "3.87",
+        "Opposition": "Lions",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
       }
     ]
   },

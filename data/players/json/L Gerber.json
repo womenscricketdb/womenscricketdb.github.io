@@ -212,5 +212,65 @@
         "Match_Slug": "2011-03-26-kei-badgers"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Kei",
+        "Date": "2011/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "16",
+        "Average": "8.00",
+        "Strike-Rate": "41.03",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Kei",
+        "Date": "2011/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "16",
+        "Average": "8.00",
+        "Strike-Rate": "41.03",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "2.00",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "2.00",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

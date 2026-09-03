@@ -264,5 +264,119 @@
         "Match_Slug": "2009-01-11-heat-eastern-storm"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2009/01/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "40.00",
+        "Opposition": "Badgers",
+        "Date": "2009/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "11",
+        "Average": "2.75",
+        "Strike-Rate": "91.67",
+        "Opposition": "Rhinos",
+        "Date": "2009/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2009/01/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "40.00",
+        "Opposition": "Badgers",
+        "Date": "2009/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "11",
+        "Average": "2.75",
+        "Strike-Rate": "91.67",
+        "Opposition": "Rhinos",
+        "Date": "2009/01/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Badgers",
+        "Date": "2009/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Badgers",
+        "Date": "2009/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33",
+        "Opposition": "Tuskers",
+        "Date": "2009/01/13",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

@@ -202,7 +202,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "4.55",
         "100s": "0",
         "50s": "0",
@@ -455,6 +455,228 @@
         "Bowling": "0/11",
         "Fielding": "1 ct",
         "Match_Slug": "2019-11-17-heat-tuskers"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "4.35",
+        "Opposition": "Heat",
+        "Date": "2019/11/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "2.86",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2020/02/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "2.78",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "14.29",
+        "Opposition": "Heat",
+        "Date": "2019/11/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "4.55",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "4.55",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "4.35",
+        "Opposition": "Heat",
+        "Date": "2019/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "6.67",
+        "Opposition": "Heat",
+        "Date": "2019/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "4.76",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2020/02/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "4.76",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "4.65",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "3.45",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "3.45",
+        "Opposition": "Rhinos",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.67",
+        "Opposition": "Heat",
+        "Date": "2019/11/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.38",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00",
+        "Opposition": "Heat",
+        "Date": "2019/11/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.50",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.67",
+        "Opposition": "Heat",
+        "Date": "2019/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.75",
+        "Opposition": "Heat",
+        "Date": "2019/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.40",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.21",
+        "Opposition": "Eastern Storm",
+        "Date": "2020/03/08",
+        "Format": "OVERALL"
       }
     ]
   }

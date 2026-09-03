@@ -164,7 +164,7 @@
         "Not Out": "0",
         "Runs": "3",
         "Highest Score": "3",
-        "Average": "1.00",
+        "Average": "3.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -410,6 +410,192 @@
         "Bowling": "0/10",
         "Fielding": "",
         "Match_Slug": "2026-02-14-iinyathi-kei"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Boland",
+        "Date": "2025/10/31",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Kei",
+        "Date": "2026/02/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Heat",
+        "Date": "2026/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "50.00",
+        "Opposition": "Kei",
+        "Date": "2026/02/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Heat",
+        "Date": "2026/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Boland",
+        "Date": "2025/10/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Kei",
+        "Date": "2026/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Kei",
+        "Date": "2026/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "44.44",
+        "Opposition": "Heat",
+        "Date": "2026/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "44.44",
+        "Opposition": "Heat",
+        "Date": "2026/03/08",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50",
+        "Opposition": "Boland",
+        "Date": "2025/10/31",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "3.50",
+        "Opposition": "Kei",
+        "Date": "2026/02/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "27.00",
+        "Economy": "3.38",
+        "Opposition": "Heat",
+        "Date": "2026/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.33",
+        "Opposition": "Kei",
+        "Date": "2026/02/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "21.00",
+        "Economy": "3.50",
+        "Opposition": "Heat",
+        "Date": "2026/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50",
+        "Opposition": "Boland",
+        "Date": "2025/10/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.80",
+        "Opposition": "Kei",
+        "Date": "2026/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "24.00",
+        "Economy": "3.43",
+        "Opposition": "Kei",
+        "Date": "2026/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "17.50",
+        "Economy": "3.50",
+        "Opposition": "Heat",
+        "Date": "2026/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "2",
+        "Average": "24.00",
+        "Economy": "3.43",
+        "Opposition": "Heat",
+        "Date": "2026/03/08",
+        "Format": "OVERALL"
       }
     ]
   }

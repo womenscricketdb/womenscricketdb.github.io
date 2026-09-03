@@ -110,7 +110,7 @@
         "Not Out": "1",
         "Runs": "23",
         "Highest Score": "17*",
-        "Average": "7.67",
+        "Average": "11.50",
         "Strike-Rate": "69.70",
         "100s": "0",
         "50s": "0",
@@ -213,5 +213,82 @@
         "Match_Slug": "2021-03-04-tuskers-limpopo-lillies"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2021/03/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Heat",
+        "Date": "2021/03/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "23",
+        "Average": "11.50",
+        "Strike-Rate": "85.19",
+        "Opposition": "Rhinos",
+        "Date": "2021/03/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "23",
+        "Average": "7.67",
+        "Strike-Rate": "69.70",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2021/03/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Heat",
+        "Date": "2021/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "23",
+        "Average": "11.50",
+        "Strike-Rate": "85.19",
+        "Opposition": "Rhinos",
+        "Date": "2021/03/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "23",
+        "Average": "7.67",
+        "Strike-Rate": "69.70",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/08",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

@@ -415,7 +415,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.50",
+        "Average": "",
         "Strike-Rate": "12.50",
         "100s": "0",
         "50s": "0",
@@ -1159,6 +1159,822 @@
         "Bowling": "2/29",
         "Fielding": "",
         "Match_Slug": "2018-01-20-warriors-kei"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "57.14",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Boland",
+        "Date": "2017/10/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Badgers",
+        "Date": "2017/11/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "36.36",
+        "Opposition": "Warriors",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "36.36",
+        "Opposition": "Heat",
+        "Date": "2018/02/11",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "4",
+        "Average": "0.80",
+        "Strike-Rate": "36.36",
+        "Opposition": "Knights",
+        "Date": "2018/11/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "4",
+        "Average": "0.67",
+        "Strike-Rate": "36.36",
+        "Opposition": "Heat",
+        "Date": "2019/01/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Runs": "5",
+        "Average": "0.83",
+        "Strike-Rate": "26.32",
+        "Opposition": "Boland",
+        "Date": "2019/12/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Runs": "5",
+        "Average": "0.71",
+        "Strike-Rate": "26.32",
+        "Opposition": "Badgers",
+        "Date": "2020/01/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Runs": "5",
+        "Average": "0.62",
+        "Strike-Rate": "26.32",
+        "Opposition": "Warriors",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "11",
+        "Runs": "5",
+        "Average": "0.56",
+        "Strike-Rate": "26.32",
+        "Opposition": "Titans",
+        "Date": "2023/03/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "12",
+        "Runs": "5",
+        "Average": "0.50",
+        "Strike-Rate": "26.32",
+        "Opposition": "Dolphins",
+        "Date": "2023/04/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "13",
+        "Runs": "9",
+        "Average": "0.82",
+        "Strike-Rate": "39.13",
+        "Opposition": "Heat",
+        "Date": "2025/10/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "14",
+        "Runs": "11",
+        "Average": "0.92",
+        "Strike-Rate": "36.67",
+        "Opposition": "Boland",
+        "Date": "2025/11/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "15",
+        "Runs": "15",
+        "Average": "1.25",
+        "Strike-Rate": "45.45",
+        "Opposition": "Warriors",
+        "Date": "2026/03/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "8.33",
+        "Opposition": "Warriors",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "26.53",
+        "Opposition": "Heat",
+        "Date": "2018/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "17",
+        "Average": "17.00",
+        "Strike-Rate": "29.31",
+        "Opposition": "Knights",
+        "Date": "2018/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "19",
+        "Average": "9.50",
+        "Strike-Rate": "28.79",
+        "Opposition": "Heat",
+        "Date": "2019/01/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "22",
+        "Average": "11.00",
+        "Strike-Rate": "28.57",
+        "Opposition": "Boland",
+        "Date": "2019/11/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "22",
+        "Average": "11.00",
+        "Strike-Rate": "25.58",
+        "Opposition": "Badgers",
+        "Date": "2020/01/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "23",
+        "Average": "7.67",
+        "Strike-Rate": "23.47",
+        "Opposition": "Warriors",
+        "Date": "2020/02/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "34",
+        "Average": "11.33",
+        "Strike-Rate": "29.06",
+        "Opposition": "Heat",
+        "Date": "2025/10/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "37",
+        "Average": "12.33",
+        "Strike-Rate": "29.84",
+        "Opposition": "Boland",
+        "Date": "2025/11/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "-",
+        "Strike-Rate": "57.14",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Boland",
+        "Date": "2017/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Badgers",
+        "Date": "2017/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "25.00",
+        "Opposition": "Warriors",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "21.74",
+        "Opposition": "Warriors",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "17",
+        "Average": "4.25",
+        "Strike-Rate": "28.33",
+        "Opposition": "Heat",
+        "Date": "2018/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "17",
+        "Average": "3.40",
+        "Strike-Rate": "28.33",
+        "Opposition": "Heat",
+        "Date": "2018/02/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "21",
+        "Average": "4.20",
+        "Strike-Rate": "30.43",
+        "Opposition": "Knights",
+        "Date": "2018/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "21",
+        "Average": "3.50",
+        "Strike-Rate": "30.43",
+        "Opposition": "Knights",
+        "Date": "2018/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "23",
+        "Average": "3.29",
+        "Strike-Rate": "29.87",
+        "Opposition": "Heat",
+        "Date": "2019/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "23",
+        "Average": "2.88",
+        "Strike-Rate": "29.87",
+        "Opposition": "Heat",
+        "Date": "2019/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "26",
+        "Average": "3.25",
+        "Strike-Rate": "29.55",
+        "Opposition": "Boland",
+        "Date": "2019/11/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "27",
+        "Average": "3.38",
+        "Strike-Rate": "28.12",
+        "Opposition": "Boland",
+        "Date": "2019/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "27",
+        "Average": "3.38",
+        "Strike-Rate": "25.71",
+        "Opposition": "Badgers",
+        "Date": "2020/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "27",
+        "Average": "3.00",
+        "Strike-Rate": "25.71",
+        "Opposition": "Badgers",
+        "Date": "2020/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "28",
+        "Average": "2.80",
+        "Strike-Rate": "23.93",
+        "Opposition": "Warriors",
+        "Date": "2020/02/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "28",
+        "Average": "2.55",
+        "Strike-Rate": "23.93",
+        "Opposition": "Warriors",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "28",
+        "Average": "2.33",
+        "Strike-Rate": "23.93",
+        "Opposition": "Titans",
+        "Date": "2023/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "28",
+        "Average": "2.15",
+        "Strike-Rate": "23.93",
+        "Opposition": "Dolphins",
+        "Date": "2023/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "39",
+        "Average": "3.00",
+        "Strike-Rate": "28.68",
+        "Opposition": "Heat",
+        "Date": "2025/10/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "43",
+        "Average": "3.07",
+        "Strike-Rate": "30.71",
+        "Opposition": "Heat",
+        "Date": "2025/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "22",
+        "Runs": "46",
+        "Average": "3.29",
+        "Strike-Rate": "31.29",
+        "Opposition": "Boland",
+        "Date": "2025/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "23",
+        "Runs": "48",
+        "Average": "3.20",
+        "Strike-Rate": "31.17",
+        "Opposition": "Boland",
+        "Date": "2025/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "24",
+        "Runs": "52",
+        "Average": "3.47",
+        "Strike-Rate": "33.12",
+        "Opposition": "Warriors",
+        "Date": "2026/03/01",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "13.00",
+        "Economy": "6.50",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "17.50",
+        "Economy": "5.83",
+        "Opposition": "Boland",
+        "Date": "2017/10/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "15.67",
+        "Economy": "5.88",
+        "Opposition": "Badgers",
+        "Date": "2017/11/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "11.40",
+        "Economy": "5.70",
+        "Opposition": "Warriors",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "5",
+        "Average": "19.20",
+        "Economy": "6.86",
+        "Opposition": "Heat",
+        "Date": "2018/02/11",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "7",
+        "Average": "19.00",
+        "Economy": "7.39",
+        "Opposition": "Knights",
+        "Date": "2018/11/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "9",
+        "Average": "17.89",
+        "Economy": "7.32",
+        "Opposition": "Heat",
+        "Date": "2019/01/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "10",
+        "Average": "17.60",
+        "Economy": "7.33",
+        "Opposition": "Boland",
+        "Date": "2019/12/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "10",
+        "Average": "19.80",
+        "Economy": "7.16",
+        "Opposition": "Warriors",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "13",
+        "Average": "17.92",
+        "Economy": "7.36",
+        "Opposition": "Dolphins",
+        "Date": "2023/04/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "13",
+        "Average": "19.77",
+        "Economy": "7.21",
+        "Opposition": "Heat",
+        "Date": "2025/10/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "14",
+        "Average": "19.14",
+        "Economy": "7.12",
+        "Opposition": "Warriors",
+        "Date": "2026/03/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "14.50",
+        "Economy": "10.24",
+        "Opposition": "Warriors",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "6",
+        "Average": "15.83",
+        "Economy": "7.40",
+        "Opposition": "Heat",
+        "Date": "2018/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "9",
+        "Average": "18.11",
+        "Economy": "7.14",
+        "Opposition": "Knights",
+        "Date": "2018/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "12",
+        "Average": "15.92",
+        "Economy": "6.62",
+        "Opposition": "Heat",
+        "Date": "2019/01/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "12",
+        "Average": "18.75",
+        "Economy": "6.28",
+        "Opposition": "Boland",
+        "Date": "2019/11/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "12",
+        "Average": "23.17",
+        "Economy": "6.65",
+        "Opposition": "Badgers",
+        "Date": "2020/01/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "13",
+        "Average": "23.92",
+        "Economy": "6.37",
+        "Opposition": "Warriors",
+        "Date": "2020/02/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "13",
+        "Average": "26.85",
+        "Economy": "6.48",
+        "Opposition": "Heat",
+        "Date": "2025/10/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "13",
+        "Average": "31.77",
+        "Economy": "6.68",
+        "Opposition": "Boland",
+        "Date": "2025/11/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "13.00",
+        "Economy": "6.50",
+        "Opposition": "Iinyathi",
+        "Date": "2016/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "17.50",
+        "Economy": "5.83",
+        "Opposition": "Boland",
+        "Date": "2017/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "15.67",
+        "Economy": "5.88",
+        "Opposition": "Badgers",
+        "Date": "2017/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "15.20",
+        "Economy": "7.02",
+        "Opposition": "Warriors",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "7",
+        "Average": "12.29",
+        "Economy": "6.70",
+        "Opposition": "Warriors",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "11",
+        "Average": "13.82",
+        "Economy": "6.66",
+        "Opposition": "Heat",
+        "Date": "2018/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "11",
+        "Average": "17.36",
+        "Economy": "7.12",
+        "Opposition": "Heat",
+        "Date": "2018/02/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "14",
+        "Average": "18.50",
+        "Economy": "7.03",
+        "Opposition": "Knights",
+        "Date": "2018/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "16",
+        "Average": "18.50",
+        "Economy": "7.25",
+        "Opposition": "Knights",
+        "Date": "2018/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "19",
+        "Average": "17.05",
+        "Economy": "6.92",
+        "Opposition": "Heat",
+        "Date": "2019/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "21",
+        "Average": "16.76",
+        "Economy": "6.92",
+        "Opposition": "Heat",
+        "Date": "2019/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "21",
+        "Average": "18.38",
+        "Economy": "6.67",
+        "Opposition": "Boland",
+        "Date": "2019/11/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "22",
+        "Average": "18.23",
+        "Economy": "6.70",
+        "Opposition": "Boland",
+        "Date": "2019/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "22",
+        "Average": "20.64",
+        "Economy": "6.90",
+        "Opposition": "Badgers",
+        "Date": "2020/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "23",
+        "Average": "21.17",
+        "Economy": "6.69",
+        "Opposition": "Warriors",
+        "Date": "2020/02/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Wickets": "23",
+        "Average": "22.13",
+        "Economy": "6.65",
+        "Opposition": "Warriors",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Wickets": "26",
+        "Average": "20.92",
+        "Economy": "6.76",
+        "Opposition": "Dolphins",
+        "Date": "2023/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Wickets": "26",
+        "Average": "22.38",
+        "Economy": "6.81",
+        "Opposition": "Heat",
+        "Date": "2025/10/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Wickets": "26",
+        "Average": "23.31",
+        "Economy": "6.77",
+        "Opposition": "Heat",
+        "Date": "2025/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Wickets": "26",
+        "Average": "25.77",
+        "Economy": "6.87",
+        "Opposition": "Boland",
+        "Date": "2025/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Wickets": "27",
+        "Average": "25.22",
+        "Economy": "6.84",
+        "Opposition": "Warriors",
+        "Date": "2026/03/01",
+        "Format": "OVERALL"
       }
     ]
   }

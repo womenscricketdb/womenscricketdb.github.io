@@ -129,7 +129,7 @@
         "Not Out": "2",
         "Runs": "3",
         "Highest Score": "2",
-        "Average": "1.00",
+        "Average": "3.00",
         "Strike-Rate": "11.11",
         "100s": "0",
         "50s": "0",
@@ -273,6 +273,138 @@
         "Bowling": "0/16",
         "Fielding": "",
         "Match_Slug": "2007-01-13-western-province-heat"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2007/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "13.33",
+        "Opposition": "Badgers",
+        "Date": "2007/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "12.00",
+        "Opposition": "Iinyathi",
+        "Date": "2007/02/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "12.00",
+        "Opposition": "Heat",
+        "Date": "2007/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "11.11",
+        "Opposition": "Boland",
+        "Date": "2007/03/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2007/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "13.33",
+        "Opposition": "Badgers",
+        "Date": "2007/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "12.00",
+        "Opposition": "Iinyathi",
+        "Date": "2007/02/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "12.00",
+        "Opposition": "Heat",
+        "Date": "2007/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "11.11",
+        "Opposition": "Boland",
+        "Date": "2007/03/18",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.78",
+        "Opposition": "Heat",
+        "Date": "2007/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.85",
+        "Opposition": "Badgers",
+        "Date": "2007/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.78",
+        "Opposition": "Heat",
+        "Date": "2007/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.85",
+        "Opposition": "Badgers",
+        "Date": "2007/01/27",
+        "Format": "OVERALL"
       }
     ]
   },

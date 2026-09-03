@@ -120,7 +120,7 @@
         "Not Out": "1",
         "Runs": "6",
         "Highest Score": "6",
-        "Average": "3.00",
+        "Average": "6.00",
         "Strike-Rate": "14.63",
         "100s": "0",
         "50s": "0",
@@ -301,6 +301,138 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2013-10-06-badgers-western-province"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2013/03/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Warriors",
+        "Date": "2013/03/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "14.63",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2013/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2013/03/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Warriors",
+        "Date": "2013/03/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "14.63",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "14.63",
+        "Opposition": "Western Province",
+        "Date": "2013/10/06",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "5.20",
+        "Opposition": "Iinyathi",
+        "Date": "2013/03/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "5.83",
+        "Opposition": "Warriors",
+        "Date": "2013/03/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "39.00",
+        "Economy": "4.33",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "5.20",
+        "Opposition": "Iinyathi",
+        "Date": "2013/03/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "5.83",
+        "Opposition": "Warriors",
+        "Date": "2013/03/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "39.00",
+        "Economy": "4.33",
+        "Opposition": "Kei",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
       }
     ]
   }

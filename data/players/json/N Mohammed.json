@@ -72,7 +72,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "2.00",
+        "Average": "4.00",
         "Strike-Rate": "33.33",
         "100s": "0",
         "50s": "0",
@@ -176,6 +176,66 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2006-10-21-tuskers-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2006/10/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Lions",
+        "Date": "2007/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2006/10/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Lions",
+        "Date": "2007/02/25",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.50",
+        "Opposition": "Lions",
+        "Date": "2007/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.50",
+        "Opposition": "Lions",
+        "Date": "2007/02/25",
+        "Format": "OVERALL"
       }
     ]
   }

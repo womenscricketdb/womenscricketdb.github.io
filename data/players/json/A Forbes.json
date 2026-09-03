@@ -265,5 +265,119 @@
         "Match_Slug": "2009-10-31-dolphins-tuskers"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "31.58",
+        "Opposition": "Dolphins",
+        "Date": "2009/10/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "43.33",
+        "Opposition": "Dragons",
+        "Date": "2009/11/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "17",
+        "Average": "5.67",
+        "Strike-Rate": "18.28",
+        "Opposition": "Dolphins",
+        "Date": "2010/01/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "35",
+        "Average": "8.75",
+        "Strike-Rate": "29.17",
+        "Opposition": "Dragons",
+        "Date": "2010/02/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "31.58",
+        "Opposition": "Dolphins",
+        "Date": "2009/10/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "43.33",
+        "Opposition": "Dragons",
+        "Date": "2009/11/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "17",
+        "Average": "5.67",
+        "Strike-Rate": "18.28",
+        "Opposition": "Dolphins",
+        "Date": "2010/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "35",
+        "Average": "8.75",
+        "Strike-Rate": "29.17",
+        "Opposition": "Dragons",
+        "Date": "2010/02/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Opposition": "Dolphins",
+        "Date": "2009/10/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "46.00",
+        "Economy": "5.75",
+        "Opposition": "Dragons",
+        "Date": "2009/11/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Opposition": "Dolphins",
+        "Date": "2009/10/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "46.00",
+        "Economy": "5.75",
+        "Opposition": "Dragons",
+        "Date": "2009/11/22",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

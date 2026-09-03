@@ -72,7 +72,7 @@
         "Not Out": "0",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "1.00",
+        "Average": "2.00",
         "Strike-Rate": "18.18",
         "100s": "0",
         "50s": "0",
@@ -159,5 +159,46 @@
         "Match_Slug": "2014-02-22-badgers-iinyathi"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Badgers",
+        "Date": "2014/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "18.18",
+        "Opposition": "Warriors",
+        "Date": "2014/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Badgers",
+        "Date": "2014/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "18.18",
+        "Opposition": "Warriors",
+        "Date": "2014/02/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

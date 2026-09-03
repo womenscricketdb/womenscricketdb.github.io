@@ -145,7 +145,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "1.33",
+        "Average": "2.00",
         "Strike-Rate": "57.14",
         "100s": "0",
         "50s": "0",
@@ -162,7 +162,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "1.00",
+        "Average": "",
         "Strike-Rate": "8.33",
         "100s": "0",
         "50s": "0",
@@ -281,5 +281,118 @@
         "Match_Slug": "2005-11-06-heat-knights"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2005/11/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Western Province",
+        "Date": "2006/01/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "57.14",
+        "Opposition": "Warriors",
+        "Date": "2006/01/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Rhinos",
+        "Date": "2007/10/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "26.32",
+        "Opposition": "Dragons",
+        "Date": "2009/10/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "26.32",
+        "Opposition": "Dolphins",
+        "Date": "2010/01/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2005/11/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "80.00",
+        "Opposition": "Western Province",
+        "Date": "2006/01/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "57.14",
+        "Opposition": "Warriors",
+        "Date": "2006/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Rhinos",
+        "Date": "2007/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "26.32",
+        "Opposition": "Dragons",
+        "Date": "2009/10/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "26.32",
+        "Opposition": "Dolphins",
+        "Date": "2010/01/09",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

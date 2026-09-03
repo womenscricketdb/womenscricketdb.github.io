@@ -299,7 +299,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.33",
+        "Average": "0.50",
         "Strike-Rate": "7.69",
         "100s": "0",
         "50s": "0",
@@ -316,7 +316,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "0.00",
         "100s": "0",
         "50s": "0",
@@ -384,7 +384,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.25",
+        "Average": "0.50",
         "Strike-Rate": "8.33",
         "100s": "0",
         "50s": "0",
@@ -834,6 +834,498 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2015-03-15-tuskers-rhinos"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "44.44",
+        "Opposition": "Rhinos",
+        "Date": "2015/03/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "38.46",
+        "Opposition": "Eastern Storm",
+        "Date": "2015/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "35.71",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/11/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "6",
+        "Average": "1.50",
+        "Strike-Rate": "23.08",
+        "Opposition": "Dolphins",
+        "Date": "2016/01/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "6",
+        "Average": "1.20",
+        "Strike-Rate": "23.08",
+        "Opposition": "Rhinos",
+        "Date": "2016/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "6",
+        "Average": "1.00",
+        "Strike-Rate": "18.75",
+        "Opposition": "Iinyathi",
+        "Date": "2016/10/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "6",
+        "Average": "0.86",
+        "Strike-Rate": "18.18",
+        "Opposition": "Kei",
+        "Date": "2017/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "6",
+        "Average": "0.75",
+        "Strike-Rate": "17.65",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "19",
+        "Average": "2.11",
+        "Strike-Rate": "29.69",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "19",
+        "Average": "1.90",
+        "Strike-Rate": "27.94",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2015/03/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2015/03/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/11/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2016/01/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Rhinos",
+        "Date": "2016/02/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "11.76",
+        "Opposition": "Iinyathi",
+        "Date": "2016/10/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "16.13",
+        "Opposition": "Kei",
+        "Date": "2017/02/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Runs": "5",
+        "Average": "0.83",
+        "Strike-Rate": "16.13",
+        "Opposition": "Rhinos",
+        "Date": "2017/10/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Runs": "5",
+        "Average": "0.71",
+        "Strike-Rate": "13.51",
+        "Opposition": "Dolphins",
+        "Date": "2017/11/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Runs": "6",
+        "Average": "0.75",
+        "Strike-Rate": "13.95",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "11",
+        "Runs": "6",
+        "Average": "0.67",
+        "Strike-Rate": "13.95",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/02/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "44.44",
+        "Opposition": "Rhinos",
+        "Date": "2015/03/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "44.44",
+        "Opposition": "Rhinos",
+        "Date": "2015/03/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "38.46",
+        "Opposition": "Eastern Storm",
+        "Date": "2015/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "38.46",
+        "Opposition": "Eastern Storm",
+        "Date": "2015/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "35.71",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/11/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "5",
+        "Average": "0.83",
+        "Strike-Rate": "35.71",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/11/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "6",
+        "Average": "0.86",
+        "Strike-Rate": "23.08",
+        "Opposition": "Dolphins",
+        "Date": "2016/01/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "6",
+        "Average": "0.86",
+        "Strike-Rate": "22.22",
+        "Opposition": "Dolphins",
+        "Date": "2016/01/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "6",
+        "Average": "0.75",
+        "Strike-Rate": "22.22",
+        "Opposition": "Rhinos",
+        "Date": "2016/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "6",
+        "Average": "0.67",
+        "Strike-Rate": "22.22",
+        "Opposition": "Rhinos",
+        "Date": "2016/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "6",
+        "Average": "0.60",
+        "Strike-Rate": "18.18",
+        "Opposition": "Iinyathi",
+        "Date": "2016/10/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "8",
+        "Average": "0.80",
+        "Strike-Rate": "16.33",
+        "Opposition": "Iinyathi",
+        "Date": "2016/10/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "8",
+        "Average": "0.73",
+        "Strike-Rate": "16.00",
+        "Opposition": "Kei",
+        "Date": "2017/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "11",
+        "Average": "0.92",
+        "Strike-Rate": "17.19",
+        "Opposition": "Kei",
+        "Date": "2017/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "11",
+        "Average": "0.85",
+        "Strike-Rate": "17.19",
+        "Opposition": "Rhinos",
+        "Date": "2017/10/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "11",
+        "Average": "0.79",
+        "Strike-Rate": "15.71",
+        "Opposition": "Dolphins",
+        "Date": "2017/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "11",
+        "Average": "0.73",
+        "Strike-Rate": "15.49",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "12",
+        "Average": "0.75",
+        "Strike-Rate": "15.58",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "25",
+        "Average": "1.47",
+        "Strike-Rate": "23.36",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "25",
+        "Average": "1.39",
+        "Strike-Rate": "23.36",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "25",
+        "Average": "1.32",
+        "Strike-Rate": "22.52",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2018/11/10",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/11/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Dolphins",
+        "Date": "2017/11/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00",
+        "Opposition": "Dolphins",
+        "Date": "2016/01/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "13.00",
+        "Opposition": "Iinyathi",
+        "Date": "2016/10/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.67",
+        "Opposition": "Kei",
+        "Date": "2017/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "44.00",
+        "Economy": "7.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/11/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00",
+        "Opposition": "Dolphins",
+        "Date": "2016/01/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.33",
+        "Opposition": "Iinyathi",
+        "Date": "2016/10/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.25",
+        "Opposition": "Kei",
+        "Date": "2017/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.83",
+        "Opposition": "Dolphins",
+        "Date": "2017/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "65.00",
+        "Economy": "7.22",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
       }
     ]
   }

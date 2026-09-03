@@ -120,7 +120,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "1.33",
+        "Average": "4.00",
         "Strike-Rate": "36.36",
         "100s": "0",
         "50s": "0",
@@ -358,6 +358,156 @@
         "Bowling": "1/7",
         "Fielding": "",
         "Match_Slug": "2026-03-08-eastern-storm-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2025/10/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2025/11/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "36.36",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2025/10/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2025/11/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "36.36",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "36.36",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/03/08",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "3.00",
+        "Opposition": "Tuskers",
+        "Date": "2025/10/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "43.00",
+        "Economy": "6.14",
+        "Opposition": "Rhinos",
+        "Date": "2025/11/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "22.67",
+        "Economy": "4.86",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "2.33",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "3.00",
+        "Opposition": "Tuskers",
+        "Date": "2025/10/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "43.00",
+        "Economy": "6.14",
+        "Opposition": "Rhinos",
+        "Date": "2025/11/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "22.67",
+        "Economy": "4.86",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "18.75",
+        "Economy": "4.41",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/03/08",
+        "Format": "OVERALL"
       }
     ]
   }

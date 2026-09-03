@@ -151,5 +151,47 @@
         "Match_Slug": "2007-11-03-eastern-storm-dragons"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "6.25",
+        "Opposition": "Dragons",
+        "Date": "2007/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "6.25",
+        "Opposition": "Dragons",
+        "Date": "2007/11/03",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.55",
+        "Opposition": "Dragons",
+        "Date": "2007/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.55",
+        "Opposition": "Dragons",
+        "Date": "2007/11/03",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

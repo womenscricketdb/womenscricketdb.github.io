@@ -121,7 +121,7 @@
         "Not Out": "0",
         "Runs": "7",
         "Highest Score": "7",
-        "Average": "1.40",
+        "Average": "1.75",
         "Strike-Rate": "58.33",
         "100s": "0",
         "50s": "0",
@@ -240,5 +240,100 @@
         "Match_Slug": "2012-11-24-heat-tuskers"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2012/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2012/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2013/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2013/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "7",
+        "Average": "1.40",
+        "Strike-Rate": "58.33",
+        "Opposition": "Knights",
+        "Date": "2013/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2012/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2012/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2013/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2013/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "7",
+        "Average": "1.40",
+        "Strike-Rate": "58.33",
+        "Opposition": "Knights",
+        "Date": "2013/02/09",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

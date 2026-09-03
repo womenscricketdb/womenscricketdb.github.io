@@ -129,7 +129,7 @@
         "Not Out": "1",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "0.67",
+        "Average": "1.00",
         "Strike-Rate": "15.38",
         "100s": "0",
         "50s": "0",
@@ -248,5 +248,100 @@
         "Match_Slug": "2005-12-11-warriors-boland"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Boland",
+        "Date": "2005/12/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Iinyathi",
+        "Date": "2007/10/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "22.22",
+        "Opposition": "Western Province",
+        "Date": "2007/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "15.38",
+        "Opposition": "Tuskers",
+        "Date": "2007/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "15.38",
+        "Opposition": "Badgers",
+        "Date": "2007/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Boland",
+        "Date": "2005/12/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Iinyathi",
+        "Date": "2007/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "22.22",
+        "Opposition": "Western Province",
+        "Date": "2007/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "15.38",
+        "Opposition": "Tuskers",
+        "Date": "2007/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "15.38",
+        "Opposition": "Badgers",
+        "Date": "2007/11/17",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

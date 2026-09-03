@@ -236,7 +236,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "4.55",
         "100s": "0",
         "50s": "0",
@@ -433,6 +433,174 @@
         "Bowling": "0/9",
         "Fielding": "",
         "Match_Slug": "2019-02-24-tuskers-eastern-storm"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2019/01/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "20",
+        "Average": "20.00",
+        "Strike-Rate": "48.78",
+        "Opposition": "Rhinos",
+        "Date": "2019/11/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "20",
+        "Average": "10.00",
+        "Strike-Rate": "47.62",
+        "Opposition": "Heat",
+        "Date": "2019/11/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/02/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Rhinos",
+        "Date": "2019/11/03",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "3.12",
+        "Opposition": "Heat",
+        "Date": "2019/11/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2019/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "20",
+        "Average": "10.00",
+        "Strike-Rate": "39.22",
+        "Opposition": "Rhinos",
+        "Date": "2019/11/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "20",
+        "Average": "6.67",
+        "Strike-Rate": "39.22",
+        "Opposition": "Rhinos",
+        "Date": "2019/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "20",
+        "Average": "5.00",
+        "Strike-Rate": "38.46",
+        "Opposition": "Heat",
+        "Date": "2019/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "21",
+        "Average": "4.20",
+        "Strike-Rate": "28.38",
+        "Opposition": "Heat",
+        "Date": "2019/11/17",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/02/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.20",
+        "Opposition": "Eastern Storm",
+        "Date": "2019/02/24",
+        "Format": "OVERALL"
       }
     ]
   }

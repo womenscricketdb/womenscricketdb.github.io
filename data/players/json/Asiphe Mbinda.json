@@ -158,7 +158,7 @@
         "Not Out": "0",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "0.67",
+        "Average": "2.00",
         "Strike-Rate": "40.00",
         "100s": "0",
         "50s": "0",
@@ -314,6 +314,138 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2022-10-01-boland-kei"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2022/09/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Warriors",
+        "Date": "2022/10/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "40.00",
+        "Opposition": "Kei",
+        "Date": "2022/10/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "40.00",
+        "Opposition": "Warriors",
+        "Date": "2022/10/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "40.00",
+        "Opposition": "Iinyathi",
+        "Date": "2022/11/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2022/09/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "40.00",
+        "Opposition": "Kei",
+        "Date": "2022/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "40.00",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "40.00",
+        "Opposition": "Warriors",
+        "Date": "2022/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "40.00",
+        "Opposition": "Warriors",
+        "Date": "2022/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.33",
+        "Strike-Rate": "40.00",
+        "Opposition": "Iinyathi",
+        "Date": "2022/11/26",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "16.00",
+        "Opposition": "Knights",
+        "Date": "2022/09/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "16.00",
+        "Opposition": "Knights",
+        "Date": "2022/09/25",
+        "Format": "OVERALL"
       }
     ]
   }

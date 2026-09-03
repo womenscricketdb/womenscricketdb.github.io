@@ -204,6 +204,66 @@
       }
     ]
   },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "33.33",
+        "Opposition": "Boland",
+        "Date": "2006/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "40",
+        "Average": "40.00",
+        "Strike-Rate": "47.62",
+        "Opposition": "Heat",
+        "Date": "2007/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "33.33",
+        "Opposition": "Boland",
+        "Date": "2006/03/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "40",
+        "Average": "40.00",
+        "Strike-Rate": "47.62",
+        "Opposition": "Heat",
+        "Date": "2007/01/13",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25",
+        "Opposition": "Boland",
+        "Date": "2006/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25",
+        "Opposition": "Boland",
+        "Date": "2006/03/12",
+        "Format": "OVERALL"
+      }
+    ]
+  },
   "titles": [
     {
       "season": "05/06",

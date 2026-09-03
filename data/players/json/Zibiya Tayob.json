@@ -118,7 +118,7 @@
         "Not Out": "0",
         "Runs": "17",
         "Highest Score": "17",
-        "Average": "8.50",
+        "Average": "17.00",
         "Strike-Rate": "42.50",
         "100s": "0",
         "50s": "0",
@@ -238,5 +238,82 @@
         "Match_Slug": "2006-01-29-limpopo-lillies-titans"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "17.00",
+        "Strike-Rate": "42.50",
+        "Opposition": "Titans",
+        "Date": "2006/01/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "42.50",
+        "Opposition": "Lions",
+        "Date": "2006/02/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "23",
+        "Average": "7.67",
+        "Strike-Rate": "48.94",
+        "Opposition": "Titans",
+        "Date": "2006/10/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "29",
+        "Average": "7.25",
+        "Strike-Rate": "44.62",
+        "Opposition": "Rhinos",
+        "Date": "2007/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "17",
+        "Average": "17.00",
+        "Strike-Rate": "42.50",
+        "Opposition": "Titans",
+        "Date": "2006/01/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "17",
+        "Average": "8.50",
+        "Strike-Rate": "42.50",
+        "Opposition": "Lions",
+        "Date": "2006/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "23",
+        "Average": "7.67",
+        "Strike-Rate": "48.94",
+        "Opposition": "Titans",
+        "Date": "2006/10/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "29",
+        "Average": "7.25",
+        "Strike-Rate": "44.62",
+        "Opposition": "Rhinos",
+        "Date": "2007/01/13",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

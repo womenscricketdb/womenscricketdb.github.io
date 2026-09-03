@@ -346,5 +346,119 @@
         "Match_Slug": "2022-03-20-knights-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2022/03/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2022/03/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "-",
+        "Strike-Rate": "27.78",
+        "Opposition": "Heat",
+        "Date": "2022/03/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2021/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2022/03/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Knights",
+        "Date": "2022/03/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Heat",
+        "Date": "2022/03/27",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "45.50",
+        "Economy": "9.10",
+        "Opposition": "Knights",
+        "Date": "2022/03/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "4.00",
+        "Opposition": "Heat",
+        "Date": "2022/03/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "45.50",
+        "Economy": "9.10",
+        "Opposition": "Knights",
+        "Date": "2022/03/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "35.67",
+        "Economy": "7.64",
+        "Opposition": "Heat",
+        "Date": "2022/03/27",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

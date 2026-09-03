@@ -267,7 +267,7 @@
         "Not Out": "1",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "1.00",
+        "Average": "2.00",
         "Strike-Rate": "20.00",
         "100s": "0",
         "50s": "0",
@@ -318,7 +318,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "0.00",
         "100s": "0",
         "50s": "0",
@@ -335,7 +335,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "0.00",
         "100s": "0",
         "50s": "0",
@@ -369,7 +369,7 @@
         "Not Out": "1",
         "Runs": "13",
         "Highest Score": "13*",
-        "Average": "6.50",
+        "Average": "",
         "Strike-Rate": "92.86",
         "100s": "0",
         "50s": "0",
@@ -884,6 +884,624 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2014-11-09-eastern-storm-dragons"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2013/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2014/02/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "10.00",
+        "Opposition": "Lions",
+        "Date": "2014/02/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "10.00",
+        "Opposition": "Rhinos",
+        "Date": "2014/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "9.52",
+        "Opposition": "Dragons",
+        "Date": "2014/11/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "9.52",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/10/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "2",
+        "Average": "0.33",
+        "Strike-Rate": "9.52",
+        "Opposition": "Rhinos",
+        "Date": "2016/01/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "2",
+        "Average": "0.33",
+        "Strike-Rate": "7.41",
+        "Opposition": "Dolphins",
+        "Date": "2016/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2014/11/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Rhinos",
+        "Date": "2015/01/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Tuskers",
+        "Date": "2015/03/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/10/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Tuskers",
+        "Date": "2015/11/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2016/02/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Rhinos",
+        "Date": "2016/10/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2016/10/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/01/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/10/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "11",
+        "Runs": "13",
+        "Average": "1.44",
+        "Strike-Rate": "61.90",
+        "Opposition": "Rhinos",
+        "Date": "2017/11/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "12",
+        "Runs": "13",
+        "Average": "1.30",
+        "Strike-Rate": "61.90",
+        "Opposition": "Tuskers",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2013/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2014/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "10.00",
+        "Opposition": "Lions",
+        "Date": "2014/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "10.00",
+        "Opposition": "Rhinos",
+        "Date": "2014/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "9.52",
+        "Opposition": "Dragons",
+        "Date": "2014/11/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "8.70",
+        "Opposition": "Dragons",
+        "Date": "2014/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "2",
+        "Average": "0.33",
+        "Strike-Rate": "8.70",
+        "Opposition": "Rhinos",
+        "Date": "2015/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "2",
+        "Average": "0.29",
+        "Strike-Rate": "8.70",
+        "Opposition": "Tuskers",
+        "Date": "2015/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "2",
+        "Average": "0.25",
+        "Strike-Rate": "8.70",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/10/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "2",
+        "Average": "0.22",
+        "Strike-Rate": "8.70",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/10/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "2",
+        "Average": "0.20",
+        "Strike-Rate": "8.70",
+        "Opposition": "Tuskers",
+        "Date": "2015/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "2",
+        "Average": "0.18",
+        "Strike-Rate": "8.70",
+        "Opposition": "Rhinos",
+        "Date": "2016/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "2",
+        "Average": "0.18",
+        "Strike-Rate": "6.90",
+        "Opposition": "Dolphins",
+        "Date": "2016/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "2",
+        "Average": "0.18",
+        "Strike-Rate": "6.25",
+        "Opposition": "Dolphins",
+        "Date": "2016/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "2",
+        "Average": "0.17",
+        "Strike-Rate": "6.25",
+        "Opposition": "Rhinos",
+        "Date": "2016/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "2",
+        "Average": "0.15",
+        "Strike-Rate": "5.88",
+        "Opposition": "Titans",
+        "Date": "2016/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "2",
+        "Average": "0.14",
+        "Strike-Rate": "5.88",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "2",
+        "Average": "0.13",
+        "Strike-Rate": "5.88",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "15",
+        "Average": "1.00",
+        "Strike-Rate": "31.25",
+        "Opposition": "Rhinos",
+        "Date": "2017/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "15",
+        "Average": "0.94",
+        "Strike-Rate": "31.25",
+        "Opposition": "Tuskers",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.33",
+        "Economy": "3.25",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2014/02/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "6.00",
+        "Economy": "3.60",
+        "Opposition": "Lions",
+        "Date": "2014/02/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "9.00",
+        "Economy": "3.86",
+        "Opposition": "Dragons",
+        "Date": "2014/11/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "15.67",
+        "Economy": "3.62",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/10/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00",
+        "Opposition": "Rhinos",
+        "Date": "2015/01/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.40",
+        "Opposition": "Tuskers",
+        "Date": "2015/03/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.29",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/10/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.09",
+        "Opposition": "Tuskers",
+        "Date": "2015/11/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "1",
+        "Average": "66.00",
+        "Economy": "5.08",
+        "Opposition": "Rhinos",
+        "Date": "2016/10/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "74.00",
+        "Economy": "5.29",
+        "Opposition": "Titans",
+        "Date": "2016/10/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "2",
+        "Average": "40.50",
+        "Economy": "5.06",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/01/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "3",
+        "Average": "29.67",
+        "Economy": "4.94",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/10/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "5",
+        "Average": "19.80",
+        "Economy": "4.50",
+        "Opposition": "Rhinos",
+        "Date": "2017/11/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "5",
+        "Average": "21.80",
+        "Economy": "4.36",
+        "Opposition": "Tuskers",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.33",
+        "Economy": "3.25",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2014/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "6.00",
+        "Economy": "3.60",
+        "Opposition": "Lions",
+        "Date": "2014/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "9.00",
+        "Economy": "3.86",
+        "Opposition": "Dragons",
+        "Date": "2014/11/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "12.33",
+        "Economy": "4.11",
+        "Opposition": "Rhinos",
+        "Date": "2015/01/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "16.33",
+        "Economy": "4.08",
+        "Opposition": "Tuskers",
+        "Date": "2015/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "3",
+        "Average": "23.00",
+        "Economy": "3.83",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/10/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "3",
+        "Average": "25.67",
+        "Economy": "3.85",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2015/10/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "3",
+        "Average": "34.33",
+        "Economy": "4.29",
+        "Opposition": "Tuskers",
+        "Date": "2015/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "4",
+        "Average": "28.25",
+        "Economy": "4.35",
+        "Opposition": "Rhinos",
+        "Date": "2016/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "4",
+        "Average": "30.25",
+        "Economy": "4.48",
+        "Opposition": "Titans",
+        "Date": "2016/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "5",
+        "Average": "25.60",
+        "Economy": "4.41",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "6",
+        "Average": "22.67",
+        "Economy": "4.39",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2017/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "8",
+        "Average": "18.25",
+        "Economy": "4.17",
+        "Opposition": "Rhinos",
+        "Date": "2017/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "8",
+        "Average": "19.50",
+        "Economy": "4.11",
+        "Opposition": "Tuskers",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
       }
     ]
   }

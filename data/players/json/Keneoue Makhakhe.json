@@ -203,7 +203,7 @@
         "Not Out": "0",
         "Runs": "3",
         "Highest Score": "3",
-        "Average": "1.50",
+        "Average": "3.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -547,6 +547,264 @@
         "Bowling": "0/1",
         "Fielding": "1 ct",
         "Match_Slug": "2018-12-02-western-province-lions"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2022/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2019/01/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Dolphins",
+        "Date": "2022/03/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "50.00",
+        "Opposition": "Dragons",
+        "Date": "2022/03/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2019/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "37.50",
+        "Opposition": "Dolphins",
+        "Date": "2022/03/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "37.50",
+        "Opposition": "Dragons",
+        "Date": "2022/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "37.50",
+        "Opposition": "Dragons",
+        "Date": "2022/03/27",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "4.00",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "16.50",
+        "Economy": "3.67",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "33.00",
+        "Economy": "4.12",
+        "Opposition": "Dragons",
+        "Date": "2022/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "12.00",
+        "Economy": "5.14",
+        "Opposition": "Dragons",
+        "Date": "2019/01/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "9.00",
+        "Economy": "4.26",
+        "Opposition": "Dolphins",
+        "Date": "2022/03/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "11.00",
+        "Economy": "3.96",
+        "Opposition": "Dragons",
+        "Date": "2022/03/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "4.00",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "16.50",
+        "Economy": "3.67",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "17.00",
+        "Economy": "3.64",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "15.00",
+        "Economy": "3.97",
+        "Opposition": "Dragons",
+        "Date": "2019/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "5",
+        "Average": "12.00",
+        "Economy": "3.91",
+        "Opposition": "Dolphins",
+        "Date": "2022/03/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "5",
+        "Average": "18.60",
+        "Economy": "4.16",
+        "Opposition": "Dragons",
+        "Date": "2022/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "5",
+        "Average": "19.80",
+        "Economy": "4.07",
+        "Opposition": "Dragons",
+        "Date": "2022/03/27",
+        "Format": "OVERALL"
       }
     ]
   }

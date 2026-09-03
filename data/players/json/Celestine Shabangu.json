@@ -137,7 +137,7 @@
         "Not Out": "0",
         "Runs": "5",
         "Highest Score": "3",
-        "Average": "1.00",
+        "Average": "1.25",
         "Strike-Rate": "9.26",
         "100s": "0",
         "50s": "0",
@@ -306,6 +306,138 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2005-10-02-rhinos-lions"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2005/10/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "2.38",
+        "Opposition": "Dolphins",
+        "Date": "2005/11/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "4.35",
+        "Opposition": "Lions",
+        "Date": "2006/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "9.26",
+        "Opposition": "Titans",
+        "Date": "2006/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "9.26",
+        "Opposition": "Dragons",
+        "Date": "2006/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2005/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "2.38",
+        "Opposition": "Dolphins",
+        "Date": "2005/11/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "4.35",
+        "Opposition": "Lions",
+        "Date": "2006/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "9.26",
+        "Opposition": "Titans",
+        "Date": "2006/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "9.26",
+        "Opposition": "Dragons",
+        "Date": "2006/03/12",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "29.00",
+        "Economy": "4.83",
+        "Opposition": "Dolphins",
+        "Date": "2005/11/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "23.50",
+        "Economy": "5.88",
+        "Opposition": "Lions",
+        "Date": "2006/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "29.00",
+        "Economy": "4.83",
+        "Opposition": "Dolphins",
+        "Date": "2005/11/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "23.50",
+        "Economy": "5.88",
+        "Opposition": "Lions",
+        "Date": "2006/01/14",
+        "Format": "OVERALL"
       }
     ]
   }

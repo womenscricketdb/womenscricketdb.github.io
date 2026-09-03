@@ -213,7 +213,7 @@
         "Not Out": "2",
         "Runs": "3",
         "Highest Score": "2*",
-        "Average": "1.50",
+        "Average": "",
         "Strike-Rate": "30.00",
         "100s": "0",
         "50s": "0",
@@ -426,6 +426,192 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2023-10-08-dragons-eastern-storm"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2023/10/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2024/04/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2024/04/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "12.50",
+        "Opposition": "Eastern Storm",
+        "Date": "2023/10/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "12.50",
+        "Opposition": "Tuskers",
+        "Date": "2023/11/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "12.50",
+        "Opposition": "Rhinos",
+        "Date": "2024/03/10",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "30.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/03/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2023/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "12.50",
+        "Opposition": "Eastern Storm",
+        "Date": "2023/10/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "12.50",
+        "Opposition": "Tuskers",
+        "Date": "2023/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "12.50",
+        "Opposition": "Rhinos",
+        "Date": "2024/03/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "12.50",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "30.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/03/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "30.00",
+        "Opposition": "Kei",
+        "Date": "2024/04/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "30.00",
+        "Opposition": "Heat",
+        "Date": "2024/04/06",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00",
+        "Opposition": "Rhinos",
+        "Date": "2024/03/10",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00",
+        "Opposition": "Rhinos",
+        "Date": "2024/03/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/03/23",
+        "Format": "OVERALL"
       }
     ]
   }

@@ -91,7 +91,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.50",
+        "Average": "",
         "Strike-Rate": "5.56",
         "100s": "0",
         "50s": "0",
@@ -244,6 +244,120 @@
         "Bowling": "0/15",
         "Fielding": "",
         "Match_Slug": "2026-03-30-iinyathi-eastern-storm"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2026/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2026/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "5.56",
+        "Opposition": "Kei",
+        "Date": "2026/04/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2026/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2026/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "5.56",
+        "Opposition": "Kei",
+        "Date": "2026/04/03",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50",
+        "Opposition": "Iinyathi",
+        "Date": "2026/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.33",
+        "Opposition": "Heat",
+        "Date": "2026/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "3.00",
+        "Opposition": "Kei",
+        "Date": "2026/04/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50",
+        "Opposition": "Iinyathi",
+        "Date": "2026/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.33",
+        "Opposition": "Heat",
+        "Date": "2026/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "3.00",
+        "Opposition": "Kei",
+        "Date": "2026/04/03",
+        "Format": "OVERALL"
       }
     ]
   }

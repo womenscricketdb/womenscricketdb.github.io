@@ -219,7 +219,7 @@
         "Not Out": "2",
         "Runs": "6",
         "Highest Score": "5*",
-        "Average": "6.00",
+        "Average": "",
         "Strike-Rate": "75.00",
         "100s": "0",
         "50s": "0",
@@ -498,6 +498,228 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2015-10-11-limpopo-lillies-rhinos"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "-",
+        "Strike-Rate": "250.00",
+        "Opposition": "Rhinos",
+        "Date": "2015/10/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "-",
+        "Strike-Rate": "60.00",
+        "Opposition": "Heat",
+        "Date": "2016/10/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "-",
+        "Strike-Rate": "50.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/01/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2015/10/11",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "166.67",
+        "Opposition": "Heat",
+        "Date": "2016/10/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/01/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Titans",
+        "Date": "2017/02/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "5",
+        "Average": "-",
+        "Strike-Rate": "250.00",
+        "Opposition": "Rhinos",
+        "Date": "2015/10/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "250.00",
+        "Opposition": "Rhinos",
+        "Date": "2015/10/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "60.00",
+        "Opposition": "Heat",
+        "Date": "2016/10/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "84.62",
+        "Opposition": "Heat",
+        "Date": "2016/10/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "11",
+        "Average": "11.00",
+        "Strike-Rate": "73.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "60.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "12",
+        "Average": "6.00",
+        "Strike-Rate": "60.00",
+        "Opposition": "Titans",
+        "Date": "2017/02/12",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50",
+        "Opposition": "Rhinos",
+        "Date": "2015/10/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.57",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/01/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "5.00",
+        "Opposition": "Heat",
+        "Date": "2016/10/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "17.00",
+        "Economy": "4.25",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/01/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "23.50",
+        "Economy": "5.22",
+        "Opposition": "Titans",
+        "Date": "2017/02/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50",
+        "Opposition": "Rhinos",
+        "Date": "2015/10/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "31.00",
+        "Economy": "5.17",
+        "Opposition": "Heat",
+        "Date": "2016/10/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "33.00",
+        "Economy": "5.21",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "23.50",
+        "Economy": "4.55",
+        "Opposition": "Eastern Storm",
+        "Date": "2017/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "2",
+        "Average": "30.00",
+        "Economy": "5.29",
+        "Opposition": "Titans",
+        "Date": "2017/02/12",
+        "Format": "OVERALL"
       }
     ]
   }

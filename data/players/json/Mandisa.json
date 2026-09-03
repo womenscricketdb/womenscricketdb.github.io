@@ -110,7 +110,7 @@
         "Not Out": "1",
         "Runs": "3",
         "Highest Score": "3",
-        "Average": "1.00",
+        "Average": "3.00",
         "Strike-Rate": "15.79",
         "100s": "0",
         "50s": "0",
@@ -213,5 +213,82 @@
         "Match_Slug": "2008-11-29-boland-warriors"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "23.08",
+        "Opposition": "Boland",
+        "Date": "2008/11/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "23.08",
+        "Opposition": "Dolphins",
+        "Date": "2009/01/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "15.79",
+        "Opposition": "Western Province",
+        "Date": "2009/02/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "15.79",
+        "Opposition": "Badgers",
+        "Date": "2009/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "23.08",
+        "Opposition": "Boland",
+        "Date": "2008/11/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "23.08",
+        "Opposition": "Dolphins",
+        "Date": "2009/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "15.79",
+        "Opposition": "Western Province",
+        "Date": "2009/02/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "15.79",
+        "Opposition": "Badgers",
+        "Date": "2009/02/21",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

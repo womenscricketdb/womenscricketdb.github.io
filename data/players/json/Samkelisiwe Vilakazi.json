@@ -208,5 +208,65 @@
         "Match_Slug": "2018-01-14-dolphins-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Titans",
+        "Date": "2016/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2018/01/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Titans",
+        "Date": "2016/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "12",
+        "Average": "6.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Rhinos",
+        "Date": "2018/01/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Rhinos",
+        "Date": "2018/01/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Rhinos",
+        "Date": "2018/01/14",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

@@ -275,5 +275,83 @@
         "Match_Slug": "2013-11-23-limpopo-lillies-titans"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "32",
+        "Average": "-",
+        "Strike-Rate": "47.76",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2013/11/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "32",
+        "Average": "-",
+        "Strike-Rate": "47.76",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "32",
+        "Average": "32.00",
+        "Strike-Rate": "45.71",
+        "Opposition": "Titans",
+        "Date": "2013/11/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "5.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "47.00",
+        "Economy": "6.71",
+        "Opposition": "Titans",
+        "Date": "2013/11/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "16.00",
+        "Economy": "5.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "31.50",
+        "Economy": "6.30",
+        "Opposition": "Titans",
+        "Date": "2013/11/23",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

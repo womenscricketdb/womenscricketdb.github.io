@@ -145,7 +145,7 @@
         "Not Out": "0",
         "Runs": "5",
         "Highest Score": "5",
-        "Average": "1.67",
+        "Average": "2.50",
         "Strike-Rate": "25.00",
         "100s": "0",
         "50s": "0",
@@ -268,5 +268,82 @@
         "Match_Slug": "2019-01-19-kei-heat"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2018/10/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Kei",
+        "Date": "2019/01/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "25.00",
+        "Opposition": "Badgers",
+        "Date": "2019/02/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Kei",
+        "Date": "2019/01/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2018/10/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Kei",
+        "Date": "2019/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "44.44",
+        "Opposition": "Kei",
+        "Date": "2019/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "33.33",
+        "Opposition": "Badgers",
+        "Date": "2019/02/24",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

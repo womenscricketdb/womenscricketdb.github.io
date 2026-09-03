@@ -503,6 +503,15 @@ const WCA_TABLE = (() => {
      *        calls, same as WCA_TABLE.render's own contract.
      * @param {number} [chartOpts.minRows=2] - below this many rows for the
      *        currently selected format, Chart view isn't offered for it.
+     * @param {string} [chartOpts.defaultView='table'] - which view opens
+     *        first, before the person has touched the Table/Chart switch.
+     *        Pass 'chart' for any trend-across-rows table (career-by-season,
+     *        career-by-innings, etc.) where the shape of the trend is the
+     *        actual point and the row-by-row table is the secondary,
+     *        look-something-up view - draw() below still falls back to
+     *        'table' regardless of this if canChart() says no (too few
+     *        rows, or chartOpts omitted entirely), same as a manual
+     *        switch-into-Chart would.
      */
     function renderChartableTable(container, title, rows, tableOpts = {}, chartOpts = null) {
         if (!rows || !rows.length) return;
@@ -525,7 +534,13 @@ const WCA_TABLE = (() => {
             formats.forEach(fmt => {
                 const btn = document.createElement("button");
                 btn.type = "button";
-                btn.textContent = fmt;
+                // displayValue turns the literal "OVERALL" data value into
+                // "Overall" for display, same convention the Records page's
+                // own Format filter already uses (see table-render.js's
+                // main render() options builder) - shown here as raw fmt
+                // previously, which would've rendered an all-caps "OVERALL"
+                // button next to naturally-cased "List A"/"T20" ones.
+                btn.textContent = WCA.displayValue(fmt);
                 btn.className = fmt === currentFormat ? "active" : "";
                 btn.addEventListener("click", () => {
                     currentFormat = fmt;
@@ -540,7 +555,7 @@ const WCA_TABLE = (() => {
         const minRows = (chartOpts && chartOpts.minRows) || 2;
         const viewToggle = document.createElement("div");
         viewToggle.className = "wca-format-toggle wca-view-toggle";
-        let currentView = "table";
+        let currentView = (chartOpts && chartOpts.defaultView) || "table";
         toggleRow.appendChild(viewToggle);
         container.appendChild(toggleRow);
 

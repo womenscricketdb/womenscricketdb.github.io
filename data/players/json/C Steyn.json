@@ -151,5 +151,47 @@
         "Match_Slug": "2012-01-14-lions-eastern-storm"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Lions",
+        "Date": "2012/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Lions",
+        "Date": "2012/01/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33",
+        "Opposition": "Lions",
+        "Date": "2012/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33",
+        "Opposition": "Lions",
+        "Date": "2012/01/14",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

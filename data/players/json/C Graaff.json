@@ -174,7 +174,7 @@
         "Not Out": "0",
         "Runs": "17",
         "Highest Score": "14",
-        "Average": "3.40",
+        "Average": "4.25",
         "Strike-Rate": "35.42",
         "100s": "0",
         "50s": "0",
@@ -191,7 +191,7 @@
         "Not Out": "1",
         "Runs": "15",
         "Highest Score": "11",
-        "Average": "7.50",
+        "Average": "15.00",
         "Strike-Rate": "45.45",
         "100s": "0",
         "50s": "0",
@@ -510,6 +510,336 @@
         "Bowling": "1/23",
         "Fielding": "",
         "Match_Slug": "2012-10-06-tuskers-knights"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "18.18",
+        "Opposition": "Heat",
+        "Date": "2010/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "18.18",
+        "Opposition": "Dragons",
+        "Date": "2011/01/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "16",
+        "Average": "5.33",
+        "Strike-Rate": "45.71",
+        "Opposition": "Tuskers",
+        "Date": "2011/02/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "16",
+        "Average": "4.00",
+        "Strike-Rate": "42.11",
+        "Opposition": "Dolphins",
+        "Date": "2011/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "17",
+        "Average": "3.40",
+        "Strike-Rate": "35.42",
+        "Opposition": "Heat",
+        "Date": "2011/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "21",
+        "Average": "4.20",
+        "Strike-Rate": "32.31",
+        "Opposition": "Dragons",
+        "Date": "2012/11/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "21",
+        "Average": "3.50",
+        "Strike-Rate": "32.31",
+        "Opposition": "Dolphins",
+        "Date": "2012/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "32",
+        "Average": "4.57",
+        "Strike-Rate": "39.51",
+        "Opposition": "Tuskers",
+        "Date": "2012/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "18.18",
+        "Opposition": "Heat",
+        "Date": "2010/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "18.18",
+        "Opposition": "Dragons",
+        "Date": "2011/01/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "16",
+        "Average": "5.33",
+        "Strike-Rate": "45.71",
+        "Opposition": "Tuskers",
+        "Date": "2011/02/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "16",
+        "Average": "4.00",
+        "Strike-Rate": "42.11",
+        "Opposition": "Dolphins",
+        "Date": "2011/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "17",
+        "Average": "3.40",
+        "Strike-Rate": "35.42",
+        "Opposition": "Heat",
+        "Date": "2011/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "17",
+        "Average": "2.83",
+        "Strike-Rate": "35.42",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "21",
+        "Average": "3.50",
+        "Strike-Rate": "32.31",
+        "Opposition": "Dragons",
+        "Date": "2012/11/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "21",
+        "Average": "3.00",
+        "Strike-Rate": "32.31",
+        "Opposition": "Dolphins",
+        "Date": "2012/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "32",
+        "Average": "4.00",
+        "Strike-Rate": "39.51",
+        "Opposition": "Tuskers",
+        "Date": "2012/11/25",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "19.33",
+        "Economy": "5.80",
+        "Opposition": "Heat",
+        "Date": "2010/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "16.75",
+        "Economy": "4.79",
+        "Opposition": "Dragons",
+        "Date": "2011/01/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "19.25",
+        "Economy": "4.81",
+        "Opposition": "Tuskers",
+        "Date": "2011/02/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "9",
+        "Average": "12.22",
+        "Economy": "4.58",
+        "Opposition": "Dolphins",
+        "Date": "2011/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "11",
+        "Average": "11.55",
+        "Economy": "4.10",
+        "Opposition": "Heat",
+        "Date": "2011/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "12",
+        "Average": "12.33",
+        "Economy": "4.00",
+        "Opposition": "Dragons",
+        "Date": "2012/11/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "12",
+        "Average": "13.58",
+        "Economy": "4.08",
+        "Opposition": "Dolphins",
+        "Date": "2012/11/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "12",
+        "Average": "15.67",
+        "Economy": "4.09",
+        "Opposition": "Tuskers",
+        "Date": "2012/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "5.75",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "19.33",
+        "Economy": "5.80",
+        "Opposition": "Heat",
+        "Date": "2010/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "16.75",
+        "Economy": "4.79",
+        "Opposition": "Dragons",
+        "Date": "2011/01/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "19.25",
+        "Economy": "4.81",
+        "Opposition": "Tuskers",
+        "Date": "2011/02/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "9",
+        "Average": "12.22",
+        "Economy": "4.58",
+        "Opposition": "Dolphins",
+        "Date": "2011/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "11",
+        "Average": "11.55",
+        "Economy": "4.10",
+        "Opposition": "Heat",
+        "Date": "2011/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "12",
+        "Average": "12.50",
+        "Economy": "4.29",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "13",
+        "Average": "13.15",
+        "Economy": "4.17",
+        "Opposition": "Dragons",
+        "Date": "2012/11/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "13",
+        "Average": "14.31",
+        "Economy": "4.23",
+        "Opposition": "Dolphins",
+        "Date": "2012/11/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "13",
+        "Average": "16.23",
+        "Economy": "4.22",
+        "Opposition": "Tuskers",
+        "Date": "2012/11/25",
+        "Format": "OVERALL"
       }
     ]
   }

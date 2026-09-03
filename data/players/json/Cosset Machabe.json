@@ -203,7 +203,7 @@
         "Not Out": "1",
         "Runs": "4",
         "Highest Score": "4*",
-        "Average": "4.00",
+        "Average": "",
         "Strike-Rate": "30.77",
         "100s": "0",
         "50s": "0",
@@ -490,6 +490,246 @@
         "Bowling": "1/9",
         "Fielding": "",
         "Match_Slug": "2024-04-02-iinyathi-rhinos"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2023/10/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "-",
+        "Strike-Rate": "45.83",
+        "Opposition": "Dragons",
+        "Date": "2024/03/10",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "15",
+        "Average": "-",
+        "Strike-Rate": "40.54",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "15",
+        "Average": "15.00",
+        "Strike-Rate": "40.54",
+        "Opposition": "Dragons",
+        "Date": "2025/02/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "14.29",
+        "Opposition": "Iinyathi",
+        "Date": "2024/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "12.50",
+        "Opposition": "Warriors",
+        "Date": "2024/04/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "16.67",
+        "Opposition": "Heat",
+        "Date": "2024/04/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2023/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "-",
+        "Strike-Rate": "45.83",
+        "Opposition": "Dragons",
+        "Date": "2024/03/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "38.71",
+        "Opposition": "Iinyathi",
+        "Date": "2024/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "12",
+        "Average": "6.00",
+        "Strike-Rate": "37.50",
+        "Opposition": "Warriors",
+        "Date": "2024/04/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "13",
+        "Average": "4.33",
+        "Strike-Rate": "36.11",
+        "Opposition": "Heat",
+        "Date": "2024/04/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "17",
+        "Average": "5.67",
+        "Strike-Rate": "34.69",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "17",
+        "Average": "4.25",
+        "Strike-Rate": "34.69",
+        "Opposition": "Dragons",
+        "Date": "2025/02/16",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "6.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2023/10/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "16.00",
+        "Economy": "5.33",
+        "Opposition": "Dragons",
+        "Date": "2024/03/10",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "21.50",
+        "Economy": "6.14",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "27.00",
+        "Economy": "6.75",
+        "Opposition": "Dragons",
+        "Date": "2025/02/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "9.00",
+        "Economy": "2.25",
+        "Opposition": "Iinyathi",
+        "Date": "2024/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "24.00",
+        "Economy": "5.14",
+        "Opposition": "Warriors",
+        "Date": "2024/04/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "6.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2023/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "16.00",
+        "Economy": "5.33",
+        "Opposition": "Dragons",
+        "Date": "2024/03/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "13.67",
+        "Economy": "4.10",
+        "Opposition": "Iinyathi",
+        "Date": "2024/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "18.67",
+        "Economy": "5.25",
+        "Opposition": "Warriors",
+        "Date": "2024/04/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "22.33",
+        "Economy": "5.74",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "3",
+        "Average": "26.00",
+        "Economy": "6.16",
+        "Opposition": "Dragons",
+        "Date": "2025/02/16",
+        "Format": "OVERALL"
       }
     ]
   }

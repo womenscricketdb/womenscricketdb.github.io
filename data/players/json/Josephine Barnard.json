@@ -151,5 +151,47 @@
         "Match_Slug": "2005-11-06-western-province-boland"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Western Province",
+        "Date": "2005/11/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Western Province",
+        "Date": "2005/11/06",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.00",
+        "Opposition": "Western Province",
+        "Date": "2005/11/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.00",
+        "Opposition": "Western Province",
+        "Date": "2005/11/06",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

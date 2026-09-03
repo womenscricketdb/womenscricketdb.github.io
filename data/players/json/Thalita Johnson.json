@@ -211,5 +211,64 @@
         "Match_Slug": "2011-01-15-badgers-western-province"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Western Province",
+        "Date": "2011/01/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "24",
+        "Average": "12.00",
+        "Strike-Rate": "63.16",
+        "Opposition": "Boland",
+        "Date": "2012/01/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "44",
+        "Average": "14.67",
+        "Strike-Rate": "46.81",
+        "Opposition": "Western Province",
+        "Date": "2012/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Western Province",
+        "Date": "2011/01/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "24",
+        "Average": "12.00",
+        "Strike-Rate": "63.16",
+        "Opposition": "Boland",
+        "Date": "2012/01/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "44",
+        "Average": "14.67",
+        "Strike-Rate": "46.81",
+        "Opposition": "Western Province",
+        "Date": "2012/02/25",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

@@ -185,7 +185,7 @@
         "Not Out": "1",
         "Runs": "21",
         "Highest Score": "21*",
-        "Average": "7.00",
+        "Average": "",
         "Strike-Rate": "65.63",
         "100s": "0",
         "50s": "0",
@@ -202,7 +202,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.33",
+        "Average": "1.00",
         "Strike-Rate": "33.33",
         "100s": "0",
         "50s": "0",
@@ -504,6 +504,246 @@
         "Bowling": "2/14",
         "Fielding": "",
         "Match_Slug": "2013-01-12-dolphins-dragons"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "33.33",
+        "Opposition": "Knights",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "33.33",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2013/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "21",
+        "Average": "21.00",
+        "Strike-Rate": "65.62",
+        "Opposition": "Tuskers",
+        "Date": "2013/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "21",
+        "Average": "10.50",
+        "Strike-Rate": "65.62",
+        "Opposition": "Heat",
+        "Date": "2013/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "21",
+        "Average": "7.00",
+        "Strike-Rate": "65.62",
+        "Opposition": "Knights",
+        "Date": "2013/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "33.33",
+        "Opposition": "Knights",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "33.33",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "33.33",
+        "Opposition": "Dragons",
+        "Date": "2013/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "22",
+        "Average": "5.50",
+        "Strike-Rate": "62.86",
+        "Opposition": "Tuskers",
+        "Date": "2013/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "22",
+        "Average": "4.40",
+        "Strike-Rate": "62.86",
+        "Opposition": "Heat",
+        "Date": "2013/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "22",
+        "Average": "3.67",
+        "Strike-Rate": "62.86",
+        "Opposition": "Knights",
+        "Date": "2013/02/10",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "5.00",
+        "Economy": "1.67",
+        "Opposition": "Knights",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "7",
+        "Average": "1.29",
+        "Economy": "1.29",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "7.00",
+        "Economy": "1.75",
+        "Opposition": "Dragons",
+        "Date": "2013/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "7.50",
+        "Economy": "2.14",
+        "Opposition": "Tuskers",
+        "Date": "2013/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "5.83",
+        "Economy": "1.67",
+        "Opposition": "Heat",
+        "Date": "2013/02/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "6",
+        "Average": "9.67",
+        "Economy": "2.23",
+        "Opposition": "Knights",
+        "Date": "2013/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "5.00",
+        "Economy": "1.67",
+        "Opposition": "Knights",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "7",
+        "Average": "1.29",
+        "Economy": "1.29",
+        "Opposition": "Tuskers",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "9",
+        "Average": "2.56",
+        "Economy": "1.53",
+        "Opposition": "Dragons",
+        "Date": "2013/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "11",
+        "Average": "3.55",
+        "Economy": "1.86",
+        "Opposition": "Tuskers",
+        "Date": "2013/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "13",
+        "Average": "3.38",
+        "Economy": "1.57",
+        "Opposition": "Heat",
+        "Date": "2013/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "13",
+        "Average": "5.15",
+        "Economy": "2.03",
+        "Opposition": "Knights",
+        "Date": "2013/02/10",
+        "Format": "OVERALL"
       }
     ]
   }

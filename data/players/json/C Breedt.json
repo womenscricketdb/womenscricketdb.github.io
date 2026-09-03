@@ -120,7 +120,7 @@
         "Not Out": "0",
         "Runs": "3",
         "Highest Score": "3",
-        "Average": "1.50",
+        "Average": "3.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -334,6 +334,138 @@
         "Bowling": "1/8",
         "Fielding": "",
         "Match_Slug": "2018-11-04-lions-titans"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2018/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Western Province",
+        "Date": "2018/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Lions",
+        "Date": "2018/11/04",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2018/11/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2018/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2018/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Western Province",
+        "Date": "2018/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "50.00",
+        "Opposition": "Western Province",
+        "Date": "2018/11/18",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.50",
+        "Opposition": "Lions",
+        "Date": "2018/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "44.00",
+        "Economy": "6.29",
+        "Opposition": "Western Province",
+        "Date": "2018/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "8.00",
+        "Economy": "4.00",
+        "Opposition": "Lions",
+        "Date": "2018/11/04",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.50",
+        "Opposition": "Lions",
+        "Date": "2018/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "3.75",
+        "Opposition": "Lions",
+        "Date": "2018/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "26.00",
+        "Economy": "5.78",
+        "Opposition": "Western Province",
+        "Date": "2018/11/17",
+        "Format": "OVERALL"
       }
     ]
   },

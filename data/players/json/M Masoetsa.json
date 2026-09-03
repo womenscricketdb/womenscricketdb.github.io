@@ -102,7 +102,7 @@
         "Not Out": "2",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "7.69",
         "100s": "0",
         "50s": "0",
@@ -205,5 +205,82 @@
         "Match_Slug": "2005-11-20-knights-boland"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Boland",
+        "Date": "2005/11/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Badgers",
+        "Date": "2005/11/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Boland",
+        "Date": "2006/01/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "7.69",
+        "Opposition": "Iinyathi",
+        "Date": "2006/01/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Boland",
+        "Date": "2005/11/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Badgers",
+        "Date": "2005/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Boland",
+        "Date": "2006/01/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "7.69",
+        "Opposition": "Iinyathi",
+        "Date": "2006/01/29",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

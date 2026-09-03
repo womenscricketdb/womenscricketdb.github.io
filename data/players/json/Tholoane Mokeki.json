@@ -91,7 +91,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "1.33",
+        "Average": "4.00",
         "Strike-Rate": "57.14",
         "100s": "0",
         "50s": "0",
@@ -186,5 +186,64 @@
         "Match_Slug": "2018-01-28-knights-dragons"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2018/01/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Western Province",
+        "Date": "2018/02/11",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "57.14",
+        "Opposition": "Iinyathi",
+        "Date": "2018/02/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2018/01/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Western Province",
+        "Date": "2018/02/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "57.14",
+        "Opposition": "Iinyathi",
+        "Date": "2018/02/25",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

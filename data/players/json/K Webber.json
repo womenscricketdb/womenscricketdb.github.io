@@ -219,5 +219,83 @@
         "Match_Slug": "2007-11-10-heat-eastern-storm"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "25.81",
+        "Opposition": "Heat",
+        "Date": "2007/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "26.19",
+        "Opposition": "Knights",
+        "Date": "2007/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "25.81",
+        "Opposition": "Heat",
+        "Date": "2007/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "26.19",
+        "Opposition": "Knights",
+        "Date": "2007/11/17",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "12.00",
+        "Economy": "1.50",
+        "Opposition": "Heat",
+        "Date": "2007/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "2.09",
+        "Opposition": "Knights",
+        "Date": "2007/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "12.00",
+        "Economy": "1.50",
+        "Opposition": "Heat",
+        "Date": "2007/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "2.09",
+        "Opposition": "Knights",
+        "Date": "2007/11/17",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

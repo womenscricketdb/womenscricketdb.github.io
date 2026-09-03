@@ -322,5 +322,137 @@
         "Match_Slug": "2012-10-06-eastern-storm-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Titans",
+        "Date": "2012/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "100.00",
+        "Opposition": "Lions",
+        "Date": "2012/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "150.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/03/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Titans",
+        "Date": "2012/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "100.00",
+        "Opposition": "Lions",
+        "Date": "2012/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "150.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/03/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "150.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.33",
+        "Economy": "3.20",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "7.00",
+        "Economy": "2.57",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/03/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "5.33",
+        "Economy": "3.20",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "7.00",
+        "Economy": "2.57",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/03/24",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

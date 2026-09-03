@@ -83,7 +83,7 @@
         "Not Out": "0",
         "Runs": "9",
         "Highest Score": "9",
-        "Average": "3.00",
+        "Average": "4.50",
         "Strike-Rate": "75.00",
         "100s": "0",
         "50s": "0",
@@ -186,5 +186,64 @@
         "Match_Slug": "2005-11-19-heat-boland"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2005/11/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "75.00",
+        "Opposition": "Knights",
+        "Date": "2005/11/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Knights",
+        "Date": "2006/01/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Heat",
+        "Date": "2005/11/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "9",
+        "Average": "4.50",
+        "Strike-Rate": "75.00",
+        "Opposition": "Knights",
+        "Date": "2005/11/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "9",
+        "Average": "3.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Knights",
+        "Date": "2006/01/07",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

@@ -296,5 +296,119 @@
         "Match_Slug": "2009-10-04-titans-rhinos"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Titans",
+        "Date": "2009/10/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Lions",
+        "Date": "2009/11/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "27",
+        "Average": "13.50",
+        "Strike-Rate": "39.71",
+        "Opposition": "Eastern Storm",
+        "Date": "2010/10/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Titans",
+        "Date": "2009/10/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "8",
+        "Average": "4.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Lions",
+        "Date": "2009/11/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "27",
+        "Average": "13.50",
+        "Strike-Rate": "39.71",
+        "Opposition": "Eastern Storm",
+        "Date": "2010/10/10",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.89",
+        "Opposition": "Titans",
+        "Date": "2009/10/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.64",
+        "Opposition": "Lions",
+        "Date": "2009/11/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "100.00",
+        "Economy": "5.26",
+        "Opposition": "Eastern Storm",
+        "Date": "2010/10/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.89",
+        "Opposition": "Titans",
+        "Date": "2009/10/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.64",
+        "Opposition": "Lions",
+        "Date": "2009/11/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "100.00",
+        "Economy": "5.26",
+        "Opposition": "Eastern Storm",
+        "Date": "2010/10/10",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

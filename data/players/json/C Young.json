@@ -137,7 +137,7 @@
         "Not Out": "2",
         "Runs": "35",
         "Highest Score": "17*",
-        "Average": "11.67",
+        "Average": "35.00",
         "Strike-Rate": "42.86",
         "100s": "0",
         "50s": "0",
@@ -298,6 +298,138 @@
         "Bowling": "1/26",
         "Fielding": "",
         "Match_Slug": "2005-10-29-lions-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "-",
+        "Strike-Rate": "46.67",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Dolphins",
+        "Date": "2006/01/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "18",
+        "Average": "9.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Rhinos",
+        "Date": "2006/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "18",
+        "Average": "6.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Dragons",
+        "Date": "2006/01/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "35",
+        "Average": "11.67",
+        "Strike-Rate": "83.33",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2006/02/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "14",
+        "Average": "-",
+        "Strike-Rate": "46.67",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Dolphins",
+        "Date": "2006/01/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "18",
+        "Average": "9.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Rhinos",
+        "Date": "2006/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "18",
+        "Average": "6.00",
+        "Strike-Rate": "42.86",
+        "Opposition": "Dragons",
+        "Date": "2006/01/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "35",
+        "Average": "11.67",
+        "Strike-Rate": "83.33",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2006/02/05",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "5.20",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "50.00",
+        "Economy": "5.56",
+        "Opposition": "Rhinos",
+        "Date": "2006/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "5.20",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "50.00",
+        "Economy": "5.56",
+        "Opposition": "Rhinos",
+        "Date": "2006/01/14",
+        "Format": "OVERALL"
       }
     ]
   }

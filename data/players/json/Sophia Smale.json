@@ -158,7 +158,7 @@
         "Not Out": "1",
         "Runs": "28",
         "Highest Score": "28*",
-        "Average": "14.00",
+        "Average": "",
         "Strike-Rate": "35.90",
         "100s": "0",
         "50s": "0",
@@ -175,7 +175,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "0.00",
         "100s": "0",
         "50s": "0",
@@ -429,6 +429,192 @@
         "Bowling": "1/20",
         "Fielding": "",
         "Match_Slug": "2026-02-15-titans-western-province"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2026/02/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dolphins",
+        "Date": "2026/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "28",
+        "Average": "14.00",
+        "Strike-Rate": "35.90",
+        "Opposition": "Lions",
+        "Date": "2026/02/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2026/02/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2026/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2026/03/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2026/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2026/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dolphins",
+        "Date": "2026/02/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2026/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "28",
+        "Average": "9.33",
+        "Strike-Rate": "35.44",
+        "Opposition": "Lions",
+        "Date": "2026/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "28",
+        "Average": "7.00",
+        "Strike-Rate": "35.44",
+        "Opposition": "Lions",
+        "Date": "2026/03/01",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "3.71",
+        "Opposition": "Western Province",
+        "Date": "2026/02/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "52.00",
+        "Economy": "3.06",
+        "Opposition": "Lions",
+        "Date": "2026/02/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "20.00",
+        "Economy": "6.67",
+        "Opposition": "Western Province",
+        "Date": "2026/02/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "8.75",
+        "Economy": "5.00",
+        "Opposition": "Dolphins",
+        "Date": "2026/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "3.71",
+        "Opposition": "Western Province",
+        "Date": "2026/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "23.00",
+        "Economy": "4.60",
+        "Opposition": "Western Province",
+        "Date": "2026/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "12.20",
+        "Economy": "4.36",
+        "Opposition": "Dolphins",
+        "Date": "2026/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "17.40",
+        "Economy": "3.62",
+        "Opposition": "Lions",
+        "Date": "2026/02/28",
+        "Format": "OVERALL"
       }
     ]
   }

@@ -216,7 +216,7 @@
         "Not Out": "0",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "1.00",
+        "Average": "2.00",
         "Strike-Rate": "22.22",
         "100s": "0",
         "50s": "0",
@@ -233,7 +233,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "33.33",
         "100s": "0",
         "50s": "0",
@@ -488,6 +488,192 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2017-03-05-eastern-storm-heat"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "36.36",
+        "Opposition": "Heat",
+        "Date": "2017/03/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "6",
+        "Average": "3.00",
+        "Strike-Rate": "30.00",
+        "Opposition": "Rhinos",
+        "Date": "2020/02/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "30.00",
+        "Opposition": "Tuskers",
+        "Date": "2020/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "15",
+        "Average": "-",
+        "Strike-Rate": "55.56",
+        "Opposition": "Heat",
+        "Date": "2017/03/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "16",
+        "Average": "16.00",
+        "Strike-Rate": "53.33",
+        "Opposition": "Rhinos",
+        "Date": "2020/02/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "16",
+        "Average": "8.00",
+        "Strike-Rate": "53.33",
+        "Opposition": "Tuskers",
+        "Date": "2020/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "36.36",
+        "Opposition": "Heat",
+        "Date": "2017/03/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Heat",
+        "Date": "2017/03/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "21",
+        "Average": "10.50",
+        "Strike-Rate": "44.68",
+        "Opposition": "Rhinos",
+        "Date": "2020/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "22",
+        "Average": "7.33",
+        "Strike-Rate": "44.00",
+        "Opposition": "Rhinos",
+        "Date": "2020/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "22",
+        "Average": "5.50",
+        "Strike-Rate": "44.00",
+        "Opposition": "Tuskers",
+        "Date": "2020/03/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "22",
+        "Average": "4.40",
+        "Strike-Rate": "44.00",
+        "Opposition": "Tuskers",
+        "Date": "2020/03/08",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.67",
+        "Economy": "2.33",
+        "Opposition": "Heat",
+        "Date": "2017/03/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "6",
+        "Average": "2.67",
+        "Economy": "2.13",
+        "Opposition": "Rhinos",
+        "Date": "2020/02/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "4.17",
+        "Economy": "2.38",
+        "Opposition": "Tuskers",
+        "Date": "2020/03/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.43",
+        "Opposition": "Rhinos",
+        "Date": "2020/02/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "4.67",
+        "Economy": "2.33",
+        "Opposition": "Heat",
+        "Date": "2017/03/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "6",
+        "Average": "2.67",
+        "Economy": "2.13",
+        "Opposition": "Rhinos",
+        "Date": "2020/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "4.67",
+        "Economy": "2.55",
+        "Opposition": "Rhinos",
+        "Date": "2020/02/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "6",
+        "Average": "6.17",
+        "Economy": "2.64",
+        "Opposition": "Tuskers",
+        "Date": "2020/03/07",
+        "Format": "OVERALL"
       }
     ]
   }

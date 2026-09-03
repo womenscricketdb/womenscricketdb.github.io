@@ -354,7 +354,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1*",
-        "Average": "0.20",
+        "Average": "0.50",
         "Strike-Rate": "9.09",
         "100s": "0",
         "50s": "0",
@@ -371,7 +371,7 @@
         "Not Out": "0",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "0.22",
+        "Average": "0.29",
         "Strike-Rate": "2.35",
         "100s": "0",
         "50s": "0",
@@ -388,7 +388,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.20",
+        "Average": "1.00",
         "Strike-Rate": "14.29",
         "100s": "0",
         "50s": "0",
@@ -405,7 +405,7 @@
         "Not Out": "1",
         "Runs": "18",
         "Highest Score": "4*",
-        "Average": "2.00",
+        "Average": "2.25",
         "Strike-Rate": "12.50",
         "100s": "0",
         "50s": "0",
@@ -422,7 +422,7 @@
         "Not Out": "2",
         "Runs": "3",
         "Highest Score": "2*",
-        "Average": "1.50",
+        "Average": "",
         "Strike-Rate": "16.67",
         "100s": "0",
         "50s": "0",
@@ -439,7 +439,7 @@
         "Not Out": "0",
         "Runs": "2",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "6.45",
         "100s": "0",
         "50s": "0",
@@ -1071,6 +1071,894 @@
         "Bowling": "1/11",
         "Fielding": "2 ct",
         "Match_Slug": "2015-03-29-boland-lions"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "25.00",
+        "Opposition": "Lions",
+        "Date": "2015/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Dragons",
+        "Date": "2015/04/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "11.11",
+        "Opposition": "Lions",
+        "Date": "2015/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "11.11",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "9.09",
+        "Opposition": "Western Province",
+        "Date": "2015/04/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "9.09",
+        "Opposition": "Lions",
+        "Date": "2015/04/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "1",
+        "Average": "0.17",
+        "Strike-Rate": "9.09",
+        "Opposition": "Dragons",
+        "Date": "2015/10/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "1",
+        "Average": "0.14",
+        "Strike-Rate": "8.33",
+        "Opposition": "Lions",
+        "Date": "2015/11/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "1",
+        "Average": "0.12",
+        "Strike-Rate": "7.14",
+        "Opposition": "Titans",
+        "Date": "2016/01/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "1",
+        "Average": "0.11",
+        "Strike-Rate": "7.14",
+        "Opposition": "Knights",
+        "Date": "2016/01/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Runs": "1",
+        "Average": "0.10",
+        "Strike-Rate": "6.25",
+        "Opposition": "Western Province",
+        "Date": "2016/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Runs": "1",
+        "Average": "0.09",
+        "Strike-Rate": "2.78",
+        "Opposition": "Knights",
+        "Date": "2016/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "13",
+        "Runs": "1",
+        "Average": "0.08",
+        "Strike-Rate": "1.61",
+        "Opposition": "Warriors",
+        "Date": "2016/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "14",
+        "Runs": "3",
+        "Average": "0.23",
+        "Strike-Rate": "3.33",
+        "Opposition": "Lions",
+        "Date": "2016/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "15",
+        "Runs": "3",
+        "Average": "0.21",
+        "Strike-Rate": "3.12",
+        "Opposition": "Dragons",
+        "Date": "2016/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "16",
+        "Runs": "7",
+        "Average": "0.47",
+        "Strike-Rate": "5.11",
+        "Opposition": "Knights",
+        "Date": "2016/10/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "17",
+        "Runs": "8",
+        "Average": "0.50",
+        "Strike-Rate": "5.19",
+        "Opposition": "Dragons",
+        "Date": "2016/11/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "18",
+        "Runs": "8",
+        "Average": "0.47",
+        "Strike-Rate": "4.79",
+        "Opposition": "Lions",
+        "Date": "2017/01/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "19",
+        "Runs": "8",
+        "Average": "0.44",
+        "Strike-Rate": "4.55",
+        "Opposition": "Warriors",
+        "Date": "2017/02/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "20",
+        "Runs": "12",
+        "Average": "0.67",
+        "Strike-Rate": "6.09",
+        "Opposition": "Western Province",
+        "Date": "2017/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "21",
+        "Runs": "15",
+        "Average": "0.79",
+        "Strike-Rate": "7.04",
+        "Opposition": "Dragons",
+        "Date": "2017/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "22",
+        "Runs": "15",
+        "Average": "0.75",
+        "Strike-Rate": "7.04",
+        "Opposition": "Knights",
+        "Date": "2017/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "23",
+        "Runs": "19",
+        "Average": "0.90",
+        "Strike-Rate": "8.30",
+        "Opposition": "Titans",
+        "Date": "2017/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "24",
+        "Runs": "20",
+        "Average": "0.91",
+        "Strike-Rate": "8.62",
+        "Opposition": "Iinyathi",
+        "Date": "2017/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "25",
+        "Runs": "21",
+        "Average": "0.91",
+        "Strike-Rate": "8.75",
+        "Opposition": "Warriors",
+        "Date": "2017/04/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "26",
+        "Runs": "22",
+        "Average": "0.92",
+        "Strike-Rate": "8.66",
+        "Opposition": "Warriors",
+        "Date": "2018/02/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "27",
+        "Runs": "22",
+        "Average": "0.88",
+        "Strike-Rate": "8.66",
+        "Opposition": "Dragons",
+        "Date": "2018/04/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "28",
+        "Runs": "23",
+        "Average": "0.88",
+        "Strike-Rate": "8.49",
+        "Opposition": "Western Province",
+        "Date": "2018/04/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "29",
+        "Runs": "23",
+        "Average": "0.85",
+        "Strike-Rate": "8.49",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/04/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Lions",
+        "Date": "2015/03/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2015/11/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Lions",
+        "Date": "2015/11/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2016/01/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Knights",
+        "Date": "2016/01/31",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.17",
+        "Strike-Rate": "14.29",
+        "Opposition": "Western Province",
+        "Date": "2016/02/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "23.08",
+        "Opposition": "Knights",
+        "Date": "2016/10/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Runs": "3",
+        "Average": "0.43",
+        "Strike-Rate": "23.08",
+        "Opposition": "Dragons",
+        "Date": "2016/11/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Runs": "4",
+        "Average": "0.57",
+        "Strike-Rate": "16.00",
+        "Opposition": "Lions",
+        "Date": "2017/01/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Runs": "4",
+        "Average": "0.50",
+        "Strike-Rate": "16.00",
+        "Opposition": "Western Province",
+        "Date": "2017/02/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "11",
+        "Runs": "4",
+        "Average": "0.44",
+        "Strike-Rate": "14.81",
+        "Opposition": "Warriors",
+        "Date": "2018/02/04",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "25.00",
+        "Opposition": "Lions",
+        "Date": "2015/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Lions",
+        "Date": "2015/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Dragons",
+        "Date": "2015/04/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "11.11",
+        "Opposition": "Lions",
+        "Date": "2015/04/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "11.11",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "9.09",
+        "Opposition": "Western Province",
+        "Date": "2015/04/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "1",
+        "Average": "0.17",
+        "Strike-Rate": "9.09",
+        "Opposition": "Lions",
+        "Date": "2015/04/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "1",
+        "Average": "0.14",
+        "Strike-Rate": "9.09",
+        "Opposition": "Dragons",
+        "Date": "2015/10/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "1",
+        "Average": "0.12",
+        "Strike-Rate": "9.09",
+        "Opposition": "Dragons",
+        "Date": "2015/11/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "1",
+        "Average": "0.11",
+        "Strike-Rate": "8.33",
+        "Opposition": "Lions",
+        "Date": "2015/11/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "1",
+        "Average": "0.10",
+        "Strike-Rate": "8.33",
+        "Opposition": "Lions",
+        "Date": "2015/11/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "1",
+        "Average": "0.09",
+        "Strike-Rate": "7.14",
+        "Opposition": "Titans",
+        "Date": "2016/01/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "1",
+        "Average": "0.08",
+        "Strike-Rate": "7.14",
+        "Opposition": "Titans",
+        "Date": "2016/01/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "1",
+        "Average": "0.08",
+        "Strike-Rate": "7.14",
+        "Opposition": "Knights",
+        "Date": "2016/01/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "1",
+        "Average": "0.07",
+        "Strike-Rate": "7.14",
+        "Opposition": "Knights",
+        "Date": "2016/01/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "1",
+        "Average": "0.07",
+        "Strike-Rate": "6.25",
+        "Opposition": "Western Province",
+        "Date": "2016/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "2",
+        "Average": "0.12",
+        "Strike-Rate": "8.70",
+        "Opposition": "Western Province",
+        "Date": "2016/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "2",
+        "Average": "0.12",
+        "Strike-Rate": "4.65",
+        "Opposition": "Knights",
+        "Date": "2016/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "2",
+        "Average": "0.11",
+        "Strike-Rate": "2.90",
+        "Opposition": "Warriors",
+        "Date": "2016/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "4",
+        "Average": "0.21",
+        "Strike-Rate": "4.12",
+        "Opposition": "Lions",
+        "Date": "2016/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "4",
+        "Average": "0.20",
+        "Strike-Rate": "3.88",
+        "Opposition": "Dragons",
+        "Date": "2016/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "22",
+        "Runs": "8",
+        "Average": "0.38",
+        "Strike-Rate": "5.56",
+        "Opposition": "Knights",
+        "Date": "2016/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "23",
+        "Runs": "10",
+        "Average": "0.48",
+        "Strike-Rate": "6.67",
+        "Opposition": "Knights",
+        "Date": "2016/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "24",
+        "Runs": "11",
+        "Average": "0.50",
+        "Strike-Rate": "6.59",
+        "Opposition": "Dragons",
+        "Date": "2016/11/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "25",
+        "Runs": "11",
+        "Average": "0.48",
+        "Strike-Rate": "6.59",
+        "Opposition": "Dragons",
+        "Date": "2016/11/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "26",
+        "Runs": "11",
+        "Average": "0.46",
+        "Strike-Rate": "6.11",
+        "Opposition": "Lions",
+        "Date": "2017/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "27",
+        "Runs": "12",
+        "Average": "0.50",
+        "Strike-Rate": "6.25",
+        "Opposition": "Lions",
+        "Date": "2017/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "28",
+        "Runs": "12",
+        "Average": "0.48",
+        "Strike-Rate": "5.97",
+        "Opposition": "Warriors",
+        "Date": "2017/02/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "29",
+        "Runs": "16",
+        "Average": "0.64",
+        "Strike-Rate": "7.21",
+        "Opposition": "Western Province",
+        "Date": "2017/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "30",
+        "Runs": "16",
+        "Average": "0.62",
+        "Strike-Rate": "7.21",
+        "Opposition": "Western Province",
+        "Date": "2017/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "31",
+        "Runs": "19",
+        "Average": "0.70",
+        "Strike-Rate": "7.98",
+        "Opposition": "Dragons",
+        "Date": "2017/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "32",
+        "Runs": "19",
+        "Average": "0.68",
+        "Strike-Rate": "7.98",
+        "Opposition": "Knights",
+        "Date": "2017/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "33",
+        "Runs": "23",
+        "Average": "0.79",
+        "Strike-Rate": "9.06",
+        "Opposition": "Titans",
+        "Date": "2017/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "34",
+        "Runs": "24",
+        "Average": "0.80",
+        "Strike-Rate": "9.34",
+        "Opposition": "Iinyathi",
+        "Date": "2017/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "35",
+        "Runs": "25",
+        "Average": "0.81",
+        "Strike-Rate": "9.43",
+        "Opposition": "Warriors",
+        "Date": "2017/04/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "36",
+        "Runs": "26",
+        "Average": "0.81",
+        "Strike-Rate": "9.32",
+        "Opposition": "Warriors",
+        "Date": "2018/02/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "37",
+        "Runs": "26",
+        "Average": "0.79",
+        "Strike-Rate": "9.25",
+        "Opposition": "Warriors",
+        "Date": "2018/02/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "38",
+        "Runs": "26",
+        "Average": "0.76",
+        "Strike-Rate": "9.25",
+        "Opposition": "Dragons",
+        "Date": "2018/04/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "39",
+        "Runs": "27",
+        "Average": "0.77",
+        "Strike-Rate": "9.06",
+        "Opposition": "Western Province",
+        "Date": "2018/04/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "40",
+        "Runs": "27",
+        "Average": "0.75",
+        "Strike-Rate": "9.06",
+        "Opposition": "Eastern Storm",
+        "Date": "2018/04/07",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00",
+        "Opposition": "Lions",
+        "Date": "2015/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.50",
+        "Opposition": "Dragons",
+        "Date": "2015/04/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00",
+        "Opposition": "Lions",
+        "Date": "2015/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.75",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.44",
+        "Opposition": "Titans",
+        "Date": "2016/01/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.36",
+        "Opposition": "Knights",
+        "Date": "2016/01/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "11.00",
+        "Economy": "11.00",
+        "Opposition": "Lions",
+        "Date": "2015/03/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "17.00",
+        "Economy": "8.50",
+        "Opposition": "Titans",
+        "Date": "2016/01/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "8.33",
+        "Opposition": "Knights",
+        "Date": "2016/01/31",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "12.00",
+        "Opposition": "Lions",
+        "Date": "2015/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "11.50",
+        "Opposition": "Lions",
+        "Date": "2015/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "30.00",
+        "Economy": "10.00",
+        "Opposition": "Dragons",
+        "Date": "2015/04/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "35.00",
+        "Economy": "8.75",
+        "Opposition": "Lions",
+        "Date": "2015/04/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "1",
+        "Average": "42.00",
+        "Economy": "8.40",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "49.00",
+        "Economy": "8.91",
+        "Opposition": "Titans",
+        "Date": "2016/01/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "1",
+        "Average": "55.00",
+        "Economy": "8.46",
+        "Opposition": "Titans",
+        "Date": "2016/01/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "1",
+        "Average": "63.00",
+        "Economy": "8.40",
+        "Opposition": "Knights",
+        "Date": "2016/01/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "1",
+        "Average": "71.00",
+        "Economy": "8.35",
+        "Opposition": "Knights",
+        "Date": "2016/01/31",
+        "Format": "OVERALL"
       }
     ]
   }

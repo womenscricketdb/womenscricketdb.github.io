@@ -145,7 +145,7 @@
         "Not Out": "0",
         "Runs": "12",
         "Highest Score": "8",
-        "Average": "2.40",
+        "Average": "6.00",
         "Strike-Rate": "57.14",
         "100s": "0",
         "50s": "0",
@@ -162,7 +162,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "2.00",
+        "Average": "4.00",
         "Strike-Rate": "22.22",
         "100s": "0",
         "50s": "0",
@@ -379,6 +379,210 @@
         "Bowling": "0/34",
         "Fielding": "",
         "Match_Slug": "2005-10-22-lions-dragons"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2005/10/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Heat",
+        "Date": "2006/03/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "50.00",
+        "Opposition": "Western Province",
+        "Date": "2006/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Titans",
+        "Date": "2006/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "12",
+        "Average": "2.40",
+        "Strike-Rate": "57.14",
+        "Opposition": "Western Province",
+        "Date": "2006/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "12",
+        "Average": "2.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Western Province",
+        "Date": "2006/10/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "16",
+        "Average": "2.29",
+        "Strike-Rate": "41.03",
+        "Opposition": "Warriors",
+        "Date": "2006/10/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Lions",
+        "Date": "2005/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Heat",
+        "Date": "2006/03/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "50.00",
+        "Opposition": "Western Province",
+        "Date": "2006/03/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "50.00",
+        "Opposition": "Titans",
+        "Date": "2006/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "12",
+        "Average": "2.40",
+        "Strike-Rate": "57.14",
+        "Opposition": "Western Province",
+        "Date": "2006/04/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "12",
+        "Average": "2.00",
+        "Strike-Rate": "57.14",
+        "Opposition": "Western Province",
+        "Date": "2006/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "16",
+        "Average": "2.29",
+        "Strike-Rate": "41.03",
+        "Opposition": "Warriors",
+        "Date": "2006/10/22",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.25",
+        "Opposition": "Lions",
+        "Date": "2005/10/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "22.00",
+        "Economy": "4.00",
+        "Opposition": "Western Province",
+        "Date": "2006/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "20.00",
+        "Economy": "3.33",
+        "Opposition": "Titans",
+        "Date": "2006/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "21.50",
+        "Economy": "3.44",
+        "Opposition": "Western Province",
+        "Date": "2006/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.25",
+        "Opposition": "Lions",
+        "Date": "2005/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "22.00",
+        "Economy": "4.00",
+        "Opposition": "Western Province",
+        "Date": "2006/03/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "20.00",
+        "Economy": "3.33",
+        "Opposition": "Titans",
+        "Date": "2006/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "21.50",
+        "Economy": "3.44",
+        "Opposition": "Western Province",
+        "Date": "2006/04/08",
+        "Format": "OVERALL"
       }
     ]
   }

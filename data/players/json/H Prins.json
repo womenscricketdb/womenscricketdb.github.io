@@ -118,7 +118,7 @@
         "Not Out": "0",
         "Runs": "13",
         "Highest Score": "8",
-        "Average": "3.25",
+        "Average": "4.33",
         "Strike-Rate": "26.00",
         "100s": "0",
         "50s": "0",
@@ -229,5 +229,82 @@
         "Match_Slug": "2008-03-26-dragons-badgers"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "17.65",
+        "Opposition": "Dragons",
+        "Date": "2008/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "26.83",
+        "Opposition": "Heat",
+        "Date": "2008/03/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "13",
+        "Average": "4.33",
+        "Strike-Rate": "26.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2008/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "13",
+        "Average": "3.25",
+        "Strike-Rate": "26.00",
+        "Opposition": "Rhinos",
+        "Date": "2008/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "17.65",
+        "Opposition": "Dragons",
+        "Date": "2008/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "26.83",
+        "Opposition": "Heat",
+        "Date": "2008/03/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "13",
+        "Average": "4.33",
+        "Strike-Rate": "26.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2008/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "13",
+        "Average": "3.25",
+        "Strike-Rate": "26.00",
+        "Opposition": "Rhinos",
+        "Date": "2008/03/29",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

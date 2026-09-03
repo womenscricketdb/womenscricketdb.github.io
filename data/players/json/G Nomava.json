@@ -138,7 +138,7 @@
         "Not Out": "0",
         "Runs": "3",
         "Highest Score": "3",
-        "Average": "1.50",
+        "Average": "3.00",
         "Strike-Rate": "33.33",
         "100s": "0",
         "50s": "0",
@@ -266,5 +266,100 @@
         "Match_Slug": "2009-01-31-iinyathi-warriors"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2009/01/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2009/02/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "30.00",
+        "Opposition": "Boland",
+        "Date": "2010/01/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "30.00",
+        "Opposition": "Badgers",
+        "Date": "2010/02/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "11.11",
+        "Opposition": "Iinyathi",
+        "Date": "2010/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2009/01/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2009/02/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "30.00",
+        "Opposition": "Boland",
+        "Date": "2010/01/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "30.00",
+        "Opposition": "Badgers",
+        "Date": "2010/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "11.11",
+        "Opposition": "Iinyathi",
+        "Date": "2010/10/09",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": []
   }
 }

@@ -211,5 +211,83 @@
         "Match_Slug": "2006-11-05-lions-dolphins"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "25",
+        "Average": "-",
+        "Strike-Rate": "92.59",
+        "Opposition": "Dolphins",
+        "Date": "2006/11/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "27",
+        "Average": "27.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Titans",
+        "Date": "2007/02/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "25",
+        "Average": "-",
+        "Strike-Rate": "92.59",
+        "Opposition": "Dolphins",
+        "Date": "2006/11/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "27",
+        "Average": "27.00",
+        "Strike-Rate": "75.00",
+        "Opposition": "Titans",
+        "Date": "2007/02/04",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.86",
+        "Opposition": "Dolphins",
+        "Date": "2006/11/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "15.33",
+        "Economy": "2.71",
+        "Opposition": "Titans",
+        "Date": "2007/02/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.86",
+        "Opposition": "Dolphins",
+        "Date": "2006/11/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "15.33",
+        "Economy": "2.71",
+        "Opposition": "Titans",
+        "Date": "2007/02/04",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

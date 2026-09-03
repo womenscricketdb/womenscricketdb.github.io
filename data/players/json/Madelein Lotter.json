@@ -110,7 +110,7 @@
         "Not Out": "1",
         "Runs": "26",
         "Highest Score": "20*",
-        "Average": "8.67",
+        "Average": "13.00",
         "Strike-Rate": "52.00",
         "100s": "0",
         "50s": "0",
@@ -238,6 +238,102 @@
         "Bowling": "0/12",
         "Fielding": "",
         "Match_Slug": "2005-11-06-western-province-boland"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "20",
+        "Average": "-",
+        "Strike-Rate": "60.61",
+        "Opposition": "Western Province",
+        "Date": "2005/11/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "20",
+        "Average": "20.00",
+        "Strike-Rate": "60.61",
+        "Opposition": "Badgers",
+        "Date": "2005/11/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "20",
+        "Average": "10.00",
+        "Strike-Rate": "55.56",
+        "Opposition": "Knights",
+        "Date": "2006/01/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "26",
+        "Average": "8.67",
+        "Strike-Rate": "52.00",
+        "Opposition": "Badgers",
+        "Date": "2006/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "20",
+        "Average": "-",
+        "Strike-Rate": "60.61",
+        "Opposition": "Western Province",
+        "Date": "2005/11/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "20",
+        "Average": "20.00",
+        "Strike-Rate": "60.61",
+        "Opposition": "Badgers",
+        "Date": "2005/11/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "20",
+        "Average": "10.00",
+        "Strike-Rate": "55.56",
+        "Opposition": "Knights",
+        "Date": "2006/01/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "26",
+        "Average": "8.67",
+        "Strike-Rate": "52.00",
+        "Opposition": "Badgers",
+        "Date": "2006/01/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00",
+        "Opposition": "Western Province",
+        "Date": "2005/11/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00",
+        "Opposition": "Western Province",
+        "Date": "2005/11/06",
+        "Format": "OVERALL"
       }
     ]
   }

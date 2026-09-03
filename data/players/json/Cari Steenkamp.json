@@ -257,5 +257,65 @@
         "Match_Slug": "2022-10-02-boland-kei"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "54.55",
+        "Opposition": "Kei",
+        "Date": "2022/10/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "63.64",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "6",
+        "Average": "6.00",
+        "Strike-Rate": "54.55",
+        "Opposition": "Kei",
+        "Date": "2022/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "59.09",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "7.00",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "7.00",
+        "Economy": "7.00",
+        "Opposition": "Kei",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

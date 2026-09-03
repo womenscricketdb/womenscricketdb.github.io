@@ -308,7 +308,7 @@
         "Not Out": "2",
         "Runs": "15",
         "Highest Score": "10",
-        "Average": "3.75",
+        "Average": "7.50",
         "Strike-Rate": "30.61",
         "100s": "0",
         "50s": "0",
@@ -325,7 +325,7 @@
         "Not Out": "2",
         "Runs": "5",
         "Highest Score": "4*",
-        "Average": "1.67",
+        "Average": "",
         "Strike-Rate": "100.00",
         "100s": "0",
         "50s": "0",
@@ -869,6 +869,714 @@
         "Bowling": "0/6",
         "Fielding": "",
         "Match_Slug": "2022-01-23-dragons-dolphins"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dolphins",
+        "Date": "2022/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/02/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2022/02/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2022/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2022/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "16.67",
+        "Opposition": "Dolphins",
+        "Date": "2022/09/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "11",
+        "Average": "2.20",
+        "Strike-Rate": "42.31",
+        "Opposition": "Western Province",
+        "Date": "2022/10/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "13",
+        "Average": "2.60",
+        "Strike-Rate": "30.23",
+        "Opposition": "Badgers",
+        "Date": "2022/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "13",
+        "Average": "2.17",
+        "Strike-Rate": "30.23",
+        "Opposition": "Badgers",
+        "Date": "2022/11/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "15",
+        "Average": "2.14",
+        "Strike-Rate": "28.85",
+        "Opposition": "Lions",
+        "Date": "2022/11/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Runs": "15",
+        "Average": "1.88",
+        "Strike-Rate": "28.85",
+        "Opposition": "Western Province",
+        "Date": "2022/12/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dolphins",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/02/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2022/02/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Western Province",
+        "Date": "2022/02/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2022/03/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2022/09/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "4",
+        "Average": "0.67",
+        "Strike-Rate": "80.00",
+        "Opposition": "Western Province",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Runs": "5",
+        "Average": "0.83",
+        "Strike-Rate": "83.33",
+        "Opposition": "Dolphins",
+        "Date": "2022/10/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Runs": "5",
+        "Average": "0.71",
+        "Strike-Rate": "83.33",
+        "Opposition": "Badgers",
+        "Date": "2022/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Runs": "5",
+        "Average": "0.62",
+        "Strike-Rate": "83.33",
+        "Opposition": "Western Province",
+        "Date": "2022/12/04",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dolphins",
+        "Date": "2022/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dolphins",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/02/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2022/02/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2022/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2022/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Western Province",
+        "Date": "2022/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2022/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Lions",
+        "Date": "2022/03/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "1",
+        "Average": "0.11",
+        "Strike-Rate": "14.29",
+        "Opposition": "Dolphins",
+        "Date": "2022/09/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "1",
+        "Average": "0.10",
+        "Strike-Rate": "14.29",
+        "Opposition": "Dolphins",
+        "Date": "2022/09/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "11",
+        "Average": "1.00",
+        "Strike-Rate": "40.74",
+        "Opposition": "Western Province",
+        "Date": "2022/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "15",
+        "Average": "1.36",
+        "Strike-Rate": "48.39",
+        "Opposition": "Western Province",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "16",
+        "Average": "1.45",
+        "Strike-Rate": "50.00",
+        "Opposition": "Dolphins",
+        "Date": "2022/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "18",
+        "Average": "1.64",
+        "Strike-Rate": "36.73",
+        "Opposition": "Badgers",
+        "Date": "2022/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "18",
+        "Average": "1.50",
+        "Strike-Rate": "36.73",
+        "Opposition": "Badgers",
+        "Date": "2022/10/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "18",
+        "Average": "1.38",
+        "Strike-Rate": "36.73",
+        "Opposition": "Badgers",
+        "Date": "2022/11/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "20",
+        "Average": "1.43",
+        "Strike-Rate": "34.48",
+        "Opposition": "Lions",
+        "Date": "2022/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "20",
+        "Average": "1.33",
+        "Strike-Rate": "34.48",
+        "Opposition": "Western Province",
+        "Date": "2022/12/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "20",
+        "Average": "1.25",
+        "Strike-Rate": "34.48",
+        "Opposition": "Western Province",
+        "Date": "2022/12/04",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "6.67",
+        "Economy": "3.33",
+        "Opposition": "Dolphins",
+        "Date": "2022/01/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "5",
+        "Average": "8.20",
+        "Economy": "4.56",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/02/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "13.40",
+        "Economy": "4.19",
+        "Opposition": "Titans",
+        "Date": "2022/02/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "15.20",
+        "Economy": "4.22",
+        "Opposition": "Western Province",
+        "Date": "2022/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "7",
+        "Average": "15.43",
+        "Economy": "4.50",
+        "Opposition": "Lions",
+        "Date": "2022/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "8",
+        "Average": "15.00",
+        "Economy": "4.44",
+        "Opposition": "Dolphins",
+        "Date": "2022/09/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "9",
+        "Average": "15.67",
+        "Economy": "4.41",
+        "Opposition": "Western Province",
+        "Date": "2022/10/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "9",
+        "Average": "17.56",
+        "Economy": "4.79",
+        "Opposition": "Badgers",
+        "Date": "2022/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "9",
+        "Average": "18.44",
+        "Economy": "4.88",
+        "Opposition": "Lions",
+        "Date": "2022/11/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "9",
+        "Average": "19.67",
+        "Economy": "4.78",
+        "Opposition": "Western Province",
+        "Date": "2022/12/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00",
+        "Opposition": "Dolphins",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "2.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/02/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "34.00",
+        "Economy": "3.78",
+        "Opposition": "Titans",
+        "Date": "2022/02/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "28.00",
+        "Economy": "4.67",
+        "Opposition": "Western Province",
+        "Date": "2022/02/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "3",
+        "Average": "23.00",
+        "Economy": "5.31",
+        "Opposition": "Lions",
+        "Date": "2022/03/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "4",
+        "Average": "20.25",
+        "Economy": "5.40",
+        "Opposition": "Dolphins",
+        "Date": "2022/09/25",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "4",
+        "Average": "24.25",
+        "Economy": "5.71",
+        "Opposition": "Western Province",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "4",
+        "Average": "28.25",
+        "Economy": "5.95",
+        "Opposition": "Western Province",
+        "Date": "2022/12/04",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "6.67",
+        "Economy": "3.33",
+        "Opposition": "Dolphins",
+        "Date": "2022/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "8.67",
+        "Economy": "3.25",
+        "Opposition": "Dolphins",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "9.40",
+        "Economy": "4.27",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "6",
+        "Average": "9.17",
+        "Economy": "3.67",
+        "Opposition": "Eastern Storm",
+        "Date": "2022/02/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "6",
+        "Average": "13.50",
+        "Economy": "3.68",
+        "Opposition": "Titans",
+        "Date": "2022/02/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "6",
+        "Average": "16.83",
+        "Economy": "4.04",
+        "Opposition": "Titans",
+        "Date": "2022/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "6",
+        "Average": "18.33",
+        "Economy": "4.07",
+        "Opposition": "Western Province",
+        "Date": "2022/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "7",
+        "Average": "18.86",
+        "Economy": "4.40",
+        "Opposition": "Western Province",
+        "Date": "2022/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "9",
+        "Average": "18.22",
+        "Economy": "4.56",
+        "Opposition": "Lions",
+        "Date": "2022/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "10",
+        "Average": "17.70",
+        "Economy": "4.78",
+        "Opposition": "Lions",
+        "Date": "2022/03/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "11",
+        "Average": "17.18",
+        "Economy": "4.72",
+        "Opposition": "Dolphins",
+        "Date": "2022/09/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "12",
+        "Average": "16.75",
+        "Economy": "4.79",
+        "Opposition": "Dolphins",
+        "Date": "2022/09/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "13",
+        "Average": "17.08",
+        "Economy": "4.72",
+        "Opposition": "Western Province",
+        "Date": "2022/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "13",
+        "Average": "18.31",
+        "Economy": "4.86",
+        "Opposition": "Western Province",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "13",
+        "Average": "19.62",
+        "Economy": "5.10",
+        "Opposition": "Badgers",
+        "Date": "2022/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Wickets": "13",
+        "Average": "20.23",
+        "Economy": "5.16",
+        "Opposition": "Lions",
+        "Date": "2022/11/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Wickets": "13",
+        "Average": "21.08",
+        "Economy": "5.07",
+        "Opposition": "Western Province",
+        "Date": "2022/12/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Wickets": "13",
+        "Average": "22.31",
+        "Economy": "5.18",
+        "Opposition": "Western Province",
+        "Date": "2022/12/04",
+        "Format": "OVERALL"
       }
     ]
   },

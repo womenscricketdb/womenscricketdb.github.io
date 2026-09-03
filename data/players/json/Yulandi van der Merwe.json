@@ -110,7 +110,7 @@
         "Not Out": "1",
         "Runs": "5",
         "Highest Score": "3",
-        "Average": "1.67",
+        "Average": "5.00",
         "Strike-Rate": "125.00",
         "100s": "0",
         "50s": "0",
@@ -279,6 +279,138 @@
         "Bowling": "1/15",
         "Fielding": "",
         "Match_Slug": "2005-10-02-dragons-titans"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "150.00",
+        "Opposition": "Dragons",
+        "Date": "2005/10/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "125.00",
+        "Opposition": "Rhinos",
+        "Date": "2005/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "125.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/10/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "125.00",
+        "Opposition": "Dragons",
+        "Date": "2006/01/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "150.00",
+        "Opposition": "Dragons",
+        "Date": "2005/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "125.00",
+        "Opposition": "Rhinos",
+        "Date": "2005/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "125.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "125.00",
+        "Opposition": "Dragons",
+        "Date": "2006/01/15",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "1.67",
+        "Opposition": "Dragons",
+        "Date": "2005/10/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "1.79",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/10/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "17.50",
+        "Economy": "1.84",
+        "Opposition": "Dragons",
+        "Date": "2006/01/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "15.00",
+        "Economy": "1.67",
+        "Opposition": "Dragons",
+        "Date": "2005/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "25.00",
+        "Economy": "1.79",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2005/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "17.50",
+        "Economy": "1.84",
+        "Opposition": "Dragons",
+        "Date": "2006/01/15",
+        "Format": "OVERALL"
       }
     ]
   }

@@ -283,5 +283,83 @@
         "Match_Slug": "2018-12-02-western-province-lions"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Lions",
+        "Date": "2018/12/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Lions",
+        "Date": "2018/12/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Lions",
+        "Date": "2018/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "21",
+        "Average": "10.50",
+        "Strike-Rate": "32.31",
+        "Opposition": "Lions",
+        "Date": "2018/12/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "1.80",
+        "Opposition": "Lions",
+        "Date": "2018/12/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.25",
+        "Opposition": "Lions",
+        "Date": "2018/12/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "1.80",
+        "Opposition": "Lions",
+        "Date": "2018/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "31.00",
+        "Economy": "2.21",
+        "Opposition": "Lions",
+        "Date": "2018/12/02",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

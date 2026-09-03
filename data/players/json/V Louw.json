@@ -137,7 +137,7 @@
         "Not Out": "1",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.14",
+        "Average": "0.33",
         "Strike-Rate": "4.76",
         "100s": "0",
         "50s": "0",
@@ -403,6 +403,282 @@
         "Bowling": "–",
         "Fielding": "1 ct",
         "Match_Slug": "2005-11-19-heat-boland"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2005/11/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "20.00",
+        "Opposition": "Knights",
+        "Date": "2005/11/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "16.67",
+        "Opposition": "Iinyathi",
+        "Date": "2005/12/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "14.29",
+        "Opposition": "Warriors",
+        "Date": "2005/12/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2006/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "4.76",
+        "Opposition": "Iinyathi",
+        "Date": "2006/02/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "1",
+        "Average": "0.17",
+        "Strike-Rate": "4.76",
+        "Opposition": "Heat",
+        "Date": "2006/03/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "1",
+        "Average": "0.14",
+        "Strike-Rate": "4.76",
+        "Opposition": "Titans",
+        "Date": "2006/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "1",
+        "Average": "0.12",
+        "Strike-Rate": "4.76",
+        "Opposition": "Badgers",
+        "Date": "2006/11/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "1",
+        "Average": "0.11",
+        "Strike-Rate": "4.76",
+        "Opposition": "Heat",
+        "Date": "2007/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2005/11/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "20.00",
+        "Opposition": "Knights",
+        "Date": "2005/11/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "16.67",
+        "Opposition": "Iinyathi",
+        "Date": "2005/12/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.25",
+        "Strike-Rate": "14.29",
+        "Opposition": "Warriors",
+        "Date": "2005/12/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "14.29",
+        "Opposition": "Badgers",
+        "Date": "2006/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "1",
+        "Average": "0.20",
+        "Strike-Rate": "4.76",
+        "Opposition": "Iinyathi",
+        "Date": "2006/02/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "1",
+        "Average": "0.17",
+        "Strike-Rate": "4.76",
+        "Opposition": "Heat",
+        "Date": "2006/03/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "1",
+        "Average": "0.14",
+        "Strike-Rate": "4.76",
+        "Opposition": "Titans",
+        "Date": "2006/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "1",
+        "Average": "0.12",
+        "Strike-Rate": "4.76",
+        "Opposition": "Badgers",
+        "Date": "2006/11/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "1",
+        "Average": "0.11",
+        "Strike-Rate": "4.76",
+        "Opposition": "Heat",
+        "Date": "2007/01/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "6.00",
+        "Opposition": "Iinyathi",
+        "Date": "2005/12/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "31.00",
+        "Economy": "6.20",
+        "Opposition": "Heat",
+        "Date": "2006/03/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "48.00",
+        "Economy": "4.80",
+        "Opposition": "Titans",
+        "Date": "2006/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "18.75",
+        "Economy": "4.17",
+        "Opposition": "Badgers",
+        "Date": "2006/11/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "4",
+        "Average": "22.00",
+        "Economy": "4.19",
+        "Opposition": "Heat",
+        "Date": "2007/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "6.00",
+        "Opposition": "Iinyathi",
+        "Date": "2005/12/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "31.00",
+        "Economy": "6.20",
+        "Opposition": "Heat",
+        "Date": "2006/03/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "48.00",
+        "Economy": "4.80",
+        "Opposition": "Titans",
+        "Date": "2006/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "4",
+        "Average": "18.75",
+        "Economy": "4.17",
+        "Opposition": "Badgers",
+        "Date": "2006/11/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "4",
+        "Average": "22.00",
+        "Economy": "4.19",
+        "Opposition": "Heat",
+        "Date": "2007/01/14",
+        "Format": "OVERALL"
       }
     ]
   }

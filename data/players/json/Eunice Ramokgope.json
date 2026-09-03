@@ -242,5 +242,65 @@
         "Match_Slug": "2017-03-12-rhinos-limpopo-lillies"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Rhinos",
+        "Date": "2017/03/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Rhinos",
+        "Date": "2017/03/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Rhinos",
+        "Date": "2017/03/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Rhinos",
+        "Date": "2017/03/12",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "4.25",
+        "Economy": "4.25",
+        "Opposition": "Rhinos",
+        "Date": "2017/03/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "4",
+        "Average": "4.25",
+        "Economy": "4.25",
+        "Opposition": "Rhinos",
+        "Date": "2017/03/12",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

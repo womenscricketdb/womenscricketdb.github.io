@@ -204,5 +204,65 @@
         "Match_Slug": "2022-01-23-knights-limpopo-lillies"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/01/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Kei",
+        "Date": "2022/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2022/01/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Kei",
+        "Date": "2022/10/30",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.50",
+        "Economy": "3.50",
+        "Opposition": "Kei",
+        "Date": "2022/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "3.50",
+        "Economy": "3.50",
+        "Opposition": "Kei",
+        "Date": "2022/10/30",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

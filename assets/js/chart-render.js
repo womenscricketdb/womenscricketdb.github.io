@@ -259,7 +259,12 @@ const WCA_CHART = (() => {
                     plugins: {
                         legend: { display: false },
                         tooltip: {
-                            callbacks: { title: items => `Season ${items[0].label}` },
+                            // Generic against whatever xKey this chart was
+                            // given - "Season 15/16" here, "Innings 52" on
+                            // the Career Prog chart, rather than a Season
+                            // label hardcoded onto every chart regardless
+                            // of what's actually being plotted.
+                            callbacks: { title: items => `${WCA.friendlyLabel(xKey)} ${items[0].label}` },
                         },
                     },
                     scales: {

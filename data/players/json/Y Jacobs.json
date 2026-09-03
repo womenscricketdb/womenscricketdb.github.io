@@ -64,7 +64,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "2.00",
+        "Average": "4.00",
         "Strike-Rate": "-",
         "100s": "0",
         "50s": "0",
@@ -193,6 +193,84 @@
         "Bowling": "2/5",
         "Fielding": "",
         "Match_Slug": "2013-01-26-lions-rhinos"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/02/24",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "2.50",
+        "Economy": "1.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "5.50",
+        "Economy": "2.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "2.50",
+        "Economy": "1.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "5.50",
+        "Economy": "2.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/02/24",
+        "Format": "OVERALL"
       }
     ]
   }

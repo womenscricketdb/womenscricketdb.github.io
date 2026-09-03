@@ -426,7 +426,7 @@
         "Not Out": "1",
         "Runs": "2",
         "Highest Score": "2",
-        "Average": "0.67",
+        "Average": "2.00",
         "Strike-Rate": "15.38",
         "100s": "0",
         "50s": "0",
@@ -528,7 +528,7 @@
         "Not Out": "0",
         "Runs": "6",
         "Highest Score": "6",
-        "Average": "3.00",
+        "Average": "6.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -545,7 +545,7 @@
         "Not Out": "0",
         "Runs": "170",
         "Highest Score": "79",
-        "Average": "21.25",
+        "Average": "24.29",
         "Strike-Rate": "70.83",
         "100s": "0",
         "50s": "2",
@@ -562,7 +562,7 @@
         "Not Out": "1",
         "Runs": "17",
         "Highest Score": "17",
-        "Average": "5.67",
+        "Average": "17.00",
         "Strike-Rate": "73.91",
         "100s": "0",
         "50s": "0",
@@ -1320,6 +1320,948 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2018-10-28-dragons-western-province"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2018/10/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "15.38",
+        "Opposition": "Titans",
+        "Date": "2018/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "15.38",
+        "Opposition": "Lions",
+        "Date": "2018/12/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "15.38",
+        "Opposition": "Boland",
+        "Date": "2019/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "20.00",
+        "Opposition": "Titans",
+        "Date": "2021/03/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "8",
+        "Average": "2.00",
+        "Strike-Rate": "36.36",
+        "Opposition": "Lions",
+        "Date": "2021/03/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "33.33",
+        "Opposition": "Titans",
+        "Date": "2021/10/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "9",
+        "Average": "2.25",
+        "Strike-Rate": "33.33",
+        "Opposition": "Lions",
+        "Date": "2021/10/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "9",
+        "Average": "1.80",
+        "Strike-Rate": "33.33",
+        "Opposition": "Titans",
+        "Date": "2022/09/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "9",
+        "Average": "1.50",
+        "Strike-Rate": "30.00",
+        "Opposition": "Dragons",
+        "Date": "2022/10/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Runs": "11",
+        "Average": "1.83",
+        "Strike-Rate": "26.83",
+        "Opposition": "Titans",
+        "Date": "2024/04/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Runs": "23",
+        "Average": "3.83",
+        "Strike-Rate": "35.38",
+        "Opposition": "Warriors",
+        "Date": "2025/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "13",
+        "Runs": "32",
+        "Average": "4.57",
+        "Strike-Rate": "39.51",
+        "Opposition": "Dragons",
+        "Date": "2025/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "14",
+        "Runs": "38",
+        "Average": "4.75",
+        "Strike-Rate": "38.38",
+        "Opposition": "Eastern Storm",
+        "Date": "2025/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "15",
+        "Runs": "96",
+        "Average": "12.00",
+        "Strike-Rate": "53.93",
+        "Opposition": "Tuskers",
+        "Date": "2025/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "16",
+        "Runs": "119",
+        "Average": "13.22",
+        "Strike-Rate": "57.49",
+        "Opposition": "Rhinos",
+        "Date": "2025/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "17",
+        "Runs": "119",
+        "Average": "11.90",
+        "Strike-Rate": "55.09",
+        "Opposition": "Iinyathi",
+        "Date": "2025/11/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "18",
+        "Runs": "169",
+        "Average": "15.36",
+        "Strike-Rate": "59.93",
+        "Opposition": "Kei",
+        "Date": "2025/11/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "19",
+        "Runs": "169",
+        "Average": "14.08",
+        "Strike-Rate": "59.72",
+        "Opposition": "Warriors",
+        "Date": "2026/02/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "20",
+        "Runs": "181",
+        "Average": "13.92",
+        "Strike-Rate": "59.74",
+        "Opposition": "Heat",
+        "Date": "2026/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "21",
+        "Runs": "260",
+        "Average": "18.57",
+        "Strike-Rate": "64.68",
+        "Opposition": "Tuskers",
+        "Date": "2026/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "22",
+        "Runs": "285",
+        "Average": "19.00",
+        "Strike-Rate": "65.82",
+        "Opposition": "Knights",
+        "Date": "2026/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "23",
+        "Runs": "289",
+        "Average": "18.06",
+        "Strike-Rate": "64.65",
+        "Opposition": "Eastern Storm",
+        "Date": "2026/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "24",
+        "Runs": "289",
+        "Average": "17.00",
+        "Strike-Rate": "64.65",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2018/10/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2018/11/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Lions",
+        "Date": "2018/12/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dolphins",
+        "Date": "2022/02/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Iinyathi",
+        "Date": "2024/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "6",
+        "Average": "0.86",
+        "Strike-Rate": "50.00",
+        "Opposition": "Warriors",
+        "Date": "2025/03/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Runs": "23",
+        "Average": "2.88",
+        "Strike-Rate": "69.70",
+        "Opposition": "Iinyathi",
+        "Date": "2025/10/31",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Runs": "23",
+        "Average": "2.56",
+        "Strike-Rate": "69.70",
+        "Opposition": "Kei",
+        "Date": "2025/11/16",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Runs": "23",
+        "Average": "2.56",
+        "Strike-Rate": "65.71",
+        "Opposition": "Warriors",
+        "Date": "2026/02/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "11",
+        "Runs": "23",
+        "Average": "2.30",
+        "Strike-Rate": "65.71",
+        "Opposition": "Heat",
+        "Date": "2026/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2018/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2018/10/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "15.38",
+        "Opposition": "Titans",
+        "Date": "2018/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "2",
+        "Average": "0.67",
+        "Strike-Rate": "15.38",
+        "Opposition": "Titans",
+        "Date": "2018/11/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.50",
+        "Strike-Rate": "15.38",
+        "Opposition": "Lions",
+        "Date": "2018/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "15.38",
+        "Opposition": "Lions",
+        "Date": "2018/12/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "2",
+        "Average": "0.33",
+        "Strike-Rate": "15.38",
+        "Opposition": "Boland",
+        "Date": "2019/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "3",
+        "Average": "0.43",
+        "Strike-Rate": "20.00",
+        "Opposition": "Titans",
+        "Date": "2021/03/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "8",
+        "Average": "1.14",
+        "Strike-Rate": "36.36",
+        "Opposition": "Lions",
+        "Date": "2021/03/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "9",
+        "Average": "1.29",
+        "Strike-Rate": "33.33",
+        "Opposition": "Titans",
+        "Date": "2021/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "9",
+        "Average": "1.29",
+        "Strike-Rate": "33.33",
+        "Opposition": "Lions",
+        "Date": "2021/10/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "9",
+        "Average": "1.12",
+        "Strike-Rate": "33.33",
+        "Opposition": "Dolphins",
+        "Date": "2022/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "9",
+        "Average": "1.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Titans",
+        "Date": "2022/09/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "9",
+        "Average": "0.90",
+        "Strike-Rate": "30.00",
+        "Opposition": "Dragons",
+        "Date": "2022/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "9",
+        "Average": "0.82",
+        "Strike-Rate": "30.00",
+        "Opposition": "Dragons",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "11",
+        "Average": "1.00",
+        "Strike-Rate": "26.83",
+        "Opposition": "Titans",
+        "Date": "2024/04/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "11",
+        "Average": "0.92",
+        "Strike-Rate": "26.83",
+        "Opposition": "Iinyathi",
+        "Date": "2024/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "23",
+        "Average": "1.92",
+        "Strike-Rate": "35.38",
+        "Opposition": "Warriors",
+        "Date": "2025/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "29",
+        "Average": "2.23",
+        "Strike-Rate": "37.66",
+        "Opposition": "Warriors",
+        "Date": "2025/03/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "38",
+        "Average": "2.71",
+        "Strike-Rate": "40.86",
+        "Opposition": "Dragons",
+        "Date": "2025/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "44",
+        "Average": "2.93",
+        "Strike-Rate": "39.64",
+        "Opposition": "Eastern Storm",
+        "Date": "2025/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "22",
+        "Runs": "102",
+        "Average": "6.80",
+        "Strike-Rate": "53.68",
+        "Opposition": "Tuskers",
+        "Date": "2025/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "23",
+        "Runs": "125",
+        "Average": "7.81",
+        "Strike-Rate": "57.08",
+        "Opposition": "Rhinos",
+        "Date": "2025/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "24",
+        "Runs": "142",
+        "Average": "8.35",
+        "Strike-Rate": "59.17",
+        "Opposition": "Iinyathi",
+        "Date": "2025/10/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "25",
+        "Runs": "142",
+        "Average": "7.89",
+        "Strike-Rate": "57.03",
+        "Opposition": "Iinyathi",
+        "Date": "2025/11/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "26",
+        "Runs": "192",
+        "Average": "10.11",
+        "Strike-Rate": "60.95",
+        "Opposition": "Kei",
+        "Date": "2025/11/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "27",
+        "Runs": "192",
+        "Average": "9.60",
+        "Strike-Rate": "60.95",
+        "Opposition": "Kei",
+        "Date": "2025/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "28",
+        "Runs": "192",
+        "Average": "9.14",
+        "Strike-Rate": "60.76",
+        "Opposition": "Warriors",
+        "Date": "2026/02/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "29",
+        "Runs": "192",
+        "Average": "9.14",
+        "Strike-Rate": "60.38",
+        "Opposition": "Warriors",
+        "Date": "2026/02/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "30",
+        "Runs": "204",
+        "Average": "9.27",
+        "Strike-Rate": "60.36",
+        "Opposition": "Heat",
+        "Date": "2026/02/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "31",
+        "Runs": "204",
+        "Average": "8.87",
+        "Strike-Rate": "60.36",
+        "Opposition": "Heat",
+        "Date": "2026/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "32",
+        "Runs": "283",
+        "Average": "11.79",
+        "Strike-Rate": "64.76",
+        "Opposition": "Tuskers",
+        "Date": "2026/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "33",
+        "Runs": "308",
+        "Average": "12.32",
+        "Strike-Rate": "65.81",
+        "Opposition": "Knights",
+        "Date": "2026/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "34",
+        "Runs": "312",
+        "Average": "12.00",
+        "Strike-Rate": "64.73",
+        "Opposition": "Eastern Storm",
+        "Date": "2026/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "35",
+        "Runs": "312",
+        "Average": "11.56",
+        "Strike-Rate": "64.73",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2026/04/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.43",
+        "Opposition": "Dragons",
+        "Date": "2018/10/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33",
+        "Opposition": "Titans",
+        "Date": "2018/11/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "81.00",
+        "Economy": "5.79",
+        "Opposition": "Lions",
+        "Date": "2018/12/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "46.00",
+        "Economy": "4.84",
+        "Opposition": "Boland",
+        "Date": "2019/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "6",
+        "Average": "18.50",
+        "Economy": "4.32",
+        "Opposition": "Titans",
+        "Date": "2021/03/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "7",
+        "Average": "16.86",
+        "Economy": "3.98",
+        "Opposition": "Lions",
+        "Date": "2021/03/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "7",
+        "Average": "20.71",
+        "Economy": "4.18",
+        "Opposition": "Titans",
+        "Date": "2021/10/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "8",
+        "Average": "20.88",
+        "Economy": "4.07",
+        "Opposition": "Lions",
+        "Date": "2021/10/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "8",
+        "Average": "22.62",
+        "Economy": "4.21",
+        "Opposition": "Titans",
+        "Date": "2022/09/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "9",
+        "Average": "21.00",
+        "Economy": "4.11",
+        "Opposition": "Titans",
+        "Date": "2024/04/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "10",
+        "Average": "19.10",
+        "Economy": "4.06",
+        "Opposition": "Rhinos",
+        "Date": "2025/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00",
+        "Opposition": "Titans",
+        "Date": "2018/11/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.40",
+        "Opposition": "Lions",
+        "Date": "2018/12/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Dolphins",
+        "Date": "2022/02/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50",
+        "Opposition": "Dragons",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.44",
+        "Opposition": "Iinyathi",
+        "Date": "2024/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "55.00",
+        "Economy": "5.50",
+        "Opposition": "Warriors",
+        "Date": "2025/03/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.43",
+        "Opposition": "Dragons",
+        "Date": "2018/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.33",
+        "Opposition": "Titans",
+        "Date": "2018/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.25",
+        "Opposition": "Titans",
+        "Date": "2018/11/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "102.00",
+        "Economy": "6.00",
+        "Opposition": "Lions",
+        "Date": "2018/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "1",
+        "Average": "108.00",
+        "Economy": "5.68",
+        "Opposition": "Lions",
+        "Date": "2018/12/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "2",
+        "Average": "59.50",
+        "Economy": "4.96",
+        "Opposition": "Boland",
+        "Date": "2019/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "6",
+        "Average": "23.00",
+        "Economy": "4.50",
+        "Opposition": "Titans",
+        "Date": "2021/03/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "7",
+        "Average": "20.71",
+        "Economy": "4.18",
+        "Opposition": "Lions",
+        "Date": "2021/03/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "7",
+        "Average": "24.57",
+        "Economy": "4.34",
+        "Opposition": "Titans",
+        "Date": "2021/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "8",
+        "Average": "24.25",
+        "Economy": "4.22",
+        "Opposition": "Lions",
+        "Date": "2021/10/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "8",
+        "Average": "25.38",
+        "Economy": "4.32",
+        "Opposition": "Dolphins",
+        "Date": "2022/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "8",
+        "Average": "27.12",
+        "Economy": "4.43",
+        "Opposition": "Titans",
+        "Date": "2022/09/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "8",
+        "Average": "28.12",
+        "Economy": "4.41",
+        "Opposition": "Dragons",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "9",
+        "Average": "25.89",
+        "Economy": "4.31",
+        "Opposition": "Titans",
+        "Date": "2024/04/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "9",
+        "Average": "26.44",
+        "Economy": "4.33",
+        "Opposition": "Iinyathi",
+        "Date": "2024/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Wickets": "10",
+        "Average": "24.40",
+        "Economy": "4.36",
+        "Opposition": "Warriors",
+        "Date": "2025/03/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Wickets": "11",
+        "Average": "22.36",
+        "Economy": "4.32",
+        "Opposition": "Rhinos",
+        "Date": "2025/04/02",
+        "Format": "OVERALL"
       }
     ]
   },

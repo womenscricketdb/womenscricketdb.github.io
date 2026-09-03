@@ -120,7 +120,7 @@
         "Not Out": "0",
         "Runs": "13",
         "Highest Score": "13",
-        "Average": "6.50",
+        "Average": "13.00",
         "Strike-Rate": "59.09",
         "100s": "0",
         "50s": "0",
@@ -269,6 +269,102 @@
         "Bowling": "–",
         "Fielding": "",
         "Match_Slug": "2017-10-22-badgers-warriors"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "59.09",
+        "Opposition": "Badgers",
+        "Date": "2017/10/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "59.09",
+        "Opposition": "Heat",
+        "Date": "2017/11/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Badgers",
+        "Date": "2017/10/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Heat",
+        "Date": "2017/11/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "13",
+        "Average": "13.00",
+        "Strike-Rate": "59.09",
+        "Opposition": "Badgers",
+        "Date": "2017/10/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "13",
+        "Average": "6.50",
+        "Strike-Rate": "59.09",
+        "Opposition": "Badgers",
+        "Date": "2017/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "13",
+        "Average": "4.33",
+        "Strike-Rate": "59.09",
+        "Opposition": "Heat",
+        "Date": "2017/11/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "13",
+        "Average": "3.25",
+        "Strike-Rate": "59.09",
+        "Opposition": "Heat",
+        "Date": "2017/11/26",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "22.00",
+        "Economy": "5.50",
+        "Opposition": "Badgers",
+        "Date": "2017/10/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "22.00",
+        "Economy": "5.50",
+        "Opposition": "Badgers",
+        "Date": "2017/10/21",
+        "Format": "OVERALL"
       }
     ]
   }

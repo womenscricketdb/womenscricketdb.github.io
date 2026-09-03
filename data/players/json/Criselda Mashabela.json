@@ -129,7 +129,7 @@
         "Not Out": "1",
         "Runs": "3",
         "Highest Score": "3",
-        "Average": "0.50",
+        "Average": "3.00",
         "Strike-Rate": "25.00",
         "100s": "0",
         "50s": "0",
@@ -338,6 +338,210 @@
         "Bowling": "1/8",
         "Fielding": "",
         "Match_Slug": "2013-01-13-rhinos-titans"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/02/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "25.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/02/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "25.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/02/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Lions",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Western Province",
+        "Date": "2013/04/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "25.00",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/02/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "25.00",
+        "Opposition": "Rhinos",
+        "Date": "2013/02/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.60",
+        "Strike-Rate": "25.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/02/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Lions",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "3",
+        "Average": "0.50",
+        "Strike-Rate": "25.00",
+        "Opposition": "Western Province",
+        "Date": "2013/04/06",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "8.00",
+        "Economy": "2.67",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "4.33",
+        "Economy": "2.29",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/01/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "8.67",
+        "Economy": "2.69",
+        "Opposition": "Rhinos",
+        "Date": "2013/02/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "16.67",
+        "Economy": "3.66",
+        "Opposition": "Lions",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "8.00",
+        "Economy": "2.67",
+        "Opposition": "Rhinos",
+        "Date": "2013/01/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "4.33",
+        "Economy": "2.29",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/01/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "3",
+        "Average": "8.67",
+        "Economy": "2.69",
+        "Opposition": "Rhinos",
+        "Date": "2013/02/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "3",
+        "Average": "16.67",
+        "Economy": "3.66",
+        "Opposition": "Lions",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
       }
     ]
   }

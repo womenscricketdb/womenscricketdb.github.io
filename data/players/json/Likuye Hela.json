@@ -199,7 +199,7 @@
         "Not Out": "0",
         "Runs": "1",
         "Highest Score": "1",
-        "Average": "0.50",
+        "Average": "1.00",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -216,7 +216,7 @@
         "Not Out": "1",
         "Runs": "3",
         "Highest Score": "3*",
-        "Average": "3.00",
+        "Average": "",
         "Strike-Rate": "150.00",
         "100s": "0",
         "50s": "0",
@@ -660,6 +660,336 @@
         "Bowling": "0/24",
         "Fielding": "",
         "Match_Slug": "2022-02-12-iinyathi-kei"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "150.00",
+        "Opposition": "Boland",
+        "Date": "2022/02/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "150.00",
+        "Opposition": "Kei",
+        "Date": "2022/02/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "150.00",
+        "Opposition": "Warriors",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "3",
+        "Average": "1.00",
+        "Strike-Rate": "150.00",
+        "Opposition": "Boland",
+        "Date": "2024/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "3",
+        "Average": "0.75",
+        "Strike-Rate": "150.00",
+        "Opposition": "Warriors",
+        "Date": "2024/11/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2022/02/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Warriors",
+        "Date": "2022/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "50.00",
+        "Opposition": "Warriors",
+        "Date": "2024/11/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "1",
+        "Average": "0.33",
+        "Strike-Rate": "20.00",
+        "Opposition": "Tuskers",
+        "Date": "2026/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "-",
+        "Strike-Rate": "150.00",
+        "Opposition": "Boland",
+        "Date": "2022/02/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "150.00",
+        "Opposition": "Kei",
+        "Date": "2022/02/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "3",
+        "Average": "1.50",
+        "Strike-Rate": "150.00",
+        "Opposition": "Kei",
+        "Date": "2022/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "100.00",
+        "Opposition": "Warriors",
+        "Date": "2022/03/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "100.00",
+        "Opposition": "Warriors",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "4",
+        "Average": "0.80",
+        "Strike-Rate": "100.00",
+        "Opposition": "Boland",
+        "Date": "2024/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "4",
+        "Average": "0.80",
+        "Strike-Rate": "100.00",
+        "Opposition": "Warriors",
+        "Date": "2024/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "4",
+        "Average": "0.67",
+        "Strike-Rate": "100.00",
+        "Opposition": "Warriors",
+        "Date": "2024/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "4",
+        "Average": "0.57",
+        "Strike-Rate": "57.14",
+        "Opposition": "Tuskers",
+        "Date": "2026/04/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "3.50",
+        "Opposition": "Boland",
+        "Date": "2022/02/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "30.00",
+        "Economy": "3.75",
+        "Opposition": "Kei",
+        "Date": "2022/02/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "54.00",
+        "Economy": "5.40",
+        "Opposition": "Warriors",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "65.00",
+        "Economy": "5.00",
+        "Opposition": "Boland",
+        "Date": "2024/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "2",
+        "Average": "42.50",
+        "Economy": "5.00",
+        "Opposition": "Warriors",
+        "Date": "2024/11/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.00",
+        "Opposition": "Kei",
+        "Date": "2022/02/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.77",
+        "Opposition": "Warriors",
+        "Date": "2022/03/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "93.00",
+        "Economy": "5.17",
+        "Opposition": "Warriors",
+        "Date": "2024/11/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "51.50",
+        "Economy": "5.15",
+        "Opposition": "Tuskers",
+        "Date": "2026/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "3.50",
+        "Opposition": "Boland",
+        "Date": "2022/02/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "38.00",
+        "Economy": "3.17",
+        "Opposition": "Kei",
+        "Date": "2022/02/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "54.00",
+        "Economy": "3.38",
+        "Opposition": "Kei",
+        "Date": "2022/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "92.00",
+        "Economy": "4.38",
+        "Opposition": "Warriors",
+        "Date": "2022/03/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "1",
+        "Average": "116.00",
+        "Economy": "5.04",
+        "Opposition": "Warriors",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "127.00",
+        "Economy": "4.88",
+        "Opposition": "Boland",
+        "Date": "2024/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "2",
+        "Average": "79.00",
+        "Economy": "5.10",
+        "Opposition": "Warriors",
+        "Date": "2024/11/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "3",
+        "Average": "59.33",
+        "Economy": "5.09",
+        "Opposition": "Warriors",
+        "Date": "2024/11/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "4",
+        "Average": "47.00",
+        "Economy": "5.08",
+        "Opposition": "Tuskers",
+        "Date": "2026/04/02",
+        "Format": "OVERALL"
       }
     ]
   }

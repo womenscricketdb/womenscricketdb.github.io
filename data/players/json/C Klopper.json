@@ -290,5 +290,119 @@
         "Match_Slug": "2007-01-28-titans-dragons"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2007/01/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.69",
+        "Opposition": "Lions",
+        "Date": "2007/02/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "10.81",
+        "Opposition": "Dolphins",
+        "Date": "2007/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "12",
+        "Average": "4.00",
+        "Strike-Rate": "14.29",
+        "Opposition": "Knights",
+        "Date": "2007/11/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dragons",
+        "Date": "2007/01/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "7.69",
+        "Opposition": "Lions",
+        "Date": "2007/02/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "10.81",
+        "Opposition": "Dolphins",
+        "Date": "2007/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "12",
+        "Average": "4.00",
+        "Strike-Rate": "14.29",
+        "Opposition": "Knights",
+        "Date": "2007/11/04",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.00",
+        "Opposition": "Dragons",
+        "Date": "2007/01/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "3.50",
+        "Opposition": "Dolphins",
+        "Date": "2007/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "1.00",
+        "Opposition": "Dragons",
+        "Date": "2007/01/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "3.50",
+        "Opposition": "Dolphins",
+        "Date": "2007/02/25",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

@@ -252,5 +252,83 @@
         "Match_Slug": "2020-02-02-warriors-kei"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "65.52",
+        "Opposition": "Kei",
+        "Date": "2020/02/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "26",
+        "Average": "13.00",
+        "Strike-Rate": "37.68",
+        "Opposition": "Iinyathi",
+        "Date": "2020/02/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Kei",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "19",
+        "Average": "19.00",
+        "Strike-Rate": "65.52",
+        "Opposition": "Kei",
+        "Date": "2020/02/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "19",
+        "Average": "9.50",
+        "Strike-Rate": "65.52",
+        "Opposition": "Kei",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "26",
+        "Average": "8.67",
+        "Strike-Rate": "37.68",
+        "Opposition": "Iinyathi",
+        "Date": "2020/02/29",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "0.50",
+        "Economy": "1.00",
+        "Opposition": "Kei",
+        "Date": "2020/02/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "0.50",
+        "Economy": "1.00",
+        "Opposition": "Kei",
+        "Date": "2020/02/02",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

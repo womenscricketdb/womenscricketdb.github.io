@@ -241,5 +241,83 @@
         "Match_Slug": "2019-10-27-dolphins-knights"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Dolphins",
+        "Date": "2019/10/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dolphins",
+        "Date": "2019/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Dolphins",
+        "Date": "2019/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "12",
+        "Average": "6.00",
+        "Strike-Rate": "22.22",
+        "Opposition": "Dolphins",
+        "Date": "2019/10/27",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00",
+        "Opposition": "Dolphins",
+        "Date": "2019/10/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.67",
+        "Opposition": "Dolphins",
+        "Date": "2019/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00",
+        "Opposition": "Dolphins",
+        "Date": "2019/10/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.60",
+        "Opposition": "Dolphins",
+        "Date": "2019/10/27",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

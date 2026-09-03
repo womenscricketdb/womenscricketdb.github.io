@@ -538,7 +538,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "0.00",
         "100s": "0",
         "50s": "0",
@@ -555,7 +555,7 @@
         "Not Out": "2",
         "Runs": "32",
         "Highest Score": "31*",
-        "Average": "5.33",
+        "Average": "32.00",
         "Strike-Rate": "29.91",
         "100s": "0",
         "50s": "0",
@@ -572,7 +572,7 @@
         "Not Out": "2",
         "Runs": "25",
         "Highest Score": "10*",
-        "Average": "5.00",
+        "Average": "8.33",
         "Strike-Rate": "24.75",
         "100s": "0",
         "50s": "0",
@@ -589,7 +589,7 @@
         "Not Out": "1",
         "Runs": "5",
         "Highest Score": "5*",
-        "Average": "0.83",
+        "Average": "",
         "Strike-Rate": "83.33",
         "100s": "0",
         "50s": "0",
@@ -606,7 +606,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "0.00",
         "100s": "0",
         "50s": "0",
@@ -623,7 +623,7 @@
         "Not Out": "3",
         "Runs": "29",
         "Highest Score": "18*",
-        "Average": "4.14",
+        "Average": "9.67",
         "Strike-Rate": "26.36",
         "100s": "0",
         "50s": "0",
@@ -640,7 +640,7 @@
         "Not Out": "0",
         "Runs": "5",
         "Highest Score": "3",
-        "Average": "1.25",
+        "Average": "2.50",
         "Strike-Rate": "100.00",
         "100s": "0",
         "50s": "0",
@@ -657,7 +657,7 @@
         "Not Out": "1",
         "Runs": "27",
         "Highest Score": "15*",
-        "Average": "3.00",
+        "Average": "6.75",
         "Strike-Rate": "27.84",
         "100s": "0",
         "50s": "0",
@@ -674,7 +674,7 @@
         "Not Out": "1",
         "Runs": "3",
         "Highest Score": "3*",
-        "Average": "1.00",
+        "Average": "3.00",
         "Strike-Rate": "150.00",
         "100s": "0",
         "50s": "0",
@@ -691,7 +691,7 @@
         "Not Out": "2",
         "Runs": "30",
         "Highest Score": "11",
-        "Average": "4.29",
+        "Average": "5.00",
         "Strike-Rate": "29.70",
         "100s": "0",
         "50s": "0",
@@ -708,7 +708,7 @@
         "Not Out": "1",
         "Runs": "2",
         "Highest Score": "2*",
-        "Average": "0.50",
+        "Average": "",
         "Strike-Rate": "25.00",
         "100s": "0",
         "50s": "0",
@@ -725,7 +725,7 @@
         "Not Out": "1",
         "Runs": "0",
         "Highest Score": "0*",
-        "Average": "0.00",
+        "Average": "",
         "Strike-Rate": "-",
         "100s": "0",
         "50s": "0",
@@ -742,7 +742,7 @@
         "Not Out": "3",
         "Runs": "35",
         "Highest Score": "24*",
-        "Average": "5.83",
+        "Average": "17.50",
         "Strike-Rate": "55.56",
         "100s": "0",
         "50s": "0",
@@ -759,7 +759,7 @@
         "Not Out": "1",
         "Runs": "2",
         "Highest Score": "2*",
-        "Average": "1.00",
+        "Average": "",
         "Strike-Rate": "50.00",
         "100s": "0",
         "50s": "0",
@@ -827,7 +827,7 @@
         "Not Out": "2",
         "Runs": "62",
         "Highest Score": "29*",
-        "Average": "12.40",
+        "Average": "31.00",
         "Strike-Rate": "89.86",
         "100s": "0",
         "50s": "0",
@@ -844,7 +844,7 @@
         "Not Out": "1",
         "Runs": "48",
         "Highest Score": "46*",
-        "Average": "24.00",
+        "Average": "48.00",
         "Strike-Rate": "87.27",
         "100s": "0",
         "50s": "0",
@@ -861,7 +861,7 @@
         "Not Out": "1",
         "Runs": "21",
         "Highest Score": "12*",
-        "Average": "3.00",
+        "Average": "7.00",
         "Strike-Rate": "52.50",
         "100s": "0",
         "50s": "0",
@@ -878,7 +878,7 @@
         "Not Out": "1",
         "Runs": "7",
         "Highest Score": "4",
-        "Average": "1.17",
+        "Average": "3.50",
         "Strike-Rate": "46.67",
         "100s": "0",
         "50s": "0",
@@ -895,7 +895,7 @@
         "Not Out": "0",
         "Runs": "83",
         "Highest Score": "17",
-        "Average": "9.22",
+        "Average": "10.38",
         "Strike-Rate": "51.88",
         "100s": "0",
         "50s": "0",
@@ -912,7 +912,7 @@
         "Not Out": "0",
         "Runs": "63",
         "Highest Score": "17",
-        "Average": "5.73",
+        "Average": "7.88",
         "Strike-Rate": "62.38",
         "100s": "0",
         "50s": "0",
@@ -3172,6 +3172,5106 @@
         "Bowling": "1/10",
         "Fielding": "",
         "Match_Slug": "2012-10-06-lions-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2011/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2011/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/10/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2011/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "31",
+        "Average": "15.50",
+        "Strike-Rate": "27.68",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Runs": "31",
+        "Average": "10.33",
+        "Strike-Rate": "27.68",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Runs": "31",
+        "Average": "7.75",
+        "Strike-Rate": "27.68",
+        "Opposition": "Rhinos",
+        "Date": "2012/01/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Runs": "31",
+        "Average": "6.20",
+        "Strike-Rate": "27.68",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Runs": "31",
+        "Average": "5.17",
+        "Strike-Rate": "27.68",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Runs": "32",
+        "Average": "4.57",
+        "Strike-Rate": "27.83",
+        "Opposition": "Titans",
+        "Date": "2012/03/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Runs": "32",
+        "Average": "4.00",
+        "Strike-Rate": "27.83",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2012/11/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Runs": "42",
+        "Average": "5.25",
+        "Strike-Rate": "32.31",
+        "Opposition": "Titans",
+        "Date": "2012/11/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "13",
+        "Runs": "46",
+        "Average": "5.11",
+        "Strike-Rate": "28.57",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "14",
+        "Runs": "48",
+        "Average": "4.80",
+        "Strike-Rate": "28.57",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "15",
+        "Runs": "57",
+        "Average": "5.18",
+        "Strike-Rate": "27.01",
+        "Opposition": "Titans",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "16",
+        "Runs": "57",
+        "Average": "4.75",
+        "Strike-Rate": "27.01",
+        "Opposition": "Dolphins",
+        "Date": "2013/04/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "17",
+        "Runs": "57",
+        "Average": "4.75",
+        "Strike-Rate": "26.39",
+        "Opposition": "Western Province",
+        "Date": "2013/04/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "18",
+        "Runs": "58",
+        "Average": "4.46",
+        "Strike-Rate": "25.44",
+        "Opposition": "Dolphins",
+        "Date": "2014/11/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "19",
+        "Runs": "58",
+        "Average": "4.14",
+        "Strike-Rate": "25.44",
+        "Opposition": "Titans",
+        "Date": "2014/12/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "20",
+        "Runs": "58",
+        "Average": "3.87",
+        "Strike-Rate": "24.79",
+        "Opposition": "Western Province",
+        "Date": "2015/01/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "21",
+        "Runs": "58",
+        "Average": "3.62",
+        "Strike-Rate": "24.79",
+        "Opposition": "Knights",
+        "Date": "2015/03/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "22",
+        "Runs": "61",
+        "Average": "3.59",
+        "Strike-Rate": "24.60",
+        "Opposition": "Boland",
+        "Date": "2015/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "23",
+        "Runs": "61",
+        "Average": "3.59",
+        "Strike-Rate": "24.40",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "24",
+        "Runs": "61",
+        "Average": "3.39",
+        "Strike-Rate": "24.40",
+        "Opposition": "Boland",
+        "Date": "2015/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "25",
+        "Runs": "61",
+        "Average": "3.21",
+        "Strike-Rate": "24.40",
+        "Opposition": "Dragons",
+        "Date": "2015/04/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "26",
+        "Runs": "79",
+        "Average": "4.16",
+        "Strike-Rate": "26.78",
+        "Opposition": "Titans",
+        "Date": "2015/04/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "27",
+        "Runs": "86",
+        "Average": "4.53",
+        "Strike-Rate": "26.38",
+        "Opposition": "Boland",
+        "Date": "2015/04/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "28",
+        "Runs": "86",
+        "Average": "4.30",
+        "Strike-Rate": "26.38",
+        "Opposition": "Titans",
+        "Date": "2015/11/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "29",
+        "Runs": "86",
+        "Average": "4.10",
+        "Strike-Rate": "26.38",
+        "Opposition": "Boland",
+        "Date": "2015/11/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "30",
+        "Runs": "86",
+        "Average": "3.91",
+        "Strike-Rate": "26.38",
+        "Opposition": "Knights",
+        "Date": "2016/01/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "31",
+        "Runs": "94",
+        "Average": "4.09",
+        "Strike-Rate": "25.61",
+        "Opposition": "Western Province",
+        "Date": "2016/01/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "32",
+        "Runs": "94",
+        "Average": "3.92",
+        "Strike-Rate": "25.47",
+        "Opposition": "Dragons",
+        "Date": "2016/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "33",
+        "Runs": "94",
+        "Average": "3.76",
+        "Strike-Rate": "25.47",
+        "Opposition": "Dolphins",
+        "Date": "2016/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "34",
+        "Runs": "94",
+        "Average": "3.62",
+        "Strike-Rate": "25.47",
+        "Opposition": "Titans",
+        "Date": "2016/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "35",
+        "Runs": "97",
+        "Average": "3.59",
+        "Strike-Rate": "25.33",
+        "Opposition": "Western Province",
+        "Date": "2016/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "36",
+        "Runs": "112",
+        "Average": "4.15",
+        "Strike-Rate": "26.73",
+        "Opposition": "Boland",
+        "Date": "2016/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "37",
+        "Runs": "113",
+        "Average": "4.04",
+        "Strike-Rate": "26.71",
+        "Opposition": "Western Province",
+        "Date": "2016/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "38",
+        "Runs": "113",
+        "Average": "3.90",
+        "Strike-Rate": "26.53",
+        "Opposition": "Warriors",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "39",
+        "Runs": "120",
+        "Average": "4.14",
+        "Strike-Rate": "26.91",
+        "Opposition": "Boland",
+        "Date": "2017/01/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "40",
+        "Runs": "126",
+        "Average": "4.20",
+        "Strike-Rate": "26.53",
+        "Opposition": "Dragons",
+        "Date": "2017/01/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "41",
+        "Runs": "127",
+        "Average": "4.10",
+        "Strike-Rate": "26.62",
+        "Opposition": "Knights",
+        "Date": "2017/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "42",
+        "Runs": "128",
+        "Average": "4.13",
+        "Strike-Rate": "26.72",
+        "Opposition": "Warriors",
+        "Date": "2017/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "43",
+        "Runs": "128",
+        "Average": "4.00",
+        "Strike-Rate": "26.72",
+        "Opposition": "Iinyathi",
+        "Date": "2017/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "44",
+        "Runs": "132",
+        "Average": "4.00",
+        "Strike-Rate": "26.35",
+        "Opposition": "Western Province",
+        "Date": "2017/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "45",
+        "Runs": "132",
+        "Average": "3.88",
+        "Strike-Rate": "25.88",
+        "Opposition": "Titans",
+        "Date": "2017/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "46",
+        "Runs": "143",
+        "Average": "4.09",
+        "Strike-Rate": "27.29",
+        "Opposition": "Dragons",
+        "Date": "2017/04/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "47",
+        "Runs": "143",
+        "Average": "3.97",
+        "Strike-Rate": "27.29",
+        "Opposition": "Knights",
+        "Date": "2017/10/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "48",
+        "Runs": "143",
+        "Average": "3.86",
+        "Strike-Rate": "27.29",
+        "Opposition": "Iinyathi",
+        "Date": "2017/11/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "49",
+        "Runs": "143",
+        "Average": "3.76",
+        "Strike-Rate": "27.29",
+        "Opposition": "Western Province",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "50",
+        "Runs": "143",
+        "Average": "3.67",
+        "Strike-Rate": "27.29",
+        "Opposition": "Iinyathi",
+        "Date": "2018/04/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "51",
+        "Runs": "143",
+        "Average": "3.58",
+        "Strike-Rate": "27.29",
+        "Opposition": "Titans",
+        "Date": "2018/04/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "52",
+        "Runs": "143",
+        "Average": "3.58",
+        "Strike-Rate": "27.29",
+        "Opposition": "Western Province",
+        "Date": "2018/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "53",
+        "Runs": "143",
+        "Average": "3.49",
+        "Strike-Rate": "27.29",
+        "Opposition": "Iinyathi",
+        "Date": "2018/10/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "54",
+        "Runs": "143",
+        "Average": "3.40",
+        "Strike-Rate": "27.29",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "55",
+        "Runs": "143",
+        "Average": "3.33",
+        "Strike-Rate": "26.83",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "56",
+        "Runs": "167",
+        "Average": "3.88",
+        "Strike-Rate": "29.77",
+        "Opposition": "Dragons",
+        "Date": "2019/01/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "57",
+        "Runs": "175",
+        "Average": "4.07",
+        "Strike-Rate": "30.49",
+        "Opposition": "Titans",
+        "Date": "2019/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "58",
+        "Runs": "175",
+        "Average": "4.07",
+        "Strike-Rate": "30.12",
+        "Opposition": "Dragons",
+        "Date": "2019/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "59",
+        "Runs": "175",
+        "Average": "3.98",
+        "Strike-Rate": "30.12",
+        "Opposition": "Dolphins",
+        "Date": "2019/03/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "60",
+        "Runs": "175",
+        "Average": "3.89",
+        "Strike-Rate": "30.12",
+        "Opposition": "Boland",
+        "Date": "2019/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "61",
+        "Runs": "178",
+        "Average": "3.87",
+        "Strike-Rate": "30.32",
+        "Opposition": "Dolphins",
+        "Date": "2019/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "62",
+        "Runs": "182",
+        "Average": "3.87",
+        "Strike-Rate": "30.74",
+        "Opposition": "Dragons",
+        "Date": "2019/10/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "63",
+        "Runs": "183",
+        "Average": "3.81",
+        "Strike-Rate": "30.65",
+        "Opposition": "Western Province",
+        "Date": "2021/03/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "64",
+        "Runs": "183",
+        "Average": "3.73",
+        "Strike-Rate": "30.45",
+        "Opposition": "Titans",
+        "Date": "2021/03/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "65",
+        "Runs": "186",
+        "Average": "3.80",
+        "Strike-Rate": "30.10",
+        "Opposition": "Western Province",
+        "Date": "2021/03/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "66",
+        "Runs": "189",
+        "Average": "3.78",
+        "Strike-Rate": "30.19",
+        "Opposition": "Titans",
+        "Date": "2021/03/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "67",
+        "Runs": "190",
+        "Average": "3.73",
+        "Strike-Rate": "29.87",
+        "Opposition": "Dolphins",
+        "Date": "2022/10/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "68",
+        "Runs": "231",
+        "Average": "4.44",
+        "Strike-Rate": "33.62",
+        "Opposition": "Badgers",
+        "Date": "2022/10/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "69",
+        "Runs": "258",
+        "Average": "4.96",
+        "Strike-Rate": "35.44",
+        "Opposition": "Titans",
+        "Date": "2022/10/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "70",
+        "Runs": "258",
+        "Average": "4.87",
+        "Strike-Rate": "35.34",
+        "Opposition": "Badgers",
+        "Date": "2023/02/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "71",
+        "Runs": "275",
+        "Average": "5.09",
+        "Strike-Rate": "35.71",
+        "Opposition": "Western Province",
+        "Date": "2023/03/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "72",
+        "Runs": "275",
+        "Average": "5.00",
+        "Strike-Rate": "35.71",
+        "Opposition": "Knights",
+        "Date": "2023/09/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "73",
+        "Runs": "275",
+        "Average": "4.91",
+        "Strike-Rate": "35.71",
+        "Opposition": "Titans",
+        "Date": "2023/10/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "74",
+        "Runs": "275",
+        "Average": "4.82",
+        "Strike-Rate": "35.71",
+        "Opposition": "Dolphins",
+        "Date": "2024/02/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "75",
+        "Runs": "275",
+        "Average": "4.74",
+        "Strike-Rate": "35.67",
+        "Opposition": "Knights",
+        "Date": "2024/10/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "76",
+        "Runs": "275",
+        "Average": "4.66",
+        "Strike-Rate": "35.53",
+        "Opposition": "Badgers",
+        "Date": "2024/10/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "77",
+        "Runs": "284",
+        "Average": "4.73",
+        "Strike-Rate": "35.54",
+        "Opposition": "Dolphins",
+        "Date": "2024/12/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "78",
+        "Runs": "284",
+        "Average": "4.66",
+        "Strike-Rate": "35.54",
+        "Opposition": "Knights",
+        "Date": "2025/02/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "79",
+        "Runs": "284",
+        "Average": "4.58",
+        "Strike-Rate": "35.54",
+        "Opposition": "Western Province",
+        "Date": "2025/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "80",
+        "Runs": "296",
+        "Average": "4.77",
+        "Strike-Rate": "36.54",
+        "Opposition": "Badgers",
+        "Date": "2025/03/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "81",
+        "Runs": "296",
+        "Average": "4.70",
+        "Strike-Rate": "36.54",
+        "Opposition": "Dolphins",
+        "Date": "2025/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "82",
+        "Runs": "296",
+        "Average": "4.62",
+        "Strike-Rate": "36.54",
+        "Opposition": "Titans",
+        "Date": "2025/03/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "83",
+        "Runs": "298",
+        "Average": "4.58",
+        "Strike-Rate": "36.65",
+        "Opposition": "Dolphins",
+        "Date": "2025/10/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "84",
+        "Runs": "309",
+        "Average": "4.68",
+        "Strike-Rate": "36.79",
+        "Opposition": "Badgers",
+        "Date": "2025/11/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "85",
+        "Runs": "321",
+        "Average": "4.79",
+        "Strike-Rate": "37.28",
+        "Opposition": "Western Province",
+        "Date": "2025/11/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "86",
+        "Runs": "321",
+        "Average": "4.72",
+        "Strike-Rate": "37.28",
+        "Opposition": "Dragons",
+        "Date": "2025/12/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "87",
+        "Runs": "338",
+        "Average": "4.90",
+        "Strike-Rate": "37.31",
+        "Opposition": "Dolphins",
+        "Date": "2025/12/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "88",
+        "Runs": "348",
+        "Average": "4.97",
+        "Strike-Rate": "37.74",
+        "Opposition": "Badgers",
+        "Date": "2026/02/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "89",
+        "Runs": "364",
+        "Average": "5.13",
+        "Strike-Rate": "38.72",
+        "Opposition": "Western Province",
+        "Date": "2026/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "90",
+        "Runs": "374",
+        "Average": "5.19",
+        "Strike-Rate": "39.12",
+        "Opposition": "Titans",
+        "Date": "2026/02/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "91",
+        "Runs": "379",
+        "Average": "5.19",
+        "Strike-Rate": "39.07",
+        "Opposition": "Western Province",
+        "Date": "2026/03/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Dragons",
+        "Date": "2012/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Titans",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Runs": "5",
+        "Average": "1.25",
+        "Strike-Rate": "83.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/10/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Runs": "5",
+        "Average": "1.00",
+        "Strike-Rate": "83.33",
+        "Opposition": "Knights",
+        "Date": "2012/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Runs": "5",
+        "Average": "0.83",
+        "Strike-Rate": "83.33",
+        "Opposition": "Western Province",
+        "Date": "2012/10/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Runs": "5",
+        "Average": "0.71",
+        "Strike-Rate": "83.33",
+        "Opposition": "Rhinos",
+        "Date": "2013/09/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Runs": "5",
+        "Average": "0.62",
+        "Strike-Rate": "83.33",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Runs": "5",
+        "Average": "0.62",
+        "Strike-Rate": "71.43",
+        "Opposition": "Titans",
+        "Date": "2013/10/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "11",
+        "Runs": "5",
+        "Average": "0.56",
+        "Strike-Rate": "71.43",
+        "Opposition": "Dragons",
+        "Date": "2013/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "12",
+        "Runs": "5",
+        "Average": "0.50",
+        "Strike-Rate": "71.43",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/10/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "13",
+        "Runs": "5",
+        "Average": "0.45",
+        "Strike-Rate": "71.43",
+        "Opposition": "Dolphins",
+        "Date": "2014/11/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "14",
+        "Runs": "5",
+        "Average": "0.42",
+        "Strike-Rate": "71.43",
+        "Opposition": "Titans",
+        "Date": "2014/12/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "15",
+        "Runs": "7",
+        "Average": "0.54",
+        "Strike-Rate": "77.78",
+        "Opposition": "Knights",
+        "Date": "2015/03/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "16",
+        "Runs": "10",
+        "Average": "0.71",
+        "Strike-Rate": "83.33",
+        "Opposition": "Boland",
+        "Date": "2015/03/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "17",
+        "Runs": "10",
+        "Average": "0.67",
+        "Strike-Rate": "83.33",
+        "Opposition": "Titans",
+        "Date": "2015/11/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "18",
+        "Runs": "10",
+        "Average": "0.62",
+        "Strike-Rate": "83.33",
+        "Opposition": "Boland",
+        "Date": "2015/11/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "19",
+        "Runs": "10",
+        "Average": "0.59",
+        "Strike-Rate": "83.33",
+        "Opposition": "Western Province",
+        "Date": "2016/01/31",
+        "Format": "T20"
+      },
+      {
+        "Innings": "20",
+        "Runs": "13",
+        "Average": "0.76",
+        "Strike-Rate": "92.86",
+        "Opposition": "Dragons",
+        "Date": "2016/02/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "21",
+        "Runs": "13",
+        "Average": "0.72",
+        "Strike-Rate": "92.86",
+        "Opposition": "Warriors",
+        "Date": "2016/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "22",
+        "Runs": "13",
+        "Average": "0.68",
+        "Strike-Rate": "92.86",
+        "Opposition": "Western Province",
+        "Date": "2016/11/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "23",
+        "Runs": "13",
+        "Average": "0.65",
+        "Strike-Rate": "92.86",
+        "Opposition": "Boland",
+        "Date": "2017/01/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "24",
+        "Runs": "13",
+        "Average": "0.62",
+        "Strike-Rate": "92.86",
+        "Opposition": "Dragons",
+        "Date": "2017/01/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "25",
+        "Runs": "15",
+        "Average": "0.71",
+        "Strike-Rate": "68.18",
+        "Opposition": "Knights",
+        "Date": "2017/02/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "26",
+        "Runs": "15",
+        "Average": "0.68",
+        "Strike-Rate": "68.18",
+        "Opposition": "Knights",
+        "Date": "2017/10/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "27",
+        "Runs": "15",
+        "Average": "0.65",
+        "Strike-Rate": "68.18",
+        "Opposition": "Iinyathi",
+        "Date": "2017/11/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "28",
+        "Runs": "15",
+        "Average": "0.62",
+        "Strike-Rate": "68.18",
+        "Opposition": "Western Province",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "29",
+        "Runs": "15",
+        "Average": "0.60",
+        "Strike-Rate": "68.18",
+        "Opposition": "Titans",
+        "Date": "2018/11/04",
+        "Format": "T20"
+      },
+      {
+        "Innings": "30",
+        "Runs": "17",
+        "Average": "0.68",
+        "Strike-Rate": "65.38",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "31",
+        "Runs": "17",
+        "Average": "0.65",
+        "Strike-Rate": "65.38",
+        "Opposition": "Dragons",
+        "Date": "2019/01/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "32",
+        "Runs": "17",
+        "Average": "0.63",
+        "Strike-Rate": "65.38",
+        "Opposition": "Dragons",
+        "Date": "2019/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "33",
+        "Runs": "46",
+        "Average": "1.70",
+        "Strike-Rate": "97.87",
+        "Opposition": "Dolphins",
+        "Date": "2022/10/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "34",
+        "Runs": "66",
+        "Average": "2.44",
+        "Strike-Rate": "100.00",
+        "Opposition": "Badgers",
+        "Date": "2022/10/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "35",
+        "Runs": "68",
+        "Average": "2.43",
+        "Strike-Rate": "91.89",
+        "Opposition": "Titans",
+        "Date": "2022/10/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "36",
+        "Runs": "68",
+        "Average": "2.34",
+        "Strike-Rate": "91.89",
+        "Opposition": "Badgers",
+        "Date": "2023/02/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "37",
+        "Runs": "68",
+        "Average": "2.27",
+        "Strike-Rate": "91.89",
+        "Opposition": "Western Province",
+        "Date": "2023/03/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "38",
+        "Runs": "68",
+        "Average": "2.19",
+        "Strike-Rate": "91.89",
+        "Opposition": "Dragons",
+        "Date": "2023/03/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "39",
+        "Runs": "79",
+        "Average": "2.47",
+        "Strike-Rate": "83.16",
+        "Opposition": "Western Province",
+        "Date": "2023/04/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "40",
+        "Runs": "125",
+        "Average": "3.91",
+        "Strike-Rate": "93.28",
+        "Opposition": "Titans",
+        "Date": "2023/11/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "41",
+        "Runs": "127",
+        "Average": "3.85",
+        "Strike-Rate": "84.67",
+        "Opposition": "Dolphins",
+        "Date": "2024/02/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "42",
+        "Runs": "127",
+        "Average": "3.74",
+        "Strike-Rate": "84.67",
+        "Opposition": "Western Province",
+        "Date": "2024/03/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "43",
+        "Runs": "128",
+        "Average": "3.66",
+        "Strike-Rate": "81.53",
+        "Opposition": "Knights",
+        "Date": "2024/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "44",
+        "Runs": "128",
+        "Average": "3.56",
+        "Strike-Rate": "81.53",
+        "Opposition": "Titans",
+        "Date": "2024/11/03",
+        "Format": "T20"
+      },
+      {
+        "Innings": "45",
+        "Runs": "128",
+        "Average": "3.46",
+        "Strike-Rate": "81.53",
+        "Opposition": "Dolphins",
+        "Date": "2024/12/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "46",
+        "Runs": "130",
+        "Average": "3.51",
+        "Strike-Rate": "81.25",
+        "Opposition": "Western Province",
+        "Date": "2025/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "47",
+        "Runs": "130",
+        "Average": "3.42",
+        "Strike-Rate": "81.25",
+        "Opposition": "Badgers",
+        "Date": "2025/03/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "48",
+        "Runs": "130",
+        "Average": "3.33",
+        "Strike-Rate": "81.25",
+        "Opposition": "Dolphins",
+        "Date": "2025/03/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "49",
+        "Runs": "134",
+        "Average": "3.35",
+        "Strike-Rate": "81.21",
+        "Opposition": "Titans",
+        "Date": "2025/03/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "50",
+        "Runs": "135",
+        "Average": "3.29",
+        "Strike-Rate": "80.36",
+        "Opposition": "Dolphins",
+        "Date": "2025/10/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "51",
+        "Runs": "149",
+        "Average": "3.55",
+        "Strike-Rate": "80.54",
+        "Opposition": "Badgers",
+        "Date": "2025/11/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "52",
+        "Runs": "149",
+        "Average": "3.47",
+        "Strike-Rate": "80.11",
+        "Opposition": "Titans",
+        "Date": "2025/11/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "53",
+        "Runs": "155",
+        "Average": "3.52",
+        "Strike-Rate": "78.68",
+        "Opposition": "Western Province",
+        "Date": "2025/11/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "54",
+        "Runs": "155",
+        "Average": "3.44",
+        "Strike-Rate": "78.68",
+        "Opposition": "Dragons",
+        "Date": "2025/12/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "55",
+        "Runs": "169",
+        "Average": "3.67",
+        "Strike-Rate": "77.52",
+        "Opposition": "Dolphins",
+        "Date": "2025/12/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "56",
+        "Runs": "177",
+        "Average": "3.77",
+        "Strike-Rate": "73.44",
+        "Opposition": "Badgers",
+        "Date": "2026/02/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "57",
+        "Runs": "194",
+        "Average": "4.04",
+        "Strike-Rate": "75.19",
+        "Opposition": "Western Province",
+        "Date": "2026/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "58",
+        "Runs": "194",
+        "Average": "3.96",
+        "Strike-Rate": "75.19",
+        "Opposition": "Titans",
+        "Date": "2026/03/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "59",
+        "Runs": "194",
+        "Average": "3.88",
+        "Strike-Rate": "75.19",
+        "Opposition": "Dragons",
+        "Date": "2026/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "60",
+        "Runs": "197",
+        "Average": "3.86",
+        "Strike-Rate": "74.06",
+        "Opposition": "Western Province",
+        "Date": "2026/03/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Rhinos",
+        "Date": "2011/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Dolphins",
+        "Date": "2011/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/10/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Titans",
+        "Date": "2011/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "31",
+        "Average": "15.50",
+        "Strike-Rate": "27.68",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "31",
+        "Average": "10.33",
+        "Strike-Rate": "27.68",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "31",
+        "Average": "7.75",
+        "Strike-Rate": "27.68",
+        "Opposition": "Rhinos",
+        "Date": "2012/01/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "31",
+        "Average": "6.20",
+        "Strike-Rate": "27.68",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "31",
+        "Average": "5.17",
+        "Strike-Rate": "27.68",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Runs": "32",
+        "Average": "4.57",
+        "Strike-Rate": "27.83",
+        "Opposition": "Titans",
+        "Date": "2012/03/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Runs": "32",
+        "Average": "4.00",
+        "Strike-Rate": "27.83",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Runs": "32",
+        "Average": "3.56",
+        "Strike-Rate": "27.83",
+        "Opposition": "Rhinos",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Runs": "32",
+        "Average": "3.20",
+        "Strike-Rate": "27.83",
+        "Opposition": "Dragons",
+        "Date": "2012/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Runs": "32",
+        "Average": "2.91",
+        "Strike-Rate": "27.83",
+        "Opposition": "Titans",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Runs": "37",
+        "Average": "3.36",
+        "Strike-Rate": "30.58",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/10/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Runs": "37",
+        "Average": "3.08",
+        "Strike-Rate": "30.58",
+        "Opposition": "Knights",
+        "Date": "2012/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Runs": "37",
+        "Average": "2.85",
+        "Strike-Rate": "30.58",
+        "Opposition": "Western Province",
+        "Date": "2012/10/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Runs": "37",
+        "Average": "2.64",
+        "Strike-Rate": "30.58",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2012/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Runs": "47",
+        "Average": "3.36",
+        "Strike-Rate": "34.56",
+        "Opposition": "Titans",
+        "Date": "2012/11/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Runs": "51",
+        "Average": "3.40",
+        "Strike-Rate": "30.54",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Runs": "53",
+        "Average": "3.31",
+        "Strike-Rate": "30.46",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "22",
+        "Runs": "62",
+        "Average": "3.65",
+        "Strike-Rate": "28.57",
+        "Opposition": "Titans",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "23",
+        "Runs": "62",
+        "Average": "3.44",
+        "Strike-Rate": "28.57",
+        "Opposition": "Dolphins",
+        "Date": "2013/04/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "24",
+        "Runs": "62",
+        "Average": "3.44",
+        "Strike-Rate": "27.93",
+        "Opposition": "Western Province",
+        "Date": "2013/04/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "25",
+        "Runs": "62",
+        "Average": "3.26",
+        "Strike-Rate": "27.93",
+        "Opposition": "Rhinos",
+        "Date": "2013/09/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "26",
+        "Runs": "62",
+        "Average": "3.10",
+        "Strike-Rate": "27.93",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "27",
+        "Runs": "62",
+        "Average": "3.10",
+        "Strike-Rate": "27.80",
+        "Opposition": "Titans",
+        "Date": "2013/10/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "28",
+        "Runs": "62",
+        "Average": "2.95",
+        "Strike-Rate": "27.80",
+        "Opposition": "Dragons",
+        "Date": "2013/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "29",
+        "Runs": "62",
+        "Average": "2.82",
+        "Strike-Rate": "27.80",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "30",
+        "Runs": "63",
+        "Average": "2.74",
+        "Strike-Rate": "26.81",
+        "Opposition": "Dolphins",
+        "Date": "2014/11/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "31",
+        "Runs": "63",
+        "Average": "2.62",
+        "Strike-Rate": "26.81",
+        "Opposition": "Dolphins",
+        "Date": "2014/11/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "32",
+        "Runs": "63",
+        "Average": "2.52",
+        "Strike-Rate": "26.81",
+        "Opposition": "Titans",
+        "Date": "2014/12/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "33",
+        "Runs": "63",
+        "Average": "2.42",
+        "Strike-Rate": "26.81",
+        "Opposition": "Titans",
+        "Date": "2014/12/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "34",
+        "Runs": "63",
+        "Average": "2.33",
+        "Strike-Rate": "26.14",
+        "Opposition": "Western Province",
+        "Date": "2015/01/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "35",
+        "Runs": "63",
+        "Average": "2.25",
+        "Strike-Rate": "26.14",
+        "Opposition": "Knights",
+        "Date": "2015/03/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "36",
+        "Runs": "65",
+        "Average": "2.24",
+        "Strike-Rate": "26.75",
+        "Opposition": "Knights",
+        "Date": "2015/03/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "37",
+        "Runs": "68",
+        "Average": "2.27",
+        "Strike-Rate": "26.46",
+        "Opposition": "Boland",
+        "Date": "2015/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "38",
+        "Runs": "71",
+        "Average": "2.29",
+        "Strike-Rate": "27.31",
+        "Opposition": "Boland",
+        "Date": "2015/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "39",
+        "Runs": "71",
+        "Average": "2.29",
+        "Strike-Rate": "27.10",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "40",
+        "Runs": "71",
+        "Average": "2.22",
+        "Strike-Rate": "27.10",
+        "Opposition": "Boland",
+        "Date": "2015/04/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "41",
+        "Runs": "71",
+        "Average": "2.15",
+        "Strike-Rate": "27.10",
+        "Opposition": "Dragons",
+        "Date": "2015/04/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "42",
+        "Runs": "89",
+        "Average": "2.70",
+        "Strike-Rate": "28.99",
+        "Opposition": "Titans",
+        "Date": "2015/04/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "43",
+        "Runs": "96",
+        "Average": "2.91",
+        "Strike-Rate": "28.40",
+        "Opposition": "Boland",
+        "Date": "2015/04/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "44",
+        "Runs": "96",
+        "Average": "2.82",
+        "Strike-Rate": "28.40",
+        "Opposition": "Titans",
+        "Date": "2015/11/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "45",
+        "Runs": "96",
+        "Average": "2.74",
+        "Strike-Rate": "28.40",
+        "Opposition": "Titans",
+        "Date": "2015/11/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "46",
+        "Runs": "96",
+        "Average": "2.67",
+        "Strike-Rate": "28.40",
+        "Opposition": "Boland",
+        "Date": "2015/11/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "47",
+        "Runs": "96",
+        "Average": "2.59",
+        "Strike-Rate": "28.40",
+        "Opposition": "Boland",
+        "Date": "2015/11/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "48",
+        "Runs": "96",
+        "Average": "2.53",
+        "Strike-Rate": "28.40",
+        "Opposition": "Knights",
+        "Date": "2016/01/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "49",
+        "Runs": "104",
+        "Average": "2.67",
+        "Strike-Rate": "27.44",
+        "Opposition": "Western Province",
+        "Date": "2016/01/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "50",
+        "Runs": "104",
+        "Average": "2.60",
+        "Strike-Rate": "27.44",
+        "Opposition": "Western Province",
+        "Date": "2016/01/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "51",
+        "Runs": "104",
+        "Average": "2.54",
+        "Strike-Rate": "27.30",
+        "Opposition": "Dragons",
+        "Date": "2016/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "52",
+        "Runs": "107",
+        "Average": "2.61",
+        "Strike-Rate": "27.94",
+        "Opposition": "Dragons",
+        "Date": "2016/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "53",
+        "Runs": "107",
+        "Average": "2.55",
+        "Strike-Rate": "27.94",
+        "Opposition": "Dolphins",
+        "Date": "2016/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "54",
+        "Runs": "107",
+        "Average": "2.49",
+        "Strike-Rate": "27.94",
+        "Opposition": "Titans",
+        "Date": "2016/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "55",
+        "Runs": "110",
+        "Average": "2.50",
+        "Strike-Rate": "27.71",
+        "Opposition": "Western Province",
+        "Date": "2016/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "56",
+        "Runs": "125",
+        "Average": "2.84",
+        "Strike-Rate": "28.87",
+        "Opposition": "Boland",
+        "Date": "2016/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "57",
+        "Runs": "126",
+        "Average": "2.80",
+        "Strike-Rate": "28.83",
+        "Opposition": "Western Province",
+        "Date": "2016/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "58",
+        "Runs": "126",
+        "Average": "2.74",
+        "Strike-Rate": "28.64",
+        "Opposition": "Warriors",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "59",
+        "Runs": "126",
+        "Average": "2.68",
+        "Strike-Rate": "28.64",
+        "Opposition": "Warriors",
+        "Date": "2016/10/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "60",
+        "Runs": "126",
+        "Average": "2.62",
+        "Strike-Rate": "28.64",
+        "Opposition": "Western Province",
+        "Date": "2016/11/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "61",
+        "Runs": "133",
+        "Average": "2.77",
+        "Strike-Rate": "28.91",
+        "Opposition": "Boland",
+        "Date": "2017/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "62",
+        "Runs": "133",
+        "Average": "2.71",
+        "Strike-Rate": "28.91",
+        "Opposition": "Boland",
+        "Date": "2017/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "63",
+        "Runs": "139",
+        "Average": "2.78",
+        "Strike-Rate": "28.43",
+        "Opposition": "Dragons",
+        "Date": "2017/01/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "64",
+        "Runs": "139",
+        "Average": "2.73",
+        "Strike-Rate": "28.43",
+        "Opposition": "Dragons",
+        "Date": "2017/01/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "65",
+        "Runs": "140",
+        "Average": "2.69",
+        "Strike-Rate": "28.51",
+        "Opposition": "Knights",
+        "Date": "2017/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "66",
+        "Runs": "142",
+        "Average": "2.73",
+        "Strike-Rate": "28.46",
+        "Opposition": "Knights",
+        "Date": "2017/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "67",
+        "Runs": "143",
+        "Average": "2.75",
+        "Strike-Rate": "28.54",
+        "Opposition": "Warriors",
+        "Date": "2017/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "68",
+        "Runs": "143",
+        "Average": "2.70",
+        "Strike-Rate": "28.54",
+        "Opposition": "Iinyathi",
+        "Date": "2017/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "69",
+        "Runs": "147",
+        "Average": "2.72",
+        "Strike-Rate": "28.11",
+        "Opposition": "Western Province",
+        "Date": "2017/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "70",
+        "Runs": "147",
+        "Average": "2.67",
+        "Strike-Rate": "27.63",
+        "Opposition": "Titans",
+        "Date": "2017/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "71",
+        "Runs": "158",
+        "Average": "2.82",
+        "Strike-Rate": "28.94",
+        "Opposition": "Dragons",
+        "Date": "2017/04/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "72",
+        "Runs": "158",
+        "Average": "2.77",
+        "Strike-Rate": "28.94",
+        "Opposition": "Knights",
+        "Date": "2017/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "73",
+        "Runs": "158",
+        "Average": "2.72",
+        "Strike-Rate": "28.94",
+        "Opposition": "Knights",
+        "Date": "2017/10/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "74",
+        "Runs": "158",
+        "Average": "2.68",
+        "Strike-Rate": "28.94",
+        "Opposition": "Iinyathi",
+        "Date": "2017/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "75",
+        "Runs": "158",
+        "Average": "2.63",
+        "Strike-Rate": "28.94",
+        "Opposition": "Iinyathi",
+        "Date": "2017/11/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "76",
+        "Runs": "158",
+        "Average": "2.59",
+        "Strike-Rate": "28.94",
+        "Opposition": "Western Province",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "77",
+        "Runs": "158",
+        "Average": "2.55",
+        "Strike-Rate": "28.94",
+        "Opposition": "Western Province",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "78",
+        "Runs": "158",
+        "Average": "2.51",
+        "Strike-Rate": "28.94",
+        "Opposition": "Iinyathi",
+        "Date": "2018/04/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "79",
+        "Runs": "158",
+        "Average": "2.47",
+        "Strike-Rate": "28.94",
+        "Opposition": "Titans",
+        "Date": "2018/04/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "80",
+        "Runs": "158",
+        "Average": "2.47",
+        "Strike-Rate": "28.94",
+        "Opposition": "Western Province",
+        "Date": "2018/04/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "81",
+        "Runs": "158",
+        "Average": "2.43",
+        "Strike-Rate": "28.94",
+        "Opposition": "Iinyathi",
+        "Date": "2018/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "82",
+        "Runs": "158",
+        "Average": "2.39",
+        "Strike-Rate": "28.94",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "83",
+        "Runs": "158",
+        "Average": "2.36",
+        "Strike-Rate": "28.94",
+        "Opposition": "Titans",
+        "Date": "2018/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "84",
+        "Runs": "158",
+        "Average": "2.32",
+        "Strike-Rate": "28.47",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "85",
+        "Runs": "160",
+        "Average": "2.35",
+        "Strike-Rate": "28.62",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "86",
+        "Runs": "184",
+        "Average": "2.71",
+        "Strike-Rate": "31.35",
+        "Opposition": "Dragons",
+        "Date": "2019/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "87",
+        "Runs": "184",
+        "Average": "2.67",
+        "Strike-Rate": "31.35",
+        "Opposition": "Dragons",
+        "Date": "2019/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "88",
+        "Runs": "192",
+        "Average": "2.78",
+        "Strike-Rate": "32.00",
+        "Opposition": "Titans",
+        "Date": "2019/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "89",
+        "Runs": "192",
+        "Average": "2.78",
+        "Strike-Rate": "31.63",
+        "Opposition": "Dragons",
+        "Date": "2019/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "90",
+        "Runs": "192",
+        "Average": "2.74",
+        "Strike-Rate": "31.63",
+        "Opposition": "Dolphins",
+        "Date": "2019/03/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "91",
+        "Runs": "192",
+        "Average": "2.70",
+        "Strike-Rate": "31.63",
+        "Opposition": "Boland",
+        "Date": "2019/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "92",
+        "Runs": "195",
+        "Average": "2.71",
+        "Strike-Rate": "31.81",
+        "Opposition": "Dolphins",
+        "Date": "2019/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "93",
+        "Runs": "199",
+        "Average": "2.73",
+        "Strike-Rate": "32.20",
+        "Opposition": "Dragons",
+        "Date": "2019/10/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "94",
+        "Runs": "199",
+        "Average": "2.69",
+        "Strike-Rate": "32.20",
+        "Opposition": "Dragons",
+        "Date": "2019/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "95",
+        "Runs": "200",
+        "Average": "2.67",
+        "Strike-Rate": "32.10",
+        "Opposition": "Western Province",
+        "Date": "2021/03/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "96",
+        "Runs": "200",
+        "Average": "2.63",
+        "Strike-Rate": "31.90",
+        "Opposition": "Titans",
+        "Date": "2021/03/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "97",
+        "Runs": "203",
+        "Average": "2.67",
+        "Strike-Rate": "31.52",
+        "Opposition": "Western Province",
+        "Date": "2021/03/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "98",
+        "Runs": "206",
+        "Average": "2.68",
+        "Strike-Rate": "31.60",
+        "Opposition": "Titans",
+        "Date": "2021/03/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "99",
+        "Runs": "207",
+        "Average": "2.65",
+        "Strike-Rate": "31.27",
+        "Opposition": "Dolphins",
+        "Date": "2022/10/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "100",
+        "Runs": "236",
+        "Average": "3.03",
+        "Strike-Rate": "34.55",
+        "Opposition": "Dolphins",
+        "Date": "2022/10/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "101",
+        "Runs": "277",
+        "Average": "3.51",
+        "Strike-Rate": "37.74",
+        "Opposition": "Badgers",
+        "Date": "2022/10/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "102",
+        "Runs": "297",
+        "Average": "3.76",
+        "Strike-Rate": "39.44",
+        "Opposition": "Badgers",
+        "Date": "2022/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "103",
+        "Runs": "324",
+        "Average": "4.10",
+        "Strike-Rate": "40.81",
+        "Opposition": "Titans",
+        "Date": "2022/10/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "104",
+        "Runs": "326",
+        "Average": "4.08",
+        "Strike-Rate": "40.65",
+        "Opposition": "Titans",
+        "Date": "2022/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "105",
+        "Runs": "326",
+        "Average": "4.02",
+        "Strike-Rate": "40.55",
+        "Opposition": "Badgers",
+        "Date": "2023/02/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "106",
+        "Runs": "326",
+        "Average": "3.98",
+        "Strike-Rate": "40.55",
+        "Opposition": "Badgers",
+        "Date": "2023/02/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "107",
+        "Runs": "343",
+        "Average": "4.13",
+        "Strike-Rate": "40.64",
+        "Opposition": "Western Province",
+        "Date": "2023/03/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "108",
+        "Runs": "343",
+        "Average": "4.08",
+        "Strike-Rate": "40.64",
+        "Opposition": "Western Province",
+        "Date": "2023/03/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "109",
+        "Runs": "343",
+        "Average": "4.04",
+        "Strike-Rate": "40.64",
+        "Opposition": "Dragons",
+        "Date": "2023/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "110",
+        "Runs": "354",
+        "Average": "4.12",
+        "Strike-Rate": "40.92",
+        "Opposition": "Western Province",
+        "Date": "2023/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "111",
+        "Runs": "354",
+        "Average": "4.07",
+        "Strike-Rate": "40.92",
+        "Opposition": "Knights",
+        "Date": "2023/09/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "112",
+        "Runs": "354",
+        "Average": "4.02",
+        "Strike-Rate": "40.92",
+        "Opposition": "Titans",
+        "Date": "2023/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "113",
+        "Runs": "400",
+        "Average": "4.55",
+        "Strike-Rate": "44.25",
+        "Opposition": "Titans",
+        "Date": "2023/11/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "114",
+        "Runs": "400",
+        "Average": "4.49",
+        "Strike-Rate": "44.25",
+        "Opposition": "Dolphins",
+        "Date": "2024/02/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "115",
+        "Runs": "402",
+        "Average": "4.47",
+        "Strike-Rate": "43.70",
+        "Opposition": "Dolphins",
+        "Date": "2024/02/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "116",
+        "Runs": "402",
+        "Average": "4.42",
+        "Strike-Rate": "43.70",
+        "Opposition": "Western Province",
+        "Date": "2024/03/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "117",
+        "Runs": "402",
+        "Average": "4.37",
+        "Strike-Rate": "43.65",
+        "Opposition": "Knights",
+        "Date": "2024/10/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "118",
+        "Runs": "403",
+        "Average": "4.33",
+        "Strike-Rate": "43.43",
+        "Opposition": "Knights",
+        "Date": "2024/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "119",
+        "Runs": "403",
+        "Average": "4.29",
+        "Strike-Rate": "43.29",
+        "Opposition": "Badgers",
+        "Date": "2024/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "120",
+        "Runs": "403",
+        "Average": "4.24",
+        "Strike-Rate": "43.29",
+        "Opposition": "Titans",
+        "Date": "2024/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "121",
+        "Runs": "412",
+        "Average": "4.29",
+        "Strike-Rate": "43.10",
+        "Opposition": "Dolphins",
+        "Date": "2024/12/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "122",
+        "Runs": "412",
+        "Average": "4.25",
+        "Strike-Rate": "43.10",
+        "Opposition": "Dolphins",
+        "Date": "2024/12/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "123",
+        "Runs": "412",
+        "Average": "4.20",
+        "Strike-Rate": "43.10",
+        "Opposition": "Knights",
+        "Date": "2025/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "124",
+        "Runs": "412",
+        "Average": "4.16",
+        "Strike-Rate": "43.10",
+        "Opposition": "Western Province",
+        "Date": "2025/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "125",
+        "Runs": "414",
+        "Average": "4.18",
+        "Strike-Rate": "43.17",
+        "Opposition": "Western Province",
+        "Date": "2025/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "126",
+        "Runs": "426",
+        "Average": "4.30",
+        "Strike-Rate": "43.92",
+        "Opposition": "Badgers",
+        "Date": "2025/03/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "127",
+        "Runs": "426",
+        "Average": "4.26",
+        "Strike-Rate": "43.92",
+        "Opposition": "Badgers",
+        "Date": "2025/03/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "128",
+        "Runs": "426",
+        "Average": "4.22",
+        "Strike-Rate": "43.92",
+        "Opposition": "Dolphins",
+        "Date": "2025/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "129",
+        "Runs": "426",
+        "Average": "4.18",
+        "Strike-Rate": "43.92",
+        "Opposition": "Dolphins",
+        "Date": "2025/03/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "130",
+        "Runs": "426",
+        "Average": "4.14",
+        "Strike-Rate": "43.92",
+        "Opposition": "Titans",
+        "Date": "2025/03/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "131",
+        "Runs": "430",
+        "Average": "4.13",
+        "Strike-Rate": "44.10",
+        "Opposition": "Titans",
+        "Date": "2025/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "132",
+        "Runs": "432",
+        "Average": "4.11",
+        "Strike-Rate": "44.17",
+        "Opposition": "Dolphins",
+        "Date": "2025/10/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "133",
+        "Runs": "433",
+        "Average": "4.08",
+        "Strike-Rate": "44.14",
+        "Opposition": "Dolphins",
+        "Date": "2025/10/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "134",
+        "Runs": "444",
+        "Average": "4.15",
+        "Strike-Rate": "44.05",
+        "Opposition": "Badgers",
+        "Date": "2025/11/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "135",
+        "Runs": "458",
+        "Average": "4.24",
+        "Strike-Rate": "44.68",
+        "Opposition": "Badgers",
+        "Date": "2025/11/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "136",
+        "Runs": "458",
+        "Average": "4.20",
+        "Strike-Rate": "44.64",
+        "Opposition": "Titans",
+        "Date": "2025/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "137",
+        "Runs": "470",
+        "Average": "4.27",
+        "Strike-Rate": "44.89",
+        "Opposition": "Western Province",
+        "Date": "2025/11/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "138",
+        "Runs": "476",
+        "Average": "4.29",
+        "Strike-Rate": "44.99",
+        "Opposition": "Western Province",
+        "Date": "2025/11/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "139",
+        "Runs": "476",
+        "Average": "4.25",
+        "Strike-Rate": "44.99",
+        "Opposition": "Dragons",
+        "Date": "2025/12/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "140",
+        "Runs": "476",
+        "Average": "4.21",
+        "Strike-Rate": "44.99",
+        "Opposition": "Dragons",
+        "Date": "2025/12/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "141",
+        "Runs": "493",
+        "Average": "4.32",
+        "Strike-Rate": "44.70",
+        "Opposition": "Dolphins",
+        "Date": "2025/12/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "142",
+        "Runs": "507",
+        "Average": "4.41",
+        "Strike-Rate": "45.11",
+        "Opposition": "Dolphins",
+        "Date": "2025/12/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "143",
+        "Runs": "517",
+        "Average": "4.46",
+        "Strike-Rate": "45.35",
+        "Opposition": "Badgers",
+        "Date": "2026/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "144",
+        "Runs": "525",
+        "Average": "4.49",
+        "Strike-Rate": "45.14",
+        "Opposition": "Badgers",
+        "Date": "2026/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "145",
+        "Runs": "541",
+        "Average": "4.58",
+        "Strike-Rate": "45.81",
+        "Opposition": "Western Province",
+        "Date": "2026/02/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "146",
+        "Runs": "558",
+        "Average": "4.69",
+        "Strike-Rate": "46.58",
+        "Opposition": "Western Province",
+        "Date": "2026/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "147",
+        "Runs": "568",
+        "Average": "4.73",
+        "Strike-Rate": "46.79",
+        "Opposition": "Titans",
+        "Date": "2026/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "148",
+        "Runs": "568",
+        "Average": "4.69",
+        "Strike-Rate": "46.79",
+        "Opposition": "Titans",
+        "Date": "2026/03/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "149",
+        "Runs": "568",
+        "Average": "4.66",
+        "Strike-Rate": "46.79",
+        "Opposition": "Dragons",
+        "Date": "2026/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "150",
+        "Runs": "571",
+        "Average": "4.64",
+        "Strike-Rate": "46.73",
+        "Opposition": "Western Province",
+        "Date": "2026/03/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "151",
+        "Runs": "576",
+        "Average": "4.65",
+        "Strike-Rate": "46.60",
+        "Opposition": "Western Province",
+        "Date": "2026/03/15",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "7.33",
+        "Economy": "3.67",
+        "Opposition": "Rhinos",
+        "Date": "2011/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "8.25",
+        "Economy": "2.06",
+        "Opposition": "Dolphins",
+        "Date": "2011/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "6.67",
+        "Economy": "1.90",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/10/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "8",
+        "Average": "6.75",
+        "Economy": "1.74",
+        "Opposition": "Titans",
+        "Date": "2011/10/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "8",
+        "Average": "7.00",
+        "Economy": "1.60",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "8",
+        "Average": "9.00",
+        "Economy": "1.85",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/01/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "9",
+        "Average": "8.33",
+        "Economy": "1.67",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/02/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "12",
+        "Average": "7.00",
+        "Economy": "1.53",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "12",
+        "Average": "11.08",
+        "Economy": "2.05",
+        "Opposition": "Titans",
+        "Date": "2012/03/24",
+        "Format": "List A"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "12",
+        "Average": "12.33",
+        "Economy": "1.97",
+        "Opposition": "Titans",
+        "Date": "2012/11/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "12",
+        "Average": "13.58",
+        "Economy": "1.99",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/01/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "13",
+        "Average": "13.23",
+        "Economy": "1.89",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/02/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "14",
+        "Average": "16.00",
+        "Economy": "2.22",
+        "Opposition": "Titans",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "15",
+        "Average": "16.87",
+        "Economy": "2.28",
+        "Opposition": "Dolphins",
+        "Date": "2013/04/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "15",
+        "Average": "19.13",
+        "Economy": "2.41",
+        "Opposition": "Western Province",
+        "Date": "2013/04/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "16",
+        "Wickets": "16",
+        "Average": "19.75",
+        "Economy": "2.44",
+        "Opposition": "Dolphins",
+        "Date": "2014/11/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "17",
+        "Wickets": "17",
+        "Average": "19.65",
+        "Economy": "2.45",
+        "Opposition": "Titans",
+        "Date": "2014/12/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "18",
+        "Wickets": "18",
+        "Average": "20.06",
+        "Economy": "2.47",
+        "Opposition": "Western Province",
+        "Date": "2015/01/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "19",
+        "Wickets": "18",
+        "Average": "22.00",
+        "Economy": "2.53",
+        "Opposition": "Knights",
+        "Date": "2015/03/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "20",
+        "Wickets": "19",
+        "Average": "22.42",
+        "Economy": "2.61",
+        "Opposition": "Boland",
+        "Date": "2015/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "21",
+        "Wickets": "21",
+        "Average": "21.14",
+        "Economy": "2.56",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "22",
+        "Wickets": "23",
+        "Average": "20.26",
+        "Economy": "2.54",
+        "Opposition": "Boland",
+        "Date": "2015/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "23",
+        "Wickets": "25",
+        "Average": "19.68",
+        "Economy": "2.57",
+        "Opposition": "Dragons",
+        "Date": "2015/04/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "24",
+        "Wickets": "29",
+        "Average": "17.97",
+        "Economy": "2.64",
+        "Opposition": "Titans",
+        "Date": "2015/04/10",
+        "Format": "List A"
+      },
+      {
+        "Innings": "25",
+        "Wickets": "29",
+        "Average": "19.21",
+        "Economy": "2.72",
+        "Opposition": "Boland",
+        "Date": "2015/04/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "26",
+        "Wickets": "29",
+        "Average": "19.31",
+        "Economy": "2.71",
+        "Opposition": "Titans",
+        "Date": "2015/11/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "27",
+        "Wickets": "35",
+        "Average": "16.46",
+        "Economy": "2.67",
+        "Opposition": "Knights",
+        "Date": "2016/01/16",
+        "Format": "List A"
+      },
+      {
+        "Innings": "28",
+        "Wickets": "37",
+        "Average": "16.11",
+        "Economy": "2.70",
+        "Opposition": "Western Province",
+        "Date": "2016/01/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "29",
+        "Wickets": "38",
+        "Average": "16.66",
+        "Economy": "2.74",
+        "Opposition": "Dragons",
+        "Date": "2016/02/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "30",
+        "Wickets": "39",
+        "Average": "16.59",
+        "Economy": "2.68",
+        "Opposition": "Dolphins",
+        "Date": "2016/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "31",
+        "Wickets": "41",
+        "Average": "15.98",
+        "Economy": "2.61",
+        "Opposition": "Titans",
+        "Date": "2016/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "32",
+        "Wickets": "41",
+        "Average": "16.76",
+        "Economy": "2.64",
+        "Opposition": "Western Province",
+        "Date": "2016/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "33",
+        "Wickets": "41",
+        "Average": "17.10",
+        "Economy": "2.65",
+        "Opposition": "Boland",
+        "Date": "2016/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "34",
+        "Wickets": "44",
+        "Average": "16.68",
+        "Economy": "2.67",
+        "Opposition": "Western Province",
+        "Date": "2016/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "35",
+        "Wickets": "45",
+        "Average": "16.84",
+        "Economy": "2.70",
+        "Opposition": "Warriors",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "36",
+        "Wickets": "46",
+        "Average": "17.41",
+        "Economy": "2.77",
+        "Opposition": "Boland",
+        "Date": "2017/01/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "37",
+        "Wickets": "46",
+        "Average": "18.02",
+        "Economy": "2.78",
+        "Opposition": "Dragons",
+        "Date": "2017/01/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "38",
+        "Wickets": "46",
+        "Average": "18.09",
+        "Economy": "2.78",
+        "Opposition": "Warriors",
+        "Date": "2017/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "39",
+        "Wickets": "46",
+        "Average": "18.15",
+        "Economy": "2.78",
+        "Opposition": "Iinyathi",
+        "Date": "2017/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "40",
+        "Wickets": "49",
+        "Average": "17.76",
+        "Economy": "2.80",
+        "Opposition": "Western Province",
+        "Date": "2017/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "41",
+        "Wickets": "49",
+        "Average": "18.22",
+        "Economy": "2.83",
+        "Opposition": "Titans",
+        "Date": "2017/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "42",
+        "Wickets": "49",
+        "Average": "19.45",
+        "Economy": "2.93",
+        "Opposition": "Dragons",
+        "Date": "2017/04/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "43",
+        "Wickets": "49",
+        "Average": "19.84",
+        "Economy": "2.90",
+        "Opposition": "Knights",
+        "Date": "2017/10/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "44",
+        "Wickets": "51",
+        "Average": "19.16",
+        "Economy": "2.87",
+        "Opposition": "Iinyathi",
+        "Date": "2017/11/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "45",
+        "Wickets": "51",
+        "Average": "19.53",
+        "Economy": "2.88",
+        "Opposition": "Western Province",
+        "Date": "2018/01/20",
+        "Format": "List A"
+      },
+      {
+        "Innings": "46",
+        "Wickets": "57",
+        "Average": "17.70",
+        "Economy": "2.84",
+        "Opposition": "Iinyathi",
+        "Date": "2018/04/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "47",
+        "Wickets": "62",
+        "Average": "16.27",
+        "Economy": "2.81",
+        "Opposition": "Titans",
+        "Date": "2018/04/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "48",
+        "Wickets": "63",
+        "Average": "16.78",
+        "Economy": "2.86",
+        "Opposition": "Western Province",
+        "Date": "2018/04/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "49",
+        "Wickets": "63",
+        "Average": "17.24",
+        "Economy": "2.88",
+        "Opposition": "Iinyathi",
+        "Date": "2018/10/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "50",
+        "Wickets": "63",
+        "Average": "17.52",
+        "Economy": "2.85",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "List A"
+      },
+      {
+        "Innings": "51",
+        "Wickets": "65",
+        "Average": "17.42",
+        "Economy": "2.85",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "52",
+        "Wickets": "66",
+        "Average": "17.92",
+        "Economy": "2.91",
+        "Opposition": "Dragons",
+        "Date": "2019/01/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "53",
+        "Wickets": "67",
+        "Average": "18.19",
+        "Economy": "2.95",
+        "Opposition": "Titans",
+        "Date": "2019/03/25",
+        "Format": "List A"
+      },
+      {
+        "Innings": "54",
+        "Wickets": "69",
+        "Average": "18.42",
+        "Economy": "3.00",
+        "Opposition": "Dragons",
+        "Date": "2019/03/26",
+        "Format": "List A"
+      },
+      {
+        "Innings": "55",
+        "Wickets": "72",
+        "Average": "17.76",
+        "Economy": "2.98",
+        "Opposition": "Dolphins",
+        "Date": "2019/03/27",
+        "Format": "List A"
+      },
+      {
+        "Innings": "56",
+        "Wickets": "74",
+        "Average": "17.66",
+        "Economy": "2.98",
+        "Opposition": "Boland",
+        "Date": "2019/03/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "57",
+        "Wickets": "77",
+        "Average": "17.42",
+        "Economy": "2.99",
+        "Opposition": "Dolphins",
+        "Date": "2019/03/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "58",
+        "Wickets": "77",
+        "Average": "17.84",
+        "Economy": "3.00",
+        "Opposition": "Dragons",
+        "Date": "2019/10/12",
+        "Format": "List A"
+      },
+      {
+        "Innings": "59",
+        "Wickets": "79",
+        "Average": "17.68",
+        "Economy": "2.99",
+        "Opposition": "Western Province",
+        "Date": "2021/03/17",
+        "Format": "List A"
+      },
+      {
+        "Innings": "60",
+        "Wickets": "80",
+        "Average": "17.65",
+        "Economy": "2.95",
+        "Opposition": "Titans",
+        "Date": "2021/03/18",
+        "Format": "List A"
+      },
+      {
+        "Innings": "61",
+        "Wickets": "80",
+        "Average": "17.89",
+        "Economy": "2.98",
+        "Opposition": "Western Province",
+        "Date": "2021/03/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "62",
+        "Wickets": "84",
+        "Average": "17.14",
+        "Economy": "2.93",
+        "Opposition": "Titans",
+        "Date": "2021/03/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "63",
+        "Wickets": "84",
+        "Average": "17.52",
+        "Economy": "2.98",
+        "Opposition": "Knights",
+        "Date": "2023/09/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "64",
+        "Wickets": "84",
+        "Average": "17.80",
+        "Economy": "3.00",
+        "Opposition": "Knights",
+        "Date": "2024/10/05",
+        "Format": "List A"
+      },
+      {
+        "Innings": "65",
+        "Wickets": "85",
+        "Average": "17.87",
+        "Economy": "3.03",
+        "Opposition": "Badgers",
+        "Date": "2024/10/19",
+        "Format": "List A"
+      },
+      {
+        "Innings": "66",
+        "Wickets": "86",
+        "Average": "18.35",
+        "Economy": "3.09",
+        "Opposition": "Dolphins",
+        "Date": "2024/12/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "67",
+        "Wickets": "88",
+        "Average": "18.15",
+        "Economy": "3.08",
+        "Opposition": "Knights",
+        "Date": "2025/02/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "68",
+        "Wickets": "91",
+        "Average": "17.79",
+        "Economy": "3.07",
+        "Opposition": "Western Province",
+        "Date": "2025/02/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "69",
+        "Wickets": "93",
+        "Average": "17.63",
+        "Economy": "3.05",
+        "Opposition": "Badgers",
+        "Date": "2025/03/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "70",
+        "Wickets": "98",
+        "Average": "16.85",
+        "Economy": "3.02",
+        "Opposition": "Dolphins",
+        "Date": "2025/03/08",
+        "Format": "List A"
+      },
+      {
+        "Innings": "71",
+        "Wickets": "100",
+        "Average": "16.77",
+        "Economy": "3.03",
+        "Opposition": "Titans",
+        "Date": "2025/03/22",
+        "Format": "List A"
+      },
+      {
+        "Innings": "72",
+        "Wickets": "103",
+        "Average": "16.80",
+        "Economy": "3.07",
+        "Opposition": "Dolphins",
+        "Date": "2025/10/04",
+        "Format": "List A"
+      },
+      {
+        "Innings": "73",
+        "Wickets": "105",
+        "Average": "16.61",
+        "Economy": "3.08",
+        "Opposition": "Badgers",
+        "Date": "2025/11/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "74",
+        "Wickets": "108",
+        "Average": "16.35",
+        "Economy": "3.06",
+        "Opposition": "Dragons",
+        "Date": "2025/12/06",
+        "Format": "List A"
+      },
+      {
+        "Innings": "75",
+        "Wickets": "108",
+        "Average": "16.55",
+        "Economy": "3.07",
+        "Opposition": "Dolphins",
+        "Date": "2025/12/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "76",
+        "Wickets": "108",
+        "Average": "16.83",
+        "Economy": "3.09",
+        "Opposition": "Badgers",
+        "Date": "2026/02/14",
+        "Format": "List A"
+      },
+      {
+        "Innings": "77",
+        "Wickets": "110",
+        "Average": "16.73",
+        "Economy": "3.07",
+        "Opposition": "Western Province",
+        "Date": "2026/02/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "78",
+        "Wickets": "110",
+        "Average": "16.75",
+        "Economy": "3.06",
+        "Opposition": "Titans",
+        "Date": "2026/02/28",
+        "Format": "List A"
+      },
+      {
+        "Innings": "79",
+        "Wickets": "110",
+        "Average": "16.95",
+        "Economy": "3.06",
+        "Opposition": "Western Province",
+        "Date": "2026/03/15",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "10.00",
+        "Economy": "2.50",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2012/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "5",
+        "Average": "3.00",
+        "Economy": "2.73",
+        "Opposition": "Rhinos",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "7.80",
+        "Economy": "4.11",
+        "Opposition": "Dragons",
+        "Date": "2012/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "7",
+        "Average": "6.29",
+        "Economy": "3.26",
+        "Opposition": "Titans",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "8",
+        "Average": "5.88",
+        "Economy": "2.69",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/10/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "8",
+        "Average": "6.88",
+        "Economy": "2.56",
+        "Opposition": "Knights",
+        "Date": "2012/10/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "10",
+        "Average": "6.90",
+        "Economy": "2.71",
+        "Opposition": "Western Province",
+        "Date": "2012/10/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "10",
+        "Average": "8.90",
+        "Economy": "3.24",
+        "Opposition": "Rhinos",
+        "Date": "2013/09/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "11",
+        "Average": "8.91",
+        "Economy": "3.11",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "11",
+        "Average": "10.73",
+        "Economy": "3.32",
+        "Opposition": "Titans",
+        "Date": "2013/10/12",
+        "Format": "T20"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "11",
+        "Average": "12.09",
+        "Economy": "3.37",
+        "Opposition": "Dragons",
+        "Date": "2013/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "11",
+        "Average": "12.73",
+        "Economy": "3.22",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/10/19",
+        "Format": "T20"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "11",
+        "Average": "14.64",
+        "Economy": "3.39",
+        "Opposition": "Dolphins",
+        "Date": "2014/11/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "11",
+        "Average": "16.36",
+        "Economy": "3.50",
+        "Opposition": "Titans",
+        "Date": "2014/12/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "14",
+        "Average": "13.86",
+        "Economy": "3.52",
+        "Opposition": "Knights",
+        "Date": "2015/03/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "16",
+        "Wickets": "14",
+        "Average": "15.07",
+        "Economy": "3.57",
+        "Opposition": "Boland",
+        "Date": "2015/03/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "17",
+        "Wickets": "15",
+        "Average": "15.20",
+        "Economy": "3.61",
+        "Opposition": "Titans",
+        "Date": "2015/11/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "18",
+        "Wickets": "18",
+        "Average": "13.39",
+        "Economy": "3.59",
+        "Opposition": "Boland",
+        "Date": "2015/11/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "19",
+        "Wickets": "20",
+        "Average": "12.80",
+        "Economy": "3.61",
+        "Opposition": "Western Province",
+        "Date": "2016/01/31",
+        "Format": "T20"
+      },
+      {
+        "Innings": "20",
+        "Wickets": "20",
+        "Average": "13.95",
+        "Economy": "3.73",
+        "Opposition": "Dragons",
+        "Date": "2016/02/28",
+        "Format": "T20"
+      },
+      {
+        "Innings": "21",
+        "Wickets": "21",
+        "Average": "13.90",
+        "Economy": "3.70",
+        "Opposition": "Warriors",
+        "Date": "2016/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "22",
+        "Wickets": "24",
+        "Average": "13.42",
+        "Economy": "3.89",
+        "Opposition": "Western Province",
+        "Date": "2016/11/27",
+        "Format": "T20"
+      },
+      {
+        "Innings": "23",
+        "Wickets": "25",
+        "Average": "13.28",
+        "Economy": "3.82",
+        "Opposition": "Boland",
+        "Date": "2017/01/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "24",
+        "Wickets": "26",
+        "Average": "13.85",
+        "Economy": "3.96",
+        "Opposition": "Dragons",
+        "Date": "2017/01/29",
+        "Format": "T20"
+      },
+      {
+        "Innings": "25",
+        "Wickets": "27",
+        "Average": "14.26",
+        "Economy": "4.06",
+        "Opposition": "Knights",
+        "Date": "2017/02/26",
+        "Format": "T20"
+      },
+      {
+        "Innings": "26",
+        "Wickets": "28",
+        "Average": "14.04",
+        "Economy": "3.98",
+        "Opposition": "Knights",
+        "Date": "2017/10/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "27",
+        "Wickets": "28",
+        "Average": "14.86",
+        "Economy": "4.05",
+        "Opposition": "Iinyathi",
+        "Date": "2017/11/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "28",
+        "Wickets": "28",
+        "Average": "15.71",
+        "Economy": "4.20",
+        "Opposition": "Western Province",
+        "Date": "2018/01/21",
+        "Format": "T20"
+      },
+      {
+        "Innings": "29",
+        "Wickets": "29",
+        "Average": "15.90",
+        "Economy": "4.24",
+        "Opposition": "Titans",
+        "Date": "2018/11/04",
+        "Format": "T20"
+      },
+      {
+        "Innings": "30",
+        "Wickets": "31",
+        "Average": "15.35",
+        "Economy": "4.22",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "31",
+        "Wickets": "31",
+        "Average": "15.71",
+        "Economy": "4.26",
+        "Opposition": "Dragons",
+        "Date": "2019/01/20",
+        "Format": "T20"
+      },
+      {
+        "Innings": "32",
+        "Wickets": "31",
+        "Average": "16.29",
+        "Economy": "4.27",
+        "Opposition": "Dragons",
+        "Date": "2019/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "33",
+        "Wickets": "31",
+        "Average": "16.61",
+        "Economy": "4.32",
+        "Opposition": "Titans",
+        "Date": "2022/10/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "34",
+        "Wickets": "31",
+        "Average": "17.00",
+        "Economy": "4.38",
+        "Opposition": "Dolphins",
+        "Date": "2024/02/18",
+        "Format": "T20"
+      },
+      {
+        "Innings": "35",
+        "Wickets": "31",
+        "Average": "17.42",
+        "Economy": "4.45",
+        "Opposition": "Western Province",
+        "Date": "2024/03/24",
+        "Format": "T20"
+      },
+      {
+        "Innings": "36",
+        "Wickets": "31",
+        "Average": "18.03",
+        "Economy": "4.50",
+        "Opposition": "Knights",
+        "Date": "2024/10/06",
+        "Format": "T20"
+      },
+      {
+        "Innings": "37",
+        "Wickets": "32",
+        "Average": "17.88",
+        "Economy": "4.53",
+        "Opposition": "Titans",
+        "Date": "2024/11/03",
+        "Format": "T20"
+      },
+      {
+        "Innings": "38",
+        "Wickets": "35",
+        "Average": "17.03",
+        "Economy": "4.57",
+        "Opposition": "Dolphins",
+        "Date": "2024/12/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "39",
+        "Wickets": "35",
+        "Average": "17.83",
+        "Economy": "4.65",
+        "Opposition": "Western Province",
+        "Date": "2025/02/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "40",
+        "Wickets": "36",
+        "Average": "17.92",
+        "Economy": "4.66",
+        "Opposition": "Badgers",
+        "Date": "2025/03/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "41",
+        "Wickets": "40",
+        "Average": "16.68",
+        "Economy": "4.69",
+        "Opposition": "Dolphins",
+        "Date": "2025/03/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "42",
+        "Wickets": "40",
+        "Average": "17.45",
+        "Economy": "4.84",
+        "Opposition": "Titans",
+        "Date": "2025/03/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "43",
+        "Wickets": "44",
+        "Average": "16.23",
+        "Economy": "4.82",
+        "Opposition": "Dolphins",
+        "Date": "2025/10/05",
+        "Format": "T20"
+      },
+      {
+        "Innings": "44",
+        "Wickets": "45",
+        "Average": "16.44",
+        "Economy": "4.86",
+        "Opposition": "Badgers",
+        "Date": "2025/11/02",
+        "Format": "T20"
+      },
+      {
+        "Innings": "45",
+        "Wickets": "46",
+        "Average": "16.35",
+        "Economy": "4.88",
+        "Opposition": "Titans",
+        "Date": "2025/11/09",
+        "Format": "T20"
+      },
+      {
+        "Innings": "46",
+        "Wickets": "46",
+        "Average": "16.59",
+        "Economy": "4.92",
+        "Opposition": "Western Province",
+        "Date": "2025/11/23",
+        "Format": "T20"
+      },
+      {
+        "Innings": "47",
+        "Wickets": "47",
+        "Average": "16.79",
+        "Economy": "4.96",
+        "Opposition": "Dragons",
+        "Date": "2025/12/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "48",
+        "Wickets": "47",
+        "Average": "17.02",
+        "Economy": "4.99",
+        "Opposition": "Dolphins",
+        "Date": "2025/12/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "49",
+        "Wickets": "49",
+        "Average": "16.63",
+        "Economy": "4.96",
+        "Opposition": "Badgers",
+        "Date": "2026/02/15",
+        "Format": "T20"
+      },
+      {
+        "Innings": "50",
+        "Wickets": "50",
+        "Average": "16.56",
+        "Economy": "4.92",
+        "Opposition": "Western Province",
+        "Date": "2026/02/22",
+        "Format": "T20"
+      },
+      {
+        "Innings": "51",
+        "Wickets": "50",
+        "Average": "16.72",
+        "Economy": "4.93",
+        "Opposition": "Titans",
+        "Date": "2026/03/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "52",
+        "Wickets": "50",
+        "Average": "16.82",
+        "Economy": "4.93",
+        "Opposition": "Dragons",
+        "Date": "2026/03/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "53",
+        "Wickets": "54",
+        "Average": "15.74",
+        "Economy": "4.87",
+        "Opposition": "Western Province",
+        "Date": "2026/03/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "7.33",
+        "Economy": "3.67",
+        "Opposition": "Rhinos",
+        "Date": "2011/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "4",
+        "Average": "8.25",
+        "Economy": "2.06",
+        "Opposition": "Dolphins",
+        "Date": "2011/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "6",
+        "Average": "6.67",
+        "Economy": "1.90",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/10/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "8",
+        "Average": "6.75",
+        "Economy": "1.74",
+        "Opposition": "Titans",
+        "Date": "2011/10/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "8",
+        "Average": "7.00",
+        "Economy": "1.60",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2011/11/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "8",
+        "Average": "9.00",
+        "Economy": "1.85",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/01/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "9",
+        "Average": "8.33",
+        "Economy": "1.67",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/02/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "12",
+        "Average": "7.00",
+        "Economy": "1.53",
+        "Opposition": "Rhinos",
+        "Date": "2012/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Wickets": "12",
+        "Average": "11.08",
+        "Economy": "2.05",
+        "Opposition": "Titans",
+        "Date": "2012/03/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "10",
+        "Wickets": "13",
+        "Average": "11.00",
+        "Economy": "2.07",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2012/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "11",
+        "Wickets": "17",
+        "Average": "8.71",
+        "Economy": "2.10",
+        "Opposition": "Rhinos",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "12",
+        "Wickets": "17",
+        "Average": "10.12",
+        "Economy": "2.31",
+        "Opposition": "Dragons",
+        "Date": "2012/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "13",
+        "Wickets": "19",
+        "Average": "9.32",
+        "Economy": "2.25",
+        "Opposition": "Titans",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "14",
+        "Wickets": "20",
+        "Average": "9.00",
+        "Economy": "2.18",
+        "Opposition": "Eastern Storm",
+        "Date": "2012/10/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "15",
+        "Wickets": "20",
+        "Average": "9.40",
+        "Economy": "2.17",
+        "Opposition": "Knights",
+        "Date": "2012/10/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "16",
+        "Wickets": "22",
+        "Average": "9.18",
+        "Economy": "2.23",
+        "Opposition": "Western Province",
+        "Date": "2012/10/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "17",
+        "Wickets": "22",
+        "Average": "9.86",
+        "Economy": "2.16",
+        "Opposition": "Titans",
+        "Date": "2012/11/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "18",
+        "Wickets": "22",
+        "Average": "10.55",
+        "Economy": "2.16",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/01/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "19",
+        "Wickets": "23",
+        "Average": "10.48",
+        "Economy": "2.07",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "20",
+        "Wickets": "24",
+        "Average": "12.21",
+        "Economy": "2.32",
+        "Opposition": "Titans",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "21",
+        "Wickets": "25",
+        "Average": "12.88",
+        "Economy": "2.36",
+        "Opposition": "Dolphins",
+        "Date": "2013/04/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "22",
+        "Wickets": "25",
+        "Average": "14.24",
+        "Economy": "2.46",
+        "Opposition": "Western Province",
+        "Date": "2013/04/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "23",
+        "Wickets": "25",
+        "Average": "15.04",
+        "Economy": "2.56",
+        "Opposition": "Rhinos",
+        "Date": "2013/09/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "24",
+        "Wickets": "26",
+        "Average": "14.81",
+        "Economy": "2.55",
+        "Opposition": "Eastern Storm",
+        "Date": "2013/10/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "25",
+        "Wickets": "26",
+        "Average": "15.58",
+        "Economy": "2.62",
+        "Opposition": "Titans",
+        "Date": "2013/10/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "26",
+        "Wickets": "26",
+        "Average": "16.15",
+        "Economy": "2.64",
+        "Opposition": "Dragons",
+        "Date": "2013/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "27",
+        "Wickets": "26",
+        "Average": "16.42",
+        "Economy": "2.62",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2013/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "28",
+        "Wickets": "27",
+        "Average": "16.89",
+        "Economy": "2.64",
+        "Opposition": "Dolphins",
+        "Date": "2014/11/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "29",
+        "Wickets": "27",
+        "Average": "17.67",
+        "Economy": "2.70",
+        "Opposition": "Dolphins",
+        "Date": "2014/11/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "30",
+        "Wickets": "28",
+        "Average": "17.68",
+        "Economy": "2.69",
+        "Opposition": "Titans",
+        "Date": "2014/12/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "31",
+        "Wickets": "28",
+        "Average": "18.36",
+        "Economy": "2.74",
+        "Opposition": "Titans",
+        "Date": "2014/12/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "32",
+        "Wickets": "29",
+        "Average": "18.66",
+        "Economy": "2.73",
+        "Opposition": "Western Province",
+        "Date": "2015/01/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "33",
+        "Wickets": "29",
+        "Average": "19.86",
+        "Economy": "2.77",
+        "Opposition": "Knights",
+        "Date": "2015/03/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "34",
+        "Wickets": "32",
+        "Average": "18.44",
+        "Economy": "2.79",
+        "Opposition": "Knights",
+        "Date": "2015/03/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "35",
+        "Wickets": "33",
+        "Average": "18.79",
+        "Economy": "2.84",
+        "Opposition": "Boland",
+        "Date": "2015/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "36",
+        "Wickets": "33",
+        "Average": "19.30",
+        "Economy": "2.86",
+        "Opposition": "Boland",
+        "Date": "2015/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "37",
+        "Wickets": "35",
+        "Average": "18.71",
+        "Economy": "2.82",
+        "Opposition": "Dolphins",
+        "Date": "2015/04/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "38",
+        "Wickets": "37",
+        "Average": "18.30",
+        "Economy": "2.79",
+        "Opposition": "Boland",
+        "Date": "2015/04/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "39",
+        "Wickets": "39",
+        "Average": "18.03",
+        "Economy": "2.81",
+        "Opposition": "Dragons",
+        "Date": "2015/04/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "40",
+        "Wickets": "43",
+        "Average": "17.02",
+        "Economy": "2.85",
+        "Opposition": "Titans",
+        "Date": "2015/04/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "41",
+        "Wickets": "43",
+        "Average": "17.86",
+        "Economy": "2.91",
+        "Opposition": "Boland",
+        "Date": "2015/04/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "42",
+        "Wickets": "43",
+        "Average": "17.93",
+        "Economy": "2.90",
+        "Opposition": "Titans",
+        "Date": "2015/11/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "43",
+        "Wickets": "44",
+        "Average": "17.91",
+        "Economy": "2.92",
+        "Opposition": "Titans",
+        "Date": "2015/11/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "44",
+        "Wickets": "47",
+        "Average": "17.04",
+        "Economy": "2.92",
+        "Opposition": "Boland",
+        "Date": "2015/11/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "45",
+        "Wickets": "53",
+        "Average": "15.42",
+        "Economy": "2.89",
+        "Opposition": "Knights",
+        "Date": "2016/01/16",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "46",
+        "Wickets": "55",
+        "Average": "15.22",
+        "Economy": "2.90",
+        "Opposition": "Western Province",
+        "Date": "2016/01/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "47",
+        "Wickets": "57",
+        "Average": "14.95",
+        "Economy": "2.92",
+        "Opposition": "Western Province",
+        "Date": "2016/01/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "48",
+        "Wickets": "58",
+        "Average": "15.33",
+        "Economy": "2.95",
+        "Opposition": "Dragons",
+        "Date": "2016/02/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "49",
+        "Wickets": "58",
+        "Average": "15.72",
+        "Economy": "2.98",
+        "Opposition": "Dragons",
+        "Date": "2016/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "50",
+        "Wickets": "59",
+        "Average": "15.69",
+        "Economy": "2.93",
+        "Opposition": "Dolphins",
+        "Date": "2016/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "51",
+        "Wickets": "61",
+        "Average": "15.31",
+        "Economy": "2.87",
+        "Opposition": "Titans",
+        "Date": "2016/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "52",
+        "Wickets": "61",
+        "Average": "15.84",
+        "Economy": "2.89",
+        "Opposition": "Western Province",
+        "Date": "2016/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "53",
+        "Wickets": "61",
+        "Average": "16.07",
+        "Economy": "2.88",
+        "Opposition": "Boland",
+        "Date": "2016/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "54",
+        "Wickets": "64",
+        "Average": "15.83",
+        "Economy": "2.90",
+        "Opposition": "Western Province",
+        "Date": "2016/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "55",
+        "Wickets": "65",
+        "Average": "15.95",
+        "Economy": "2.91",
+        "Opposition": "Warriors",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "56",
+        "Wickets": "66",
+        "Average": "15.91",
+        "Economy": "2.92",
+        "Opposition": "Warriors",
+        "Date": "2016/10/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "57",
+        "Wickets": "69",
+        "Average": "15.65",
+        "Economy": "2.97",
+        "Opposition": "Western Province",
+        "Date": "2016/11/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "58",
+        "Wickets": "70",
+        "Average": "16.04",
+        "Economy": "3.01",
+        "Opposition": "Boland",
+        "Date": "2017/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "59",
+        "Wickets": "71",
+        "Average": "15.96",
+        "Economy": "3.01",
+        "Opposition": "Boland",
+        "Date": "2017/01/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "60",
+        "Wickets": "71",
+        "Average": "16.35",
+        "Economy": "3.01",
+        "Opposition": "Dragons",
+        "Date": "2017/01/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "61",
+        "Wickets": "72",
+        "Average": "16.51",
+        "Economy": "3.05",
+        "Opposition": "Dragons",
+        "Date": "2017/01/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "62",
+        "Wickets": "73",
+        "Average": "16.63",
+        "Economy": "3.09",
+        "Opposition": "Knights",
+        "Date": "2017/02/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "63",
+        "Wickets": "73",
+        "Average": "16.67",
+        "Economy": "3.08",
+        "Opposition": "Warriors",
+        "Date": "2017/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "64",
+        "Wickets": "73",
+        "Average": "16.71",
+        "Economy": "3.08",
+        "Opposition": "Iinyathi",
+        "Date": "2017/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "65",
+        "Wickets": "76",
+        "Average": "16.51",
+        "Economy": "3.09",
+        "Opposition": "Western Province",
+        "Date": "2017/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "66",
+        "Wickets": "76",
+        "Average": "16.82",
+        "Economy": "3.11",
+        "Opposition": "Titans",
+        "Date": "2017/04/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "67",
+        "Wickets": "76",
+        "Average": "17.61",
+        "Economy": "3.18",
+        "Opposition": "Dragons",
+        "Date": "2017/04/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "68",
+        "Wickets": "76",
+        "Average": "17.86",
+        "Economy": "3.15",
+        "Opposition": "Knights",
+        "Date": "2017/10/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "69",
+        "Wickets": "77",
+        "Average": "17.73",
+        "Economy": "3.14",
+        "Opposition": "Knights",
+        "Date": "2017/10/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "70",
+        "Wickets": "79",
+        "Average": "17.34",
+        "Economy": "3.12",
+        "Opposition": "Iinyathi",
+        "Date": "2017/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "71",
+        "Wickets": "79",
+        "Average": "17.63",
+        "Economy": "3.14",
+        "Opposition": "Iinyathi",
+        "Date": "2017/11/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "72",
+        "Wickets": "79",
+        "Average": "17.87",
+        "Economy": "3.15",
+        "Opposition": "Western Province",
+        "Date": "2018/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "73",
+        "Wickets": "79",
+        "Average": "18.18",
+        "Economy": "3.19",
+        "Opposition": "Western Province",
+        "Date": "2018/01/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "74",
+        "Wickets": "85",
+        "Average": "17.05",
+        "Economy": "3.15",
+        "Opposition": "Iinyathi",
+        "Date": "2018/04/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "75",
+        "Wickets": "90",
+        "Average": "16.10",
+        "Economy": "3.12",
+        "Opposition": "Titans",
+        "Date": "2018/04/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "76",
+        "Wickets": "91",
+        "Average": "16.45",
+        "Economy": "3.15",
+        "Opposition": "Western Province",
+        "Date": "2018/04/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "77",
+        "Wickets": "91",
+        "Average": "16.77",
+        "Economy": "3.17",
+        "Opposition": "Iinyathi",
+        "Date": "2018/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "78",
+        "Wickets": "91",
+        "Average": "16.97",
+        "Economy": "3.14",
+        "Opposition": "Titans",
+        "Date": "2018/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "79",
+        "Wickets": "92",
+        "Average": "17.01",
+        "Economy": "3.16",
+        "Opposition": "Titans",
+        "Date": "2018/11/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "80",
+        "Wickets": "94",
+        "Average": "16.95",
+        "Economy": "3.15",
+        "Opposition": "Western Province",
+        "Date": "2018/12/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "81",
+        "Wickets": "96",
+        "Average": "16.75",
+        "Economy": "3.15",
+        "Opposition": "Western Province",
+        "Date": "2018/12/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "82",
+        "Wickets": "97",
+        "Average": "17.10",
+        "Economy": "3.19",
+        "Opposition": "Dragons",
+        "Date": "2019/01/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "83",
+        "Wickets": "97",
+        "Average": "17.22",
+        "Economy": "3.20",
+        "Opposition": "Dragons",
+        "Date": "2019/01/20",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "84",
+        "Wickets": "98",
+        "Average": "17.41",
+        "Economy": "3.23",
+        "Opposition": "Titans",
+        "Date": "2019/03/25",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "85",
+        "Wickets": "100",
+        "Average": "17.58",
+        "Economy": "3.27",
+        "Opposition": "Dragons",
+        "Date": "2019/03/26",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "86",
+        "Wickets": "103",
+        "Average": "17.15",
+        "Economy": "3.25",
+        "Opposition": "Dolphins",
+        "Date": "2019/03/27",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "87",
+        "Wickets": "105",
+        "Average": "17.09",
+        "Economy": "3.24",
+        "Opposition": "Boland",
+        "Date": "2019/03/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "88",
+        "Wickets": "108",
+        "Average": "16.93",
+        "Economy": "3.24",
+        "Opposition": "Dolphins",
+        "Date": "2019/03/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "89",
+        "Wickets": "108",
+        "Average": "17.23",
+        "Economy": "3.25",
+        "Opposition": "Dragons",
+        "Date": "2019/10/12",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "90",
+        "Wickets": "108",
+        "Average": "17.40",
+        "Economy": "3.26",
+        "Opposition": "Dragons",
+        "Date": "2019/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "91",
+        "Wickets": "110",
+        "Average": "17.29",
+        "Economy": "3.24",
+        "Opposition": "Western Province",
+        "Date": "2021/03/17",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "92",
+        "Wickets": "111",
+        "Average": "17.27",
+        "Economy": "3.21",
+        "Opposition": "Titans",
+        "Date": "2021/03/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "93",
+        "Wickets": "111",
+        "Average": "17.44",
+        "Economy": "3.23",
+        "Opposition": "Western Province",
+        "Date": "2021/03/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "94",
+        "Wickets": "115",
+        "Average": "16.91",
+        "Economy": "3.19",
+        "Opposition": "Titans",
+        "Date": "2021/03/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "95",
+        "Wickets": "115",
+        "Average": "17.00",
+        "Economy": "3.20",
+        "Opposition": "Titans",
+        "Date": "2022/10/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "96",
+        "Wickets": "115",
+        "Average": "17.28",
+        "Economy": "3.24",
+        "Opposition": "Knights",
+        "Date": "2023/09/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "97",
+        "Wickets": "115",
+        "Average": "17.38",
+        "Economy": "3.25",
+        "Opposition": "Dolphins",
+        "Date": "2024/02/18",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "98",
+        "Wickets": "115",
+        "Average": "17.50",
+        "Economy": "3.27",
+        "Opposition": "Western Province",
+        "Date": "2024/03/24",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "99",
+        "Wickets": "115",
+        "Average": "17.70",
+        "Economy": "3.29",
+        "Opposition": "Knights",
+        "Date": "2024/10/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "100",
+        "Wickets": "115",
+        "Average": "17.86",
+        "Economy": "3.30",
+        "Opposition": "Knights",
+        "Date": "2024/10/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "101",
+        "Wickets": "116",
+        "Average": "17.91",
+        "Economy": "3.32",
+        "Opposition": "Badgers",
+        "Date": "2024/10/19",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "102",
+        "Wickets": "117",
+        "Average": "17.87",
+        "Economy": "3.33",
+        "Opposition": "Titans",
+        "Date": "2024/11/03",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "103",
+        "Wickets": "118",
+        "Average": "18.22",
+        "Economy": "3.37",
+        "Opposition": "Dolphins",
+        "Date": "2024/12/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "104",
+        "Wickets": "121",
+        "Average": "17.97",
+        "Economy": "3.39",
+        "Opposition": "Dolphins",
+        "Date": "2024/12/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "105",
+        "Wickets": "123",
+        "Average": "17.83",
+        "Economy": "3.38",
+        "Opposition": "Knights",
+        "Date": "2025/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "106",
+        "Wickets": "126",
+        "Average": "17.58",
+        "Economy": "3.36",
+        "Opposition": "Western Province",
+        "Date": "2025/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "107",
+        "Wickets": "126",
+        "Average": "17.80",
+        "Economy": "3.39",
+        "Opposition": "Western Province",
+        "Date": "2025/02/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "108",
+        "Wickets": "128",
+        "Average": "17.69",
+        "Economy": "3.37",
+        "Opposition": "Badgers",
+        "Date": "2025/03/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "109",
+        "Wickets": "129",
+        "Average": "17.71",
+        "Economy": "3.38",
+        "Opposition": "Badgers",
+        "Date": "2025/03/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "110",
+        "Wickets": "134",
+        "Average": "17.13",
+        "Economy": "3.36",
+        "Opposition": "Dolphins",
+        "Date": "2025/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "111",
+        "Wickets": "138",
+        "Average": "16.80",
+        "Economy": "3.37",
+        "Opposition": "Dolphins",
+        "Date": "2025/03/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "112",
+        "Wickets": "140",
+        "Average": "16.74",
+        "Economy": "3.37",
+        "Opposition": "Titans",
+        "Date": "2025/03/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "113",
+        "Wickets": "140",
+        "Average": "16.96",
+        "Economy": "3.41",
+        "Opposition": "Titans",
+        "Date": "2025/03/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "114",
+        "Wickets": "143",
+        "Average": "16.98",
+        "Economy": "3.43",
+        "Opposition": "Dolphins",
+        "Date": "2025/10/04",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "115",
+        "Wickets": "147",
+        "Average": "16.63",
+        "Economy": "3.44",
+        "Opposition": "Dolphins",
+        "Date": "2025/10/05",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "116",
+        "Wickets": "149",
+        "Average": "16.50",
+        "Economy": "3.44",
+        "Opposition": "Badgers",
+        "Date": "2025/11/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "117",
+        "Wickets": "150",
+        "Average": "16.56",
+        "Economy": "3.45",
+        "Opposition": "Badgers",
+        "Date": "2025/11/02",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "118",
+        "Wickets": "151",
+        "Average": "16.53",
+        "Economy": "3.46",
+        "Opposition": "Titans",
+        "Date": "2025/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "119",
+        "Wickets": "151",
+        "Average": "16.60",
+        "Economy": "3.47",
+        "Opposition": "Western Province",
+        "Date": "2025/11/23",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "120",
+        "Wickets": "154",
+        "Average": "16.42",
+        "Economy": "3.45",
+        "Opposition": "Dragons",
+        "Date": "2025/12/06",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "121",
+        "Wickets": "155",
+        "Average": "16.48",
+        "Economy": "3.47",
+        "Opposition": "Dragons",
+        "Date": "2025/12/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "122",
+        "Wickets": "155",
+        "Average": "16.62",
+        "Economy": "3.47",
+        "Opposition": "Dolphins",
+        "Date": "2025/12/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "123",
+        "Wickets": "155",
+        "Average": "16.69",
+        "Economy": "3.48",
+        "Opposition": "Dolphins",
+        "Date": "2025/12/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "124",
+        "Wickets": "155",
+        "Average": "16.89",
+        "Economy": "3.49",
+        "Opposition": "Badgers",
+        "Date": "2026/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "125",
+        "Wickets": "157",
+        "Average": "16.77",
+        "Economy": "3.50",
+        "Opposition": "Badgers",
+        "Date": "2026/02/15",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "126",
+        "Wickets": "159",
+        "Average": "16.70",
+        "Economy": "3.48",
+        "Opposition": "Western Province",
+        "Date": "2026/02/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "127",
+        "Wickets": "160",
+        "Average": "16.68",
+        "Economy": "3.48",
+        "Opposition": "Western Province",
+        "Date": "2026/02/22",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "128",
+        "Wickets": "160",
+        "Average": "16.69",
+        "Economy": "3.46",
+        "Opposition": "Titans",
+        "Date": "2026/02/28",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "129",
+        "Wickets": "160",
+        "Average": "16.74",
+        "Economy": "3.47",
+        "Opposition": "Titans",
+        "Date": "2026/03/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "130",
+        "Wickets": "160",
+        "Average": "16.77",
+        "Economy": "3.47",
+        "Opposition": "Dragons",
+        "Date": "2026/03/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "131",
+        "Wickets": "164",
+        "Average": "16.42",
+        "Economy": "3.46",
+        "Opposition": "Western Province",
+        "Date": "2026/03/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "132",
+        "Wickets": "164",
+        "Average": "16.55",
+        "Economy": "3.46",
+        "Opposition": "Western Province",
+        "Date": "2026/03/15",
+        "Format": "OVERALL"
       }
     ]
   },

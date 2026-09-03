@@ -239,7 +239,7 @@
         "Not Out": "0",
         "Runs": "32",
         "Highest Score": "21",
-        "Average": "8.00",
+        "Average": "10.67",
         "Strike-Rate": "133.33",
         "100s": "0",
         "50s": "0",
@@ -256,7 +256,7 @@
         "Not Out": "0",
         "Runs": "18",
         "Highest Score": "10",
-        "Average": "6.00",
+        "Average": "9.00",
         "Strike-Rate": "150.00",
         "100s": "0",
         "50s": "0",
@@ -641,6 +641,318 @@
         "Bowling": "0/6",
         "Fielding": "",
         "Match_Slug": "2015-11-01-badgers-kei"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "21",
+        "Average": "21.00",
+        "Strike-Rate": "175.00",
+        "Opposition": "Kei",
+        "Date": "2015/10/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "21",
+        "Average": "10.50",
+        "Strike-Rate": "131.25",
+        "Opposition": "Warriors",
+        "Date": "2015/11/07",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "32",
+        "Average": "10.67",
+        "Strike-Rate": "133.33",
+        "Opposition": "Iinyathi",
+        "Date": "2015/11/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "32",
+        "Average": "8.00",
+        "Strike-Rate": "133.33",
+        "Opposition": "Heat",
+        "Date": "2016/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "5",
+        "Runs": "33",
+        "Average": "6.60",
+        "Strike-Rate": "113.79",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "8.00",
+        "Strike-Rate": "160.00",
+        "Opposition": "Kei",
+        "Date": "2015/11/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "18",
+        "Average": "9.00",
+        "Strike-Rate": "150.00",
+        "Opposition": "Warriors",
+        "Date": "2015/11/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "18",
+        "Average": "6.00",
+        "Strike-Rate": "150.00",
+        "Opposition": "Heat",
+        "Date": "2016/02/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Runs": "18",
+        "Average": "4.50",
+        "Strike-Rate": "150.00",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "21",
+        "Average": "21.00",
+        "Strike-Rate": "175.00",
+        "Opposition": "Kei",
+        "Date": "2015/10/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "29",
+        "Average": "14.50",
+        "Strike-Rate": "170.59",
+        "Opposition": "Kei",
+        "Date": "2015/11/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "29",
+        "Average": "9.67",
+        "Strike-Rate": "138.10",
+        "Opposition": "Warriors",
+        "Date": "2015/11/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "39",
+        "Average": "9.75",
+        "Strike-Rate": "139.29",
+        "Opposition": "Warriors",
+        "Date": "2015/11/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Runs": "50",
+        "Average": "10.00",
+        "Strike-Rate": "138.89",
+        "Opposition": "Iinyathi",
+        "Date": "2015/11/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Runs": "50",
+        "Average": "8.33",
+        "Strike-Rate": "138.89",
+        "Opposition": "Heat",
+        "Date": "2016/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Runs": "50",
+        "Average": "7.14",
+        "Strike-Rate": "138.89",
+        "Opposition": "Heat",
+        "Date": "2016/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Runs": "51",
+        "Average": "6.38",
+        "Strike-Rate": "124.39",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "9",
+        "Runs": "51",
+        "Average": "5.67",
+        "Strike-Rate": "124.39",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/30",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "1.50",
+        "Economy": "0.60",
+        "Opposition": "Kei",
+        "Date": "2015/10/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "9.00",
+        "Economy": "2.57",
+        "Opposition": "Iinyathi",
+        "Date": "2015/11/21",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "14.50",
+        "Economy": "2.42",
+        "Opposition": "Heat",
+        "Date": "2016/02/13",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "23.50",
+        "Economy": "3.36",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00",
+        "Opposition": "Kei",
+        "Date": "2015/11/01",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.60",
+        "Opposition": "Warriors",
+        "Date": "2015/11/08",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.67",
+        "Opposition": "Heat",
+        "Date": "2016/02/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "78.00",
+        "Economy": "6.00",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/30",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "1.50",
+        "Economy": "0.60",
+        "Opposition": "Kei",
+        "Date": "2015/10/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "4.50",
+        "Economy": "1.50",
+        "Opposition": "Kei",
+        "Date": "2015/11/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "2",
+        "Average": "20.50",
+        "Economy": "4.10",
+        "Opposition": "Warriors",
+        "Date": "2015/11/08",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "2",
+        "Average": "28.00",
+        "Economy": "4.67",
+        "Opposition": "Iinyathi",
+        "Date": "2015/11/21",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "5",
+        "Wickets": "2",
+        "Average": "33.50",
+        "Economy": "3.94",
+        "Opposition": "Heat",
+        "Date": "2016/02/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "6",
+        "Wickets": "2",
+        "Average": "40.00",
+        "Economy": "3.81",
+        "Opposition": "Heat",
+        "Date": "2016/02/14",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "7",
+        "Wickets": "2",
+        "Average": "49.00",
+        "Economy": "4.26",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "8",
+        "Wickets": "3",
+        "Average": "41.67",
+        "Economy": "4.63",
+        "Opposition": "Tuskers",
+        "Date": "2016/10/30",
+        "Format": "OVERALL"
       }
     ]
   }

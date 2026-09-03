@@ -25,31 +25,6 @@
     "source_key": "guess_player_from_stats"
   },
   {
-    "date": "2026-09-03",
-    "template": "q_player_record",
-    "source_key": "records/partnerships/json/Highest_Partnership.json"
-  },
-  {
-    "date": "2026-09-03",
-    "template": "q_which_union",
-    "source_key": "which_union"
-  },
-  {
-    "date": "2026-09-03",
-    "template": "q_venue_record",
-    "source_key": "venue:United CC Ground"
-  },
-  {
-    "date": "2026-09-03",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Asanda Zondi"
-  },
-  {
-    "date": "2026-09-03",
-    "template": "q_player_record",
-    "source_key": "records/bowling/json/Most_5Wickets.json"
-  },
-  {
     "date": "2026-09-04",
     "template": "q_team_record",
     "source_key": "records/team/json/Most_Wins.json"
@@ -57,7 +32,7 @@
   {
     "date": "2026-09-04",
     "template": "q_head_to_head",
-    "source_key": "h2h:Dragons-Rhinos:List A"
+    "source_key": "h2h:Boland-Lions:List A"
   },
   {
     "date": "2026-09-04",
@@ -72,32 +47,32 @@
   {
     "date": "2026-09-04",
     "template": "q_doubles_higher_lower",
-    "source_key": "D_50_5"
+    "source_key": "D_50_4"
   },
   {
     "date": "2026-09-05",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Mieke de Ridder"
+    "source_key": "career_best_venue:Terry-Lee Kleynhans"
   },
   {
     "date": "2026-09-05",
     "template": "q_doubles_higher_lower",
-    "source_key": "D_100_3"
+    "source_key": "D_100_4"
   },
   {
     "date": "2026-09-05",
     "template": "q_venue_record",
-    "source_key": "venue:Victory Park"
-  },
-  {
-    "date": "2026-09-05",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/50Plus_Scores.json"
+    "source_key": "venue:Boland Park, Paarl"
   },
   {
     "date": "2026-09-05",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:List A"
+    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
+  },
+  {
+    "date": "2026-09-05",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Fours.json"
   },
   {
     "date": "2026-09-06",
@@ -107,21 +82,46 @@
   {
     "date": "2026-09-06",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Boland:Largest Win by Runs:T20"
+    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:T20"
   },
   {
     "date": "2026-09-06",
     "template": "q_reverse_record",
-    "source_key": "records/bowling/json/Most_Maidens.json"
+    "source_key": "records/batting/json/Highest_Score.json"
   },
   {
     "date": "2026-09-06",
     "template": "q_head_to_head",
-    "source_key": "h2h:Limpopo Lillies-Rhinos:List A"
+    "source_key": "h2h:Rhinos-Titans:List A"
   },
   {
     "date": "2026-09-06",
     "template": "q_doubles_higher_lower",
-    "source_key": "D_50_4"
+    "source_key": "D_50_3"
+  },
+  {
+    "date": "2026-09-03",
+    "template": "q_player_record",
+    "source_key": "records/partnerships/json/Highest_Partnership.json"
+  },
+  {
+    "date": "2026-09-03",
+    "template": "q_which_union",
+    "source_key": "which_union"
+  },
+  {
+    "date": "2026-09-03",
+    "template": "q_venue_record",
+    "source_key": "venue:Willowmoore Park Main Oval"
+  },
+  {
+    "date": "2026-09-03",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Sophie Motloutsi"
+  },
+  {
+    "date": "2026-09-03",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/50Plus_Scores.json"
   }
 ]

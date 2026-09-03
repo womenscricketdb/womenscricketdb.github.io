@@ -160,5 +160,47 @@
         "Match_Slug": "2013-03-23-badgers-kei"
       }
     ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "6.67",
+        "Opposition": "Badgers",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "6.67",
+        "Opposition": "Badgers",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "9.33",
+        "Economy": "2.80",
+        "Opposition": "Badgers",
+        "Date": "2013/03/23",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "3",
+        "Average": "9.33",
+        "Economy": "2.80",
+        "Opposition": "Badgers",
+        "Date": "2013/03/23",
+        "Format": "OVERALL"
+      }
+    ]
   }
 }

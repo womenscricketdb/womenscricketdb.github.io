@@ -145,7 +145,7 @@
         "Not Out": "0",
         "Runs": "18",
         "Highest Score": "18",
-        "Average": "6.00",
+        "Average": "18.00",
         "Strike-Rate": "37.50",
         "100s": "0",
         "50s": "0",
@@ -285,6 +285,102 @@
         "Bowling": "0/10",
         "Fielding": "",
         "Match_Slug": "2024-11-09-tuskers-limpopo-lillies"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "37.50",
+        "Opposition": "Dragons",
+        "Date": "2024/10/13",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "18",
+        "Average": "9.00",
+        "Strike-Rate": "37.50",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/11/10",
+        "Format": "T20"
+      },
+      {
+        "Innings": "3",
+        "Runs": "18",
+        "Average": "6.00",
+        "Strike-Rate": "37.50",
+        "Opposition": "Rhinos",
+        "Date": "2024/11/17",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "20.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/11/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "18",
+        "Average": "18.00",
+        "Strike-Rate": "37.50",
+        "Opposition": "Dragons",
+        "Date": "2024/10/13",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "21",
+        "Average": "10.50",
+        "Strike-Rate": "33.33",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/11/09",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "21",
+        "Average": "7.00",
+        "Strike-Rate": "33.33",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/11/10",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "21",
+        "Average": "5.25",
+        "Strike-Rate": "33.33",
+        "Opposition": "Rhinos",
+        "Date": "2024/11/17",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/11/09",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.00",
+        "Opposition": "Limpopo Lillies",
+        "Date": "2024/11/09",
+        "Format": "OVERALL"
       }
     ]
   }

@@ -102,7 +102,7 @@
         "Not Out": "1",
         "Runs": "5",
         "Highest Score": "5*",
-        "Average": "1.67",
+        "Average": "2.50",
         "Strike-Rate": "19.23",
         "100s": "0",
         "50s": "0",
@@ -279,6 +279,156 @@
         "Bowling": "1/17",
         "Fielding": "1 ct",
         "Match_Slug": "2016-03-30-boland-warriors"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Warriors",
+        "Date": "2016/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "166.67",
+        "Opposition": "Dragons",
+        "Date": "2016/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "38.46",
+        "Opposition": "Lions",
+        "Date": "2016/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "19.23",
+        "Opposition": "Dragons",
+        "Date": "2016/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "-",
+        "Opposition": "Warriors",
+        "Date": "2016/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "5",
+        "Average": "5.00",
+        "Strike-Rate": "166.67",
+        "Opposition": "Dragons",
+        "Date": "2016/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "38.46",
+        "Opposition": "Lions",
+        "Date": "2016/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "1.67",
+        "Strike-Rate": "19.23",
+        "Opposition": "Dragons",
+        "Date": "2016/04/02",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "17.00",
+        "Economy": "4.25",
+        "Opposition": "Warriors",
+        "Date": "2016/03/30",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "5.20",
+        "Opposition": "Dragons",
+        "Date": "2016/03/31",
+        "Format": "List A"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "56.00",
+        "Economy": "4.31",
+        "Opposition": "Lions",
+        "Date": "2016/04/01",
+        "Format": "List A"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "73.00",
+        "Economy": "4.56",
+        "Opposition": "Dragons",
+        "Date": "2016/04/02",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "17.00",
+        "Economy": "4.25",
+        "Opposition": "Warriors",
+        "Date": "2016/03/30",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "26.00",
+        "Economy": "5.20",
+        "Opposition": "Dragons",
+        "Date": "2016/03/31",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "56.00",
+        "Economy": "4.31",
+        "Opposition": "Lions",
+        "Date": "2016/04/01",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "1",
+        "Average": "73.00",
+        "Economy": "4.56",
+        "Opposition": "Dragons",
+        "Date": "2016/04/02",
+        "Format": "OVERALL"
       }
     ]
   }

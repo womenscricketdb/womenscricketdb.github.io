@@ -112,7 +112,7 @@
         "Not Out": "0",
         "Runs": "4",
         "Highest Score": "4",
-        "Average": "2.00",
+        "Average": "4.00",
         "Strike-Rate": "133.33",
         "100s": "0",
         "50s": "0",
@@ -351,6 +351,156 @@
         "Bowling": "2/10",
         "Fielding": "",
         "Match_Slug": "2012-10-07-western-province-badgers"
+      }
+    ]
+  },
+  "progression": {
+    "batting": [
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "133.33",
+        "Opposition": "Kei",
+        "Date": "2012/01/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "133.33",
+        "Opposition": "Kei",
+        "Date": "2012/03/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Badgers",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "Opposition": "Boland",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "133.33",
+        "Opposition": "Kei",
+        "Date": "2012/01/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Runs": "4",
+        "Average": "2.00",
+        "Strike-Rate": "133.33",
+        "Opposition": "Kei",
+        "Date": "2012/03/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "1.33",
+        "Strike-Rate": "66.67",
+        "Opposition": "Badgers",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Runs": "4",
+        "Average": "1.00",
+        "Strike-Rate": "66.67",
+        "Opposition": "Boland",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
+      }
+    ],
+    "bowling": [
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "3.00",
+        "Opposition": "Kei",
+        "Date": "2012/01/29",
+        "Format": "List A"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "5.00",
+        "Economy": "1.43",
+        "Opposition": "Kei",
+        "Date": "2012/03/11",
+        "Format": "List A"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "5.00",
+        "Economy": "3.33",
+        "Opposition": "Badgers",
+        "Date": "2012/10/07",
+        "Format": "T20"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "6.33",
+        "Economy": "2.71",
+        "Opposition": "Boland",
+        "Date": "2012/10/14",
+        "Format": "T20"
+      },
+      {
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "3.00",
+        "Economy": "3.00",
+        "Opposition": "Kei",
+        "Date": "2012/01/29",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "5.00",
+        "Economy": "1.43",
+        "Opposition": "Kei",
+        "Date": "2012/03/11",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "5.00",
+        "Economy": "2.00",
+        "Opposition": "Badgers",
+        "Date": "2012/10/07",
+        "Format": "OVERALL"
+      },
+      {
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "5.80",
+        "Economy": "2.07",
+        "Opposition": "Boland",
+        "Date": "2012/10/14",
+        "Format": "OVERALL"
       }
     ]
   },
