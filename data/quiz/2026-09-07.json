@@ -1,54 +1,18 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-04T05:18:52.914649Z",
+  "generated_at": "2026-09-04T07:55:10.284476Z",
   "questions": [
     {
-      "type": "reverse_record",
-      "question": "Dragons set a database record (14/15 season, T20) with a value of 191. Which record is it?",
-      "options": [
-        "Biggest Win by Runs",
-        "Highest Team Total",
-        "Lowest Team Total (all out or completed innings)",
-        "Most Wins"
-      ],
-      "answer_index": 1,
-      "explanation": "It's the record for 'Highest Team Total', held by Dragons."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did K Nkosa record their career-best innings (28, List A)?",
-      "options": [
-        "Buffalo Park",
-        "TUT Witbank",
-        "Van Riebeeck Stadium",
-        "Wanderers"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Buffalo Park, against Iinyathi on 2023/03/25."
-    },
-    {
-      "type": "curveball",
-      "question": "South Africa Women have only ever won one Test match in their history. Who was the opponent, and in what year?",
-      "options": [
-        "Netherlands, 2007",
-        "Pakistan, 2003",
-        "India, 2011",
-        "Ireland, 2010"
-      ],
-      "answer_index": 0,
-      "explanation": "South Africa's sole Test victory came against the Netherlands in 2007, the only Test the two sides have ever played against each other."
-    },
-    {
       "type": "team_record_venue",
-      "question": "At which ground did Tuskers record their 'Largest Win by Runs' (T20)?",
+      "question": "At which ground did Badgers record their 'Largest Win by Runs' (List A)?",
       "options": [
-        "Potchefstroom Oval",
-        "City Oval",
-        "Polokwane Oval",
+        "Chatsworth Stadium",
+        "Old Mutual Sports Club Ground",
+        "Recreation Ground",
         "Easterns Cricket Club Ground"
       ],
       "answer_index": 2,
-      "explanation": "It was at Polokwane Oval — largest win by runs of 30, against Limpopo Lillies on 2022/03/13."
+      "explanation": "It was at Recreation Ground — largest win by runs of 332, against Kei on 2018/11/17."
     },
     {
       "type": "player_record",
@@ -71,6 +35,42 @@
       ],
       "answer_index": 1,
       "explanation": "Mieke van Voorst: 1 times. Suné Luus: 2 times."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Monique Ferreira record their career-best innings (111*, List A)?",
+      "options": [
+        "Bridgton Sports Grounds",
+        "Pearson High School",
+        "St George's Park",
+        "Bloemfontein Oval"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at St George's Park, against Iinyathi on 2024/11/16."
+    },
+    {
+      "type": "reverse_record",
+      "question": "Dragons set a database record (14/15 season, T20) with a value of 191. Which record is it?",
+      "options": [
+        "Biggest Win by Runs",
+        "Highest Team Total",
+        "Lowest Team Total (all out or completed innings)",
+        "Most Wins"
+      ],
+      "answer_index": 1,
+      "explanation": "It's the record for 'Highest Team Total', held by Dragons."
+    },
+    {
+      "type": "curveball",
+      "question": "South Africa Women have only ever won one Test match in their history. Who was the opponent, and in what year?",
+      "options": [
+        "Netherlands, 2007",
+        "Pakistan, 2003",
+        "India, 2011",
+        "Ireland, 2010"
+      ],
+      "answer_index": 0,
+      "explanation": "South Africa's sole Test victory came against the Netherlands in 2007, the only Test the two sides have ever played against each other."
     }
   ]
 }
