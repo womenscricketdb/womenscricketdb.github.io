@@ -25,6 +25,31 @@
     "source_key": "guess_player_from_stats"
   },
   {
+    "date": "2026-09-03",
+    "template": "q_player_record",
+    "source_key": "records/partnerships/json/Highest_Partnership.json"
+  },
+  {
+    "date": "2026-09-03",
+    "template": "q_which_union",
+    "source_key": "which_union"
+  },
+  {
+    "date": "2026-09-03",
+    "template": "q_venue_record",
+    "source_key": "venue:Willowmoore Park Main Oval"
+  },
+  {
+    "date": "2026-09-03",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Sophie Motloutsi"
+  },
+  {
+    "date": "2026-09-03",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/50Plus_Scores.json"
+  },
+  {
     "date": "2026-09-04",
     "template": "q_team_record",
     "source_key": "records/team/json/Most_Wins.json"
@@ -42,7 +67,7 @@
   {
     "date": "2026-09-04",
     "template": "q_venue_record",
-    "source_key": "venue:St. Andrews Hickling"
+    "source_key": "venue:City Oval"
   },
   {
     "date": "2026-09-04",
@@ -52,27 +77,27 @@
   {
     "date": "2026-09-05",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Terry-Lee Kleynhans"
+    "source_key": "career_best_venue:Selaelo Mphahele"
   },
   {
     "date": "2026-09-05",
     "template": "q_doubles_higher_lower",
-    "source_key": "D_100_4"
+    "source_key": "D_50_5"
   },
   {
     "date": "2026-09-05",
     "template": "q_venue_record",
-    "source_key": "venue:Boland Park, Paarl"
-  },
-  {
-    "date": "2026-09-05",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
+    "source_key": "venue:Recreation Ground"
   },
   {
     "date": "2026-09-05",
     "template": "q_player_record",
-    "source_key": "records/batting/json/Most_Fours.json"
+    "source_key": "records/bowling/json/Most_5Wickets.json"
+  },
+  {
+    "date": "2026-09-05",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Iinyathi:Highest Total:T20"
   },
   {
     "date": "2026-09-06",
@@ -100,28 +125,28 @@
     "source_key": "D_50_3"
   },
   {
-    "date": "2026-09-03",
+    "date": "2026-09-07",
+    "template": "q_reverse_record",
+    "source_key": "records/team/json/Highest_Total.json"
+  },
+  {
+    "date": "2026-09-07",
     "template": "q_player_record",
-    "source_key": "records/partnerships/json/Highest_Partnership.json"
+    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
   },
   {
-    "date": "2026-09-03",
-    "template": "q_which_union",
-    "source_key": "which_union"
+    "date": "2026-09-07",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Tuskers:Largest Win by Runs:T20"
   },
   {
-    "date": "2026-09-03",
-    "template": "q_venue_record",
-    "source_key": "venue:Willowmoore Park Main Oval"
-  },
-  {
-    "date": "2026-09-03",
+    "date": "2026-09-07",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Sophie Motloutsi"
+    "source_key": "career_best_venue:K Nkosa"
   },
   {
-    "date": "2026-09-03",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/50Plus_Scores.json"
+    "date": "2026-09-07",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_100_4"
   }
 ]

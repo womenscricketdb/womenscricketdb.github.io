@@ -1,18 +1,52 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-03T07:58:39.864442Z",
+  "generated_at": "2026-09-04T03:40:58.791384Z",
   "questions": [
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Mieke de Ridder record their career-best innings (55, T20)?",
+      "type": "team_record_venue",
+      "question": "At which ground did Iinyathi record their 'Highest Total' (T20)?",
       "options": [
-        "Khaya Majola Oval",
-        "Bloemfontein Oval",
-        "Westering High School",
-        "Buffalo Park"
+        "UCT Bowl",
+        "Fort Hare University",
+        "UFS Oval",
+        "Kimberley Oval"
       ],
       "answer_index": 3,
-      "explanation": "It was at Buffalo Park, against Iinyathi on 2022/03/13."
+      "explanation": "It was at Kimberley Oval — highest total of 162, against Heat on 2015/10/18."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Selaelo Mphahele record their career-best innings (26, T20)?",
+      "options": [
+        "Joburg Cricket Club Ground",
+        "Willowmoore Park Main Oval",
+        "TUT Oval",
+        "Polokwane Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Polokwane Oval, against Limpopo Lillies on 2013/10/06."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the 50+ runs and 5+ wickets in a match double more times, Jessica Candler or Dané van Niekerk?",
+      "options": [
+        "Jessica Candler",
+        "Dané van Niekerk"
+      ],
+      "answer_index": 1,
+      "explanation": "Jessica Candler: 1 times. Dané van Niekerk: 2 times."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Recreation Ground, who holds the record for 'Most Runs' (T20)?",
+      "options": [
+        "Micaela Andrews",
+        "Jana Nell",
+        "Nadine Moodley",
+        "Tazmin Brits"
+      ],
+      "answer_index": 0,
+      "explanation": "Micaela Andrews holds it with 350."
     },
     {
       "type": "curveball",
@@ -27,50 +61,16 @@
       "explanation": "Dané van Niekerk won it in 2016."
     },
     {
-      "type": "venue_record",
-      "question": "At Victory Park, who holds the record for 'Most Runs' (T20)?",
-      "options": [
-        "Lizelle Lee",
-        "Shania-Lee Swart",
-        "Elriesa Theunissen",
-        "Tazmin Brits"
-      ],
-      "answer_index": 0,
-      "explanation": "Lizelle Lee holds it with 121."
-    },
-    {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the 100+ runs and 3+ wickets in a match double more times, Lanette Pienaar or Susan Benade?",
-      "options": [
-        "Lanette Pienaar",
-        "Susan Benade"
-      ],
-      "answer_index": 1,
-      "explanation": "Lanette Pienaar: 1 times. Susan Benade: 2 times."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Eastern Storm record their 'Largest Win by Runs' (List A)?",
-      "options": [
-        "Columbus Oval",
-        "Oudtshoorn High School",
-        "Uplands College",
-        "Wanderers"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Uplands College — largest win by runs of 218, against Rhinos on 2025/03/01."
-    },
-    {
       "type": "player_record",
-      "question": "Who holds the record for 'Most 50+ Scores' in the 05/06 season (List A)?",
+      "question": "Who holds the record for 'Most 5-Wicket Hauls' in the 12/13 season (T20)?",
       "options": [
-        "Johmari Logtenberg",
-        "Alicia Smith",
-        "Susan Benade",
-        "Annelie Minny"
+        "Kaylee Stadler",
+        "A Ludidi",
+        "Alexis le Breton",
+        "A Ntoyabo"
       ],
       "answer_index": 0,
-      "explanation": "Johmari Logtenberg holds it, with a total of 5."
+      "explanation": "Kaylee Stadler holds it, with a total of 1, a joint record shared with Yumna Plowker."
     }
   ]
 }

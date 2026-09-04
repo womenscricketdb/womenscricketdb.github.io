@@ -1,40 +1,16 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-03T07:58:39.670845Z",
+  "generated_at": "2026-09-04T03:40:58.641924Z",
   "questions": [
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Dragons or Rhinos?",
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the 50+ runs and 4+ wickets in a match double more times, Marizanne Kapp or Lizelle Lee?",
       "options": [
-        "Dragons",
-        "Rhinos"
-      ],
-      "answer_index": 0,
-      "explanation": "Dragons lead 7-2 across 9 meetings (List A)."
-    },
-    {
-      "type": "venue_record",
-      "question": "At St. Andrews Hickling, who holds the record for 'Most Runs' (List A)?",
-      "options": [
-        "Dinesha Devnarain",
-        "Suné Luus",
-        "Lizelle Lee",
-        "Mignon du Preez"
+        "Marizanne Kapp",
+        "Lizelle Lee"
       ],
       "answer_index": 1,
-      "explanation": "Suné Luus holds it with 210."
-    },
-    {
-      "type": "curveball",
-      "question": "What is South Africa Women's best-ever finish at a Cricket World Cup, achieved for the first time in 2025?",
-      "options": [
-        "Runners-up",
-        "Semi-finalists",
-        "Champions",
-        "Third place"
-      ],
-      "answer_index": 0,
-      "explanation": "South Africa reached their first-ever Women's World Cup final in 2025, finishing runners-up to India."
+      "explanation": "Marizanne Kapp: 1 times. Lizelle Lee: 4 times."
     },
     {
       "type": "season_leader",
@@ -49,6 +25,18 @@
       "explanation": "Susan Benade led with 207 runs, a joint record shared with Stacey Lackay."
     },
     {
+      "type": "curveball",
+      "question": "What is South Africa Women's best-ever finish at a Cricket World Cup, achieved for the first time in 2025?",
+      "options": [
+        "Runners-up",
+        "Semi-finalists",
+        "Champions",
+        "Third place"
+      ],
+      "answer_index": 0,
+      "explanation": "South Africa reached their first-ever Women's World Cup final in 2025, finishing runners-up to India."
+    },
+    {
       "type": "team_record",
       "question": "Which provincial union holds the record for 'Most Wins' (combined T20 + List A)?",
       "options": [
@@ -61,14 +49,26 @@
       "explanation": "Western Province — 227."
     },
     {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the 50+ runs and 5+ wickets in a match double more times, Jessica Candler or Dané van Niekerk?",
+      "type": "venue_record",
+      "question": "At City Oval, who holds the record for 'Most Matches' (List A)?",
       "options": [
-        "Jessica Candler",
-        "Dané van Niekerk"
+        "Gugu Ngcobo",
+        "Sarena Ferreira",
+        "Marlene Steenkamp",
+        "Megan Wessels"
+      ],
+      "answer_index": 0,
+      "explanation": "Gugu Ngcobo holds it with 26."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Boland or Lions?",
+      "options": [
+        "Boland",
+        "Lions"
       ],
       "answer_index": 1,
-      "explanation": "Jessica Candler: 1 times. Dané van Niekerk: 2 times."
+      "explanation": "Lions lead 5-4 across 10 meetings (List A)."
     }
   ]
 }
