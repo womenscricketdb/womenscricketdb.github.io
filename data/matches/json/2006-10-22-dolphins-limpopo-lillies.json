@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 20.8,
+      "tempMaxC": 22.5,
+      "rainMM": 0.0,
+      "maxWindKMH": 17.6,
+      "avgHumidityPct": 73.7,
+      "hourly": [
+        {
+          "time": "2006-10-22T09:00",
+          "icon": "cloud",
+          "tempC": 22.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T10:00",
+          "icon": "cloud",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T11:00",
+          "icon": "cloud",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T12:00",
+          "icon": "cloud",
+          "tempC": 22.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T13:00",
+          "icon": "cloud",
+          "tempC": 22.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T14:00",
+          "icon": "cloud",
+          "tempC": 22.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T15:00",
+          "icon": "cloud",
+          "tempC": 22.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T16:00",
+          "icon": "cloud",
+          "tempC": 22.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T17:00",
+          "icon": "cloud",
+          "tempC": 21.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T18:00",
+          "icon": "cloud",
+          "tempC": 21.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-10-22T19:00",
+          "icon": "cloud",
+          "tempC": 20.8,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 1.4,
+      "maxTempC": 25.9,
+      "daily": [
+        {
+          "date": "2006-10-19",
+          "rainMM": 1.2,
+          "tempMaxC": 21.7
+        },
+        {
+          "date": "2006-10-20",
+          "rainMM": 0.1,
+          "tempMaxC": 25.7
+        },
+        {
+          "date": "2006-10-21",
+          "rainMM": 0.1,
+          "tempMaxC": 25.9
+        }
+      ]
+    }
+  }
 }

@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 18.9,
+      "tempMaxC": 26.0,
+      "rainMM": 6.7,
+      "maxWindKMH": 18.2,
+      "avgHumidityPct": 62.9,
+      "hourly": [
+        {
+          "time": "2010-01-10T09:00",
+          "icon": "cloud-rain",
+          "tempC": 22.8,
+          "rainMM": 0.6
+        },
+        {
+          "time": "2010-01-10T10:00",
+          "icon": "cloud",
+          "tempC": 23.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2010-01-10T11:00",
+          "icon": "cloud",
+          "tempC": 24.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2010-01-10T12:00",
+          "icon": "cloud",
+          "tempC": 25.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2010-01-10T13:00",
+          "icon": "cloud",
+          "tempC": 25.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2010-01-10T14:00",
+          "icon": "cloud-rain",
+          "tempC": 26.0,
+          "rainMM": 0.7
+        },
+        {
+          "time": "2010-01-10T15:00",
+          "icon": "cloud-rain",
+          "tempC": 19.8,
+          "rainMM": 3.1
+        },
+        {
+          "time": "2010-01-10T16:00",
+          "icon": "cloud-rain",
+          "tempC": 18.9,
+          "rainMM": 1.1
+        },
+        {
+          "time": "2010-01-10T17:00",
+          "icon": "cloud-rain",
+          "tempC": 19.5,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2010-01-10T18:00",
+          "icon": "cloud-rain",
+          "tempC": 20.2,
+          "rainMM": 1.0
+        },
+        {
+          "time": "2010-01-10T19:00",
+          "icon": "cloud",
+          "tempC": 20.0,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 6.9,
+      "maxTempC": 32.6,
+      "daily": [
+        {
+          "date": "2010-01-07",
+          "rainMM": 4.8,
+          "tempMaxC": 32.6
+        },
+        {
+          "date": "2010-01-08",
+          "rainMM": 0.0,
+          "tempMaxC": 31.8
+        },
+        {
+          "date": "2010-01-09",
+          "rainMM": 2.1,
+          "tempMaxC": 28.5
+        }
+      ]
+    }
+  }
 }

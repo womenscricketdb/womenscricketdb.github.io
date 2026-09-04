@@ -431,5 +431,104 @@
       "Stumpings": "0",
       "Balls_Bowled": "60"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 21.6,
+      "tempMaxC": 29.0,
+      "rainMM": 0.0,
+      "maxWindKMH": 19.3,
+      "avgHumidityPct": 77.3,
+      "hourly": [
+        {
+          "time": "2023-03-25T09:00",
+          "icon": "sun",
+          "tempC": 26.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T10:00",
+          "icon": "sun",
+          "tempC": 28.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T11:00",
+          "icon": "sun",
+          "tempC": 28.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T12:00",
+          "icon": "sun",
+          "tempC": 29.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T13:00",
+          "icon": "cloud",
+          "tempC": 28.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T14:00",
+          "icon": "sun",
+          "tempC": 26.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T15:00",
+          "icon": "cloud",
+          "tempC": 24.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T16:00",
+          "icon": "sun",
+          "tempC": 24.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T17:00",
+          "icon": "cloud",
+          "tempC": 22.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T18:00",
+          "icon": "sun",
+          "tempC": 22.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-03-25T19:00",
+          "icon": "sun",
+          "tempC": 21.6,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 33.9,
+      "maxTempC": 25.1,
+      "daily": [
+        {
+          "date": "2023-03-22",
+          "rainMM": 0.2,
+          "tempMaxC": 24.6
+        },
+        {
+          "date": "2023-03-23",
+          "rainMM": 11.3,
+          "tempMaxC": 25.1
+        },
+        {
+          "date": "2023-03-24",
+          "rainMM": 22.4,
+          "tempMaxC": 23.9
+        }
+      ]
+    }
+  }
 }

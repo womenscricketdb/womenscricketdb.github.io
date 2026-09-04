@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": "18"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 22.4,
+      "tempMaxC": 29.0,
+      "rainMM": 0.2,
+      "maxWindKMH": 15.7,
+      "avgHumidityPct": 55.5,
+      "hourly": [
+        {
+          "time": "2025-02-15T09:00",
+          "icon": "cloud",
+          "tempC": 23.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-15T10:00",
+          "icon": "cloud",
+          "tempC": 25.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-15T11:00",
+          "icon": "cloud-rain",
+          "tempC": 26.8,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2025-02-15T12:00",
+          "icon": "cloud-rain",
+          "tempC": 27.3,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2025-02-15T13:00",
+          "icon": "cloud",
+          "tempC": 28.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-15T14:00",
+          "icon": "cloud",
+          "tempC": 29.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-15T15:00",
+          "icon": "cloud",
+          "tempC": 23.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-15T16:00",
+          "icon": "cloud",
+          "tempC": 24.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-15T17:00",
+          "icon": "cloud",
+          "tempC": 24.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-15T18:00",
+          "icon": "cloud",
+          "tempC": 23.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-02-15T19:00",
+          "icon": "cloud",
+          "tempC": 22.4,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 1.6,
+      "maxTempC": 26.8,
+      "daily": [
+        {
+          "date": "2025-02-12",
+          "rainMM": 0.5,
+          "tempMaxC": 26.7
+        },
+        {
+          "date": "2025-02-13",
+          "rainMM": 0.8,
+          "tempMaxC": 26.8
+        },
+        {
+          "date": "2025-02-14",
+          "rainMM": 0.3,
+          "tempMaxC": 26.6
+        }
+      ]
+    }
+  }
 }

@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 26.5,
+      "tempMaxC": 28.7,
+      "rainMM": 0.4,
+      "maxWindKMH": 13.8,
+      "avgHumidityPct": 34.5,
+      "hourly": [
+        {
+          "time": "2008-11-30T09:00",
+          "icon": "cloud",
+          "tempC": 26.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-11-30T10:00",
+          "icon": "cloud",
+          "tempC": 26.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-11-30T11:00",
+          "icon": "cloud",
+          "tempC": 28.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-11-30T12:00",
+          "icon": "cloud-rain",
+          "tempC": 27.7,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2008-11-30T13:00",
+          "icon": "cloud-rain",
+          "tempC": 27.4,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2008-11-30T14:00",
+          "icon": "cloud",
+          "tempC": 28.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-11-30T15:00",
+          "icon": "sun",
+          "tempC": 28.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-11-30T16:00",
+          "icon": "sun",
+          "tempC": 28.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-11-30T17:00",
+          "icon": "cloud",
+          "tempC": 28.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-11-30T18:00",
+          "icon": "cloud",
+          "tempC": 28.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2008-11-30T19:00",
+          "icon": "cloud",
+          "tempC": 26.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.4,
+      "maxTempC": 32.1,
+      "daily": [
+        {
+          "date": "2008-11-27",
+          "rainMM": 0.4,
+          "tempMaxC": 28.4
+        },
+        {
+          "date": "2008-11-28",
+          "rainMM": 0.0,
+          "tempMaxC": 29.4
+        },
+        {
+          "date": "2008-11-29",
+          "rainMM": 0.0,
+          "tempMaxC": 32.1
+        }
+      ]
+    }
+  }
 }

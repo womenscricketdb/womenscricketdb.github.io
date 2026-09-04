@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 15.7,
+      "tempMaxC": 17.4,
+      "rainMM": 1.3,
+      "maxWindKMH": 24.6,
+      "avgHumidityPct": 80.8,
+      "hourly": [
+        {
+          "time": "2023-10-07T09:00",
+          "icon": "cloud-rain",
+          "tempC": 16.9,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2023-10-07T10:00",
+          "icon": "cloud-rain",
+          "tempC": 17.1,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2023-10-07T11:00",
+          "icon": "cloud-rain",
+          "tempC": 17.2,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2023-10-07T12:00",
+          "icon": "cloud",
+          "tempC": 17.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-07T13:00",
+          "icon": "cloud",
+          "tempC": 17.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-07T14:00",
+          "icon": "cloud-rain",
+          "tempC": 17.2,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2023-10-07T15:00",
+          "icon": "cloud-rain",
+          "tempC": 16.6,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2023-10-07T16:00",
+          "icon": "cloud-rain",
+          "tempC": 16.2,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2023-10-07T17:00",
+          "icon": "cloud-rain",
+          "tempC": 16.2,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2023-10-07T18:00",
+          "icon": "cloud",
+          "tempC": 15.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-07T19:00",
+          "icon": "cloud",
+          "tempC": 15.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 27.4,
+      "maxTempC": 20.8,
+      "daily": [
+        {
+          "date": "2023-10-04",
+          "rainMM": 1.6,
+          "tempMaxC": 19.9
+        },
+        {
+          "date": "2023-10-05",
+          "rainMM": 2.0,
+          "tempMaxC": 20.8
+        },
+        {
+          "date": "2023-10-06",
+          "rainMM": 23.8,
+          "tempMaxC": 18.3
+        }
+      ]
+    }
+  }
 }

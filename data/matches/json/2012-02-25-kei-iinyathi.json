@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 20.5,
+      "tempMaxC": 27.1,
+      "rainMM": 0.0,
+      "maxWindKMH": 12.2,
+      "avgHumidityPct": 73.0,
+      "hourly": [
+        {
+          "time": "2012-02-25T09:00",
+          "icon": "sun",
+          "tempC": 20.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T10:00",
+          "icon": "cloud",
+          "tempC": 21.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T11:00",
+          "icon": "cloud",
+          "tempC": 22.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T12:00",
+          "icon": "cloud",
+          "tempC": 24.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T13:00",
+          "icon": "sun",
+          "tempC": 26.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T14:00",
+          "icon": "sun",
+          "tempC": 27.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T15:00",
+          "icon": "sun",
+          "tempC": 27.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T16:00",
+          "icon": "sun",
+          "tempC": 26.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T17:00",
+          "icon": "cloud",
+          "tempC": 24.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T18:00",
+          "icon": "sun",
+          "tempC": 22.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-02-25T19:00",
+          "icon": "cloud",
+          "tempC": 21.1,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.8,
+      "maxTempC": 32.2,
+      "daily": [
+        {
+          "date": "2012-02-22",
+          "rainMM": 0.3,
+          "tempMaxC": 32.2
+        },
+        {
+          "date": "2012-02-23",
+          "rainMM": 0.5,
+          "tempMaxC": 23.2
+        },
+        {
+          "date": "2012-02-24",
+          "rainMM": 0.0,
+          "tempMaxC": 27.2
+        }
+      ]
+    }
+  }
 }

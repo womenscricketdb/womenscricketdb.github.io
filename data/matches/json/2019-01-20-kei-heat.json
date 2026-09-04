@@ -431,5 +431,104 @@
       "Stumpings": "0",
       "Balls_Bowled": "12"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 16.6,
+      "tempMaxC": 22.5,
+      "rainMM": 0.1,
+      "maxWindKMH": 20.1,
+      "avgHumidityPct": 51.1,
+      "hourly": [
+        {
+          "time": "2019-01-20T09:00",
+          "icon": "sun",
+          "tempC": 18.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T10:00",
+          "icon": "sun",
+          "tempC": 20.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T11:00",
+          "icon": "sun",
+          "tempC": 21.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T12:00",
+          "icon": "sun",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T13:00",
+          "icon": "cloud",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T14:00",
+          "icon": "cloud",
+          "tempC": 21.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T15:00",
+          "icon": "sun",
+          "tempC": 20.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T16:00",
+          "icon": "sun",
+          "tempC": 20.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T17:00",
+          "icon": "cloud",
+          "tempC": 19.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T18:00",
+          "icon": "cloud",
+          "tempC": 17.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-01-20T19:00",
+          "icon": "cloud-rain",
+          "tempC": 16.6,
+          "rainMM": 0.1
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 1.9,
+      "maxTempC": 37.1,
+      "daily": [
+        {
+          "date": "2019-01-17",
+          "rainMM": 0.0,
+          "tempMaxC": 29.2
+        },
+        {
+          "date": "2019-01-18",
+          "rainMM": 1.5,
+          "tempMaxC": 37.1
+        },
+        {
+          "date": "2019-01-19",
+          "rainMM": 0.4,
+          "tempMaxC": 25.8
+        }
+      ]
+    }
+  }
 }

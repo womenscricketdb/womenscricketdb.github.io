@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 25.0,
+      "tempMaxC": 34.0,
+      "rainMM": 2.1,
+      "maxWindKMH": 19.0,
+      "avgHumidityPct": 25.2,
+      "hourly": [
+        {
+          "time": "2016-10-16T09:00",
+          "icon": "sun",
+          "tempC": 27.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2016-10-16T10:00",
+          "icon": "sun",
+          "tempC": 30.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2016-10-16T11:00",
+          "icon": "sun",
+          "tempC": 31.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2016-10-16T12:00",
+          "icon": "sun",
+          "tempC": 33.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2016-10-16T13:00",
+          "icon": "cloud",
+          "tempC": 34.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2016-10-16T14:00",
+          "icon": "cloud-rain",
+          "tempC": 32.7,
+          "rainMM": 1.6
+        },
+        {
+          "time": "2016-10-16T15:00",
+          "icon": "cloud-rain",
+          "tempC": 32.4,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2016-10-16T16:00",
+          "icon": "cloud-rain",
+          "tempC": 30.7,
+          "rainMM": 0.4
+        },
+        {
+          "time": "2016-10-16T17:00",
+          "icon": "cloud",
+          "tempC": 29.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2016-10-16T18:00",
+          "icon": "sun",
+          "tempC": 27.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2016-10-16T19:00",
+          "icon": "sun",
+          "tempC": 25.0,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 30.6,
+      "daily": [
+        {
+          "date": "2016-10-13",
+          "rainMM": 0.0,
+          "tempMaxC": 23.8
+        },
+        {
+          "date": "2016-10-14",
+          "rainMM": 0.0,
+          "tempMaxC": 24.5
+        },
+        {
+          "date": "2016-10-15",
+          "rainMM": 0.0,
+          "tempMaxC": 30.6
+        }
+      ]
+    }
+  }
 }

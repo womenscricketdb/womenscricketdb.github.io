@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 17.0,
+      "tempMaxC": 21.3,
+      "rainMM": 7.5,
+      "maxWindKMH": 7.8,
+      "avgHumidityPct": 77.3,
+      "hourly": [
+        {
+          "time": "2015-03-29T09:00",
+          "icon": "cloud-rain",
+          "tempC": 17.3,
+          "rainMM": 2.4
+        },
+        {
+          "time": "2015-03-29T10:00",
+          "icon": "cloud-rain",
+          "tempC": 17.0,
+          "rainMM": 2.8
+        },
+        {
+          "time": "2015-03-29T11:00",
+          "icon": "cloud-rain",
+          "tempC": 17.5,
+          "rainMM": 1.0
+        },
+        {
+          "time": "2015-03-29T12:00",
+          "icon": "cloud-rain",
+          "tempC": 18.4,
+          "rainMM": 1.0
+        },
+        {
+          "time": "2015-03-29T13:00",
+          "icon": "cloud-rain",
+          "tempC": 19.3,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2015-03-29T14:00",
+          "icon": "cloud",
+          "tempC": 20.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-29T15:00",
+          "icon": "cloud",
+          "tempC": 21.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-29T16:00",
+          "icon": "cloud",
+          "tempC": 21.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-29T17:00",
+          "icon": "cloud",
+          "tempC": 21.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-29T18:00",
+          "icon": "cloud",
+          "tempC": 19.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-29T19:00",
+          "icon": "sun",
+          "tempC": 18.3,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 19.3,
+      "maxTempC": 29.1,
+      "daily": [
+        {
+          "date": "2015-03-26",
+          "rainMM": 0.0,
+          "tempMaxC": 29.1
+        },
+        {
+          "date": "2015-03-27",
+          "rainMM": 2.9,
+          "tempMaxC": 24.3
+        },
+        {
+          "date": "2015-03-28",
+          "rainMM": 16.4,
+          "tempMaxC": 23.4
+        }
+      ]
+    }
+  }
 }

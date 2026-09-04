@@ -403,5 +403,104 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 23.6,
+      "tempMaxC": 27.9,
+      "rainMM": 0.5,
+      "maxWindKMH": 13.5,
+      "avgHumidityPct": 47.9,
+      "hourly": [
+        {
+          "time": "2006-02-05T09:00",
+          "icon": "sun",
+          "tempC": 23.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-02-05T10:00",
+          "icon": "sun",
+          "tempC": 25.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-02-05T11:00",
+          "icon": "cloud-rain",
+          "tempC": 26.2,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2006-02-05T12:00",
+          "icon": "sun",
+          "tempC": 27.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-02-05T13:00",
+          "icon": "sun",
+          "tempC": 27.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-02-05T14:00",
+          "icon": "sun",
+          "tempC": 27.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-02-05T15:00",
+          "icon": "cloud",
+          "tempC": 27.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-02-05T16:00",
+          "icon": "sun",
+          "tempC": 27.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-02-05T17:00",
+          "icon": "cloud-rain",
+          "tempC": 26.4,
+          "rainMM": 0.4
+        },
+        {
+          "time": "2006-02-05T18:00",
+          "icon": "cloud",
+          "tempC": 24.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2006-02-05T19:00",
+          "icon": "cloud",
+          "tempC": 23.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 2.6,
+      "maxTempC": 27.1,
+      "daily": [
+        {
+          "date": "2006-02-02",
+          "rainMM": 0.0,
+          "tempMaxC": 25.0
+        },
+        {
+          "date": "2006-02-03",
+          "rainMM": 0.0,
+          "tempMaxC": 27.1
+        },
+        {
+          "date": "2006-02-04",
+          "rainMM": 2.6,
+          "tempMaxC": 26.9
+        }
+      ]
+    }
+  }
 }

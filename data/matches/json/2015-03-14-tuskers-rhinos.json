@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 21.1,
+      "tempMaxC": 29.3,
+      "rainMM": 0.0,
+      "maxWindKMH": 11.3,
+      "avgHumidityPct": 65.8,
+      "hourly": [
+        {
+          "time": "2015-03-14T09:00",
+          "icon": "cloud",
+          "tempC": 21.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T10:00",
+          "icon": "cloud",
+          "tempC": 22.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T11:00",
+          "icon": "cloud",
+          "tempC": 24.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T12:00",
+          "icon": "cloud",
+          "tempC": 26.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T13:00",
+          "icon": "sun",
+          "tempC": 27.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T14:00",
+          "icon": "sun",
+          "tempC": 28.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T15:00",
+          "icon": "cloud",
+          "tempC": 29.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T16:00",
+          "icon": "cloud",
+          "tempC": 28.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T17:00",
+          "icon": "cloud",
+          "tempC": 26.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T18:00",
+          "icon": "cloud",
+          "tempC": 24.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2015-03-14T19:00",
+          "icon": "cloud",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 8.2,
+      "maxTempC": 28.9,
+      "daily": [
+        {
+          "date": "2015-03-11",
+          "rainMM": 3.5,
+          "tempMaxC": 23.2
+        },
+        {
+          "date": "2015-03-12",
+          "rainMM": 2.5,
+          "tempMaxC": 28.9
+        },
+        {
+          "date": "2015-03-13",
+          "rainMM": 2.2,
+          "tempMaxC": 27.8
+        }
+      ]
+    }
+  }
 }

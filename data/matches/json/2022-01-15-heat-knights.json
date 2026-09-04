@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 20.9,
+      "tempMaxC": 26.6,
+      "rainMM": 3.8,
+      "maxWindKMH": 16.6,
+      "avgHumidityPct": 74.5,
+      "hourly": [
+        {
+          "time": "2022-01-15T09:00",
+          "icon": "cloud-rain",
+          "tempC": 21.6,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2022-01-15T10:00",
+          "icon": "cloud-rain",
+          "tempC": 22.9,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2022-01-15T11:00",
+          "icon": "cloud-rain",
+          "tempC": 24.2,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2022-01-15T12:00",
+          "icon": "cloud-rain",
+          "tempC": 25.9,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2022-01-15T13:00",
+          "icon": "cloud-rain",
+          "tempC": 26.6,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2022-01-15T14:00",
+          "icon": "cloud-rain",
+          "tempC": 22.2,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2022-01-15T15:00",
+          "icon": "cloud-rain",
+          "tempC": 22.7,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2022-01-15T16:00",
+          "icon": "cloud-rain",
+          "tempC": 21.1,
+          "rainMM": 1.2
+        },
+        {
+          "time": "2022-01-15T17:00",
+          "icon": "cloud-rain",
+          "tempC": 22.0,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2022-01-15T18:00",
+          "icon": "cloud-rain",
+          "tempC": 22.1,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2022-01-15T19:00",
+          "icon": "cloud-rain",
+          "tempC": 20.9,
+          "rainMM": 1.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 4.5,
+      "maxTempC": 29.8,
+      "daily": [
+        {
+          "date": "2022-01-12",
+          "rainMM": 0.6,
+          "tempMaxC": 29.6
+        },
+        {
+          "date": "2022-01-13",
+          "rainMM": 3.3,
+          "tempMaxC": 29.8
+        },
+        {
+          "date": "2022-01-14",
+          "rainMM": 0.6,
+          "tempMaxC": 29.2
+        }
+      ]
+    }
+  }
 }

@@ -431,5 +431,86 @@
       "Stumpings": "",
       "Balls_Bowled": "36"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 12.4,
+      "tempMaxC": 22.2,
+      "rainMM": 0.0,
+      "maxWindKMH": 8.1,
+      "avgHumidityPct": 48.1,
+      "hourly": [
+        {
+          "time": "2024-04-13T09:00",
+          "icon": "sun",
+          "tempC": 12.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T10:00",
+          "icon": "sun",
+          "tempC": 14.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T11:00",
+          "icon": "sun",
+          "tempC": 16.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T12:00",
+          "icon": "sun",
+          "tempC": 18.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T13:00",
+          "icon": "sun",
+          "tempC": 19.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T14:00",
+          "icon": "sun",
+          "tempC": 20.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T15:00",
+          "icon": "sun",
+          "tempC": 21.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T16:00",
+          "icon": "sun",
+          "tempC": 22.2,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 3.9,
+      "maxTempC": 20.1,
+      "daily": [
+        {
+          "date": "2024-04-10",
+          "rainMM": 3.2,
+          "tempMaxC": 18.2
+        },
+        {
+          "date": "2024-04-11",
+          "rainMM": 0.7,
+          "tempMaxC": 19.4
+        },
+        {
+          "date": "2024-04-12",
+          "rainMM": 0.0,
+          "tempMaxC": 20.1
+        }
+      ]
+    }
+  }
 }

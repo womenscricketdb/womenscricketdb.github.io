@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 19.7,
+      "tempMaxC": 22.9,
+      "rainMM": 1.5,
+      "maxWindKMH": 25.4,
+      "avgHumidityPct": 69.2,
+      "hourly": [
+        {
+          "time": "2012-10-20T09:00",
+          "icon": "cloud",
+          "tempC": 20.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-20T10:00",
+          "icon": "cloud",
+          "tempC": 21.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-20T11:00",
+          "icon": "cloud",
+          "tempC": 22.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-20T12:00",
+          "icon": "cloud-rain",
+          "tempC": 22.5,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2012-10-20T13:00",
+          "icon": "cloud-rain",
+          "tempC": 22.9,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2012-10-20T14:00",
+          "icon": "cloud-rain",
+          "tempC": 22.8,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2012-10-20T15:00",
+          "icon": "cloud-rain",
+          "tempC": 22.7,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2012-10-20T16:00",
+          "icon": "cloud",
+          "tempC": 22.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2012-10-20T17:00",
+          "icon": "cloud-rain",
+          "tempC": 21.7,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2012-10-20T18:00",
+          "icon": "cloud-rain",
+          "tempC": 20.6,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2012-10-20T19:00",
+          "icon": "cloud-rain",
+          "tempC": 19.7,
+          "rainMM": 0.4
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 17.9,
+      "maxTempC": 29.9,
+      "daily": [
+        {
+          "date": "2012-10-17",
+          "rainMM": 9.3,
+          "tempMaxC": 23.7
+        },
+        {
+          "date": "2012-10-18",
+          "rainMM": 0.9,
+          "tempMaxC": 29.8
+        },
+        {
+          "date": "2012-10-19",
+          "rainMM": 7.7,
+          "tempMaxC": 29.9
+        }
+      ]
+    }
+  }
 }

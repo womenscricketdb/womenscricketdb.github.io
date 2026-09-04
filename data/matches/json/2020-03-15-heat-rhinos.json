@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 23.1,
+      "tempMaxC": 30.0,
+      "rainMM": 0.0,
+      "maxWindKMH": 17.6,
+      "avgHumidityPct": 44.1,
+      "hourly": [
+        {
+          "time": "2020-03-15T09:00",
+          "icon": "sun",
+          "tempC": 23.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T10:00",
+          "icon": "sun",
+          "tempC": 25.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T11:00",
+          "icon": "sun",
+          "tempC": 27.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T12:00",
+          "icon": "sun",
+          "tempC": 28.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T13:00",
+          "icon": "sun",
+          "tempC": 28.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T14:00",
+          "icon": "cloud",
+          "tempC": 30.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T15:00",
+          "icon": "sun",
+          "tempC": 28.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T16:00",
+          "icon": "sun",
+          "tempC": 28.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T17:00",
+          "icon": "cloud",
+          "tempC": 27.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T18:00",
+          "icon": "cloud",
+          "tempC": 25.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-03-15T19:00",
+          "icon": "sun",
+          "tempC": 23.9,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 6.9,
+      "maxTempC": 28.7,
+      "daily": [
+        {
+          "date": "2020-03-12",
+          "rainMM": 3.9,
+          "tempMaxC": 25.6
+        },
+        {
+          "date": "2020-03-13",
+          "rainMM": 3.0,
+          "tempMaxC": 28.7
+        },
+        {
+          "date": "2020-03-14",
+          "rainMM": 0.0,
+          "tempMaxC": 28.1
+        }
+      ]
+    }
+  }
 }

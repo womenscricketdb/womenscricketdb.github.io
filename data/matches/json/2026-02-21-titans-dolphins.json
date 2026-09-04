@@ -373,5 +373,74 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 19.9,
+      "tempMaxC": 23.0,
+      "rainMM": 1.0,
+      "maxWindKMH": 6.3,
+      "avgHumidityPct": 73.5,
+      "hourly": [
+        {
+          "time": "2026-02-21T11:00",
+          "icon": "cloud-rain",
+          "tempC": 21.6,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2026-02-21T12:00",
+          "icon": "cloud-rain",
+          "tempC": 21.6,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2026-02-21T13:00",
+          "icon": "cloud-rain",
+          "tempC": 21.8,
+          "rainMM": 0.4
+        },
+        {
+          "time": "2026-02-21T14:00",
+          "icon": "sun",
+          "tempC": 19.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-21T15:00",
+          "icon": "cloud-rain",
+          "tempC": 23.0,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2026-02-21T16:00",
+          "icon": "cloud",
+          "tempC": 22.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.7,
+      "maxTempC": 29.1,
+      "daily": [
+        {
+          "date": "2026-02-18",
+          "rainMM": 0.4,
+          "tempMaxC": 24.8
+        },
+        {
+          "date": "2026-02-19",
+          "rainMM": 0.3,
+          "tempMaxC": 27.8
+        },
+        {
+          "date": "2026-02-20",
+          "rainMM": 0.0,
+          "tempMaxC": 29.1
+        }
+      ]
+    }
+  }
 }

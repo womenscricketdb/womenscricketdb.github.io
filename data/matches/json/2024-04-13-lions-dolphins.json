@@ -431,5 +431,74 @@
       "Stumpings": "",
       "Balls_Bowled": "48"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 16.0,
+      "tempMaxC": 17.3,
+      "rainMM": 0.0,
+      "maxWindKMH": 11.4,
+      "avgHumidityPct": 53.0,
+      "hourly": [
+        {
+          "time": "2024-04-13T11:00",
+          "icon": "sun",
+          "tempC": 16.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T12:00",
+          "icon": "sun",
+          "tempC": 16.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T13:00",
+          "icon": "cloud",
+          "tempC": 17.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T14:00",
+          "icon": "cloud",
+          "tempC": 17.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T15:00",
+          "icon": "sun",
+          "tempC": 17.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-13T16:00",
+          "icon": "cloud",
+          "tempC": 16.9,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.4,
+      "maxTempC": 19.2,
+      "daily": [
+        {
+          "date": "2024-04-10",
+          "rainMM": 0.0,
+          "tempMaxC": 19.2
+        },
+        {
+          "date": "2024-04-11",
+          "rainMM": 0.0,
+          "tempMaxC": 18.5
+        },
+        {
+          "date": "2024-04-12",
+          "rainMM": 0.4,
+          "tempMaxC": 17.2
+        }
+      ]
+    }
+  }
 }

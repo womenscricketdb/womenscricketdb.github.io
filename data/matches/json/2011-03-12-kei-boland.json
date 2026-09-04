@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": "60"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 17.5,
+      "tempMaxC": 22.9,
+      "rainMM": 5.1,
+      "maxWindKMH": 14.8,
+      "avgHumidityPct": 84.7,
+      "hourly": [
+        {
+          "time": "2011-03-12T09:00",
+          "icon": "cloud",
+          "tempC": 21.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2011-03-12T10:00",
+          "icon": "cloud-rain",
+          "tempC": 22.3,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2011-03-12T11:00",
+          "icon": "cloud-rain",
+          "tempC": 22.8,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2011-03-12T12:00",
+          "icon": "cloud-rain",
+          "tempC": 22.9,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2011-03-12T13:00",
+          "icon": "cloud-rain",
+          "tempC": 22.0,
+          "rainMM": 0.4
+        },
+        {
+          "time": "2011-03-12T14:00",
+          "icon": "cloud-rain",
+          "tempC": 21.8,
+          "rainMM": 0.8
+        },
+        {
+          "time": "2011-03-12T15:00",
+          "icon": "cloud-rain",
+          "tempC": 20.7,
+          "rainMM": 1.1
+        },
+        {
+          "time": "2011-03-12T16:00",
+          "icon": "cloud-rain",
+          "tempC": 19.5,
+          "rainMM": 1.0
+        },
+        {
+          "time": "2011-03-12T17:00",
+          "icon": "cloud-rain",
+          "tempC": 18.5,
+          "rainMM": 0.7
+        },
+        {
+          "time": "2011-03-12T18:00",
+          "icon": "cloud-rain",
+          "tempC": 18.0,
+          "rainMM": 0.4
+        },
+        {
+          "time": "2011-03-12T19:00",
+          "icon": "cloud-rain",
+          "tempC": 17.5,
+          "rainMM": 0.1
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 20.4,
+      "maxTempC": 33.1,
+      "daily": [
+        {
+          "date": "2011-03-09",
+          "rainMM": 1.5,
+          "tempMaxC": 24.6
+        },
+        {
+          "date": "2011-03-10",
+          "rainMM": 15.3,
+          "tempMaxC": 33.1
+        },
+        {
+          "date": "2011-03-11",
+          "rainMM": 3.6,
+          "tempMaxC": 26.0
+        }
+      ]
+    }
+  }
 }

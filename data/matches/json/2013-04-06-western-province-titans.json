@@ -431,5 +431,104 @@
       "Stumpings": "0",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 17.4,
+      "tempMaxC": 21.1,
+      "rainMM": 0.3,
+      "maxWindKMH": 19.0,
+      "avgHumidityPct": 80.6,
+      "hourly": [
+        {
+          "time": "2013-04-06T09:00",
+          "icon": "cloud",
+          "tempC": 18.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-04-06T10:00",
+          "icon": "cloud-rain",
+          "tempC": 19.2,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2013-04-06T11:00",
+          "icon": "cloud-rain",
+          "tempC": 20.3,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2013-04-06T12:00",
+          "icon": "cloud",
+          "tempC": 20.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-04-06T13:00",
+          "icon": "cloud",
+          "tempC": 20.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-04-06T14:00",
+          "icon": "sun",
+          "tempC": 21.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-04-06T15:00",
+          "icon": "sun",
+          "tempC": 20.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-04-06T16:00",
+          "icon": "sun",
+          "tempC": 20.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-04-06T17:00",
+          "icon": "sun",
+          "tempC": 19.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-04-06T18:00",
+          "icon": "sun",
+          "tempC": 18.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-04-06T19:00",
+          "icon": "sun",
+          "tempC": 17.4,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 23.4,
+      "daily": [
+        {
+          "date": "2013-04-03",
+          "rainMM": 0.0,
+          "tempMaxC": 22.5
+        },
+        {
+          "date": "2013-04-04",
+          "rainMM": 0.0,
+          "tempMaxC": 23.4
+        },
+        {
+          "date": "2013-04-05",
+          "rainMM": 0.0,
+          "tempMaxC": 22.8
+        }
+      ]
+    }
+  }
 }

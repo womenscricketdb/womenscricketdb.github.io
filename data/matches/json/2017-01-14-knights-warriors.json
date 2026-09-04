@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 20.7,
+      "tempMaxC": 26.6,
+      "rainMM": 0.0,
+      "maxWindKMH": 8.0,
+      "avgHumidityPct": 52.4,
+      "hourly": [
+        {
+          "time": "2017-01-14T09:00",
+          "icon": "sun",
+          "tempC": 20.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T10:00",
+          "icon": "sun",
+          "tempC": 22.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T11:00",
+          "icon": "sun",
+          "tempC": 24.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T12:00",
+          "icon": "sun",
+          "tempC": 25.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T13:00",
+          "icon": "sun",
+          "tempC": 26.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T14:00",
+          "icon": "sun",
+          "tempC": 26.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T15:00",
+          "icon": "sun",
+          "tempC": 26.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T16:00",
+          "icon": "sun",
+          "tempC": 26.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T17:00",
+          "icon": "sun",
+          "tempC": 26.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T18:00",
+          "icon": "sun",
+          "tempC": 25.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2017-01-14T19:00",
+          "icon": "sun",
+          "tempC": 22.4,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 39.9,
+      "maxTempC": 24.6,
+      "daily": [
+        {
+          "date": "2017-01-11",
+          "rainMM": 7.8,
+          "tempMaxC": 23.7
+        },
+        {
+          "date": "2017-01-12",
+          "rainMM": 23.6,
+          "tempMaxC": 24.2
+        },
+        {
+          "date": "2017-01-13",
+          "rainMM": 8.5,
+          "tempMaxC": 24.6
+        }
+      ]
+    }
+  }
 }

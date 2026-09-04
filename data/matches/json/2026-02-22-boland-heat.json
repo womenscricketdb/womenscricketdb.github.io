@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": "12"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 22.0,
+      "tempMaxC": 30.6,
+      "rainMM": 0.1,
+      "maxWindKMH": 11.0,
+      "avgHumidityPct": 45.7,
+      "hourly": [
+        {
+          "time": "2026-02-22T09:00",
+          "icon": "sun",
+          "tempC": 22.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-22T10:00",
+          "icon": "sun",
+          "tempC": 24.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-22T11:00",
+          "icon": "sun",
+          "tempC": 26.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-22T12:00",
+          "icon": "sun",
+          "tempC": 28.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-22T13:00",
+          "icon": "cloud",
+          "tempC": 30.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-22T14:00",
+          "icon": "cloud",
+          "tempC": 29.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-22T15:00",
+          "icon": "cloud-rain",
+          "tempC": 29.1,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2026-02-22T16:00",
+          "icon": "cloud",
+          "tempC": 29.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-22T17:00",
+          "icon": "cloud",
+          "tempC": 30.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-22T18:00",
+          "icon": "sun",
+          "tempC": 29.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-02-22T19:00",
+          "icon": "sun",
+          "tempC": 27.6,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 35.9,
+      "daily": [
+        {
+          "date": "2026-02-19",
+          "rainMM": 0.0,
+          "tempMaxC": 32.7
+        },
+        {
+          "date": "2026-02-20",
+          "rainMM": 0.0,
+          "tempMaxC": 35.9
+        },
+        {
+          "date": "2026-02-21",
+          "rainMM": 0.0,
+          "tempMaxC": 35.9
+        }
+      ]
+    }
+  }
 }

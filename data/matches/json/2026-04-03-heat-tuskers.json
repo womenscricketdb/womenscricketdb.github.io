@@ -431,5 +431,104 @@
       "Stumpings": "0",
       "Balls_Bowled": "54"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 20.3,
+      "tempMaxC": 27.8,
+      "rainMM": 0.0,
+      "maxWindKMH": 12.1,
+      "avgHumidityPct": 41.6,
+      "hourly": [
+        {
+          "time": "2026-04-03T09:00",
+          "icon": "sun",
+          "tempC": 20.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T10:00",
+          "icon": "sun",
+          "tempC": 22.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T11:00",
+          "icon": "sun",
+          "tempC": 24.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T12:00",
+          "icon": "sun",
+          "tempC": 25.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T13:00",
+          "icon": "sun",
+          "tempC": 26.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T14:00",
+          "icon": "sun",
+          "tempC": 27.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T15:00",
+          "icon": "sun",
+          "tempC": 27.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T16:00",
+          "icon": "sun",
+          "tempC": 27.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T17:00",
+          "icon": "sun",
+          "tempC": 26.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T18:00",
+          "icon": "cloud",
+          "tempC": 25.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2026-04-03T19:00",
+          "icon": "sun",
+          "tempC": 23.6,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 28.2,
+      "daily": [
+        {
+          "date": "2026-03-31",
+          "rainMM": 0.0,
+          "tempMaxC": 27.9
+        },
+        {
+          "date": "2026-04-01",
+          "rainMM": 0.0,
+          "tempMaxC": 28.2
+        },
+        {
+          "date": "2026-04-02",
+          "rainMM": 0.0,
+          "tempMaxC": 28.2
+        }
+      ]
+    }
+  }
 }

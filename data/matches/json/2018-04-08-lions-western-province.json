@@ -431,5 +431,104 @@
       "Stumpings": "0",
       "Balls_Bowled": "60"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 18.2,
+      "tempMaxC": 25.1,
+      "rainMM": 0.0,
+      "maxWindKMH": 9.5,
+      "avgHumidityPct": 47.8,
+      "hourly": [
+        {
+          "time": "2018-04-08T09:00",
+          "icon": "sun",
+          "tempC": 19.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T10:00",
+          "icon": "sun",
+          "tempC": 22.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T11:00",
+          "icon": "sun",
+          "tempC": 23.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T12:00",
+          "icon": "sun",
+          "tempC": 24.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T13:00",
+          "icon": "sun",
+          "tempC": 25.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T14:00",
+          "icon": "sun",
+          "tempC": 24.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T15:00",
+          "icon": "cloud",
+          "tempC": 24.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T16:00",
+          "icon": "sun",
+          "tempC": 24.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T17:00",
+          "icon": "sun",
+          "tempC": 23.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T18:00",
+          "icon": "cloud",
+          "tempC": 19.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2018-04-08T19:00",
+          "icon": "sun",
+          "tempC": 18.2,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 8.5,
+      "maxTempC": 24.6,
+      "daily": [
+        {
+          "date": "2018-04-05",
+          "rainMM": 7.3,
+          "tempMaxC": 20.1
+        },
+        {
+          "date": "2018-04-06",
+          "rainMM": 0.0,
+          "tempMaxC": 23.3
+        },
+        {
+          "date": "2018-04-07",
+          "rainMM": 1.2,
+          "tempMaxC": 24.6
+        }
+      ]
+    }
+  }
 }

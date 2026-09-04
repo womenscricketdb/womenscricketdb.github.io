@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": "21"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 27.0,
+      "tempMaxC": 34.3,
+      "rainMM": 0.0,
+      "maxWindKMH": 15.8,
+      "avgHumidityPct": 14.7,
+      "hourly": [
+        {
+          "time": "2022-10-02T09:00",
+          "icon": "sun",
+          "tempC": 27.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T10:00",
+          "icon": "sun",
+          "tempC": 30.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T11:00",
+          "icon": "sun",
+          "tempC": 32.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T12:00",
+          "icon": "sun",
+          "tempC": 33.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T13:00",
+          "icon": "sun",
+          "tempC": 34.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T14:00",
+          "icon": "sun",
+          "tempC": 34.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T15:00",
+          "icon": "sun",
+          "tempC": 34.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T16:00",
+          "icon": "sun",
+          "tempC": 33.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T17:00",
+          "icon": "sun",
+          "tempC": 32.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T18:00",
+          "icon": "sun",
+          "tempC": 29.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2022-10-02T19:00",
+          "icon": "sun",
+          "tempC": 28.5,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 32.5,
+      "daily": [
+        {
+          "date": "2022-09-29",
+          "rainMM": 0.0,
+          "tempMaxC": 29.4
+        },
+        {
+          "date": "2022-09-30",
+          "rainMM": 0.0,
+          "tempMaxC": 31.1
+        },
+        {
+          "date": "2022-10-01",
+          "rainMM": 0.0,
+          "tempMaxC": 32.5
+        }
+      ]
+    }
+  }
 }

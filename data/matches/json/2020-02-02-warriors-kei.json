@@ -416,5 +416,104 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 23.0,
+      "tempMaxC": 26.7,
+      "rainMM": 0.0,
+      "maxWindKMH": 18.9,
+      "avgHumidityPct": 84.5,
+      "hourly": [
+        {
+          "time": "2020-02-02T09:00",
+          "icon": "cloud",
+          "tempC": 23.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T10:00",
+          "icon": "cloud",
+          "tempC": 24.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T11:00",
+          "icon": "cloud",
+          "tempC": 23.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T12:00",
+          "icon": "sun",
+          "tempC": 24.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T13:00",
+          "icon": "sun",
+          "tempC": 26.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T14:00",
+          "icon": "cloud",
+          "tempC": 25.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T15:00",
+          "icon": "cloud",
+          "tempC": 24.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T16:00",
+          "icon": "cloud",
+          "tempC": 24.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T17:00",
+          "icon": "cloud",
+          "tempC": 24.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T18:00",
+          "icon": "cloud",
+          "tempC": 23.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-02T19:00",
+          "icon": "cloud",
+          "tempC": 23.0,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.9,
+      "maxTempC": 26.1,
+      "daily": [
+        {
+          "date": "2020-01-30",
+          "rainMM": 0.0,
+          "tempMaxC": 22.5
+        },
+        {
+          "date": "2020-01-31",
+          "rainMM": 0.1,
+          "tempMaxC": 26.1
+        },
+        {
+          "date": "2020-02-01",
+          "rainMM": 0.8,
+          "tempMaxC": 24.2
+        }
+      ]
+    }
+  }
 }

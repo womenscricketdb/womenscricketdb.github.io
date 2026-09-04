@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": "24"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 19.3,
+      "tempMaxC": 26.4,
+      "rainMM": 0.0,
+      "maxWindKMH": 23.9,
+      "avgHumidityPct": 39.7,
+      "hourly": [
+        {
+          "time": "2024-04-02T09:00",
+          "icon": "sun",
+          "tempC": 19.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T10:00",
+          "icon": "sun",
+          "tempC": 20.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T11:00",
+          "icon": "sun",
+          "tempC": 22.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T12:00",
+          "icon": "sun",
+          "tempC": 23.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T13:00",
+          "icon": "sun",
+          "tempC": 25.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T14:00",
+          "icon": "sun",
+          "tempC": 26.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T15:00",
+          "icon": "sun",
+          "tempC": 26.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T16:00",
+          "icon": "sun",
+          "tempC": 26.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T17:00",
+          "icon": "sun",
+          "tempC": 25.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T18:00",
+          "icon": "sun",
+          "tempC": 20.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-04-02T19:00",
+          "icon": "sun",
+          "tempC": 19.3,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 40.4,
+      "daily": [
+        {
+          "date": "2024-03-30",
+          "rainMM": 0.0,
+          "tempMaxC": 33.6
+        },
+        {
+          "date": "2024-03-31",
+          "rainMM": 0.0,
+          "tempMaxC": 40.4
+        },
+        {
+          "date": "2024-04-01",
+          "rainMM": 0.0,
+          "tempMaxC": 28.5
+        }
+      ]
+    }
+  }
 }

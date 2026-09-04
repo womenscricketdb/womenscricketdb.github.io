@@ -431,5 +431,116 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 13.7,
+      "tempMaxC": 18.2,
+      "rainMM": 1.7,
+      "maxWindKMH": 21.1,
+      "avgHumidityPct": 73.9,
+      "hourly": [
+        {
+          "time": "2023-10-07T09:00",
+          "icon": "cloud",
+          "tempC": 17.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-07T10:00",
+          "icon": "cloud",
+          "tempC": 17.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-07T11:00",
+          "icon": "cloud",
+          "tempC": 18.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-07T12:00",
+          "icon": "cloud-rain",
+          "tempC": 18.1,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2023-10-07T13:00",
+          "icon": "cloud-rain",
+          "tempC": 17.7,
+          "rainMM": 0.4
+        },
+        {
+          "time": "2023-10-07T14:00",
+          "icon": "cloud-rain",
+          "tempC": 16.8,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2023-10-07T15:00",
+          "icon": "cloud-rain",
+          "tempC": 16.5,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2023-10-07T16:00",
+          "icon": "cloud-rain",
+          "tempC": 15.8,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2023-10-07T17:00",
+          "icon": "cloud-rain",
+          "tempC": 15.4,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2023-10-07T18:00",
+          "icon": "cloud",
+          "tempC": 14.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-10-07T19:00",
+          "icon": "cloud-rain",
+          "tempC": 14.4,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2023-10-07T20:00",
+          "icon": "cloud-rain",
+          "tempC": 13.9,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2023-10-07T21:00",
+          "icon": "cloud",
+          "tempC": 13.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 1.2,
+      "maxTempC": 26.6,
+      "daily": [
+        {
+          "date": "2023-10-04",
+          "rainMM": 0.3,
+          "tempMaxC": 26.6
+        },
+        {
+          "date": "2023-10-05",
+          "rainMM": 0.5,
+          "tempMaxC": 23.6
+        },
+        {
+          "date": "2023-10-06",
+          "rainMM": 0.4,
+          "tempMaxC": 24.0
+        }
+      ]
+    }
+  }
 }

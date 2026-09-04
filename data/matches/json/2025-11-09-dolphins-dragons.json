@@ -431,5 +431,86 @@
       "Stumpings": "0",
       "Balls_Bowled": "18"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 22.5,
+      "tempMaxC": 26.4,
+      "rainMM": 0.2,
+      "maxWindKMH": 17.6,
+      "avgHumidityPct": 57.2,
+      "hourly": [
+        {
+          "time": "2025-11-09T08:00",
+          "icon": "sun",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-09T09:00",
+          "icon": "sun",
+          "tempC": 24.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-09T10:00",
+          "icon": "sun",
+          "tempC": 25.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-09T11:00",
+          "icon": "cloud",
+          "tempC": 26.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-09T12:00",
+          "icon": "cloud",
+          "tempC": 26.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-09T13:00",
+          "icon": "cloud",
+          "tempC": 26.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2025-11-09T14:00",
+          "icon": "cloud-rain",
+          "tempC": 26.0,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2025-11-09T15:00",
+          "icon": "cloud-rain",
+          "tempC": 25.0,
+          "rainMM": 0.1
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 4.4,
+      "maxTempC": 24.7,
+      "daily": [
+        {
+          "date": "2025-11-06",
+          "rainMM": 3.9,
+          "tempMaxC": 21.6
+        },
+        {
+          "date": "2025-11-07",
+          "rainMM": 0.4,
+          "tempMaxC": 22.8
+        },
+        {
+          "date": "2025-11-08",
+          "rainMM": 0.1,
+          "tempMaxC": 24.7
+        }
+      ]
+    }
+  }
 }

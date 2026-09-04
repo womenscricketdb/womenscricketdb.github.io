@@ -431,5 +431,62 @@
       "Stumpings": "",
       "Balls_Bowled": "18"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 23.6,
+      "tempMaxC": 27.4,
+      "rainMM": 0.0,
+      "maxWindKMH": 13.0,
+      "avgHumidityPct": 24.2,
+      "hourly": [
+        {
+          "time": "2023-11-12T09:00",
+          "icon": "sun",
+          "tempC": 23.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-12T10:00",
+          "icon": "sun",
+          "tempC": 24.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-12T11:00",
+          "icon": "sun",
+          "tempC": 26.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-12T12:00",
+          "icon": "sun",
+          "tempC": 27.4,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.1,
+      "maxTempC": 32.8,
+      "daily": [
+        {
+          "date": "2023-11-09",
+          "rainMM": 0.0,
+          "tempMaxC": 29.1
+        },
+        {
+          "date": "2023-11-10",
+          "rainMM": 0.0,
+          "tempMaxC": 31.0
+        },
+        {
+          "date": "2023-11-11",
+          "rainMM": 0.1,
+          "tempMaxC": 32.8
+        }
+      ]
+    }
+  }
 }

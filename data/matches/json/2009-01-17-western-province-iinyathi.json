@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": "60"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 19.3,
+      "tempMaxC": 21.5,
+      "rainMM": 0.0,
+      "maxWindKMH": 31.8,
+      "avgHumidityPct": 53.0,
+      "hourly": [
+        {
+          "time": "2009-01-17T09:00",
+          "icon": "sun",
+          "tempC": 19.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T10:00",
+          "icon": "sun",
+          "tempC": 20.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T11:00",
+          "icon": "sun",
+          "tempC": 20.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T12:00",
+          "icon": "sun",
+          "tempC": 21.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T13:00",
+          "icon": "sun",
+          "tempC": 21.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T14:00",
+          "icon": "sun",
+          "tempC": 21.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T15:00",
+          "icon": "sun",
+          "tempC": 21.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T16:00",
+          "icon": "sun",
+          "tempC": 21.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T17:00",
+          "icon": "sun",
+          "tempC": 20.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T18:00",
+          "icon": "sun",
+          "tempC": 20.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2009-01-17T19:00",
+          "icon": "sun",
+          "tempC": 19.3,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 26.1,
+      "daily": [
+        {
+          "date": "2009-01-14",
+          "rainMM": 0.0,
+          "tempMaxC": 23.2
+        },
+        {
+          "date": "2009-01-15",
+          "rainMM": 0.0,
+          "tempMaxC": 26.1
+        },
+        {
+          "date": "2009-01-16",
+          "rainMM": 0.0,
+          "tempMaxC": 24.0
+        }
+      ]
+    }
+  }
 }

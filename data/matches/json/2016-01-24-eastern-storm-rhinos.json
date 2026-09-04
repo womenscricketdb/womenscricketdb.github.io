@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 18.5,
+      "tempMaxC": 22.1,
+      "rainMM": 11.9,
+      "maxWindKMH": 16.3,
+      "avgHumidityPct": 81.4,
+      "hourly": [
+        {
+          "time": "2016-01-24T09:00",
+          "icon": "cloud-rain",
+          "tempC": 19.1,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2016-01-24T10:00",
+          "icon": "cloud-rain",
+          "tempC": 19.7,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2016-01-24T11:00",
+          "icon": "cloud-rain",
+          "tempC": 20.6,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2016-01-24T12:00",
+          "icon": "cloud-rain",
+          "tempC": 21.8,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2016-01-24T13:00",
+          "icon": "cloud-rain",
+          "tempC": 22.1,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2016-01-24T14:00",
+          "icon": "cloud-rain",
+          "tempC": 21.1,
+          "rainMM": 1.8
+        },
+        {
+          "time": "2016-01-24T15:00",
+          "icon": "cloud-rain",
+          "tempC": 21.1,
+          "rainMM": 1.3
+        },
+        {
+          "time": "2016-01-24T16:00",
+          "icon": "cloud-rain",
+          "tempC": 19.3,
+          "rainMM": 5.4
+        },
+        {
+          "time": "2016-01-24T17:00",
+          "icon": "cloud-rain",
+          "tempC": 19.6,
+          "rainMM": 0.6
+        },
+        {
+          "time": "2016-01-24T18:00",
+          "icon": "cloud-rain",
+          "tempC": 19.2,
+          "rainMM": 0.5
+        },
+        {
+          "time": "2016-01-24T19:00",
+          "icon": "cloud-rain",
+          "tempC": 18.5,
+          "rainMM": 1.3
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 23.4,
+      "maxTempC": 24.4,
+      "daily": [
+        {
+          "date": "2016-01-21",
+          "rainMM": 17.6,
+          "tempMaxC": 23.5
+        },
+        {
+          "date": "2016-01-22",
+          "rainMM": 0.8,
+          "tempMaxC": 23.9
+        },
+        {
+          "date": "2016-01-23",
+          "rainMM": 5.0,
+          "tempMaxC": 24.4
+        }
+      ]
+    }
+  }
 }

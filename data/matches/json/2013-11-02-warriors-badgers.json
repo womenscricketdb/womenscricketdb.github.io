@@ -15,5 +15,104 @@
   "teams": {},
   "topBatting": {},
   "topBowling": {},
-  "allPlayers": {}
+  "allPlayers": {},
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 16.1,
+      "tempMaxC": 18.2,
+      "rainMM": 0.6,
+      "maxWindKMH": 15.6,
+      "avgHumidityPct": 64.9,
+      "hourly": [
+        {
+          "time": "2013-11-02T09:00",
+          "icon": "cloud-rain",
+          "tempC": 16.7,
+          "rainMM": 0.3
+        },
+        {
+          "time": "2013-11-02T10:00",
+          "icon": "cloud-rain",
+          "tempC": 17.1,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2013-11-02T11:00",
+          "icon": "cloud-rain",
+          "tempC": 17.6,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2013-11-02T12:00",
+          "icon": "cloud",
+          "tempC": 18.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-11-02T13:00",
+          "icon": "cloud",
+          "tempC": 18.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-11-02T14:00",
+          "icon": "cloud",
+          "tempC": 18.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-11-02T15:00",
+          "icon": "sun",
+          "tempC": 17.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-11-02T16:00",
+          "icon": "cloud",
+          "tempC": 17.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-11-02T17:00",
+          "icon": "sun",
+          "tempC": 17.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-11-02T18:00",
+          "icon": "sun",
+          "tempC": 16.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2013-11-02T19:00",
+          "icon": "sun",
+          "tempC": 16.1,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 28.6,
+      "maxTempC": 19.3,
+      "daily": [
+        {
+          "date": "2013-10-30",
+          "rainMM": 0.2,
+          "tempMaxC": 19.3
+        },
+        {
+          "date": "2013-10-31",
+          "rainMM": 13.1,
+          "tempMaxC": 19.2
+        },
+        {
+          "date": "2013-11-01",
+          "rainMM": 15.3,
+          "tempMaxC": 18.9
+        }
+      ]
+    }
+  }
 }

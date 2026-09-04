@@ -431,5 +431,122 @@
       "Stumpings": "",
       "Balls_Bowled": "60"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 15.1,
+      "tempMaxC": 25.3,
+      "rainMM": 0.0,
+      "maxWindKMH": 13.1,
+      "avgHumidityPct": 17.6,
+      "hourly": [
+        {
+          "time": "2024-10-05T09:00",
+          "icon": "sun",
+          "tempC": 17.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T10:00",
+          "icon": "sun",
+          "tempC": 20.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T11:00",
+          "icon": "sun",
+          "tempC": 22.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T12:00",
+          "icon": "sun",
+          "tempC": 23.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T13:00",
+          "icon": "sun",
+          "tempC": 24.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T14:00",
+          "icon": "sun",
+          "tempC": 25.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T15:00",
+          "icon": "sun",
+          "tempC": 25.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T16:00",
+          "icon": "sun",
+          "tempC": 24.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T17:00",
+          "icon": "sun",
+          "tempC": 23.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T18:00",
+          "icon": "sun",
+          "tempC": 20.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T19:00",
+          "icon": "sun",
+          "tempC": 18.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T20:00",
+          "icon": "sun",
+          "tempC": 15.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T21:00",
+          "icon": "sun",
+          "tempC": 18.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2024-10-05T22:00",
+          "icon": "sun",
+          "tempC": 15.1,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.0,
+      "maxTempC": 23.6,
+      "daily": [
+        {
+          "date": "2024-10-02",
+          "rainMM": 0.0,
+          "tempMaxC": 21.0
+        },
+        {
+          "date": "2024-10-03",
+          "rainMM": 0.0,
+          "tempMaxC": 22.5
+        },
+        {
+          "date": "2024-10-04",
+          "rainMM": 0.0,
+          "tempMaxC": 23.6
+        }
+      ]
+    }
+  }
 }

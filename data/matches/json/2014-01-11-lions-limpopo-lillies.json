@@ -431,5 +431,104 @@
       "Stumpings": "",
       "Balls_Bowled": "36"
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 22.4,
+      "tempMaxC": 27.5,
+      "rainMM": 0.0,
+      "maxWindKMH": 14.1,
+      "avgHumidityPct": 35.7,
+      "hourly": [
+        {
+          "time": "2014-01-11T09:00",
+          "icon": "sun",
+          "tempC": 22.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T10:00",
+          "icon": "sun",
+          "tempC": 24.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T11:00",
+          "icon": "sun",
+          "tempC": 25.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T12:00",
+          "icon": "sun",
+          "tempC": 26.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T13:00",
+          "icon": "sun",
+          "tempC": 26.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T14:00",
+          "icon": "sun",
+          "tempC": 27.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T15:00",
+          "icon": "sun",
+          "tempC": 27.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T16:00",
+          "icon": "sun",
+          "tempC": 27.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T17:00",
+          "icon": "sun",
+          "tempC": 27.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T18:00",
+          "icon": "sun",
+          "tempC": 26.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2014-01-11T19:00",
+          "icon": "sun",
+          "tempC": 23.8,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 5.1,
+      "maxTempC": 26.6,
+      "daily": [
+        {
+          "date": "2014-01-08",
+          "rainMM": 4.4,
+          "tempMaxC": 22.1
+        },
+        {
+          "date": "2014-01-09",
+          "rainMM": 0.7,
+          "tempMaxC": 25.4
+        },
+        {
+          "date": "2014-01-10",
+          "rainMM": 0.0,
+          "tempMaxC": 26.6
+        }
+      ]
+    }
+  }
 }

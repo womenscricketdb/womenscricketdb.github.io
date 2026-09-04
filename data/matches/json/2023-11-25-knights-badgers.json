@@ -431,5 +431,128 @@
       "Stumpings": "",
       "Balls_Bowled": ""
     }
-  ]
+  ],
+  "weather": {
+    "windowSource": "actual",
+    "onTheDay": {
+      "tempMinC": 21.7,
+      "tempMaxC": 31.9,
+      "rainMM": 0.0,
+      "maxWindKMH": 13.9,
+      "avgHumidityPct": 38.1,
+      "hourly": [
+        {
+          "time": "2023-11-25T09:00",
+          "icon": "cloud",
+          "tempC": 25.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T10:00",
+          "icon": "sun",
+          "tempC": 27.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T11:00",
+          "icon": "sun",
+          "tempC": 28.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T12:00",
+          "icon": "cloud",
+          "tempC": 30.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T13:00",
+          "icon": "cloud",
+          "tempC": 31.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T14:00",
+          "icon": "cloud",
+          "tempC": 31.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T15:00",
+          "icon": "sun",
+          "tempC": 29.4,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T16:00",
+          "icon": "sun",
+          "tempC": 30.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T17:00",
+          "icon": "sun",
+          "tempC": 29.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T18:00",
+          "icon": "sun",
+          "tempC": 28.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T19:00",
+          "icon": "sun",
+          "tempC": 26.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T20:00",
+          "icon": "sun",
+          "tempC": 25.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T21:00",
+          "icon": "cloud",
+          "tempC": 24.3,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T22:00",
+          "icon": "sun",
+          "tempC": 22.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2023-11-25T23:00",
+          "icon": "sun",
+          "tempC": 21.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 5.1,
+      "maxTempC": 36.5,
+      "daily": [
+        {
+          "date": "2023-11-22",
+          "rainMM": 0.0,
+          "tempMaxC": 34.1
+        },
+        {
+          "date": "2023-11-23",
+          "rainMM": 0.0,
+          "tempMaxC": 36.5
+        },
+        {
+          "date": "2023-11-24",
+          "rainMM": 5.1,
+          "tempMaxC": 31.8
+        }
+      ]
+    }
+  }
 }
