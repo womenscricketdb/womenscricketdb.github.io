@@ -1205,12 +1205,12 @@ def q_magnitude_gap(rng, used_files):
 
 
 DOUBLE_FILES = [
-    ("D_50_3", "50+ runs and 3+ wickets in a match"),
-    ("D_50_4", "50+ runs and 4+ wickets in a match"),
-    ("D_50_5", "50+ runs and 5+ wickets in a match"),
-    ("D_100_3", "100+ runs and 3+ wickets in a match"),
-    ("D_100_4", "100+ runs and 4+ wickets in a match"),
-    ("D_150_3", "150+ runs and 3+ wickets in a match"),
+    ("D_50_3", "fifty and 3 wickets in a match"),
+    ("D_50_4", "fifty and 4 wickets in a match"),
+    ("D_50_5", "fifty and 5 wickets in a match"),
+    ("D_100_3", "century and 3 wickets in a match"),
+    ("D_100_4", "century and 4 wickets in a match"),
+    ("D_150_3", "150 runs and 3 wickets in a match"),
 ]
 # Excluded: D_100_5, D_150_4, D_150_5, D_200_3 -- 2 or fewer players have
 # ever achieved these, too thin to fairly generate decoys from.
