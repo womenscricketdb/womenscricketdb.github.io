@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-05T03:40:32.432369Z",
+  "questions": [
+    {
+      "type": "reverse_record",
+      "question": "Heat set a database record (06/07 season, List A) with a value of 22. Which record is it?",
+      "options": [
+        "Biggest Win by Runs",
+        "Lowest Team Total (all out or completed innings)",
+        "Highest Team Total",
+        "Most Wins"
+      ],
+      "answer_index": 1,
+      "explanation": "It's the record for 'Lowest Team Total (all out or completed innings)', held by Heat."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Dragons or Boland?",
+      "options": [
+        "Boland",
+        "Dragons"
+      ],
+      "answer_index": 1,
+      "explanation": "Dragons lead 5-3 across 10 meetings (List A)."
+    },
+    {
+      "type": "curveball",
+      "question": "Who won CSA Women's Cricketer of the Year in the 2024/25 season?",
+      "options": [
+        "Nonkululeko Mlaba",
+        "Marizanne Kapp",
+        "Sune Luus",
+        "Dané van Niekerk"
+      ],
+      "answer_index": 0,
+      "explanation": "Nonkululeko Mlaba won it in 2024/25."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Wanderers, who holds the record for 'Most Runs' (T20)?",
+      "options": [
+        "Karabo Meso",
+        "Kirstie Thomson",
+        "Nonkhululeko Thabethe",
+        "Sunette Viljoen-Louw"
+      ],
+      "answer_index": 1,
+      "explanation": "Kirstie Thomson holds it with 488."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Matches as Captain' (T20)?",
+      "options": [
+        "Susan Benade",
+        "Alexis le Breton",
+        "Leah Jones",
+        "Robyn Searle"
+      ],
+      "answer_index": 0,
+      "explanation": "Susan Benade holds it, with a total of 43."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Badgers record their 'Highest Total' (T20)?",
+      "options": [
+        "CUT Tokkie Park",
+        "Bridgton Sports Grounds",
+        "Bloemfontein Oval",
+        "Boland Park, Worcester"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Bloemfontein Oval — highest total of 207, against Knights on 2023/11/26."
+    }
+  ]
+}

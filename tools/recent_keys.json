@@ -82,22 +82,22 @@
   {
     "date": "2026-09-05",
     "template": "q_doubles_higher_lower",
-    "source_key": "D_50_5"
+    "source_key": "D_50_3"
   },
   {
     "date": "2026-09-05",
     "template": "q_venue_record",
-    "source_key": "venue:Wanderers"
+    "source_key": "venue:City Oval"
   },
   {
     "date": "2026-09-05",
     "template": "q_player_record",
-    "source_key": "records/bowling/json/Most_Maidens.json"
+    "source_key": "records/bowling/json/Best_Bowl_Average.json"
   },
   {
     "date": "2026-09-05",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Kei:Highest Total:List A"
+    "source_key": "team_record_venue:Tuskers:Highest Total:T20"
   },
   {
     "date": "2026-09-06",
@@ -148,5 +148,30 @@
     "date": "2026-09-07",
     "template": "q_doubles_higher_lower",
     "source_key": "D_100_4"
+  },
+  {
+    "date": "2026-09-08",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Boland-Dragons:List A"
+  },
+  {
+    "date": "2026-09-08",
+    "template": "q_reverse_record",
+    "source_key": "records/team/json/Lowest_Total.json"
+  },
+  {
+    "date": "2026-09-08",
+    "template": "q_venue_record",
+    "source_key": "venue:Wanderers"
+  },
+  {
+    "date": "2026-09-08",
+    "template": "q_player_record",
+    "source_key": "records/misc/json/Matches_Captained.json"
+  },
+  {
+    "date": "2026-09-08",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Badgers:Highest Total:T20"
   }
 ]
