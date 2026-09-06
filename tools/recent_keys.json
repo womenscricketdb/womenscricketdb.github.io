@@ -162,7 +162,7 @@
   {
     "date": "2026-09-08",
     "template": "q_venue_record",
-    "source_key": "venue:Polokwane Oval"
+    "source_key": "venue:Kingsmead stadium"
   },
   {
     "date": "2026-09-08",
@@ -173,5 +173,30 @@
     "date": "2026-09-08",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Badgers:Highest Total:T20"
+  },
+  {
+    "date": "2026-09-09",
+    "template": "q_venue_record",
+    "source_key": "venue:Buffalo Park"
+  },
+  {
+    "date": "2026-09-09",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Most_Wickets.json"
+  },
+  {
+    "date": "2026-09-09",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Sixes.json"
+  },
+  {
+    "date": "2026-09-09",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Dolphins-Knights:T20"
+  },
+  {
+    "date": "2026-09-09",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_100_3"
   }
 ]
