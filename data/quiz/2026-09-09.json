@@ -1,31 +1,7 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-06T03:42:39.360414Z",
+  "generated_at": "2026-09-06T07:50:53.011292Z",
   "questions": [
-    {
-      "type": "venue_record",
-      "question": "At Buffalo Park, who holds the record for 'Most Matches' (T20)?",
-      "options": [
-        "Siyolise Fawuli",
-        "Sisipho Siswana",
-        "Geneveve Fritz",
-        "Siyamanga Mhletywa"
-      ],
-      "answer_index": 2,
-      "explanation": "Geneveve Fritz holds it with 15."
-    },
-    {
-      "type": "curveball",
-      "question": "Who won CSA Women's Cricketer of the Year in the 2019/20 season?",
-      "options": [
-        "Sune Luus",
-        "Ayabonga Khaka",
-        "Laura Wolvaardt",
-        "Shabnim Ismail"
-      ],
-      "answer_index": 2,
-      "explanation": "Laura Wolvaardt won it in 2019/20."
-    },
     {
       "type": "player_record",
       "question": "Who holds the record for 'Most Wickets' in the 25/26 season (List A)?",
@@ -37,6 +13,16 @@
       ],
       "answer_index": 1,
       "explanation": "Aphilile Adonisi holds it, with a total of 24."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head T20 meetings, who has the edge, Dolphins or Knights?",
+      "options": [
+        "Dolphins",
+        "Knights"
+      ],
+      "answer_index": 0,
+      "explanation": "Dolphins lead 7-1 across 9 meetings (T20)."
     },
     {
       "type": "player_record",
@@ -51,24 +37,38 @@
       "explanation": "Tazmin Brits holds it, with a total of 31."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Dolphins or Knights?",
+      "type": "venue_record",
+      "question": "At Boland Park, Paarl, who holds the record for 'Most Matches' (List A)?",
       "options": [
-        "Dolphins",
-        "Knights"
+        "Nathanael Christiaans",
+        "Stacey Lackay",
+        "Alicia Smith",
+        "Sunette Loubser"
       ],
-      "answer_index": 0,
-      "explanation": "Dolphins lead 7-1 across 9 meetings (T20)."
+      "answer_index": 2,
+      "explanation": "Alicia Smith holds it with 26."
+    },
+    {
+      "type": "curveball",
+      "question": "Who won CSA Women's Cricketer of the Year in the 2019/20 season?",
+      "options": [
+        "Sune Luus",
+        "Ayabonga Khaka",
+        "Laura Wolvaardt",
+        "Shabnim Ismail"
+      ],
+      "answer_index": 2,
+      "explanation": "Laura Wolvaardt won it in 2019/20."
     },
     {
       "type": "doubles_higher_lower",
-      "question": "Who has achieved the century and 3 wickets in a match double more times, Jana Nell or Susan Benade?",
+      "question": "Who has achieved the 150 runs and 3 wickets in a match double more times, Lanette Pienaar or Susan Benade?",
       "options": [
-        "Jana Nell",
+        "Lanette Pienaar",
         "Susan Benade"
       ],
-      "answer_index": 1,
-      "explanation": "Jana Nell: 1 times. Susan Benade: 2 times."
+      "answer_index": 0,
+      "explanation": "Lanette Pienaar: 2 times. Susan Benade: 1 times."
     }
   ]
 }

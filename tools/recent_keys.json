@@ -122,7 +122,7 @@
   {
     "date": "2026-09-06",
     "template": "q_doubles_higher_lower",
-    "source_key": "D_150_3"
+    "source_key": "D_50_5"
   },
   {
     "date": "2026-09-07",
@@ -132,7 +132,7 @@
   {
     "date": "2026-09-07",
     "template": "q_player_record",
-    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
+    "source_key": "records/bowling/json/Most_Maidens.json"
   },
   {
     "date": "2026-09-07",
@@ -162,22 +162,22 @@
   {
     "date": "2026-09-08",
     "template": "q_venue_record",
-    "source_key": "venue:Kingsmead stadium"
-  },
-  {
-    "date": "2026-09-08",
-    "template": "q_player_record",
-    "source_key": "records/misc/json/Matches_Captained.json"
+    "source_key": "venue:Recreation Ground"
   },
   {
     "date": "2026-09-08",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Badgers:Highest Total:T20"
+    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
+  },
+  {
+    "date": "2026-09-08",
+    "template": "q_team_record",
+    "source_key": "records/team/json/Highest_Total.json"
   },
   {
     "date": "2026-09-09",
     "template": "q_venue_record",
-    "source_key": "venue:Buffalo Park"
+    "source_key": "venue:Boland Park, Paarl"
   },
   {
     "date": "2026-09-09",
@@ -197,6 +197,6 @@
   {
     "date": "2026-09-09",
     "template": "q_doubles_higher_lower",
-    "source_key": "D_100_3"
+    "source_key": "D_150_3"
   }
 ]

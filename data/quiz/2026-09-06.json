@@ -1,16 +1,16 @@
 {
   "date": "2026-09-06",
-  "generated_at": "2026-09-06T03:42:39.126150Z",
+  "generated_at": "2026-09-06T07:50:52.676408Z",
   "questions": [
     {
       "type": "doubles_higher_lower",
-      "question": "Who has achieved the 150 runs and 3 wickets in a match double more times, Anneke Bosch or Lanette Pienaar?",
+      "question": "Who has achieved the fifty and 5 wickets in a match double more times, Johmari Logtenberg or Susan Benade?",
       "options": [
-        "Anneke Bosch",
-        "Lanette Pienaar"
+        "Johmari Logtenberg",
+        "Susan Benade"
       ],
       "answer_index": 1,
-      "explanation": "Anneke Bosch: 1 times. Lanette Pienaar: 2 times."
+      "explanation": "Johmari Logtenberg: 1 times. Susan Benade: 2 times."
     },
     {
       "type": "reverse_record",
@@ -37,6 +37,18 @@
       "explanation": "Laura Wolvaardt won it in 2025/26."
     },
     {
+      "type": "team_record_venue",
+      "question": "At which ground did Boland record their 'Largest Win by Runs' (T20)?",
+      "options": [
+        "Boland Park, Paarl",
+        "Buffalo Park",
+        "Windmill Park",
+        "United CC Ground"
+      ],
+      "answer_index": 0,
+      "explanation": "It was at Boland Park, Paarl — largest win by runs of 64, against Lions on 2015/03/29."
+    },
+    {
       "type": "head_to_head",
       "question": "In head-to-head List A meetings, who has the edge, Rhinos or Limpopo Lillies?",
       "options": [
@@ -57,18 +69,6 @@
       ],
       "answer_index": 0,
       "explanation": "Diedre van Rensburg holds it, with a total of 165."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Boland record their 'Largest Win by Runs' (T20)?",
-      "options": [
-        "Boland Park, Paarl",
-        "Windmill Park",
-        "St George's Park",
-        "Newlands Stadium"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Boland Park, Paarl — largest win by runs of 64, against Lions on 2015/03/29."
     }
   ]
 }
