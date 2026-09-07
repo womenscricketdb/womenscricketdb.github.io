@@ -147,7 +147,7 @@
   {
     "date": "2026-09-07",
     "template": "q_doubles_higher_lower",
-    "source_key": "D_100_4"
+    "source_key": "D_100_3"
   },
   {
     "date": "2026-09-08",
@@ -162,7 +162,7 @@
   {
     "date": "2026-09-08",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Potchefstroom Oval"
   },
   {
     "date": "2026-09-08",
@@ -177,7 +177,7 @@
   {
     "date": "2026-09-09",
     "template": "q_venue_record",
-    "source_key": "venue:Boland Park, Paarl"
+    "source_key": "venue:Bloemfontein Oval"
   },
   {
     "date": "2026-09-09",
@@ -198,5 +198,30 @@
     "date": "2026-09-09",
     "template": "q_doubles_higher_lower",
     "source_key": "D_150_3"
+  },
+  {
+    "date": "2026-09-10",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Fastest_50.json"
+  },
+  {
+    "date": "2026-09-10",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_100_4"
+  },
+  {
+    "date": "2026-09-10",
+    "template": "q_reverse_record",
+    "source_key": "records/misc/json/Most_Matches.json"
+  },
+  {
+    "date": "2026-09-10",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Boland-Warriors:List A"
+  },
+  {
+    "date": "2026-09-10",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Payton Coppin"
   }
 ]
