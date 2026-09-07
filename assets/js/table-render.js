@@ -18,6 +18,28 @@ const WCA_TABLE = (() => {
     let seq = 0; // unique id suffix, so multiple tables can exist on one page
     const containerTables = new WeakMap(); // container element -> its current DataTable instance
 
+    // Display order for Format toggle buttons. Without this, both toggle
+    // builders below fell back to Set-insertion order - i.e. whichever
+    // format happened to appear first among a given rows array - which
+    // depends on which format that player's *first* match happened to be
+    // in each individual dataset. Batting and bowling rows can genuinely
+    // disagree on that per player, so the same page showed the same
+    // three formats in a different left-to-right order between its
+    // batting and bowling sections. A fixed order removes the
+    // inconsistency regardless of row order in the underlying data.
+    // Formats not listed here (none currently exist) sort after all of
+    // these, in whatever relative order they already had.
+    const FORMAT_ORDER = ["T20", "List A", "Overall"];
+    function sortFormats(formats) {
+        return [...formats].sort((a, b) => {
+            const ai = FORMAT_ORDER.indexOf(a), bi = FORMAT_ORDER.indexOf(b);
+            if (ai === -1 && bi === -1) return 0;
+            if (ai === -1) return 1;
+            if (bi === -1) return -1;
+            return ai - bi;
+        });
+    }
+
     const LINK_KEYS = {
         Player: 1, Team: 1, Teams: 1, Team_Home: 1, Team_Away: 1,
         "Bowling Team": 1, "Batting Team": 1,
@@ -431,7 +453,7 @@ const WCA_TABLE = (() => {
      */
     function renderFormatToggleTable(container, title, rows, tableOpts = {}) {
         if (!rows || !rows.length) return;
-        const formats = Array.from(new Set(rows.map(r => r.Format).filter(Boolean)));
+        const formats = sortFormats(Array.from(new Set(rows.map(r => r.Format).filter(Boolean))));
 
         if (title) {
             const heading = document.createElement("div");
@@ -515,7 +537,7 @@ const WCA_TABLE = (() => {
      */
     function renderChartableTable(container, title, rows, tableOpts = {}, chartOpts = null) {
         if (!rows || !rows.length) return;
-        const formats = Array.from(new Set(rows.map(r => r.Format).filter(Boolean)));
+        const formats = sortFormats(Array.from(new Set(rows.map(r => r.Format).filter(Boolean))));
 
         if (title) {
             const heading = document.createElement("div");

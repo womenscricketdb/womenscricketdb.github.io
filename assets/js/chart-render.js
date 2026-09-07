@@ -79,6 +79,28 @@ const WCA_CHART = (() => {
         return metrics[0];
     }
 
+    /**
+     * beginAtZero (true): leave min/max undefined and let Chart.js's own
+     * beginAtZero handle it, unchanged from before this toggle existed.
+     * beginAtZero (false): zoom to the data's own range so genuine swings
+     * are visible, but with padding -- zooming to the exact min/max would
+     * put the highest and lowest points right on the plot's edge, easy to
+     * misread as "still rising/falling" when the line simply ran out of
+     * room. 15% of the data's own range on each side; a flat/near-flat
+     * series (range near 0) falls back to a small fixed pad instead of
+     * padding-of-nothing collapsing back to a zero-height range.
+     */
+    function computeYRange(dataPoints, beginAtZero) {
+        if (beginAtZero) return { min: undefined, max: undefined };
+        const nums = dataPoints.filter(v => v !== null && v !== undefined && !isNaN(v));
+        if (!nums.length) return { min: undefined, max: undefined };
+        const dataMin = Math.min(...nums);
+        const dataMax = Math.max(...nums);
+        const range = dataMax - dataMin;
+        const pad = range > 0 ? range * 0.15 : Math.max(Math.abs(dataMax) * 0.1, 1);
+        return { min: dataMin - pad, max: dataMax + pad };
+    }
+
     function cssVar(name, fallback) {
         const v = getComputedStyle(document.documentElement).getPropertyValue(name).trim();
         return v || fallback;
@@ -161,11 +183,12 @@ const WCA_CHART = (() => {
         wrap.className = "wca-chart-wrap";
 
         let currentMetric = defaultMetric(metrics);
+        let beginAtZero = true;
+
+        const pickerRow = document.createElement("div");
+        pickerRow.className = "wca-chart-metric-picker";
 
         if (metrics.length > 1) {
-            const pickerRow = document.createElement("div");
-            pickerRow.className = "wca-chart-metric-picker";
-
             const label = document.createElement("label");
             label.textContent = "Metric";
             const selectId = `wcaChartMetric${Math.random().toString(36).slice(2, 8)}`;
@@ -188,7 +211,88 @@ const WCA_CHART = (() => {
 
             pickerRow.appendChild(label);
             pickerRow.appendChild(select);
-            wrap.appendChild(pickerRow);
+        }
+
+        // Zero-axis toggle - independent of how many metrics exist, so it
+        // shows even for a single-metric chart. Checked (the default)
+        // matches every chart's behavior before this toggle existed;
+        // unchecked zooms to the data's own (padded) range, which is what
+        // actually surfaces a real swing that's small relative to the
+        // metric's own scale (e.g. bowling average 16.5->19) rather than
+        // letting it get visually absorbed by a fixed 0-based axis.
+        const zeroWrap = document.createElement("div");
+        zeroWrap.className = "wca-chart-zero-toggle form-check form-check-sm";
+        const zeroCheckbox = document.createElement("input");
+        zeroCheckbox.type = "checkbox";
+        zeroCheckbox.className = "form-check-input";
+        const zeroId = `wcaChartZero${Math.random().toString(36).slice(2, 8)}`;
+        zeroCheckbox.id = zeroId;
+        zeroCheckbox.checked = true;
+        const zeroLabel = document.createElement("label");
+        zeroLabel.className = "form-check-label";
+        zeroLabel.setAttribute("for", zeroId);
+        zeroLabel.textContent = "Start axis at zero";
+        zeroCheckbox.addEventListener("change", () => {
+            beginAtZero = zeroCheckbox.checked;
+            draw();
+        });
+        zeroWrap.appendChild(zeroCheckbox);
+        zeroWrap.appendChild(zeroLabel);
+        pickerRow.appendChild(zeroWrap);
+
+        wrap.appendChild(pickerRow);
+
+        // Last-N-innings window - only offered when it would actually
+        // trim something (a preset >= total row count is pointless, and
+        // on a short career every preset might be). "All" only appears
+        // alongside at least one real preset, so a chart with too few
+        // rows for any preset to matter shows no window controls at all,
+        // same as the metric picker being skipped for a single-metric
+        // chart above.
+        const WINDOW_PRESETS = [10, 20, 30];
+        const availablePresets = WINDOW_PRESETS.filter(n => rows.length > n);
+        let windowSize = null; // null = All rows
+
+        if (availablePresets.length) {
+            const windowRow = document.createElement("div");
+            // Reuses wca-chart-metric-picker for the label+row layout
+            // (same flex/gap/label styling as the Metric row above) and
+            // wca-format-toggle for the buttons themselves - the exact
+            // class the List A/T20/Overall switch already uses, so this
+            // reads as the same control rather than a one-off that
+            // doesn't quite match anything else on the page.
+            windowRow.className = "wca-chart-metric-picker";
+
+            const windowLabel = document.createElement("label");
+            // Generic against whatever xKey this chart was given, same
+            // reasoning as the tooltip title callback below - "Innings"
+            // on the Career Prog chart, "Season" here, rather than a
+            // label hardcoded for one specific chart.
+            windowLabel.textContent = WCA.friendlyLabel(xKey);
+            windowRow.appendChild(windowLabel);
+
+            const windowToggle = document.createElement("div");
+            windowToggle.className = "wca-format-toggle";
+
+            function makeWindowButton(label, size) {
+                const btn = document.createElement("button");
+                btn.type = "button";
+                btn.textContent = label;
+                btn.className = size === windowSize ? "active" : "";
+                btn.addEventListener("click", () => {
+                    windowSize = size;
+                    [...windowToggle.children].forEach(b => b.classList.toggle("active", b === btn));
+                    draw();
+                });
+                windowToggle.appendChild(btn);
+                return btn;
+            }
+
+            makeWindowButton("All", null);
+            availablePresets.forEach(n => makeWindowButton(`Last ${n}`, n));
+
+            windowRow.appendChild(windowToggle);
+            wrap.appendChild(windowRow);
         }
 
         const canvasHolder = document.createElement("div");
@@ -204,11 +308,41 @@ const WCA_CHART = (() => {
 
         let chart = null;
 
-        function draw() {
-            const filled = fillSeasonGaps(rows, xKey);
+    /**
+     * When "start axis at zero" is on, Chart.js's own beginAtZero handles
+     * everything and no explicit min/max is needed. Off, the axis zooms
+     * to the data's own range so a real swing that's small relative to
+     * the metric's overall scale (bowling average 16.5->19, say) is
+     * actually visible rather than getting visually absorbed by a fixed
+     * 0-based scale -- but padded by 10% of the range (or a flat +/-1 if
+     * every visible point happens to be identical, so the line isn't
+     * drawn as a single edge-to-edge flat stroke) so points don't sit
+     * flush against the plot's top/bottom edges. Floored at 0 regardless
+     * of padding, since none of the metrics charted here (Runs, Wickets,
+     * Average, etc.) are ever meaningfully negative.
+     */
+    function yAxisRange(dataPoints, beginAtZero) {
+        if (beginAtZero) return { beginAtZero: true, min: undefined, max: undefined };
+        const finite = dataPoints.filter(v => v !== null && v !== undefined && !isNaN(v));
+        if (!finite.length) return { beginAtZero: true, min: undefined, max: undefined };
+        const dataMin = Math.min(...finite);
+        const dataMax = Math.max(...finite);
+        const range = dataMax - dataMin;
+        const pad = range > 0 ? range * 0.1 : Math.max(Math.abs(dataMax) * 0.1, 1);
+        return {
+            beginAtZero: false,
+            min: Math.max(0, dataMin - pad),
+            max: dataMax + pad,
+        };
+    }
+
+    function draw() {
+            const sourceRows = windowSize ? rows.slice(-windowSize) : rows;
+            const filled = fillSeasonGaps(sourceRows, xKey);
             const labels = filled.map(r => r[xKey]);
             const dataPoints = filled.map(r => parseMetricValue(r[currentMetric]));
             const metricLabel = WCA.friendlyLabel(currentMetric);
+            const yRange = yAxisRange(dataPoints, beginAtZero);
 
             if (chart) {
                 // Same canvas, new metric - update in place rather than
@@ -218,6 +352,9 @@ const WCA_CHART = (() => {
                 chart.data.datasets[0].data = dataPoints;
                 chart.data.datasets[0].label = metricLabel;
                 chart.options.scales.y.title.text = metricLabel;
+                chart.options.scales.y.beginAtZero = yRange.beginAtZero;
+                chart.options.scales.y.min = yRange.min;
+                chart.options.scales.y.max = yRange.max;
                 chart.update();
                 return;
             }
@@ -235,7 +372,17 @@ const WCA_CHART = (() => {
                         pointRadius: 3,
                         pointHoverRadius: 5,
                         borderWidth: 2,
-                        tension: 0.25,
+                        // Straight segments, not a smoothed Bezier curve.
+                        // These are discrete per-innings/per-season points
+                        // with nothing real interpolated between them, and
+                        // several of the metrics charted here (career
+                        // running Average especially) are already smooth
+                        // by construction -- curve smoothing on top of that
+                        // doesn't reduce noise, it just visually flattens
+                        // genuine sharp swings (e.g. a real run of poor
+                        // form dragging a cumulative average up quickly)
+                        // into a gentle-looking curve that understates them.
+                        tension: 0,
                         // Filled area under the line looked fine when gaps
                         // were bridged as a smooth hill across the whole
                         // width, but reads oddly once real gaps exist -
@@ -277,7 +424,9 @@ const WCA_CHART = (() => {
                             ticks: { color: textDim },
                         },
                         y: {
-                            beginAtZero: true,
+                            beginAtZero: yRange.beginAtZero,
+                            min: yRange.min,
+                            max: yRange.max,
                             grid: { color: border },
                             ticks: { color: textDim },
                             title: { display: true, text: metricLabel, color: textDim },
