@@ -75,7 +75,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Runs": "15",
         "Average": "7.50",
@@ -131,6 +131,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dolphins",
         "Innings": "0",
         "Runs": "0",
@@ -168,14 +176,6 @@
         "Runs": "0",
         "Average": "0.00",
         "Strike-Rate": "0.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
       }
     ],
     "byVenue": [
@@ -700,7 +700,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "5",
         "Wickets": "4",
         "Average": "39.25",
@@ -764,19 +764,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "18.50",
+        "Economy": "7.40"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Kei",
         "Innings": "1",
         "Wickets": "2",
         "Average": "4.50",
         "Economy": "2.25"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Wickets": "2",
-        "Average": "18.50",
-        "Economy": "7.40"
       },
       {
         "Format": "T20",
@@ -1063,7 +1063,7 @@
       {
         "Format": "T20",
         "Date": "2024/10/20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "2-29",
         "Overs": "4",
         "Economy": "7.25"
@@ -1079,7 +1079,7 @@
       {
         "Format": "T20",
         "Date": "2024/12/01",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-8",
         "Overs": "1",
         "Economy": "8"
@@ -1342,7 +1342,7 @@
         "Batting": "0 (0)",
         "Bowling": "1/47",
         "Fielding": "",
-        "Match_Slug": "2024-11-30-western-province-titans"
+        "Match_Slug": "2024-11-30-cobras-titans"
       },
       {
         "Date": "2024/11/23",
@@ -1366,7 +1366,7 @@
         "Batting": "15 (37)",
         "Bowling": "0/24",
         "Fielding": "",
-        "Match_Slug": "2024-10-19-titans-western-province"
+        "Match_Slug": "2024-10-19-titans-cobras"
       },
       {
         "Date": "2017/02/25",
@@ -1478,7 +1478,7 @@
         "Batting": "0 (0)",
         "Bowling": "2/25",
         "Fielding": "",
-        "Match_Slug": "2010-03-20-dolphins-western-province"
+        "Match_Slug": "2010-03-20-dolphins-cobras"
       },
       {
         "Date": "2010/03/06",
@@ -1566,7 +1566,7 @@
         "Batting": "0 (3)",
         "Bowling": "1/24",
         "Fielding": "",
-        "Match_Slug": "2008-11-29-dolphins-western-province"
+        "Match_Slug": "2008-11-29-dolphins-cobras"
       },
       {
         "Date": "2008/11/01",
@@ -1638,7 +1638,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/37",
         "Fielding": "",
-        "Match_Slug": "2007-11-10-dolphins-western-province"
+        "Match_Slug": "2007-11-10-dolphins-cobras"
       },
       {
         "Date": "2007/11/03",
@@ -1832,7 +1832,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/8",
         "Fielding": "",
-        "Match_Slug": "2024-12-01-western-province-titans"
+        "Match_Slug": "2024-12-01-cobras-titans"
       },
       {
         "Date": "2024/11/24",
@@ -1856,7 +1856,7 @@
         "Batting": "0 (0)",
         "Bowling": "2/29",
         "Fielding": "",
-        "Match_Slug": "2024-10-20-titans-western-province"
+        "Match_Slug": "2024-10-20-titans-cobras"
       },
       {
         "Date": "2024/10/04",

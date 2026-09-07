@@ -33,7 +33,7 @@ const UNION_COLORS = {
   Dolphins: "#019154",
   Tuskers: "#A0A0A0",
   Impalas: "#2A2F71",
-  Rhinos: "#0064AA",
+  Rhinos: "#2b3642",
   Dragons: "#611927",
   Heat: "#064974",
   WP: "#072E65",

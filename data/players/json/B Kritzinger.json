@@ -35,6 +35,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "2",
         "Runs": "0",
@@ -52,14 +60,6 @@
       {
         "Format": "List A",
         "Opposition": "Rhinos",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
         "Innings": "1",
         "Runs": "0",
         "Average": "0.00",
@@ -160,7 +160,7 @@
       {
         "Format": "List A",
         "Date": "2007/02/24",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "11",
         "Runs": "0",
         "Balls": "2",
@@ -516,7 +516,7 @@
         "Batting": "0 (2)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2007-02-24-heat-western-province"
+        "Match_Slug": "2007-02-24-heat-cobras"
       }
     ]
   },

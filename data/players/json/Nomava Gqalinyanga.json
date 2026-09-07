@@ -43,6 +43,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dolphins",
         "Innings": "1",
         "Runs": "0",
@@ -80,14 +88,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       },
       {
         "Format": "T20",
@@ -414,7 +414,7 @@
     "byOpposition": [
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Wickets": "2",
         "Average": "17.50",
@@ -569,7 +569,7 @@
       {
         "Format": "List A",
         "Date": "2015/04/07",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "2-35",
         "Overs": "8",
         "Economy": "4.38"
@@ -852,7 +852,7 @@
         "Batting": "0 (1)",
         "Bowling": "2/35",
         "Fielding": "",
-        "Match_Slug": "2015-04-07-warriors-western-province"
+        "Match_Slug": "2015-04-07-warriors-cobras"
       },
       {
         "Date": "2015/03/28",

@@ -59,7 +59,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Runs": "62",
         "Average": "62.00",
@@ -139,7 +139,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "20",
         "Average": "20.00",
@@ -890,19 +890,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "17.00",
+        "Economy": "2.55"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Eastern Storm",
         "Innings": "1",
         "Wickets": "1",
         "Average": "16.00",
         "Economy": "2.67"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "1",
-        "Average": "17.00",
-        "Economy": "2.55"
       },
       {
         "Format": "List A",
@@ -954,6 +954,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.33"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Limpopo Lillies",
         "Innings": "1",
         "Wickets": "0",
@@ -967,14 +975,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "7.33"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "4.33"
       }
     ],
     "byVenue": [
@@ -1660,7 +1660,7 @@
         "Batting": "61 (85)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2021-10-24-dolphins-western-province"
+        "Match_Slug": "2021-10-24-dolphins-cobras"
       },
       {
         "Date": "2021/10/23",
@@ -1940,7 +1940,7 @@
         "Batting": "1* (6)",
         "Bowling": "1/17",
         "Fielding": "",
-        "Match_Slug": "2010-03-20-dolphins-western-province"
+        "Match_Slug": "2010-03-20-dolphins-cobras"
       },
       {
         "Date": "2010/03/06",
@@ -2062,7 +2062,7 @@
         "Batting": "20 (19)",
         "Bowling": "0/13",
         "Fielding": "",
-        "Match_Slug": "2025-11-23-lions-western-province"
+        "Match_Slug": "2025-11-23-lions-cobras"
       },
       {
         "Date": "2025/03/23",

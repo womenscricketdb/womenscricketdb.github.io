@@ -3,6 +3,14 @@
     "byOpposition": [
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "0",
         "Runs": "0",
@@ -32,14 +40,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       }
     ],
     "byVenue": [],
@@ -103,7 +103,7 @@
       {
         "Format": "List A",
         "Date": "2008/03/30",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "8",
         "Runs": "0",
         "Balls": "1",
@@ -144,6 +144,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
@@ -157,14 +165,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "2.83"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "7.50"
       }
     ],
     "byVenue": [
@@ -209,7 +209,7 @@
       {
         "Format": "List A",
         "Date": "2008/03/30",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-15",
         "Overs": "2",
         "Economy": "7.5"
@@ -272,7 +272,7 @@
         "Batting": "0 (1)",
         "Bowling": "0/15",
         "Fielding": "",
-        "Match_Slug": "2008-03-30-warriors-western-province"
+        "Match_Slug": "2008-03-30-warriors-cobras"
       },
       {
         "Date": "2008/03/29",

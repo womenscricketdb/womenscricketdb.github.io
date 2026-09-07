@@ -19,7 +19,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Runs": "27",
         "Average": "27.00",
@@ -83,7 +83,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "0",
         "Average": "0.00",
@@ -297,7 +297,7 @@
       {
         "Format": "T20",
         "Date": "2016/10/16",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "4",
         "Runs": "0",
         "Balls": "2",
@@ -404,11 +404,19 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Wickets": "0",
         "Average": "-",
         "Economy": "2.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "23.00",
+        "Economy": "11.50"
       },
       {
         "Format": "T20",
@@ -425,14 +433,6 @@
         "Wickets": "1",
         "Average": "28.00",
         "Economy": "7.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "1",
-        "Average": "23.00",
-        "Economy": "11.50"
       },
       {
         "Format": "T20",
@@ -583,7 +583,7 @@
       {
         "Format": "T20",
         "Date": "2016/10/16",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "1-23",
         "Overs": "2",
         "Economy": "11.5"
@@ -710,7 +710,7 @@
         "Batting": "15* (20)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2018-04-06-dragons-western-province"
+        "Match_Slug": "2018-04-06-dragons-cobras"
       },
       {
         "Date": "2018/04/05",
@@ -742,7 +742,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/16",
         "Fielding": "",
-        "Match_Slug": "2017-04-02-dragons-western-province"
+        "Match_Slug": "2017-04-02-dragons-cobras"
       },
       {
         "Date": "2017/04/01",
@@ -806,7 +806,7 @@
         "Batting": "12 (31)",
         "Bowling": "0/16",
         "Fielding": "",
-        "Match_Slug": "2016-10-15-western-province-dragons"
+        "Match_Slug": "2016-10-15-cobras-dragons"
       }
     ],
     "T20": [
@@ -848,7 +848,7 @@
         "Batting": "0 (2)",
         "Bowling": "1/23",
         "Fielding": "",
-        "Match_Slug": "2016-10-16-western-province-dragons"
+        "Match_Slug": "2016-10-16-cobras-dragons"
       }
     ]
   },

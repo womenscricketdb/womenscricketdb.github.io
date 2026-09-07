@@ -19,6 +19,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "3",
+        "Runs": "4",
+        "Average": "4.00",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Eastern Storm",
         "Innings": "1",
         "Runs": "4",
@@ -32,14 +40,6 @@
         "Runs": "4",
         "Average": "-",
         "Strike-Rate": "80.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "3",
-        "Runs": "4",
-        "Average": "4.00",
-        "Strike-Rate": "50.00"
       },
       {
         "Format": "List A",
@@ -107,7 +107,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "3",
         "Average": "-",
@@ -322,7 +322,7 @@
       {
         "Format": "List A",
         "Date": "2025/10/11",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "11",
         "Runs": "4*",
         "Balls": "1",
@@ -333,7 +333,7 @@
       {
         "Format": "T20",
         "Date": "2025/10/12",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "11",
         "Runs": "3*",
         "Balls": "3",
@@ -528,7 +528,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "3",
         "Wickets": "4",
         "Average": "20.00",
@@ -624,6 +624,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "5.00",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dolphins",
         "Innings": "2",
         "Wickets": "2",
@@ -645,14 +653,6 @@
         "Wickets": "2",
         "Average": "15.00",
         "Economy": "6.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "2",
-        "Average": "5.00",
-        "Economy": "5.00"
       },
       {
         "Format": "T20",
@@ -899,7 +899,7 @@
       {
         "Format": "T20",
         "Date": "2025/10/12",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "2-10",
         "Overs": "2",
         "Economy": "5"
@@ -1179,7 +1179,7 @@
         "Batting": "3* (3)",
         "Bowling": "2/10",
         "Fielding": "",
-        "Match_Slug": "2025-10-12-badgers-western-province"
+        "Match_Slug": "2025-10-12-badgers-cobras"
       },
       {
         "Date": "2025/03/23",
@@ -1227,7 +1227,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2024-10-13-western-province-knights"
+        "Match_Slug": "2024-10-13-cobras-knights"
       },
       {
         "Date": "2024/10/06",
@@ -1333,7 +1333,7 @@
         "Batting": "4* (1)",
         "Bowling": "2/33",
         "Fielding": "",
-        "Match_Slug": "2025-10-11-badgers-western-province"
+        "Match_Slug": "2025-10-11-badgers-cobras"
       },
       {
         "Date": "2025/03/22",
@@ -1389,7 +1389,7 @@
         "Batting": "0* (1)",
         "Bowling": "0/23",
         "Fielding": "",
-        "Match_Slug": "2024-11-23-knights-western-province"
+        "Match_Slug": "2024-11-23-knights-cobras"
       },
       {
         "Date": "2024/11/02",
@@ -1405,7 +1405,7 @@
         "Batting": "0 (6)",
         "Bowling": "2/24",
         "Fielding": "",
-        "Match_Slug": "2024-10-12-western-province-knights"
+        "Match_Slug": "2024-10-12-cobras-knights"
       },
       {
         "Date": "2024/10/05",

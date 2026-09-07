@@ -51,6 +51,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "3",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dolphins",
         "Innings": "1",
         "Runs": "0",
@@ -96,14 +104,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "3",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       }
     ],
     "byVenue": [
@@ -356,6 +356,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.25"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Eastern Storm",
         "Innings": "1",
         "Wickets": "0",
@@ -385,14 +393,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "10.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "6.25"
       }
     ],
     "byVenue": [
@@ -639,7 +639,7 @@
         "Batting": "0 (2)",
         "Bowling": "0/7",
         "Fielding": "",
-        "Match_Slug": "2009-10-03-warriors-western-province"
+        "Match_Slug": "2009-10-03-warriors-cobras"
       },
       {
         "Date": "2009/02/21",
@@ -655,7 +655,7 @@
         "Batting": "0 (1)",
         "Bowling": "0/18",
         "Fielding": "",
-        "Match_Slug": "2009-02-07-western-province-warriors"
+        "Match_Slug": "2009-02-07-cobras-warriors"
       },
       {
         "Date": "2009/01/31",
@@ -711,7 +711,7 @@
         "Batting": "0 (13)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2008-03-30-warriors-western-province"
+        "Match_Slug": "2008-03-30-warriors-cobras"
       },
       {
         "Date": "2008/03/29",

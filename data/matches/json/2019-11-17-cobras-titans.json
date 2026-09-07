@@ -1,0 +1,534 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Tournament": "19-20 CSA Women's Provincial T20 Competition",
+      "Match_Date": "2019/11/17",
+      "Venue_Name": "Old Mutual Sports Club Ground",
+      "Season": "19/20",
+      "Format": "T20",
+      "Team_Home_Name": "Cobras",
+      "Team_Away_Name": "Titans",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Team_Name": "Cobras",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "8",
+      "Win_Margin_Type": "Wickets",
+      "Team_Runs_Scored": "81",
+      "Team_Wickets_Lost": "2",
+      "Team_Overs_Faced": "13.4",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Team_Name": "Titans",
+      "Won_Toss": "1",
+      "Toss_Decision": "Bat",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "79",
+      "Team_Wickets_Lost": "9",
+      "Team_Overs_Faced": "20",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Innings_Number": "1",
+      "Player": "Eliz-Mari Marx",
+      "Runs": "21",
+      "Balls": "33"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Innings_Number": "1",
+      "Player": "Suné Luus",
+      "Runs": "33",
+      "Balls": "41"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Innings_Number": "2",
+      "Player": "Laura Wolvaardt",
+      "Runs": "40",
+      "Balls": "30"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Innings_Number": "2",
+      "Player": "Nadine de Klerk",
+      "Runs": "20",
+      "Balls": "29"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Innings_Number": "1",
+      "Player": "Leah Jones",
+      "Wickets": "2",
+      "Runs": "20"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Innings_Number": "1",
+      "Player": "Tatum le Roux",
+      "Wickets": "3",
+      "Runs": "6"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Innings_Number": "2",
+      "Player": "Nomahlubi Makgato",
+      "Wickets": "0",
+      "Runs": "16"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Innings_Number": "2",
+      "Player": "Paulinah Mashishi",
+      "Wickets": "2",
+      "Runs": "18"
+    }
+  ],
+  "allPlayers": [
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Alexis le Breton",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "0",
+      "Balls_Faced": "0",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Amogelang Maphangula",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "1",
+      "Balls_Faced": "15",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Danelle Oberholtzer",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "0",
+      "Balls_Faced": "3",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Eliz-Mari Marx",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "21",
+      "Balls_Faced": "33",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "11",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "12"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Faye Tunnicliffe",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "9",
+      "Balls_Faced": "14",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "1",
+      "Runs_Conceded": "21",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "24"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Gandhi Jafta",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "6",
+      "Balls_Faced": "12",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Khanyisile Skoshana",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "1",
+      "Balls_Faced": "4",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "13",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "12"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Lara Goodall",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "9",
+      "Balls_Faced": "9",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "0",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Laura Wolvaardt",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "40",
+      "Balls_Faced": "30",
+      "Is_Not_Out": "1",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Leah Jones",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "0",
+      "Balls_Faced": "0",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "2",
+      "Runs_Conceded": "20",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "24"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Michaela Kirk",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "0",
+      "Balls_Faced": "1",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Nadia Mbokotwana",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "0",
+      "Balls_Faced": "0",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Nadine de Klerk",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "20",
+      "Balls_Faced": "29",
+      "Is_Not_Out": "1",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "10",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "24"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Nomahlubi Makgato",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "1",
+      "Balls_Faced": "2",
+      "Is_Not_Out": "1",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "16",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "10"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Paulinah Mashishi",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "0",
+      "Balls_Faced": "0",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "2",
+      "Runs_Conceded": "18",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "24"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Ricea Coetzer",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "0",
+      "Balls_Faced": "2",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "16",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "12"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Robyn Appels",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "0",
+      "Balls_Faced": "0",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "1",
+      "Runs_Conceded": "17",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "24"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Rode de Nysschen",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "3",
+      "Balls_Faced": "6",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "7",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "12"
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Saarah Smith",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "0",
+      "Balls_Faced": "0",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Sinalo Jafta",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "0",
+      "Balls_Faced": "0",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "0",
+      "Catches_WK": "1",
+      "Stumpings": "0",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Suné Luus",
+      "Team_Name": "Titans",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "33",
+      "Balls_Faced": "41",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2019-11-17-cobras-titans",
+      "Known_Name": "Tatum le Roux",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Titans",
+      "Batting_Runs": "0",
+      "Balls_Faced": "0",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "3",
+      "Runs_Conceded": "6",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": "24"
+    }
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 15.5,
+      "tempMaxC": 18.0,
+      "rainMM": 0.7,
+      "maxWindKMH": 23.6,
+      "avgHumidityPct": 54.9,
+      "hourly": [
+        {
+          "time": "2019-11-17T09:00",
+          "icon": "cloud-rain",
+          "tempC": 17.5,
+          "rainMM": 0.1
+        },
+        {
+          "time": "2019-11-17T10:00",
+          "icon": "cloud-rain",
+          "tempC": 17.3,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2019-11-17T11:00",
+          "icon": "cloud-rain",
+          "tempC": 17.9,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2019-11-17T12:00",
+          "icon": "cloud-rain",
+          "tempC": 17.8,
+          "rainMM": 0.2
+        },
+        {
+          "time": "2019-11-17T13:00",
+          "icon": "cloud",
+          "tempC": 17.9,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-17T14:00",
+          "icon": "cloud",
+          "tempC": 18.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-17T15:00",
+          "icon": "sun",
+          "tempC": 18.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-17T16:00",
+          "icon": "sun",
+          "tempC": 17.5,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-17T17:00",
+          "icon": "sun",
+          "tempC": 17.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-17T18:00",
+          "icon": "sun",
+          "tempC": 16.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2019-11-17T19:00",
+          "icon": "sun",
+          "tempC": 15.5,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.9,
+      "maxTempC": 23.0,
+      "daily": [
+        {
+          "date": "2019-11-14",
+          "rainMM": 0.3,
+          "tempMaxC": 21.7
+        },
+        {
+          "date": "2019-11-15",
+          "rainMM": 0.1,
+          "tempMaxC": 23.0
+        },
+        {
+          "date": "2019-11-16",
+          "rainMM": 0.5,
+          "tempMaxC": 19.3
+        }
+      ]
+    }
+  }
+}

@@ -51,19 +51,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "2.00",
+        "Strike-Rate": "11.76"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Kei",
         "Innings": "1",
         "Runs": "2",
         "Average": "2.00",
         "Strike-Rate": "50.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Runs": "2",
-        "Average": "2.00",
-        "Strike-Rate": "11.76"
       },
       {
         "Format": "List A",
@@ -131,7 +131,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "4",
         "Average": "4.00",
@@ -569,6 +569,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
@@ -590,14 +598,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "1.25"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "3.75"
       },
       {
         "Format": "T20",
@@ -641,7 +641,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
@@ -1138,7 +1138,7 @@
         "Batting": "2 (15)",
         "Bowling": "0/1",
         "Fielding": "",
-        "Match_Slug": "2019-11-30-knights-western-province"
+        "Match_Slug": "2019-11-30-knights-cobras"
       },
       {
         "Date": "2019/11/09",
@@ -1154,7 +1154,7 @@
         "Batting": "0* (2)",
         "Bowling": "0/14",
         "Fielding": "1 ct",
-        "Match_Slug": "2019-03-25-knights-western-province"
+        "Match_Slug": "2019-03-25-knights-cobras"
       },
       {
         "Date": "2019/02/23",
@@ -1244,7 +1244,7 @@
         "Batting": "4 (11)",
         "Bowling": "0/20",
         "Fielding": "1 ct",
-        "Match_Slug": "2019-12-01-knights-western-province"
+        "Match_Slug": "2019-12-01-knights-cobras"
       },
       {
         "Date": "2019/11/24",

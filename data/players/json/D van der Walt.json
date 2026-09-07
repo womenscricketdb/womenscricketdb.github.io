@@ -43,6 +43,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Heat",
         "Innings": "1",
         "Runs": "0",
@@ -56,14 +64,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       }
     ],
     "byVenue": [
@@ -234,6 +234,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Heat",
         "Innings": "1",
         "Wickets": "0",
@@ -255,14 +263,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "5.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "6.00"
       }
     ],
     "byVenue": [
@@ -426,7 +426,7 @@
         "Batting": "0 (2)",
         "Bowling": "0/24",
         "Fielding": "",
-        "Match_Slug": "2008-03-26-eastern-storm-western-province"
+        "Match_Slug": "2008-03-26-eastern-storm-cobras"
       },
       {
         "Date": "2007/11/10",

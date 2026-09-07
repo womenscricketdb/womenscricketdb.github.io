@@ -35,6 +35,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "1",
         "Runs": "0",
@@ -66,16 +74,8 @@
         "Strike-Rate": "-"
       },
       {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
-      },
-      {
         "Format": "T20",
-        "Opposition": "Lions",
+        "Opposition": "Cobras",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -83,7 +83,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Lions",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -197,7 +197,7 @@
       {
         "Format": "T20",
         "Date": "2017/02/26",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "11",
         "Runs": "0",
         "Balls": "0",
@@ -275,7 +275,7 @@
     "byOpposition": [
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
@@ -309,7 +309,7 @@
       {
         "Format": "List A",
         "Date": "2019/03/26",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-21",
         "Overs": "2",
         "Economy": "10.5"
@@ -380,7 +380,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2017-02-26-boland-western-province"
+        "Match_Slug": "2017-02-26-boland-cobras"
       },
       {
         "Date": "2017/01/22",
@@ -438,7 +438,7 @@
         "Batting": "0 (2)",
         "Bowling": "0/21",
         "Fielding": "",
-        "Match_Slug": "2019-03-26-boland-western-province"
+        "Match_Slug": "2019-03-26-boland-cobras"
       },
       {
         "Date": "2019/03/25",
@@ -494,7 +494,7 @@
         "Batting": "0 (12)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2017-02-25-boland-western-province"
+        "Match_Slug": "2017-02-25-boland-cobras"
       }
     ]
   },

@@ -43,6 +43,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Eastern Storm",
         "Innings": "0",
         "Runs": "0",
@@ -82,16 +90,16 @@
         "Strike-Rate": "-"
       },
       {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "0",
         "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
+        "Average": "-",
+        "Strike-Rate": "-"
       },
       {
         "Format": "T20",
-        "Opposition": "Boland",
+        "Opposition": "Cobras",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -148,14 +156,6 @@
       {
         "Format": "T20",
         "Opposition": "Tuskers",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -512,6 +512,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "5.00",
+        "Economy": "2.50"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dolphins",
         "Innings": "1",
         "Wickets": "1",
@@ -552,14 +560,6 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "1",
-        "Average": "5.00",
-        "Economy": "2.50"
-      },
-      {
-        "Format": "List A",
         "Opposition": "Boland",
         "Innings": "2",
         "Wickets": "0",
@@ -584,19 +584,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "9.50",
+        "Economy": "6.33"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Eastern Storm",
         "Innings": "1",
         "Wickets": "2",
         "Average": "5.00",
         "Economy": "2.50"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "2",
-        "Average": "9.50",
-        "Economy": "6.33"
       },
       {
         "Format": "T20",
@@ -755,7 +755,7 @@
       {
         "Format": "List A",
         "Date": "2016/10/15",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "1-5",
         "Overs": "2",
         "Economy": "2.5"
@@ -779,7 +779,7 @@
       {
         "Format": "T20",
         "Date": "2016/10/16",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "2-19",
         "Overs": "3",
         "Economy": "6.33"
@@ -1018,7 +1018,7 @@
         "Batting": "0 (2)",
         "Bowling": "1/5",
         "Fielding": "",
-        "Match_Slug": "2016-10-15-western-province-dragons"
+        "Match_Slug": "2016-10-15-cobras-dragons"
       },
       {
         "Date": "2016/04/02",
@@ -1058,7 +1058,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2016-01-16-dragons-western-province"
+        "Match_Slug": "2016-01-16-dragons-cobras"
       },
       {
         "Date": "2015/11/14",
@@ -1356,7 +1356,7 @@
         "Batting": "0 (0)",
         "Bowling": "2/19",
         "Fielding": "",
-        "Match_Slug": "2016-10-16-western-province-dragons"
+        "Match_Slug": "2016-10-16-cobras-dragons"
       },
       {
         "Date": "2015/11/15",

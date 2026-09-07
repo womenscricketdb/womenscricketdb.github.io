@@ -43,7 +43,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "5",
         "Runs": "5",
         "Average": "1.25",
@@ -139,6 +139,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "0",
         "Runs": "0",
@@ -176,14 +184,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "0.00"
       }
     ],
     "byVenue": [
@@ -780,19 +780,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "5",
+        "Wickets": "7",
+        "Average": "19.86",
+        "Economy": "4.79"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Knights",
         "Innings": "4",
         "Wickets": "7",
         "Average": "15.43",
         "Economy": "3.38"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "5",
-        "Wickets": "7",
-        "Average": "19.86",
-        "Economy": "4.79"
       },
       {
         "Format": "List A",
@@ -900,6 +900,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Lions",
         "Innings": "1",
         "Wickets": "0",
@@ -913,14 +921,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "15.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "8.00"
       }
     ],
     "byVenue": [
@@ -1159,7 +1159,7 @@
       {
         "Format": "List A",
         "Date": "2017/03/31",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "4-50",
         "Overs": "10",
         "Economy": "5"
@@ -1933,7 +1933,7 @@
         "Batting": "0* (3)",
         "Bowling": "0/16",
         "Fielding": "1 ct",
-        "Match_Slug": "2017-01-29-western-province-warriors"
+        "Match_Slug": "2017-01-29-cobras-warriors"
       },
       {
         "Date": "2017/01/15",
@@ -2303,7 +2303,7 @@
         "Batting": "0 (2)",
         "Bowling": "4/50",
         "Fielding": "",
-        "Match_Slug": "2017-03-31-warriors-western-province"
+        "Match_Slug": "2017-03-31-warriors-cobras"
       },
       {
         "Date": "2017/03/30",
@@ -2335,7 +2335,7 @@
         "Batting": "0 (0)",
         "Bowling": "2/30",
         "Fielding": "",
-        "Match_Slug": "2017-01-28-western-province-warriors"
+        "Match_Slug": "2017-01-28-cobras-warriors"
       },
       {
         "Date": "2016/10/29",
@@ -2439,7 +2439,7 @@
         "Batting": "0* (2)",
         "Bowling": "1/26",
         "Fielding": "",
-        "Match_Slug": "2015-04-07-warriors-western-province"
+        "Match_Slug": "2015-04-07-warriors-cobras"
       },
       {
         "Date": "2015/03/14",
@@ -2479,7 +2479,7 @@
         "Batting": "0 (5)",
         "Bowling": "0/18",
         "Fielding": "",
-        "Match_Slug": "2014-02-01-western-province-warriors"
+        "Match_Slug": "2014-02-01-cobras-warriors"
       },
       {
         "Date": "2013/11/24",
@@ -2487,7 +2487,7 @@
         "Batting": "5 (19)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2013-11-24-warriors-western-province"
+        "Match_Slug": "2013-11-24-warriors-cobras"
       },
       {
         "Date": "2013/11/23",
@@ -2535,7 +2535,7 @@
         "Batting": "0 (1)",
         "Bowling": "0/15",
         "Fielding": "",
-        "Match_Slug": "2013-02-09-warriors-western-province"
+        "Match_Slug": "2013-02-09-warriors-cobras"
       }
     ]
   },

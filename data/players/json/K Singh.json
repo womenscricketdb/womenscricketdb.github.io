@@ -67,6 +67,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Heat",
         "Innings": "1",
         "Runs": "0",
@@ -112,14 +120,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       }
     ],
     "byVenue": [
@@ -379,6 +379,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "8.33"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dolphins",
         "Innings": "1",
         "Wickets": "0",
@@ -408,14 +416,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "4.13"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "8.33"
       }
     ],
     "byVenue": [
@@ -717,7 +717,7 @@
         "Batting": "0 (1)",
         "Bowling": "0/25",
         "Fielding": "",
-        "Match_Slug": "2007-10-14-western-province-tuskers"
+        "Match_Slug": "2007-10-14-cobras-tuskers"
       },
       {
         "Date": "2007/03/31",

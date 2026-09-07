@@ -35,19 +35,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "3",
+        "Runs": "15",
+        "Average": "5.00",
+        "Strike-Rate": "31.25"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Knights",
         "Innings": "2",
         "Runs": "15",
         "Average": "7.50",
         "Strike-Rate": "68.18"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "3",
-        "Runs": "15",
-        "Average": "5.00",
-        "Strike-Rate": "31.25"
       },
       {
         "Format": "List A",
@@ -91,7 +91,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "3",
         "Runs": "16",
         "Average": "5.33",
@@ -344,7 +344,7 @@
       {
         "Format": "T20",
         "Date": "2026/03/08",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "3",
         "Runs": "12",
         "Balls": "15",
@@ -619,6 +619,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "14.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Eastern Storm",
         "Innings": "1",
         "Wickets": "0",
@@ -632,14 +640,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "6.67"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "14.00"
       }
     ],
     "byVenue": [
@@ -766,7 +766,7 @@
       {
         "Format": "T20",
         "Date": "2019/11/24",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-14",
         "Overs": "1",
         "Economy": "14"
@@ -935,7 +935,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2025-11-15-western-province-dolphins"
+        "Match_Slug": "2025-11-15-cobras-dolphins"
       },
       {
         "Date": "2025/11/08",
@@ -959,7 +959,7 @@
         "Batting": "6 (19)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2025-03-01-dolphins-western-province"
+        "Match_Slug": "2025-03-01-dolphins-cobras"
       },
       {
         "Date": "2025/02/22",
@@ -1063,7 +1063,7 @@
         "Batting": "0 (2)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2023-10-21-dolphins-western-province"
+        "Match_Slug": "2023-10-21-dolphins-cobras"
       },
       {
         "Date": "2023/04/01",
@@ -1103,7 +1103,7 @@
         "Batting": "9 (27)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2022-11-19-dolphins-western-province"
+        "Match_Slug": "2022-11-19-dolphins-cobras"
       },
       {
         "Date": "2022/10/29",
@@ -1217,7 +1217,7 @@
         "Batting": "12 (15)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2026-03-08-dolphins-western-province"
+        "Match_Slug": "2026-03-08-dolphins-cobras"
       },
       {
         "Date": "2025/12/14",
@@ -1233,7 +1233,7 @@
         "Batting": "2 (4)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2025-11-16-western-province-dolphins"
+        "Match_Slug": "2025-11-16-cobras-dolphins"
       },
       {
         "Date": "2025/10/05",
@@ -1313,7 +1313,7 @@
         "Batting": "2 (4)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2022-11-20-dolphins-western-province"
+        "Match_Slug": "2022-11-20-dolphins-cobras"
       },
       {
         "Date": "2022/10/30",
@@ -1361,7 +1361,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/14",
         "Fielding": "",
-        "Match_Slug": "2019-11-24-western-province-dolphins"
+        "Match_Slug": "2019-11-24-cobras-dolphins"
       },
       {
         "Date": "2018/11/18",

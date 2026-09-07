@@ -67,19 +67,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "3",
+        "Runs": "6",
+        "Average": "2.00",
+        "Strike-Rate": "37.50"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Limpopo Lillies",
         "Innings": "1",
         "Runs": "6",
         "Average": "6.00",
         "Strike-Rate": "120.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "3",
-        "Runs": "6",
-        "Average": "2.00",
-        "Strike-Rate": "37.50"
       },
       {
         "Format": "List A",
@@ -325,19 +325,19 @@
       },
       {
         "Format": "List A",
+        "Venue": "Windmill Park",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "5.26"
+      },
+      {
+        "Format": "List A",
         "Venue": "St Andrews A",
         "Innings": "1",
         "Runs": "1",
         "Average": "1.00",
         "Strike-Rate": "6.67"
-      },
-      {
-        "Format": "List A",
-        "Venue": "Langenhoven Gimnasium",
-        "Innings": "1",
-        "Runs": "1",
-        "Average": "-",
-        "Strike-Rate": "50.00"
       },
       {
         "Format": "T20",
@@ -884,6 +884,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "38.00",
+        "Economy": "4.75"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Iinyathi",
         "Innings": "2",
         "Wickets": "1",
@@ -905,14 +913,6 @@
         "Wickets": "1",
         "Average": "32.00",
         "Economy": "4.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "1",
-        "Average": "38.00",
-        "Economy": "4.75"
       },
       {
         "Format": "List A",
@@ -1746,7 +1746,7 @@
         "Batting": "6 (9)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2017-03-31-warriors-western-province"
+        "Match_Slug": "2017-03-31-warriors-cobras"
       },
       {
         "Date": "2017/03/30",
@@ -1858,7 +1858,7 @@
         "Batting": "0 (6)",
         "Bowling": "1/38",
         "Fielding": "",
-        "Match_Slug": "2015-04-07-warriors-western-province"
+        "Match_Slug": "2015-04-07-warriors-cobras"
       },
       {
         "Date": "2015/03/14",
@@ -1914,7 +1914,7 @@
         "Batting": "0 (1)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2014-02-01-western-province-warriors"
+        "Match_Slug": "2014-02-01-cobras-warriors"
       },
       {
         "Date": "2014/01/26",

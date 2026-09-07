@@ -10,7 +10,7 @@
    Dragons, Heat, Iinyathi, Kei, Knights, Lions, Rhinos, Titans, Tuskers), left out of this table since no translation is needed. The 4 below were
    inferred from general SA domestic cricket naming and need a sanity check:
 
-     WP       -> Western Province
+     WP       -> Cobras
      EP       -> Warriors
      Eastern  -> Eastern Storm
      Impalas  -> Limpopo Lillies
@@ -22,7 +22,7 @@
 const UNION_TO_TEAM_NAME = {
     Boland: "Boland",
     Badgers: "Badgers",
-    WP: "Western Province",
+    WP: "Cobras",
     EP: "Warriors",
     Iinyathi: "Iinyathi",
     Kei: "Kei",

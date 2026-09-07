@@ -35,7 +35,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Runs": "9",
         "Average": "-",
@@ -83,7 +83,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "4",
         "Runs": "9",
         "Average": "3.00",
@@ -298,7 +298,7 @@
       {
         "Format": "List A",
         "Date": "2019/11/23",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "9",
         "Runs": "9*",
         "Balls": "13",
@@ -309,7 +309,7 @@
       {
         "Format": "T20",
         "Date": "2019/11/24",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "9",
         "Runs": "6*",
         "Balls": "11",
@@ -353,7 +353,7 @@
       {
         "Format": "T20",
         "Date": "2020/03/08",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "7",
         "Runs": "2",
         "Balls": "6",
@@ -513,6 +513,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "32.50",
+        "Economy": "4.06"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Eastern Storm",
         "Innings": "2",
         "Wickets": "2",
@@ -534,14 +542,6 @@
         "Wickets": "2",
         "Average": "51.00",
         "Economy": "4.74"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Wickets": "2",
-        "Average": "32.50",
-        "Economy": "4.06"
       },
       {
         "Format": "List A",
@@ -601,6 +601,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.56"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "5",
         "Wickets": "0",
@@ -622,14 +630,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "6.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "4",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "6.56"
       }
     ],
     "byVenue": [
@@ -1140,7 +1140,7 @@
         "Batting": "0* (0)",
         "Bowling": "1/27",
         "Fielding": "",
-        "Match_Slug": "2020-03-07-dolphins-western-province"
+        "Match_Slug": "2020-03-07-dolphins-cobras"
       },
       {
         "Date": "2020/02/01",
@@ -1164,7 +1164,7 @@
         "Batting": "9* (13)",
         "Bowling": "1/38",
         "Fielding": "",
-        "Match_Slug": "2019-11-23-western-province-dolphins"
+        "Match_Slug": "2019-11-23-cobras-dolphins"
       },
       {
         "Date": "2019/11/09",
@@ -1230,7 +1230,7 @@
         "Batting": "1 (1)",
         "Bowling": "0/3",
         "Fielding": "",
-        "Match_Slug": "2022-11-20-dolphins-western-province"
+        "Match_Slug": "2022-11-20-dolphins-cobras"
       },
       {
         "Date": "2022/10/30",
@@ -1286,7 +1286,7 @@
         "Batting": "0 (1)",
         "Bowling": "0/18",
         "Fielding": "",
-        "Match_Slug": "2022-02-13-dolphins-western-province"
+        "Match_Slug": "2022-02-13-dolphins-cobras"
       },
       {
         "Date": "2022/01/23",
@@ -1302,7 +1302,7 @@
         "Batting": "2 (6)",
         "Bowling": "0/24",
         "Fielding": "1 ct",
-        "Match_Slug": "2020-03-08-dolphins-western-province"
+        "Match_Slug": "2020-03-08-dolphins-cobras"
       },
       {
         "Date": "2020/03/01",
@@ -1326,7 +1326,7 @@
         "Batting": "6* (11)",
         "Bowling": "0/14",
         "Fielding": "",
-        "Match_Slug": "2019-11-24-western-province-dolphins"
+        "Match_Slug": "2019-11-24-cobras-dolphins"
       },
       {
         "Date": "2019/11/10",

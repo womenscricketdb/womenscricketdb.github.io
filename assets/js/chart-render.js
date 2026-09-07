@@ -28,8 +28,12 @@ const WCA_CHART = (() => {
     // Columns that are never sensible as a chart Y-axis, even though some
     // of them (BBI) can be partially parsed as a number - "3/24" parsing to
     // "3" via parseFloat would silently drop the runs half and look like a
-    // wickets-only column, worse than not offering it at all.
-    const EXCLUDE_METRICS = new Set(["Season", "Format", "Teams", "BBI"]);
+    // wickets-only column, worse than not offering it at all. Date is here
+    // for a different reason: it's stored as a plain numeric serial value,
+    // so it clears the >80%-numeric bar in numericMetrics() easily, but
+    // it's an identifier/axis-role column (what a row happened *on*), not
+    // a stat that's meaningful to plot on the Y-axis.
+    const EXCLUDE_METRICS = new Set(["Season", "Format", "Teams", "BBI", "Date"]);
 
     // Preferred first-shown metric per stat type, falls back to whatever
     // numeric column comes first in the data when none of these are present

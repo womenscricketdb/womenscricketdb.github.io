@@ -3,7 +3,7 @@
     "byOpposition": [
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Runs": "17",
         "Average": "17.00",
@@ -91,6 +91,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Lions",
         "Innings": "0",
         "Runs": "0",
@@ -104,14 +112,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       }
     ],
     "byVenue": [
@@ -190,7 +190,7 @@
       {
         "Format": "List A",
         "Date": "2020/02/29",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "8",
         "Runs": "11",
         "Balls": "10",
@@ -212,7 +212,7 @@
       {
         "Format": "List A",
         "Date": "2019/11/02",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "10",
         "Runs": "6*",
         "Balls": "6",
@@ -398,7 +398,7 @@
         "0s": "1",
         "4s": "1",
         "6s": "0",
-        "Teams": "Western Province",
+        "Teams": "Cobras",
         "Format": "List A"
       },
       {
@@ -415,7 +415,7 @@
         "0s": "0",
         "4s": "1",
         "6s": "0",
-        "Teams": "Western Province",
+        "Teams": "Cobras",
         "Format": "T20"
       }
     ]
@@ -530,7 +530,7 @@
     "span": [
       {
         "Format": "List A",
-        "Teams Represented": "Dragons, Western Province",
+        "Teams Represented": "Cobras, Dragons",
         "Total Matches": "13",
         "First Match": "2019/10/12",
         "Last Match": "2023/11/18",
@@ -538,7 +538,7 @@
       },
       {
         "Format": "T20",
-        "Teams Represented": "Dragons, Western Province",
+        "Teams Represented": "Cobras, Dragons",
         "Total Matches": "12",
         "First Match": "2018/01/28",
         "Last Match": "2023/11/19",
@@ -546,7 +546,7 @@
       },
       {
         "Format": "Overall",
-        "Teams Represented": "Dragons, Western Province",
+        "Teams Represented": "Cobras, Dragons",
         "Total Matches": "25",
         "First Match": "2018/01/28",
         "Last Match": "2023/11/19",
@@ -562,7 +562,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2023-11-19-western-province-badgers"
+        "Match_Slug": "2023-11-19-cobras-badgers"
       },
       {
         "Date": "2023/10/15",
@@ -570,7 +570,7 @@
         "Batting": "13 (18)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2023-10-15-western-province-knights"
+        "Match_Slug": "2023-10-15-cobras-knights"
       },
       {
         "Date": "2022/02/06",
@@ -594,7 +594,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2020-03-01-dragons-western-province"
+        "Match_Slug": "2020-03-01-dragons-cobras"
       },
       {
         "Date": "2020/02/16",
@@ -618,7 +618,7 @@
         "Batting": "0 (1)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2019-11-03-western-province-dragons"
+        "Match_Slug": "2019-11-03-cobras-dragons"
       },
       {
         "Date": "2019/10/27",
@@ -642,7 +642,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2018-02-25-western-province-dragons"
+        "Match_Slug": "2018-02-25-cobras-dragons"
       },
       {
         "Date": "2018/01/28",
@@ -660,7 +660,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2023-11-18-western-province-badgers"
+        "Match_Slug": "2023-11-18-cobras-badgers"
       },
       {
         "Date": "2023/10/14",
@@ -668,7 +668,7 @@
         "Batting": "5 (14)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2023-10-14-western-province-knights"
+        "Match_Slug": "2023-10-14-cobras-knights"
       },
       {
         "Date": "2021/03/01",
@@ -716,7 +716,7 @@
         "Batting": "11 (10)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2020-02-29-dragons-western-province"
+        "Match_Slug": "2020-02-29-dragons-cobras"
       },
       {
         "Date": "2020/01/25",
@@ -740,7 +740,7 @@
         "Batting": "6* (6)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2019-11-02-western-province-dragons"
+        "Match_Slug": "2019-11-02-cobras-dragons"
       },
       {
         "Date": "2019/10/26",
@@ -1262,7 +1262,7 @@
     {
       "season": "23/24",
       "format": "T20",
-      "team": "Western Province",
+      "team": "Cobras",
       "finish_type": "LEAGUE_WINNER"
     }
   ]

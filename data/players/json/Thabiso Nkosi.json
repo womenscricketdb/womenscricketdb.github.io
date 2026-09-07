@@ -27,6 +27,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dolphins",
         "Innings": "1",
         "Runs": "0",
@@ -82,20 +90,20 @@
         "Strike-Rate": "-"
       },
       {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
         "Format": "T20",
         "Opposition": "Rhinos",
         "Innings": "1",
         "Runs": "4",
         "Average": "-",
         "Strike-Rate": "200.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
       },
       {
         "Format": "T20",
@@ -132,14 +140,6 @@
       {
         "Format": "T20",
         "Opposition": "Limpopo Lillies",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -437,6 +437,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.44"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Eastern Storm",
         "Innings": "1",
         "Wickets": "0",
@@ -458,14 +466,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "1.80"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "3.44"
       },
       {
         "Format": "T20",
@@ -493,6 +493,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "11.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
@@ -514,14 +522,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "2.33"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "11.00"
       }
     ],
     "byVenue": [
@@ -867,7 +867,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/15",
         "Fielding": "",
-        "Match_Slug": "2018-01-27-titans-western-province"
+        "Match_Slug": "2018-01-27-titans-cobras"
       },
       {
         "Date": "2018/01/20",
@@ -891,7 +891,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/16",
         "Fielding": "",
-        "Match_Slug": "2017-04-03-titans-western-province"
+        "Match_Slug": "2017-04-03-titans-cobras"
       },
       {
         "Date": "2017/04/02",
@@ -997,7 +997,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/11",
         "Fielding": "",
-        "Match_Slug": "2018-01-28-titans-western-province"
+        "Match_Slug": "2018-01-28-titans-cobras"
       },
       {
         "Date": "2018/01/21",

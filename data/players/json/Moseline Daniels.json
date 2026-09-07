@@ -11,7 +11,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "8",
         "Runs": "87",
         "Average": "12.43",
@@ -171,19 +171,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Kei",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       }
     ],
     "byVenue": [
@@ -377,7 +377,7 @@
       {
         "Format": "List A",
         "Date": "2019/03/27",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "7",
         "Runs": "43*",
         "Balls": "36",
@@ -540,7 +540,7 @@
         "0s": "0",
         "4s": "9",
         "6s": "0",
-        "Teams": "Western Province",
+        "Teams": "Cobras",
         "Format": "List A"
       },
       {
@@ -557,7 +557,7 @@
         "0s": "0",
         "4s": "2",
         "6s": "0",
-        "Teams": "Western Province",
+        "Teams": "Cobras",
         "Format": "T20"
       },
       {
@@ -574,7 +574,7 @@
         "0s": "0",
         "4s": "0",
         "6s": "0",
-        "Teams": "Western Province",
+        "Teams": "Cobras",
         "Format": "List A"
       },
       {
@@ -834,7 +834,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "8",
         "Wickets": "6",
         "Average": "34.83",
@@ -906,6 +906,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.75"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
@@ -935,14 +943,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "2.75"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "7.75"
       }
     ],
     "byVenue": [
@@ -1322,7 +1322,7 @@
       },
       {
         "Season": "12/13",
-        "Teams": "Western Province",
+        "Teams": "Cobras",
         "Matches": "12",
         "Innings": "10",
         "Overs": "71.4",
@@ -1339,7 +1339,7 @@
       },
       {
         "Season": "12/13",
-        "Teams": "Western Province",
+        "Teams": "Cobras",
         "Matches": "4",
         "Innings": "4",
         "Overs": "15.0",
@@ -1356,7 +1356,7 @@
       },
       {
         "Season": "13/14",
-        "Teams": "Western Province",
+        "Teams": "Cobras",
         "Matches": "6",
         "Innings": "5",
         "Overs": "29.0",
@@ -1580,7 +1580,7 @@
     "span": [
       {
         "Format": "List A",
-        "Teams Represented": "Boland, Iinyathi, Western Province",
+        "Teams Represented": "Boland, Cobras, Iinyathi",
         "Total Matches": "78",
         "First Match": "2005/12/10",
         "Last Match": "2021/03/08",
@@ -1588,7 +1588,7 @@
       },
       {
         "Format": "T20",
-        "Teams Represented": "Boland, Iinyathi, Western Province",
+        "Teams Represented": "Boland, Cobras, Iinyathi",
         "Total Matches": "14",
         "First Match": "2012/10/07",
         "Last Match": "2020/01/26",
@@ -1596,7 +1596,7 @@
       },
       {
         "Format": "Overall",
-        "Teams Represented": "Boland, Iinyathi, Western Province",
+        "Teams Represented": "Boland, Cobras, Iinyathi",
         "Total Matches": "92",
         "First Match": "2005/12/10",
         "Last Match": "2021/03/08",
@@ -1684,7 +1684,7 @@
         "Batting": "43* (36)",
         "Bowling": "1/20",
         "Fielding": "",
-        "Match_Slug": "2019-03-27-iinyathi-western-province"
+        "Match_Slug": "2019-03-27-iinyathi-cobras"
       },
       {
         "Date": "2019/03/26",
@@ -1708,7 +1708,7 @@
         "Batting": "10 (16)",
         "Bowling": "0/28",
         "Fielding": "",
-        "Match_Slug": "2019-02-16-western-province-iinyathi"
+        "Match_Slug": "2019-02-16-cobras-iinyathi"
       },
       {
         "Date": "2018/04/07",
@@ -1732,7 +1732,7 @@
         "Batting": "1 (11)",
         "Bowling": "0/15",
         "Fielding": "",
-        "Match_Slug": "2018-04-05-boland-western-province"
+        "Match_Slug": "2018-04-05-boland-cobras"
       },
       {
         "Date": "2018/04/04",
@@ -1804,7 +1804,7 @@
         "Batting": "17 (45)",
         "Bowling": "1/39",
         "Fielding": "1 ct",
-        "Match_Slug": "2017-02-25-boland-western-province"
+        "Match_Slug": "2017-02-25-boland-cobras"
       },
       {
         "Date": "2016/02/27",
@@ -1812,7 +1812,7 @@
         "Batting": "11 (25)",
         "Bowling": "0/26",
         "Fielding": "",
-        "Match_Slug": "2016-02-27-western-province-boland"
+        "Match_Slug": "2016-02-27-cobras-boland"
       },
       {
         "Date": "2016/01/16",
@@ -1852,7 +1852,7 @@
         "Batting": "0 (13)",
         "Bowling": "2/32",
         "Fielding": "2 ct",
-        "Match_Slug": "2015-04-10-boland-western-province"
+        "Match_Slug": "2015-04-10-boland-cobras"
       },
       {
         "Date": "2015/04/09",
@@ -1892,7 +1892,7 @@
         "Batting": "0* (1)",
         "Bowling": "4/9",
         "Fielding": "",
-        "Match_Slug": "2014-03-08-western-province-titans"
+        "Match_Slug": "2014-03-08-cobras-titans"
       },
       {
         "Date": "2014/02/01",
@@ -1900,7 +1900,7 @@
         "Batting": "0 (0)",
         "Bowling": "1/14",
         "Fielding": "1 ct",
-        "Match_Slug": "2014-02-01-western-province-warriors"
+        "Match_Slug": "2014-02-01-cobras-warriors"
       },
       {
         "Date": "2013/11/24",
@@ -1908,7 +1908,7 @@
         "Batting": "6* (10)",
         "Bowling": "0/6",
         "Fielding": "",
-        "Match_Slug": "2013-11-24-warriors-western-province"
+        "Match_Slug": "2013-11-24-warriors-cobras"
       },
       {
         "Date": "2013/11/23",
@@ -1916,7 +1916,7 @@
         "Batting": "0 (0)",
         "Bowling": "6/3",
         "Fielding": "1 ct",
-        "Match_Slug": "2013-11-23-badgers-western-province"
+        "Match_Slug": "2013-11-23-badgers-cobras"
       },
       {
         "Date": "2013/11/10",
@@ -1924,7 +1924,7 @@
         "Batting": "0 (0)",
         "Bowling": "2/25",
         "Fielding": "",
-        "Match_Slug": "2013-11-10-iinyathi-western-province"
+        "Match_Slug": "2013-11-10-iinyathi-cobras"
       },
       {
         "Date": "2013/11/09",
@@ -1932,7 +1932,7 @@
         "Batting": "0* (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2013-11-09-kei-western-province"
+        "Match_Slug": "2013-11-09-kei-cobras"
       },
       {
         "Date": "2013/04/13",
@@ -1940,7 +1940,7 @@
         "Batting": "0 (0)",
         "Bowling": "1/20",
         "Fielding": "",
-        "Match_Slug": "2013-04-13-lions-western-province"
+        "Match_Slug": "2013-04-13-lions-cobras"
       },
       {
         "Date": "2013/04/06",
@@ -1948,7 +1948,7 @@
         "Batting": "0 (0)",
         "Bowling": "4/20",
         "Fielding": "",
-        "Match_Slug": "2013-04-06-western-province-titans"
+        "Match_Slug": "2013-04-06-cobras-titans"
       },
       {
         "Date": "2013/03/23",
@@ -1956,7 +1956,7 @@
         "Batting": "0* (6)",
         "Bowling": "5/20",
         "Fielding": "1 ct",
-        "Match_Slug": "2013-03-23-western-province-boland"
+        "Match_Slug": "2013-03-23-cobras-boland"
       },
       {
         "Date": "2013/03/10",
@@ -1964,7 +1964,7 @@
         "Batting": "35* (24)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2013-03-10-western-province-kei"
+        "Match_Slug": "2013-03-10-cobras-kei"
       },
       {
         "Date": "2013/02/23",
@@ -1972,7 +1972,7 @@
         "Batting": "9* (12)",
         "Bowling": "1/17",
         "Fielding": "1 ct",
-        "Match_Slug": "2013-02-23-badgers-western-province"
+        "Match_Slug": "2013-02-23-badgers-cobras"
       },
       {
         "Date": "2013/02/10",
@@ -1980,7 +1980,7 @@
         "Batting": "0 (0)",
         "Bowling": "1/29",
         "Fielding": "",
-        "Match_Slug": "2013-02-10-iinyathi-western-province"
+        "Match_Slug": "2013-02-10-iinyathi-cobras"
       },
       {
         "Date": "2013/02/09",
@@ -1988,7 +1988,7 @@
         "Batting": "19* (20)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2013-02-09-warriors-western-province"
+        "Match_Slug": "2013-02-09-warriors-cobras"
       },
       {
         "Date": "2013/01/27",
@@ -1996,7 +1996,7 @@
         "Batting": "51* (41)",
         "Bowling": "4/10",
         "Fielding": "",
-        "Match_Slug": "2013-01-27-kei-western-province"
+        "Match_Slug": "2013-01-27-kei-cobras"
       },
       {
         "Date": "2013/01/12",
@@ -2004,7 +2004,7 @@
         "Batting": "0 (0)",
         "Bowling": "1/12",
         "Fielding": "",
-        "Match_Slug": "2013-01-12-western-province-badgers"
+        "Match_Slug": "2013-01-12-cobras-badgers"
       },
       {
         "Date": "2012/11/25",
@@ -2012,7 +2012,7 @@
         "Batting": "4* (8)",
         "Bowling": "2/8",
         "Fielding": "",
-        "Match_Slug": "2012-11-25-western-province-iinyathi"
+        "Match_Slug": "2012-11-25-cobras-iinyathi"
       },
       {
         "Date": "2012/11/24",
@@ -2020,7 +2020,7 @@
         "Batting": "1 (7)",
         "Bowling": "4/28",
         "Fielding": "",
-        "Match_Slug": "2012-11-24-western-province-warriors"
+        "Match_Slug": "2012-11-24-cobras-warriors"
       },
       {
         "Date": "2012/11/10",
@@ -2028,7 +2028,7 @@
         "Batting": "5* (10)",
         "Bowling": "2/17",
         "Fielding": "",
-        "Match_Slug": "2012-11-10-boland-western-province"
+        "Match_Slug": "2012-11-10-boland-cobras"
       },
       {
         "Date": "2012/02/26",
@@ -2092,7 +2092,7 @@
         "Batting": "5 (11)",
         "Bowling": "1/29",
         "Fielding": "",
-        "Match_Slug": "2011-10-08-boland-western-province"
+        "Match_Slug": "2011-10-08-boland-cobras"
       },
       {
         "Date": "2011/03/12",
@@ -2164,7 +2164,7 @@
         "Batting": "0 (1)",
         "Bowling": "1/20",
         "Fielding": "2 ct",
-        "Match_Slug": "2009-01-10-western-province-boland"
+        "Match_Slug": "2009-01-10-cobras-boland"
       },
       {
         "Date": "2008/11/29",
@@ -2286,7 +2286,7 @@
         "Batting": "0 (5)",
         "Bowling": "0/31",
         "Fielding": "",
-        "Match_Slug": "2016-02-28-western-province-boland"
+        "Match_Slug": "2016-02-28-cobras-boland"
       },
       {
         "Date": "2016/01/17",
@@ -2318,7 +2318,7 @@
         "Batting": "9* (7)",
         "Bowling": "0/19",
         "Fielding": "",
-        "Match_Slug": "2012-10-28-lions-western-province"
+        "Match_Slug": "2012-10-28-lions-cobras"
       },
       {
         "Date": "2012/10/27",
@@ -2326,7 +2326,7 @@
         "Batting": "10* (9)",
         "Bowling": "1/18",
         "Fielding": "",
-        "Match_Slug": "2012-10-27-iinyathi-western-province"
+        "Match_Slug": "2012-10-27-iinyathi-cobras"
       },
       {
         "Date": "2012/10/14",
@@ -2334,7 +2334,7 @@
         "Batting": "0* (0)",
         "Bowling": "1/10",
         "Fielding": "",
-        "Match_Slug": "2012-10-14-western-province-boland"
+        "Match_Slug": "2012-10-14-cobras-boland"
       },
       {
         "Date": "2012/10/07",
@@ -2342,7 +2342,7 @@
         "Batting": "4 (4)",
         "Bowling": "3/6",
         "Fielding": "",
-        "Match_Slug": "2012-10-07-western-province-badgers"
+        "Match_Slug": "2012-10-07-cobras-badgers"
       }
     ]
   },
@@ -5560,19 +5560,19 @@
     {
       "season": "12/13",
       "format": "List A",
-      "team": "Western Province",
+      "team": "Cobras",
       "finish_type": "CHAMPION"
     },
     {
       "season": "12/13",
       "format": "T20",
-      "team": "Western Province",
+      "team": "Cobras",
       "finish_type": "CHAMPION"
     },
     {
       "season": "13/14",
       "format": "List A",
-      "team": "Western Province",
+      "team": "Cobras",
       "finish_type": "CHAMPION"
     }
   ]

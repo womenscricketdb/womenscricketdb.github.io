@@ -11,7 +11,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "17",
         "Runs": "465",
         "Average": "31.00",
@@ -155,7 +155,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "11",
         "Runs": "145",
         "Average": "13.18",
@@ -574,7 +574,7 @@
       {
         "Format": "List A",
         "Date": "2022/12/03",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "2",
         "Runs": "126*",
         "Balls": "161",
@@ -1197,7 +1197,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "3",
         "Wickets": "2",
         "Average": "15.00",
@@ -1261,6 +1261,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dolphins",
         "Innings": "1",
         "Wickets": "0",
@@ -1274,14 +1282,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "10.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "5.00"
       }
     ],
     "byVenue": [
@@ -1352,7 +1352,7 @@
       {
         "Format": "List A",
         "Date": "2020/02/29",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "2-16",
         "Overs": "5",
         "Economy": "3.2"
@@ -1713,7 +1713,7 @@
         "Batting": "1 (4)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2026-02-07-western-province-badgers"
+        "Match_Slug": "2026-02-07-cobras-badgers"
       },
       {
         "Date": "2025/11/22",
@@ -1753,7 +1753,7 @@
         "Batting": "65 (106)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2025-10-11-badgers-western-province"
+        "Match_Slug": "2025-10-11-badgers-cobras"
       },
       {
         "Date": "2025/03/22",
@@ -1809,7 +1809,7 @@
         "Batting": "3 (5)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2024-11-23-knights-western-province"
+        "Match_Slug": "2024-11-23-knights-cobras"
       },
       {
         "Date": "2024/11/02",
@@ -1825,7 +1825,7 @@
         "Batting": "15 (34)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2024-10-12-western-province-knights"
+        "Match_Slug": "2024-10-12-cobras-knights"
       },
       {
         "Date": "2024/10/05",
@@ -1865,7 +1865,7 @@
         "Batting": "3 (7)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2024-02-17-knights-western-province"
+        "Match_Slug": "2024-02-17-knights-cobras"
       },
       {
         "Date": "2023/02/04",
@@ -1881,7 +1881,7 @@
         "Batting": "126* (161)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2022-12-03-western-province-dragons"
+        "Match_Slug": "2022-12-03-cobras-dragons"
       },
       {
         "Date": "2022/11/26",
@@ -1913,7 +1913,7 @@
         "Batting": "3 (3)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2022-10-01-dragons-western-province"
+        "Match_Slug": "2022-10-01-dragons-cobras"
       },
       {
         "Date": "2022/09/24",
@@ -1937,7 +1937,7 @@
         "Batting": "20 (19)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2022-02-26-western-province-dragons"
+        "Match_Slug": "2022-02-26-cobras-dragons"
       },
       {
         "Date": "2022/02/12",
@@ -1985,7 +1985,7 @@
         "Batting": "5 (16)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2021-10-25-dragons-western-province"
+        "Match_Slug": "2021-10-25-dragons-cobras"
       },
       {
         "Date": "2021/10/24",
@@ -2049,7 +2049,7 @@
         "Batting": "29 (29)",
         "Bowling": "2/16",
         "Fielding": "2 ct",
-        "Match_Slug": "2020-02-29-dragons-western-province"
+        "Match_Slug": "2020-02-29-dragons-cobras"
       },
       {
         "Date": "2020/02/15",
@@ -2065,7 +2065,7 @@
         "Batting": "13 (16)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2019-11-30-knights-western-province"
+        "Match_Slug": "2019-11-30-knights-cobras"
       },
       {
         "Date": "2019/11/23",
@@ -2129,7 +2129,7 @@
         "Batting": "83 (72)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2019-03-25-knights-western-province"
+        "Match_Slug": "2019-03-25-knights-cobras"
       },
       {
         "Date": "2019/02/23",
@@ -2193,7 +2193,7 @@
         "Batting": "18* (58)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2018-04-04-knights-western-province"
+        "Match_Slug": "2018-04-04-knights-cobras"
       },
       {
         "Date": "2018/02/24",
@@ -2209,7 +2209,7 @@
         "Batting": "20 (86)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2018-02-10-western-province-knights"
+        "Match_Slug": "2018-02-10-cobras-knights"
       },
       {
         "Date": "2018/01/27",
@@ -2297,7 +2297,7 @@
         "Batting": "26 (71)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2016-11-12-western-province-knights"
+        "Match_Slug": "2016-11-12-cobras-knights"
       },
       {
         "Date": "2016/10/22",
@@ -2377,7 +2377,7 @@
         "Batting": "16 (31)",
         "Bowling": "0/5",
         "Fielding": "",
-        "Match_Slug": "2015-10-17-knights-western-province"
+        "Match_Slug": "2015-10-17-knights-cobras"
       },
       {
         "Date": "2015/04/11",
@@ -2425,7 +2425,7 @@
         "Batting": "19 (45)",
         "Bowling": "0/9",
         "Fielding": "",
-        "Match_Slug": "2015-02-14-western-province-knights"
+        "Match_Slug": "2015-02-14-cobras-knights"
       },
       {
         "Date": "2015/01/10",
@@ -2571,7 +2571,7 @@
         "Batting": "9 (12)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2026-02-08-western-province-badgers"
+        "Match_Slug": "2026-02-08-cobras-badgers"
       },
       {
         "Date": "2025/11/21",
@@ -2611,7 +2611,7 @@
         "Batting": "7 (6)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2025-10-12-badgers-western-province"
+        "Match_Slug": "2025-10-12-badgers-cobras"
       },
       {
         "Date": "2025/03/23",
@@ -2659,7 +2659,7 @@
         "Batting": "16 (26)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2024-11-24-knights-western-province"
+        "Match_Slug": "2024-11-24-knights-cobras"
       },
       {
         "Date": "2024/11/03",
@@ -2675,7 +2675,7 @@
         "Batting": "9 (18)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2024-10-13-western-province-knights"
+        "Match_Slug": "2024-10-13-cobras-knights"
       },
       {
         "Date": "2024/10/06",
@@ -2715,7 +2715,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2024-02-18-knights-western-province"
+        "Match_Slug": "2024-02-18-knights-cobras"
       },
       {
         "Date": "2023/02/05",
@@ -2731,7 +2731,7 @@
         "Batting": "6 (11)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2022-12-04-western-province-dragons"
+        "Match_Slug": "2022-12-04-cobras-dragons"
       },
       {
         "Date": "2022/11/27",
@@ -2763,7 +2763,7 @@
         "Batting": "5 (20)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2022-10-02-dragons-western-province"
+        "Match_Slug": "2022-10-02-dragons-cobras"
       },
       {
         "Date": "2022/09/25",
@@ -2787,7 +2787,7 @@
         "Batting": "46 (38)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2022-02-27-western-province-dragons"
+        "Match_Slug": "2022-02-27-cobras-dragons"
       },
       {
         "Date": "2022/02/13",
@@ -2827,7 +2827,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/10",
         "Fielding": "",
-        "Match_Slug": "2020-03-01-dragons-western-province"
+        "Match_Slug": "2020-03-01-dragons-cobras"
       },
       {
         "Date": "2020/02/16",
@@ -2843,7 +2843,7 @@
         "Batting": "32 (29)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2019-12-01-knights-western-province"
+        "Match_Slug": "2019-12-01-knights-cobras"
       },
       {
         "Date": "2019/11/24",
@@ -2931,7 +2931,7 @@
         "Batting": "0 (3)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2016-11-13-western-province-knights"
+        "Match_Slug": "2016-11-13-cobras-knights"
       },
       {
         "Date": "2016/10/23",
@@ -2971,7 +2971,7 @@
         "Batting": "9 (10)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2015-10-18-knights-western-province"
+        "Match_Slug": "2015-10-18-knights-cobras"
       },
       {
         "Date": "2015/03/29",
@@ -2987,7 +2987,7 @@
         "Batting": "6 (17)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2015-02-15-western-province-knights"
+        "Match_Slug": "2015-02-15-cobras-knights"
       },
       {
         "Date": "2015/01/11",

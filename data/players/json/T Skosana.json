@@ -35,6 +35,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Knights",
         "Innings": "1",
         "Runs": "0",
@@ -60,14 +68,6 @@
       {
         "Format": "List A",
         "Opposition": "Warriors",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
         "Innings": "1",
         "Runs": "0",
         "Average": "0.00",
@@ -297,6 +297,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "44.00",
+        "Economy": "6.29"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "1",
@@ -310,14 +318,6 @@
         "Wickets": "1",
         "Average": "38.00",
         "Economy": "6.33"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "1",
-        "Average": "44.00",
-        "Economy": "6.29"
       },
       {
         "Format": "List A",
@@ -436,7 +436,7 @@
       {
         "Format": "List A",
         "Date": "2008/03/26",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "1-44",
         "Overs": "7",
         "Economy": "6.29"
@@ -629,7 +629,7 @@
         "Batting": "0 (2)",
         "Bowling": "1/44",
         "Fielding": "",
-        "Match_Slug": "2008-03-26-eastern-storm-western-province"
+        "Match_Slug": "2008-03-26-eastern-storm-cobras"
       },
       {
         "Date": "2007/11/17",

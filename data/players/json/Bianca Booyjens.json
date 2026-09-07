@@ -75,6 +75,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Kei",
         "Innings": "0",
         "Runs": "0",
@@ -90,14 +98,6 @@
         "Strike-Rate": "0.00"
       },
       {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
-      },
-      {
         "Format": "T20",
         "Opposition": "Limpopo Lillies",
         "Innings": "1",
@@ -107,7 +107,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "4",
         "Runs": "44",
         "Average": "14.67",
@@ -462,7 +462,7 @@
       {
         "Format": "T20",
         "Date": "2018/01/28",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "2",
         "Runs": "29",
         "Balls": "32",
@@ -718,7 +718,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Wickets": "0",
         "Average": "-",
@@ -734,7 +734,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Wickets": "1",
         "Average": "18.00",
@@ -841,7 +841,7 @@
       {
         "Format": "List A",
         "Date": "2013/11/03",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-4",
         "Overs": "1",
         "Economy": "4"
@@ -849,7 +849,7 @@
       {
         "Format": "List A",
         "Date": "2014/01/26",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-17",
         "Overs": "3",
         "Economy": "5.67"
@@ -865,7 +865,7 @@
       {
         "Format": "T20",
         "Date": "2014/12/07",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "1-18",
         "Overs": "2",
         "Economy": "9"
@@ -1076,7 +1076,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2017-04-03-titans-western-province"
+        "Match_Slug": "2017-04-03-titans-cobras"
       },
       {
         "Date": "2017/04/02",
@@ -1212,7 +1212,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/17",
         "Fielding": "1 ct",
-        "Match_Slug": "2014-01-26-boland-western-province"
+        "Match_Slug": "2014-01-26-boland-cobras"
       },
       {
         "Date": "2013/11/23",
@@ -1228,7 +1228,7 @@
         "Batting": "0 (5)",
         "Bowling": "0/4",
         "Fielding": "",
-        "Match_Slug": "2013-11-03-western-province-boland"
+        "Match_Slug": "2013-11-03-cobras-boland"
       },
       {
         "Date": "2011/10/08",
@@ -1236,7 +1236,7 @@
         "Batting": "0 (9)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2011-10-08-boland-western-province"
+        "Match_Slug": "2011-10-08-boland-cobras"
       }
     ],
     "T20": [
@@ -1246,7 +1246,7 @@
         "Batting": "0 (1)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2023-11-05-lions-western-province"
+        "Match_Slug": "2023-11-05-lions-cobras"
       },
       {
         "Date": "2018/02/11",
@@ -1262,7 +1262,7 @@
         "Batting": "29 (32)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2018-01-28-titans-western-province"
+        "Match_Slug": "2018-01-28-titans-cobras"
       },
       {
         "Date": "2018/01/21",
@@ -1350,7 +1350,7 @@
         "Batting": "14* (19)",
         "Bowling": "1/18",
         "Fielding": "2 ct",
-        "Match_Slug": "2014-12-07-boland-western-province"
+        "Match_Slug": "2014-12-07-boland-cobras"
       },
       {
         "Date": "2014/11/16",
@@ -1382,7 +1382,7 @@
         "Batting": "1 (2)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2012-10-14-western-province-boland"
+        "Match_Slug": "2012-10-14-cobras-boland"
       }
     ]
   },

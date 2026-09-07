@@ -43,6 +43,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Lions",
         "Innings": "1",
         "Runs": "0",
@@ -66,16 +74,16 @@
         "Strike-Rate": "0.00"
       },
       {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
+        "Format": "T20",
+        "Opposition": "Boland",
+        "Innings": "0",
         "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
+        "Average": "-",
+        "Strike-Rate": "-"
       },
       {
         "Format": "T20",
-        "Opposition": "Boland",
+        "Opposition": "Cobras",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -108,14 +116,6 @@
       {
         "Format": "T20",
         "Opposition": "Tuskers",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -294,7 +294,7 @@
       {
         "Format": "T20",
         "Date": "2015/02/15",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "9",
         "Runs": "0",
         "Balls": "0",
@@ -483,7 +483,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2015-02-15-western-province-knights"
+        "Match_Slug": "2015-02-15-cobras-knights"
       },
       {
         "Date": "2015/01/11",
@@ -573,7 +573,7 @@
         "Batting": "0 (19)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2015-02-14-western-province-knights"
+        "Match_Slug": "2015-02-14-cobras-knights"
       },
       {
         "Date": "2015/01/10",

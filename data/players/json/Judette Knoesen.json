@@ -19,7 +19,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "4",
         "Runs": "15",
         "Average": "5.00",
@@ -59,7 +59,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "17",
         "Average": "17.00",
@@ -218,7 +218,7 @@
       {
         "Format": "List A",
         "Date": "2015/10/17",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "7",
         "Runs": "8*",
         "Balls": "47",
@@ -229,7 +229,7 @@
       {
         "Format": "T20",
         "Date": "2015/10/18",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "7",
         "Runs": "17",
         "Balls": "37",
@@ -387,6 +387,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.50"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dolphins",
         "Innings": "1",
         "Wickets": "0",
@@ -408,14 +416,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "1.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "4.50"
       }
     ],
     "byVenue": [
@@ -502,7 +502,7 @@
       {
         "Format": "List A",
         "Date": "2015/10/17",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-9",
         "Overs": "2",
         "Economy": "4.5"
@@ -648,7 +648,7 @@
         "Batting": "7 (30)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2016-11-12-western-province-knights"
+        "Match_Slug": "2016-11-12-cobras-knights"
       },
       {
         "Date": "2016/10/22",
@@ -696,7 +696,7 @@
         "Batting": "8* (47)",
         "Bowling": "0/9",
         "Fielding": "",
-        "Match_Slug": "2015-10-17-knights-western-province"
+        "Match_Slug": "2015-10-17-knights-cobras"
       },
       {
         "Date": "2015/04/08",
@@ -704,7 +704,7 @@
         "Batting": "0 (7)",
         "Bowling": "0/18",
         "Fielding": "",
-        "Match_Slug": "2015-04-08-knights-western-province"
+        "Match_Slug": "2015-04-08-knights-cobras"
       },
       {
         "Date": "2015/02/14",
@@ -712,7 +712,7 @@
         "Batting": "0 (4)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2015-02-14-western-province-knights"
+        "Match_Slug": "2015-02-14-cobras-knights"
       },
       {
         "Date": "2015/01/10",
@@ -770,7 +770,7 @@
         "Batting": "17 (37)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2015-10-18-knights-western-province"
+        "Match_Slug": "2015-10-18-knights-cobras"
       }
     ]
   },

@@ -99,7 +99,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Lions",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "0",
         "Average": "0.00",
@@ -107,7 +107,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Lions",
         "Innings": "1",
         "Runs": "0",
         "Average": "0.00",
@@ -163,6 +163,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "0",
         "Runs": "0",
@@ -188,14 +196,6 @@
       {
         "Format": "T20",
         "Opposition": "Titans",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -293,19 +293,19 @@
       },
       {
         "Format": "List A",
+        "Venue": "UFS 3 Oval",
+        "Innings": "2",
+        "Runs": "2",
+        "Average": "1.00",
+        "Strike-Rate": "15.38"
+      },
+      {
+        "Format": "List A",
         "Venue": "Capricorn High School",
         "Innings": "1",
         "Runs": "2",
         "Average": "2.00",
         "Strike-Rate": "18.18"
-      },
-      {
-        "Format": "List A",
-        "Venue": "Middleburg Cricket Club",
-        "Innings": "1",
-        "Runs": "2",
-        "Average": "2.00",
-        "Strike-Rate": "50.00"
       },
       {
         "Format": "T20",
@@ -892,6 +892,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Wickets": "1",
+        "Average": "54.00",
+        "Economy": "5.40"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "4",
         "Wickets": "1",
@@ -913,14 +921,6 @@
         "Wickets": "1",
         "Average": "147.00",
         "Economy": "5.88"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Wickets": "1",
-        "Average": "54.00",
-        "Economy": "5.40"
       },
       {
         "Format": "List A",
@@ -980,6 +980,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "10.33"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
@@ -1009,14 +1017,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "8.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "10.33"
       }
     ],
     "byVenue": [
@@ -1818,7 +1818,7 @@
         "Batting": "0 (2)",
         "Bowling": "1/24",
         "Fielding": "",
-        "Match_Slug": "2024-02-17-knights-western-province"
+        "Match_Slug": "2024-02-17-knights-cobras"
       },
       {
         "Date": "2023/11/25",
@@ -1858,7 +1858,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/30",
         "Fielding": "2 ct",
-        "Match_Slug": "2023-10-14-western-province-knights"
+        "Match_Slug": "2023-10-14-cobras-knights"
       },
       {
         "Date": "2023/09/30",
@@ -2188,7 +2188,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/21",
         "Fielding": "",
-        "Match_Slug": "2024-02-18-knights-western-province"
+        "Match_Slug": "2024-02-18-knights-cobras"
       },
       {
         "Date": "2023/11/26",
@@ -2220,7 +2220,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/10",
         "Fielding": "",
-        "Match_Slug": "2023-10-15-western-province-knights"
+        "Match_Slug": "2023-10-15-cobras-knights"
       },
       {
         "Date": "2019/11/10",

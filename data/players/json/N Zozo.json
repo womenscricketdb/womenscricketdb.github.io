@@ -3,19 +3,19 @@
     "byOpposition": [
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "3.57"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Warriors",
         "Innings": "2",
         "Runs": "1",
         "Average": "1.00",
         "Strike-Rate": "7.14"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Runs": "1",
-        "Average": "0.50",
-        "Strike-Rate": "3.57"
       }
     ],
     "byVenue": [
@@ -63,7 +63,7 @@
       {
         "Format": "List A",
         "Date": "2011/01/30",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "8",
         "Runs": "1",
         "Balls": "20",
@@ -74,7 +74,7 @@
       {
         "Format": "List A",
         "Date": "2011/03/13",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "9",
         "Runs": "0",
         "Balls": "8",
@@ -178,7 +178,7 @@
         "Batting": "0 (8)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2011-03-13-kei-western-province"
+        "Match_Slug": "2011-03-13-kei-cobras"
       },
       {
         "Date": "2011/02/27",
@@ -194,7 +194,7 @@
         "Batting": "1 (20)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2011-01-30-western-province-kei"
+        "Match_Slug": "2011-01-30-cobras-kei"
       },
       {
         "Date": "2011/01/16",

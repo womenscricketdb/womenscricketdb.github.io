@@ -99,6 +99,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Knights",
         "Innings": "0",
         "Runs": "0",
@@ -106,16 +114,8 @@
         "Strike-Rate": "-"
       },
       {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "38",
         "Average": "-",
@@ -429,7 +429,7 @@
       {
         "Format": "T20",
         "Date": "2025/11/02",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "5",
         "Runs": "38*",
         "Balls": "46",
@@ -1153,7 +1153,7 @@
         "Batting": "0* (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2020-02-29-dragons-western-province"
+        "Match_Slug": "2020-02-29-dragons-cobras"
       },
       {
         "Date": "2020/02/15",
@@ -1219,7 +1219,7 @@
         "Batting": "38* (46)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2025-11-02-dragons-western-province"
+        "Match_Slug": "2025-11-02-dragons-cobras"
       },
       {
         "Date": "2025/02/16",
@@ -1299,7 +1299,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2020-03-01-dragons-western-province"
+        "Match_Slug": "2020-03-01-dragons-cobras"
       },
       {
         "Date": "2020/01/26",

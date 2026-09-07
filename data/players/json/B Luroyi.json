@@ -11,7 +11,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Dragons",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "0",
         "Average": "0.00",
@@ -19,7 +19,15 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "0",
         "Average": "0.00",
@@ -32,14 +40,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       }
     ],
     "byVenue": [
@@ -100,7 +100,7 @@
       {
         "Format": "List A",
         "Date": "2019/01/12",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "11",
         "Runs": "0",
         "Balls": "1",
@@ -111,7 +111,7 @@
       {
         "Format": "T20",
         "Date": "2019/01/13",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "11",
         "Runs": "0",
         "Balls": "2",
@@ -172,6 +172,14 @@
     "byOpposition": [
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
@@ -187,12 +195,12 @@
         "Economy": "9.00"
       },
       {
-        "Format": "List A",
-        "Opposition": "Western Province",
+        "Format": "T20",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
-        "Economy": "4.00"
+        "Economy": "8.00"
       },
       {
         "Format": "T20",
@@ -201,14 +209,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "5.50"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "8.00"
       }
     ],
     "byVenue": [],
@@ -238,7 +238,7 @@
       {
         "Format": "List A",
         "Date": "2019/01/12",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-8",
         "Overs": "2",
         "Economy": "4"
@@ -262,7 +262,7 @@
       {
         "Format": "T20",
         "Date": "2019/01/13",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-8",
         "Overs": "1",
         "Economy": "8"
@@ -358,7 +358,7 @@
         "Batting": "0 (1)",
         "Bowling": "0/8",
         "Fielding": "",
-        "Match_Slug": "2019-01-12-boland-western-province"
+        "Match_Slug": "2019-01-12-boland-cobras"
       },
       {
         "Date": "2018/11/17",
@@ -384,7 +384,7 @@
         "Batting": "0 (2)",
         "Bowling": "0/8",
         "Fielding": "",
-        "Match_Slug": "2019-01-13-boland-western-province"
+        "Match_Slug": "2019-01-13-boland-cobras"
       }
     ]
   },

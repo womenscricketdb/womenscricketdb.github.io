@@ -11,19 +11,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "3",
+        "Runs": "20",
+        "Average": "10.00",
+        "Strike-Rate": "60.61"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "2",
         "Runs": "20",
         "Average": "20.00",
         "Strike-Rate": "40.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "3",
-        "Runs": "20",
-        "Average": "10.00",
-        "Strike-Rate": "60.61"
       },
       {
         "Format": "List A",
@@ -123,6 +123,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "0",
         "Runs": "0",
@@ -148,14 +156,6 @@
       {
         "Format": "T20",
         "Opposition": "Lions",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -316,7 +316,7 @@
       {
         "Format": "List A",
         "Date": "2019/03/28",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "9",
         "Runs": "16",
         "Balls": "21",
@@ -610,6 +610,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "4",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.21"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Heat",
         "Innings": "2",
         "Wickets": "0",
@@ -633,14 +641,6 @@
         "Economy": "3.00"
       },
       {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "4",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "4.21"
-      },
-      {
         "Format": "T20",
         "Opposition": "Eastern Storm",
         "Innings": "1",
@@ -655,6 +655,14 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "15.00"
       },
       {
         "Format": "T20",
@@ -695,14 +703,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "5.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "15.00"
       }
     ],
     "byVenue": [
@@ -1188,7 +1188,7 @@
         "Batting": "16 (21)",
         "Bowling": "0/21",
         "Fielding": "",
-        "Match_Slug": "2019-03-28-titans-western-province"
+        "Match_Slug": "2019-03-28-titans-cobras"
       },
       {
         "Date": "2019/03/27",
@@ -1220,7 +1220,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/13",
         "Fielding": "1 ct",
-        "Match_Slug": "2018-11-17-western-province-titans"
+        "Match_Slug": "2018-11-17-cobras-titans"
       },
       {
         "Date": "2018/11/03",
@@ -1244,7 +1244,7 @@
         "Batting": "4 (8)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2018-04-07-titans-western-province"
+        "Match_Slug": "2018-04-07-titans-cobras"
       },
       {
         "Date": "2018/04/06",
@@ -1276,7 +1276,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/11",
         "Fielding": "",
-        "Match_Slug": "2018-01-27-titans-western-province"
+        "Match_Slug": "2018-01-27-titans-cobras"
       },
       {
         "Date": "2018/01/20",
@@ -1316,7 +1316,7 @@
         "Batting": "0* (4)",
         "Bowling": "0/14",
         "Fielding": "",
-        "Match_Slug": "2016-03-29-titans-western-province"
+        "Match_Slug": "2016-03-29-titans-cobras"
       }
     ],
     "T20": [
@@ -1374,7 +1374,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/15",
         "Fielding": "",
-        "Match_Slug": "2018-11-18-western-province-titans"
+        "Match_Slug": "2018-11-18-cobras-titans"
       },
       {
         "Date": "2018/11/04",

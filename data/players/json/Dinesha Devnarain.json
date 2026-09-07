@@ -43,7 +43,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "7",
         "Runs": "210",
         "Average": "30.00",
@@ -147,7 +147,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "3",
         "Runs": "62",
         "Average": "20.67",
@@ -519,7 +519,7 @@
       {
         "Format": "List A",
         "Date": "2020/03/07",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "3",
         "Runs": "91",
         "Balls": "137",
@@ -530,7 +530,7 @@
       {
         "Format": "List A",
         "Date": "2014/03/15",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "3",
         "Runs": "84",
         "Balls": "121",
@@ -1024,6 +1024,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "7",
+        "Wickets": "9",
+        "Average": "19.78",
+        "Economy": "2.70"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Heat",
         "Innings": "8",
         "Wickets": "9",
@@ -1037,14 +1045,6 @@
         "Wickets": "9",
         "Average": "30.00",
         "Economy": "4.45"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "7",
-        "Wickets": "9",
-        "Average": "19.78",
-        "Economy": "2.70"
       },
       {
         "Format": "List A",
@@ -1168,19 +1168,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Tuskers",
         "Innings": "2",
         "Wickets": "0",
         "Average": "-",
         "Economy": "2.60"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "7.00"
       }
     ],
     "byVenue": [
@@ -1877,7 +1877,7 @@
         "Batting": "91 (137)",
         "Bowling": "2/28",
         "Fielding": "",
-        "Match_Slug": "2020-03-07-dolphins-western-province"
+        "Match_Slug": "2020-03-07-dolphins-cobras"
       },
       {
         "Date": "2020/02/01",
@@ -1901,7 +1901,7 @@
         "Batting": "19 (40)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2019-11-23-western-province-dolphins"
+        "Match_Slug": "2019-11-23-cobras-dolphins"
       },
       {
         "Date": "2019/11/09",
@@ -2093,7 +2093,7 @@
         "Batting": "0 (1)",
         "Bowling": "2/20",
         "Fielding": "",
-        "Match_Slug": "2015-03-28-western-province-dolphins"
+        "Match_Slug": "2015-03-28-cobras-dolphins"
       },
       {
         "Date": "2015/02/21",
@@ -2133,7 +2133,7 @@
         "Batting": "84 (121)",
         "Bowling": "2/25",
         "Fielding": "1 ct",
-        "Match_Slug": "2014-03-15-dolphins-western-province"
+        "Match_Slug": "2014-03-15-dolphins-cobras"
       },
       {
         "Date": "2014/03/08",
@@ -2365,7 +2365,7 @@
         "Batting": "13 (49)",
         "Bowling": "3/30",
         "Fielding": "",
-        "Match_Slug": "2010-03-20-dolphins-western-province"
+        "Match_Slug": "2010-03-20-dolphins-cobras"
       },
       {
         "Date": "2010/03/06",
@@ -2477,7 +2477,7 @@
         "Batting": "2 (8)",
         "Bowling": "0/19",
         "Fielding": "",
-        "Match_Slug": "2008-11-29-dolphins-western-province"
+        "Match_Slug": "2008-11-29-dolphins-cobras"
       },
       {
         "Date": "2008/11/01",
@@ -2549,7 +2549,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/34",
         "Fielding": "",
-        "Match_Slug": "2007-11-10-dolphins-western-province"
+        "Match_Slug": "2007-11-10-dolphins-cobras"
       },
       {
         "Date": "2007/11/03",
@@ -2669,7 +2669,7 @@
         "Batting": "1 (7)",
         "Bowling": "0/22",
         "Fielding": "",
-        "Match_Slug": "2006-04-01-dolphins-western-province"
+        "Match_Slug": "2006-04-01-dolphins-cobras"
       },
       {
         "Date": "2006/02/18",
@@ -2743,7 +2743,7 @@
         "Batting": "25 (19)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2020-03-08-dolphins-western-province"
+        "Match_Slug": "2020-03-08-dolphins-cobras"
       },
       {
         "Date": "2020/03/01",
@@ -2775,7 +2775,7 @@
         "Batting": "13 (12)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2019-11-24-western-province-dolphins"
+        "Match_Slug": "2019-11-24-cobras-dolphins"
       },
       {
         "Date": "2019/11/10",
@@ -2895,7 +2895,7 @@
         "Batting": "24 (32)",
         "Bowling": "0/7",
         "Fielding": "",
-        "Match_Slug": "2015-03-29-western-province-dolphins"
+        "Match_Slug": "2015-03-29-cobras-dolphins"
       },
       {
         "Date": "2015/02/22",

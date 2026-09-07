@@ -43,7 +43,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Runs": "4",
         "Average": "2.00",
@@ -123,7 +123,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "0",
         "Average": "0.00",
@@ -520,19 +520,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Knights",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
         "Economy": "4.50"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "4.00"
       },
       {
         "Format": "T20",
@@ -549,6 +549,14 @@
         "Wickets": "1",
         "Average": "13.00",
         "Economy": "6.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50"
       },
       {
         "Format": "T20",
@@ -573,14 +581,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "7.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "5.50"
       }
     ],
     "byVenue": [
@@ -675,7 +675,7 @@
       {
         "Format": "List A",
         "Date": "2012/11/10",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-4",
         "Overs": "1",
         "Economy": "4"
@@ -715,7 +715,7 @@
       {
         "Format": "T20",
         "Date": "2012/10/14",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-11",
         "Overs": "2",
         "Economy": "5.5"
@@ -942,7 +942,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2013-10-19-boland-western-province"
+        "Match_Slug": "2013-10-19-boland-cobras"
       },
       {
         "Date": "2013/10/13",
@@ -958,7 +958,7 @@
         "Batting": "0 (2)",
         "Bowling": "0/11",
         "Fielding": "",
-        "Match_Slug": "2012-10-14-western-province-boland"
+        "Match_Slug": "2012-10-14-cobras-boland"
       }
     ],
     "List A": [
@@ -1016,7 +1016,7 @@
         "Batting": "4 (25)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2013-03-23-western-province-boland"
+        "Match_Slug": "2013-03-23-cobras-boland"
       },
       {
         "Date": "2013/03/09",
@@ -1064,7 +1064,7 @@
         "Batting": "0 (5)",
         "Bowling": "0/4",
         "Fielding": "1 ct",
-        "Match_Slug": "2012-11-10-boland-western-province"
+        "Match_Slug": "2012-11-10-boland-cobras"
       }
     ]
   },

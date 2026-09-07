@@ -27,19 +27,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Titans",
         "Innings": "1",
         "Runs": "1",
         "Average": "1.00",
         "Strike-Rate": "14.29"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "1",
-        "Average": "-",
-        "Strike-Rate": "50.00"
       },
       {
         "Format": "List A",
@@ -154,7 +154,7 @@
       {
         "Format": "List A",
         "Date": "2008/03/26",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "8",
         "Runs": "1*",
         "Balls": "2",
@@ -259,6 +259,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
@@ -280,14 +288,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "7.50"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "5.00"
       }
     ],
     "byVenue": [
@@ -348,7 +348,7 @@
       {
         "Format": "List A",
         "Date": "2008/03/26",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-20",
         "Overs": "4",
         "Economy": "5"
@@ -517,7 +517,7 @@
         "Batting": "1* (2)",
         "Bowling": "0/20",
         "Fielding": "",
-        "Match_Slug": "2008-03-26-eastern-storm-western-province"
+        "Match_Slug": "2008-03-26-eastern-storm-cobras"
       }
     ]
   },

@@ -19,6 +19,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Kei",
         "Innings": "0",
         "Runs": "0",
@@ -28,14 +36,6 @@
       {
         "Format": "List A",
         "Opposition": "Warriors",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -90,7 +90,7 @@
       {
         "Format": "List A",
         "Date": "2014/01/26",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "10",
         "Runs": "0",
         "Balls": "0",
@@ -145,19 +145,19 @@
     "byOpposition": [
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "24.50",
+        "Economy": "5.55"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Kei",
         "Innings": "1",
         "Wickets": "2",
         "Average": "2.00",
         "Economy": "0.67"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "2",
-        "Average": "24.50",
-        "Economy": "5.55"
       },
       {
         "Format": "List A",
@@ -218,7 +218,7 @@
       {
         "Format": "List A",
         "Date": "2014/01/26",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "2-49",
         "Overs": "8.5",
         "Economy": "5.55"
@@ -305,7 +305,7 @@
         "Batting": "0 (0)",
         "Bowling": "2/49",
         "Fielding": "2 ct",
-        "Match_Slug": "2014-01-26-boland-western-province"
+        "Match_Slug": "2014-01-26-boland-cobras"
       },
       {
         "Date": "2014/01/12",

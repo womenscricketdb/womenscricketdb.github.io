@@ -35,7 +35,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "9",
         "Runs": "85",
         "Average": "10.63",
@@ -155,19 +155,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "5",
+        "Runs": "32",
+        "Average": "10.67",
+        "Strike-Rate": "76.19"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Rhinos",
         "Innings": "3",
         "Runs": "32",
         "Average": "10.67",
         "Strike-Rate": "71.11"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "5",
-        "Runs": "32",
-        "Average": "10.67",
-        "Strike-Rate": "76.19"
       },
       {
         "Format": "T20",
@@ -405,11 +405,11 @@
       },
       {
         "Format": "List A",
-        "Venue": "Centurion Park",
+        "Venue": "Old Mutual Sports Club Ground",
         "Innings": "2",
         "Runs": "11",
         "Average": "5.50",
-        "Strike-Rate": "47.83"
+        "Strike-Rate": "37.93"
       },
       {
         "Format": "T20",
@@ -662,7 +662,7 @@
       {
         "Format": "T20",
         "Date": "2018/01/21",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "4",
         "Runs": "26*",
         "Balls": "28",
@@ -1063,7 +1063,7 @@
     "byOpposition": [
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "10",
         "Wickets": "11",
         "Average": "24.55",
@@ -1247,6 +1247,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "6",
+        "Wickets": "2",
+        "Average": "55.00",
+        "Economy": "5.50"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Iinyathi",
         "Innings": "1",
         "Wickets": "2",
@@ -1276,14 +1284,6 @@
         "Wickets": "2",
         "Average": "10.50",
         "Economy": "2.63"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "6",
-        "Wickets": "2",
-        "Average": "55.00",
-        "Economy": "5.50"
       },
       {
         "Format": "T20",
@@ -1618,7 +1618,7 @@
       {
         "Format": "List A",
         "Date": "2020/01/11",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "4-19",
         "Overs": "10",
         "Economy": "1.9"
@@ -2165,7 +2165,7 @@
         "Batting": "9 (11)",
         "Bowling": "1/15",
         "Fielding": "",
-        "Match_Slug": "2024-10-19-titans-western-province"
+        "Match_Slug": "2024-10-19-titans-cobras"
       },
       {
         "Date": "2024/10/05",
@@ -2277,7 +2277,7 @@
         "Batting": "5 (14)",
         "Bowling": "1/57",
         "Fielding": "",
-        "Match_Slug": "2022-03-26-western-province-eastern-storm"
+        "Match_Slug": "2022-03-26-cobras-eastern-storm"
       },
       {
         "Date": "2022/02/26",
@@ -2325,7 +2325,7 @@
         "Batting": "10 (18)",
         "Bowling": "0/28",
         "Fielding": "",
-        "Match_Slug": "2021-10-27-eastern-storm-western-province"
+        "Match_Slug": "2021-10-27-eastern-storm-cobras"
       },
       {
         "Date": "2021/10/25",
@@ -2405,7 +2405,7 @@
         "Batting": "0 (2)",
         "Bowling": "1/32",
         "Fielding": "",
-        "Match_Slug": "2020-02-08-western-province-lions"
+        "Match_Slug": "2020-02-08-cobras-lions"
       },
       {
         "Date": "2020/01/18",
@@ -2421,7 +2421,7 @@
         "Batting": "0 (0)",
         "Bowling": "4/19",
         "Fielding": "2 ct",
-        "Match_Slug": "2020-01-11-lions-western-province"
+        "Match_Slug": "2020-01-11-lions-cobras"
       },
       {
         "Date": "2019/11/09",
@@ -2493,7 +2493,7 @@
         "Batting": "11 (27)",
         "Bowling": "0/5",
         "Fielding": "",
-        "Match_Slug": "2018-12-01-western-province-lions"
+        "Match_Slug": "2018-12-01-cobras-lions"
       },
       {
         "Date": "2018/11/03",
@@ -2517,7 +2517,7 @@
         "Batting": "21 (25)",
         "Bowling": "0/51",
         "Fielding": "1 ct",
-        "Match_Slug": "2018-04-08-lions-western-province"
+        "Match_Slug": "2018-04-08-lions-cobras"
       },
       {
         "Date": "2018/04/06",
@@ -2557,7 +2557,7 @@
         "Batting": "22* (22)",
         "Bowling": "2/17",
         "Fielding": "1 ct",
-        "Match_Slug": "2018-01-20-lions-western-province"
+        "Match_Slug": "2018-01-20-lions-cobras"
       },
       {
         "Date": "2017/11/04",
@@ -2629,7 +2629,7 @@
         "Batting": "2 (10)",
         "Bowling": "1/37",
         "Fielding": "",
-        "Match_Slug": "2016-04-02-lions-western-province"
+        "Match_Slug": "2016-04-02-lions-cobras"
       },
       {
         "Date": "2016/04/01",
@@ -2645,7 +2645,7 @@
         "Batting": "5 (6)",
         "Bowling": "1/9",
         "Fielding": "",
-        "Match_Slug": "2016-03-31-lions-western-province"
+        "Match_Slug": "2016-03-31-lions-cobras"
       },
       {
         "Date": "2016/03/30",
@@ -2711,7 +2711,7 @@
         "Batting": "–",
         "Bowling": "0/20",
         "Fielding": "",
-        "Match_Slug": "2024-12-01-western-province-titans"
+        "Match_Slug": "2024-12-01-cobras-titans"
       },
       {
         "Date": "2024/11/24",
@@ -2735,7 +2735,7 @@
         "Batting": "2* (3)",
         "Bowling": "0/22",
         "Fielding": "",
-        "Match_Slug": "2024-10-20-titans-western-province"
+        "Match_Slug": "2024-10-20-titans-cobras"
       },
       {
         "Date": "2024/10/04",
@@ -2847,7 +2847,7 @@
         "Batting": "0 (0)",
         "Bowling": "1/29",
         "Fielding": "1 ct",
-        "Match_Slug": "2020-02-09-western-province-lions"
+        "Match_Slug": "2020-02-09-cobras-lions"
       },
       {
         "Date": "2020/01/12",
@@ -2855,7 +2855,7 @@
         "Batting": "1 (3)",
         "Bowling": "1/18",
         "Fielding": "1 ct",
-        "Match_Slug": "2020-01-12-lions-western-province"
+        "Match_Slug": "2020-01-12-lions-cobras"
       },
       {
         "Date": "2019/11/24",
@@ -2895,7 +2895,7 @@
         "Batting": "0 (2)",
         "Bowling": "0/4",
         "Fielding": "",
-        "Match_Slug": "2018-12-02-western-province-lions"
+        "Match_Slug": "2018-12-02-cobras-lions"
       },
       {
         "Date": "2018/11/04",
@@ -2927,7 +2927,7 @@
         "Batting": "26* (28)",
         "Bowling": "0/17",
         "Fielding": "",
-        "Match_Slug": "2018-01-21-lions-western-province"
+        "Match_Slug": "2018-01-21-lions-cobras"
       },
       {
         "Date": "2017/11/05",
@@ -2975,7 +2975,7 @@
         "Batting": "3 (6)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2016-11-27-lions-western-province"
+        "Match_Slug": "2016-11-27-lions-cobras"
       },
       {
         "Date": "2016/10/30",

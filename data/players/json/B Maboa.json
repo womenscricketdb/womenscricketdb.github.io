@@ -3,19 +3,19 @@
     "byOpposition": [
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "4",
+        "Runs": "12",
+        "Average": "4.00",
+        "Strike-Rate": "32.43"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Lions",
         "Innings": "3",
         "Runs": "12",
         "Average": "12.00",
         "Strike-Rate": "40.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "4",
-        "Runs": "12",
-        "Average": "4.00",
-        "Strike-Rate": "32.43"
       },
       {
         "Format": "List A",
@@ -83,6 +83,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Kei",
         "Innings": "0",
         "Runs": "0",
@@ -100,14 +108,6 @@
       {
         "Format": "T20",
         "Opposition": "Warriors",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -190,7 +190,7 @@
       {
         "Format": "List A",
         "Date": "2013/11/10",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "10",
         "Runs": "10",
         "Balls": "22",
@@ -278,7 +278,7 @@
       {
         "Format": "T20",
         "Date": "2012/10/27",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "10",
         "Runs": "0",
         "Balls": "0",
@@ -428,19 +428,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "63.00",
+        "Economy": "6.30"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Lions",
         "Innings": "2",
         "Wickets": "1",
         "Average": "41.00",
         "Economy": "8.20"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "3",
-        "Wickets": "1",
-        "Average": "63.00",
-        "Economy": "6.30"
       },
       {
         "Format": "List A",
@@ -476,19 +476,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Warriors",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
         "Economy": "3.50"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "6.00"
       }
     ],
     "byVenue": [
@@ -607,7 +607,7 @@
       {
         "Format": "T20",
         "Date": "2012/10/27",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-12",
         "Overs": "2",
         "Economy": "6"
@@ -778,7 +778,7 @@
         "Batting": "10 (22)",
         "Bowling": "0/14",
         "Fielding": "",
-        "Match_Slug": "2013-11-10-iinyathi-western-province"
+        "Match_Slug": "2013-11-10-iinyathi-cobras"
       },
       {
         "Date": "2013/11/09",
@@ -818,7 +818,7 @@
         "Batting": "0 (3)",
         "Bowling": "0/26",
         "Fielding": "",
-        "Match_Slug": "2012-11-25-western-province-iinyathi"
+        "Match_Slug": "2012-11-25-cobras-iinyathi"
       },
       {
         "Date": "2012/11/24",
@@ -866,7 +866,7 @@
         "Batting": "0 (8)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2010-03-06-western-province-titans"
+        "Match_Slug": "2010-03-06-cobras-titans"
       },
       {
         "Date": "2010/02/13",
@@ -930,7 +930,7 @@
         "Batting": "2* (4)",
         "Bowling": "1/23",
         "Fielding": "",
-        "Match_Slug": "2008-11-02-titans-western-province"
+        "Match_Slug": "2008-11-02-titans-cobras"
       },
       {
         "Date": "2008/10/19",
@@ -964,7 +964,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/12",
         "Fielding": "",
-        "Match_Slug": "2012-10-27-iinyathi-western-province"
+        "Match_Slug": "2012-10-27-iinyathi-cobras"
       },
       {
         "Date": "2012/10/14",

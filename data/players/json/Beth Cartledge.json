@@ -19,19 +19,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "5",
+        "Runs": "49",
+        "Average": "16.33",
+        "Strike-Rate": "34.03"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Warriors",
         "Innings": "6",
         "Runs": "49",
         "Average": "8.17",
         "Strike-Rate": "38.58"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "5",
-        "Runs": "49",
-        "Average": "16.33",
-        "Strike-Rate": "34.03"
       },
       {
         "Format": "List A",
@@ -357,6 +357,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Lions",
         "Innings": "1",
         "Wickets": "0",
@@ -370,14 +378,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "3.75"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "7.00"
       }
     ],
     "byVenue": [
@@ -422,7 +422,7 @@
       {
         "Format": "List A",
         "Date": "2009/11/21",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-14",
         "Overs": "2",
         "Economy": "7"
@@ -510,7 +510,7 @@
         "Batting": "10* (25)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2010-02-13-western-province-boland"
+        "Match_Slug": "2010-02-13-cobras-boland"
       },
       {
         "Date": "2010/01/23",
@@ -534,7 +534,7 @@
         "Batting": "18 (65)",
         "Bowling": "0/14",
         "Fielding": "",
-        "Match_Slug": "2009-11-21-boland-western-province"
+        "Match_Slug": "2009-11-21-boland-cobras"
       },
       {
         "Date": "2009/02/07",
@@ -606,7 +606,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2007-11-17-western-province-boland"
+        "Match_Slug": "2007-11-17-cobras-boland"
       },
       {
         "Date": "2007/11/10",
@@ -734,7 +734,7 @@
         "Batting": "5* (10)",
         "Bowling": "–",
         "Fielding": "1 ct, 2 st",
-        "Match_Slug": "2006-10-07-boland-western-province"
+        "Match_Slug": "2006-10-07-boland-cobras"
       },
       {
         "Date": "2006/04/08",
@@ -742,7 +742,7 @@
         "Batting": "11 (36)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2006-04-08-boland-western-province"
+        "Match_Slug": "2006-04-08-boland-cobras"
       },
       {
         "Date": "2006/03/25",
@@ -758,7 +758,7 @@
         "Batting": "5 (8)",
         "Bowling": "–",
         "Fielding": "1 st",
-        "Match_Slug": "2006-03-12-boland-western-province"
+        "Match_Slug": "2006-03-12-boland-cobras"
       },
       {
         "Date": "2006/03/04",
@@ -838,7 +838,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2005-11-06-western-province-boland"
+        "Match_Slug": "2005-11-06-cobras-boland"
       }
     ]
   },

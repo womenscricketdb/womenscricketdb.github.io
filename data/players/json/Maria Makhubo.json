@@ -83,19 +83,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "5",
+        "Runs": "2",
+        "Average": "0.40",
+        "Strike-Rate": "4.44"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Warriors",
         "Innings": "1",
         "Runs": "2",
         "Average": "2.00",
         "Strike-Rate": "25.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "5",
-        "Runs": "2",
-        "Average": "0.40",
-        "Strike-Rate": "4.44"
       },
       {
         "Format": "List A",
@@ -123,6 +123,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dolphins",
         "Innings": "1",
         "Runs": "0",
@@ -132,14 +140,6 @@
       {
         "Format": "T20",
         "Opposition": "Dragons",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -395,7 +395,7 @@
       {
         "Format": "T20",
         "Date": "2015/01/18",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "10",
         "Runs": "0",
         "Balls": "0",
@@ -666,7 +666,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "3",
         "Wickets": "2",
         "Average": "28.50",
@@ -714,19 +714,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.50"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
         "Economy": "9.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "5.50"
       }
     ],
     "byVenue": [
@@ -877,7 +877,7 @@
       {
         "Format": "T20",
         "Date": "2015/01/18",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-22",
         "Overs": "4",
         "Economy": "5.5"
@@ -1126,7 +1126,7 @@
         "Batting": "0 (1)",
         "Bowling": "1/21",
         "Fielding": "",
-        "Match_Slug": "2016-04-02-lions-western-province"
+        "Match_Slug": "2016-04-02-lions-cobras"
       },
       {
         "Date": "2016/04/01",
@@ -1142,7 +1142,7 @@
         "Batting": "0 (3)",
         "Bowling": "0/21",
         "Fielding": "",
-        "Match_Slug": "2016-03-31-lions-western-province"
+        "Match_Slug": "2016-03-31-lions-cobras"
       },
       {
         "Date": "2016/03/30",
@@ -1166,7 +1166,7 @@
         "Batting": "2 (11)",
         "Bowling": "1/15",
         "Fielding": "",
-        "Match_Slug": "2015-01-17-lions-western-province"
+        "Match_Slug": "2015-01-17-lions-cobras"
       },
       {
         "Date": "2014/12/06",
@@ -1350,7 +1350,7 @@
         "Batting": "0 (10)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2010-03-06-western-province-titans"
+        "Match_Slug": "2010-03-06-cobras-titans"
       },
       {
         "Date": "2010/02/13",
@@ -1446,7 +1446,7 @@
         "Batting": "0 (20)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2008-11-02-titans-western-province"
+        "Match_Slug": "2008-11-02-titans-cobras"
       },
       {
         "Date": "2008/10/19",
@@ -1648,7 +1648,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/22",
         "Fielding": "",
-        "Match_Slug": "2015-01-18-lions-western-province"
+        "Match_Slug": "2015-01-18-lions-cobras"
       },
       {
         "Date": "2014/12/07",

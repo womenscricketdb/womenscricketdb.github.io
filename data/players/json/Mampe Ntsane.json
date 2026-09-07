@@ -43,19 +43,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "2",
+        "Runs": "1",
+        "Average": "0.50",
+        "Strike-Rate": "10.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dolphins",
         "Innings": "1",
         "Runs": "1",
         "Average": "-",
         "Strike-Rate": "11.11"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "2",
-        "Runs": "1",
-        "Average": "0.50",
-        "Strike-Rate": "10.00"
       },
       {
         "Format": "List A",
@@ -109,6 +109,14 @@
         "Format": "T20",
         "Opposition": "Boland",
         "Innings": "1",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "0",
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
@@ -172,14 +180,6 @@
       {
         "Format": "T20",
         "Opposition": "Warriors",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -358,7 +358,7 @@
       {
         "Format": "T20",
         "Date": "2023/10/15",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "11",
         "Runs": "0",
         "Balls": "0",
@@ -588,7 +588,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Wickets": "2",
         "Average": "16.00",
@@ -700,19 +700,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dolphins",
         "Innings": "2",
         "Wickets": "1",
         "Average": "29.00",
         "Economy": "7.25"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "1",
-        "Average": "14.00",
-        "Economy": "7.00"
       },
       {
         "Format": "T20",
@@ -871,7 +871,7 @@
       {
         "Format": "List A",
         "Date": "2023/10/14",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "2-23",
         "Overs": "5",
         "Economy": "4.6"
@@ -1289,7 +1289,7 @@
         "Batting": "0 (0)",
         "Bowling": "2/23",
         "Fielding": "1 ct",
-        "Match_Slug": "2023-10-14-western-province-knights"
+        "Match_Slug": "2023-10-14-cobras-knights"
       },
       {
         "Date": "2023/04/22",
@@ -1361,7 +1361,7 @@
         "Batting": "1 (3)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2019-11-30-knights-western-province"
+        "Match_Slug": "2019-11-30-knights-cobras"
       },
       {
         "Date": "2019/03/29",
@@ -1393,7 +1393,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/9",
         "Fielding": "",
-        "Match_Slug": "2019-03-25-knights-western-province"
+        "Match_Slug": "2019-03-25-knights-cobras"
       },
       {
         "Date": "2018/01/27",
@@ -1433,7 +1433,7 @@
         "Batting": "0 (7)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2016-11-12-western-province-knights"
+        "Match_Slug": "2016-11-12-cobras-knights"
       }
     ],
     "T20": [
@@ -1515,7 +1515,7 @@
         "Batting": "0 (0)",
         "Bowling": "1/14",
         "Fielding": "",
-        "Match_Slug": "2023-10-15-western-province-knights"
+        "Match_Slug": "2023-10-15-cobras-knights"
       },
       {
         "Date": "2023/10/01",
@@ -1595,7 +1595,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2019-12-01-knights-western-province"
+        "Match_Slug": "2019-12-01-knights-cobras"
       },
       {
         "Date": "2017/10/15",

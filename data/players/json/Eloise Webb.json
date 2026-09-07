@@ -19,7 +19,7 @@
       },
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "6",
         "Runs": "35",
         "Average": "5.83",
@@ -99,19 +99,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "7",
+        "Average": "7.00",
+        "Strike-Rate": "116.67"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Iinyathi",
         "Innings": "1",
         "Runs": "7",
         "Average": "7.00",
         "Strike-Rate": "43.75"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "7",
-        "Average": "7.00",
-        "Strike-Rate": "116.67"
       },
       {
         "Format": "T20",
@@ -415,7 +415,7 @@
       {
         "Format": "List A",
         "Date": "2017/03/31",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "7",
         "Runs": "21",
         "Balls": "32",
@@ -448,7 +448,7 @@
       {
         "Format": "T20",
         "Date": "2017/01/29",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "6",
         "Runs": "7",
         "Balls": "6",
@@ -481,7 +481,7 @@
       {
         "Format": "T20",
         "Date": "2012/10/27",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "11",
         "Runs": "0",
         "Balls": "0",
@@ -649,19 +649,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "7",
+        "Wickets": "5",
+        "Average": "33.20",
+        "Economy": "4.55"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Heat",
         "Innings": "3",
         "Wickets": "5",
         "Average": "12.40",
         "Economy": "3.44"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "7",
-        "Wickets": "5",
-        "Average": "33.20",
-        "Economy": "4.55"
       },
       {
         "Format": "List A",
@@ -777,19 +777,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Warriors",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
         "Economy": "8.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "4.00"
       }
     ],
     "byVenue": [
@@ -1068,7 +1068,7 @@
       {
         "Format": "T20",
         "Date": "2017/01/29",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-4",
         "Overs": "1",
         "Economy": "4"
@@ -1281,7 +1281,7 @@
         "Batting": "7 (6)",
         "Bowling": "0/4",
         "Fielding": "",
-        "Match_Slug": "2017-01-29-western-province-warriors"
+        "Match_Slug": "2017-01-29-cobras-warriors"
       },
       {
         "Date": "2017/01/15",
@@ -1345,7 +1345,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "",
-        "Match_Slug": "2012-10-27-iinyathi-western-province"
+        "Match_Slug": "2012-10-27-iinyathi-cobras"
       },
       {
         "Date": "2012/10/14",
@@ -1387,7 +1387,7 @@
         "Batting": "21 (32)",
         "Bowling": "1/35",
         "Fielding": "",
-        "Match_Slug": "2017-03-31-warriors-western-province"
+        "Match_Slug": "2017-03-31-warriors-cobras"
       },
       {
         "Date": "2017/03/30",
@@ -1419,7 +1419,7 @@
         "Batting": "0 (0)",
         "Bowling": "2/36",
         "Fielding": "",
-        "Match_Slug": "2017-01-28-western-province-warriors"
+        "Match_Slug": "2017-01-28-cobras-warriors"
       },
       {
         "Date": "2016/04/02",
@@ -1523,7 +1523,7 @@
         "Batting": "3 (11)",
         "Bowling": "0/21",
         "Fielding": "",
-        "Match_Slug": "2015-04-07-warriors-western-province"
+        "Match_Slug": "2015-04-07-warriors-cobras"
       },
       {
         "Date": "2015/03/28",
@@ -1603,7 +1603,7 @@
         "Batting": "1 (4)",
         "Bowling": "1/30",
         "Fielding": "",
-        "Match_Slug": "2014-01-12-western-province-iinyathi"
+        "Match_Slug": "2014-01-12-cobras-iinyathi"
       },
       {
         "Date": "2014/01/11",
@@ -1619,7 +1619,7 @@
         "Batting": "0 (1)",
         "Bowling": "1/23",
         "Fielding": "1 ct",
-        "Match_Slug": "2013-11-10-iinyathi-western-province"
+        "Match_Slug": "2013-11-10-iinyathi-cobras"
       },
       {
         "Date": "2013/11/09",
@@ -1659,7 +1659,7 @@
         "Batting": "6 (18)",
         "Bowling": "0/10",
         "Fielding": "",
-        "Match_Slug": "2013-02-10-iinyathi-western-province"
+        "Match_Slug": "2013-02-10-iinyathi-cobras"
       },
       {
         "Date": "2013/02/09",
@@ -1683,7 +1683,7 @@
         "Batting": "4 (2)",
         "Bowling": "0/11",
         "Fielding": "1 ct",
-        "Match_Slug": "2012-11-25-western-province-iinyathi"
+        "Match_Slug": "2012-11-25-cobras-iinyathi"
       },
       {
         "Date": "2012/11/24",

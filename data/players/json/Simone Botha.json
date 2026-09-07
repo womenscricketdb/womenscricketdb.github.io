@@ -91,6 +91,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "1",
         "Runs": "0",
@@ -120,14 +128,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       }
     ],
     "byVenue": [
@@ -551,19 +551,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "7.50"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Knights",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
         "Economy": "3.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "7.50"
       }
     ],
     "byVenue": [
@@ -1140,7 +1140,7 @@
         "Batting": "0 (8)",
         "Bowling": "0/15",
         "Fielding": "",
-        "Match_Slug": "2022-03-27-western-province-eastern-storm"
+        "Match_Slug": "2022-03-27-cobras-eastern-storm"
       },
       {
         "Date": "2022/02/27",

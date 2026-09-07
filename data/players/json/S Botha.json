@@ -19,6 +19,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "1",
         "Runs": "0",
@@ -48,14 +56,6 @@
         "Runs": "0",
         "Average": "-",
         "Strike-Rate": "-"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "0",
-        "Average": "0.00",
-        "Strike-Rate": "0.00"
       },
       {
         "Format": "T20",
@@ -333,6 +333,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "2.25"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
@@ -346,14 +354,6 @@
         "Wickets": "0",
         "Average": "-",
         "Economy": "6.50"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "2.25"
       }
     ],
     "byVenue": [
@@ -448,7 +448,7 @@
       {
         "Format": "List A",
         "Date": "2008/10/18",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-9",
         "Overs": "4",
         "Economy": "2.25"
@@ -569,7 +569,7 @@
         "Batting": "0 (6)",
         "Bowling": "0/9",
         "Fielding": "",
-        "Match_Slug": "2008-10-18-lions-western-province"
+        "Match_Slug": "2008-10-18-lions-cobras"
       },
       {
         "Date": "2008/03/08",

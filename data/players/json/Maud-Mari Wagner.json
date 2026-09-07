@@ -35,19 +35,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "25.00"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Titans",
         "Innings": "1",
         "Runs": "1",
         "Average": "1.00",
         "Strike-Rate": "4.76"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Runs": "1",
-        "Average": "1.00",
-        "Strike-Rate": "25.00"
       },
       {
         "Format": "T20",
@@ -67,7 +67,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "3",
         "Average": "3.00",
@@ -267,7 +267,7 @@
       {
         "Format": "T20",
         "Date": "2016/02/28",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "3",
         "Runs": "3",
         "Balls": "15",
@@ -380,6 +380,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "3.75"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Knights",
         "Innings": "2",
         "Wickets": "0",
@@ -395,14 +403,6 @@
         "Economy": "5.00"
       },
       {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "3.75"
-      },
-      {
         "Format": "T20",
         "Opposition": "Titans",
         "Innings": "1",
@@ -412,19 +412,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "6.00"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Knights",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
         "Economy": "9.00"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "6.00"
       }
     ],
     "byVenue": [
@@ -551,7 +551,7 @@
       {
         "Format": "T20",
         "Date": "2016/02/28",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-12",
         "Overs": "2",
         "Economy": "6"
@@ -711,7 +711,7 @@
         "Batting": "1 (4)",
         "Bowling": "0/15",
         "Fielding": "1 ct",
-        "Match_Slug": "2016-02-27-western-province-boland"
+        "Match_Slug": "2016-02-27-cobras-boland"
       },
       {
         "Date": "2016/01/30",
@@ -761,7 +761,7 @@
         "Batting": "3 (15)",
         "Bowling": "0/12",
         "Fielding": "1 ct",
-        "Match_Slug": "2016-02-28-western-province-boland"
+        "Match_Slug": "2016-02-28-cobras-boland"
       },
       {
         "Date": "2016/01/31",

@@ -3,7 +3,7 @@
     "byOpposition": [
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Runs": "19",
         "Average": "-",
@@ -75,6 +75,14 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "0",
+        "Runs": "0",
+        "Average": "-",
+        "Strike-Rate": "-"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "0",
         "Runs": "0",
@@ -84,14 +92,6 @@
       {
         "Format": "T20",
         "Opposition": "Knights",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -182,7 +182,7 @@
       {
         "Format": "List A",
         "Date": "2022/10/29",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "10",
         "Runs": "12*",
         "Balls": "14",
@@ -215,7 +215,7 @@
       {
         "Format": "List A",
         "Date": "2024/04/06",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "11",
         "Runs": "7*",
         "Balls": "13",
@@ -441,19 +441,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "3",
+        "Wickets": "4",
+        "Average": "15.50",
+        "Economy": "4.13"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dragons",
         "Innings": "3",
         "Wickets": "4",
         "Average": "26.50",
         "Economy": "5.05"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "3",
-        "Wickets": "4",
-        "Average": "15.50",
-        "Economy": "4.13"
       },
       {
         "Format": "List A",
@@ -497,7 +497,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "5",
         "Wickets": "2",
         "Average": "48.00",
@@ -644,7 +644,7 @@
       {
         "Format": "List A",
         "Date": "2023/12/02",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "3-21",
         "Overs": "4",
         "Economy": "5.25"
@@ -692,7 +692,7 @@
       {
         "Format": "T20",
         "Date": "2022/03/20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "2-27",
         "Overs": "4",
         "Economy": "6.75"
@@ -1037,7 +1037,7 @@
         "Batting": "7* (13)",
         "Bowling": "1/14",
         "Fielding": "",
-        "Match_Slug": "2024-04-06-western-province-titans"
+        "Match_Slug": "2024-04-06-cobras-titans"
       },
       {
         "Date": "2024/03/23",
@@ -1061,7 +1061,7 @@
         "Batting": "0 (0)",
         "Bowling": "3/21",
         "Fielding": "",
-        "Match_Slug": "2023-12-02-titans-western-province"
+        "Match_Slug": "2023-12-02-titans-cobras"
       },
       {
         "Date": "2023/10/21",
@@ -1101,7 +1101,7 @@
         "Batting": "12* (14)",
         "Bowling": "0/27",
         "Fielding": "",
-        "Match_Slug": "2022-10-29-western-province-titans"
+        "Match_Slug": "2022-10-29-cobras-titans"
       },
       {
         "Date": "2021/10/28",
@@ -1199,7 +1199,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/12",
         "Fielding": "1 ct",
-        "Match_Slug": "2024-10-20-titans-western-province"
+        "Match_Slug": "2024-10-20-titans-cobras"
       },
       {
         "Date": "2024/04/07",
@@ -1207,7 +1207,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/19",
         "Fielding": "1 ct",
-        "Match_Slug": "2024-04-07-western-province-titans"
+        "Match_Slug": "2024-04-07-cobras-titans"
       },
       {
         "Date": "2024/03/24",
@@ -1231,7 +1231,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/33",
         "Fielding": "",
-        "Match_Slug": "2023-12-03-titans-western-province"
+        "Match_Slug": "2023-12-03-titans-cobras"
       },
       {
         "Date": "2023/10/22",
@@ -1279,7 +1279,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/5",
         "Fielding": "",
-        "Match_Slug": "2022-10-30-western-province-titans"
+        "Match_Slug": "2022-10-30-cobras-titans"
       },
       {
         "Date": "2022/03/20",
@@ -1287,7 +1287,7 @@
         "Batting": "0 (0)",
         "Bowling": "2/27",
         "Fielding": "",
-        "Match_Slug": "2022-03-20-titans-western-province"
+        "Match_Slug": "2022-03-20-titans-cobras"
       },
       {
         "Date": "2020/03/15",

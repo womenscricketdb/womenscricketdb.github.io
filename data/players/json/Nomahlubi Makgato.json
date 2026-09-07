@@ -3,7 +3,7 @@
     "byOpposition": [
       {
         "Format": "List A",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "3",
         "Runs": "13",
         "Average": "4.33",
@@ -51,7 +51,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "1",
         "Runs": "1",
         "Average": "-",
@@ -191,7 +191,7 @@
       {
         "Format": "List A",
         "Date": "2019/03/28",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "10",
         "Runs": "8",
         "Balls": "14",
@@ -202,7 +202,7 @@
       {
         "Format": "List A",
         "Date": "2021/03/20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "9",
         "Runs": "5",
         "Balls": "13",
@@ -213,7 +213,7 @@
       {
         "Format": "T20",
         "Date": "2019/11/17",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "10",
         "Runs": "1*",
         "Balls": "2",
@@ -347,6 +347,14 @@
     "byOpposition": [
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "34.00",
+        "Economy": "6.80"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Iinyathi",
         "Innings": "1",
         "Wickets": "1",
@@ -360,14 +368,6 @@
         "Wickets": "1",
         "Average": "6.00",
         "Economy": "3.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "3",
-        "Wickets": "1",
-        "Average": "34.00",
-        "Economy": "6.80"
       },
       {
         "Format": "List A",
@@ -403,19 +403,19 @@
       },
       {
         "Format": "T20",
+        "Opposition": "Cobras",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "9.60"
+      },
+      {
+        "Format": "T20",
         "Opposition": "Dragons",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
         "Economy": "5.50"
-      },
-      {
-        "Format": "T20",
-        "Opposition": "Western Province",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "9.60"
       }
     ],
     "byVenue": [
@@ -502,7 +502,7 @@
       {
         "Format": "List A",
         "Date": "2019/11/16",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "1-7",
         "Overs": "2",
         "Economy": "3.5"
@@ -550,7 +550,7 @@
       {
         "Format": "T20",
         "Date": "2019/11/17",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "0-16",
         "Overs": "1.4",
         "Economy": "9.6"
@@ -714,7 +714,7 @@
         "Batting": "5 (13)",
         "Bowling": "0/14",
         "Fielding": "1 ct",
-        "Match_Slug": "2021-03-20-western-province-titans"
+        "Match_Slug": "2021-03-20-cobras-titans"
       },
       {
         "Date": "2021/03/18",
@@ -738,7 +738,7 @@
         "Batting": "0 (3)",
         "Bowling": "1/7",
         "Fielding": "",
-        "Match_Slug": "2019-11-16-western-province-titans"
+        "Match_Slug": "2019-11-16-cobras-titans"
       },
       {
         "Date": "2019/03/28",
@@ -746,7 +746,7 @@
         "Batting": "8 (14)",
         "Bowling": "0/13",
         "Fielding": "1 ct",
-        "Match_Slug": "2019-03-28-titans-western-province"
+        "Match_Slug": "2019-03-28-titans-cobras"
       },
       {
         "Date": "2019/03/27",
@@ -804,7 +804,7 @@
         "Batting": "1* (2)",
         "Bowling": "0/16",
         "Fielding": "",
-        "Match_Slug": "2019-11-17-western-province-titans"
+        "Match_Slug": "2019-11-17-cobras-titans"
       },
       {
         "Date": "2017/11/19",

@@ -27,19 +27,19 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "7",
+        "Runs": "12",
+        "Average": "3.00",
+        "Strike-Rate": "19.35"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Titans",
         "Innings": "4",
         "Runs": "12",
         "Average": "-",
         "Strike-Rate": "37.50"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "7",
-        "Runs": "12",
-        "Average": "3.00",
-        "Strike-Rate": "19.35"
       },
       {
         "Format": "List A",
@@ -99,7 +99,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "2",
         "Runs": "7",
         "Average": "7.00",
@@ -424,7 +424,7 @@
       {
         "Format": "T20",
         "Date": "2017/11/26",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Position": "10",
         "Runs": "7",
         "Balls": "14",
@@ -828,6 +828,14 @@
       },
       {
         "Format": "List A",
+        "Opposition": "Cobras",
+        "Innings": "10",
+        "Wickets": "4",
+        "Average": "78.00",
+        "Economy": "5.60"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dolphins",
         "Innings": "4",
         "Wickets": "4",
@@ -841,14 +849,6 @@
         "Wickets": "4",
         "Average": "40.00",
         "Economy": "4.57"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Western Province",
-        "Innings": "10",
-        "Wickets": "4",
-        "Average": "78.00",
-        "Economy": "5.60"
       },
       {
         "Format": "List A",
@@ -884,7 +884,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Innings": "6",
         "Wickets": "9",
         "Average": "10.00",
@@ -1279,7 +1279,7 @@
       {
         "Format": "T20",
         "Date": "2019/02/17",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "5-13",
         "Overs": "4",
         "Economy": "3.25"
@@ -1303,7 +1303,7 @@
       {
         "Format": "T20",
         "Date": "2022/02/13",
-        "Opposition": "Western Province",
+        "Opposition": "Cobras",
         "Figures": "3-15",
         "Overs": "4",
         "Economy": "3.75"
@@ -1695,7 +1695,7 @@
         "Batting": "0 (8)",
         "Bowling": "0/27",
         "Fielding": "",
-        "Match_Slug": "2026-03-07-dolphins-western-province"
+        "Match_Slug": "2026-03-07-dolphins-cobras"
       },
       {
         "Date": "2026/02/28",
@@ -1751,7 +1751,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/19",
         "Fielding": "",
-        "Match_Slug": "2025-03-22-western-province-dolphins"
+        "Match_Slug": "2025-03-22-cobras-dolphins"
       },
       {
         "Date": "2025/03/08",
@@ -1767,7 +1767,7 @@
         "Batting": "0* (2)",
         "Bowling": "0/37",
         "Fielding": "",
-        "Match_Slug": "2025-03-01-dolphins-western-province"
+        "Match_Slug": "2025-03-01-dolphins-cobras"
       },
       {
         "Date": "2025/02/22",
@@ -1855,7 +1855,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/12",
         "Fielding": "1 ct",
-        "Match_Slug": "2023-10-21-dolphins-western-province"
+        "Match_Slug": "2023-10-21-dolphins-cobras"
       },
       {
         "Date": "2023/04/01",
@@ -1887,7 +1887,7 @@
         "Batting": "7* (13)",
         "Bowling": "0/0",
         "Fielding": "",
-        "Match_Slug": "2022-11-19-dolphins-western-province"
+        "Match_Slug": "2022-11-19-dolphins-cobras"
       },
       {
         "Date": "2022/10/29",
@@ -1935,7 +1935,7 @@
         "Batting": "0 (3)",
         "Bowling": "2/33",
         "Fielding": "",
-        "Match_Slug": "2022-02-12-dolphins-western-province"
+        "Match_Slug": "2022-02-12-dolphins-cobras"
       },
       {
         "Date": "2022/01/22",
@@ -2039,7 +2039,7 @@
         "Batting": "2 (7)",
         "Bowling": "0/63",
         "Fielding": "",
-        "Match_Slug": "2019-03-27-iinyathi-western-province"
+        "Match_Slug": "2019-03-27-iinyathi-cobras"
       },
       {
         "Date": "2019/03/25",
@@ -2055,7 +2055,7 @@
         "Batting": "3 (14)",
         "Bowling": "2/56",
         "Fielding": "",
-        "Match_Slug": "2019-02-16-western-province-iinyathi"
+        "Match_Slug": "2019-02-16-cobras-iinyathi"
       },
       {
         "Date": "2018/11/17",
@@ -2119,7 +2119,7 @@
         "Batting": "0* (15)",
         "Bowling": "0/38",
         "Fielding": "",
-        "Match_Slug": "2017-11-25-iinyathi-western-province"
+        "Match_Slug": "2017-11-25-iinyathi-cobras"
       },
       {
         "Date": "2017/11/04",
@@ -2167,7 +2167,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/27",
         "Fielding": "",
-        "Match_Slug": "2017-03-30-iinyathi-western-province"
+        "Match_Slug": "2017-03-30-iinyathi-cobras"
       },
       {
         "Date": "2017/02/25",
@@ -2201,7 +2201,7 @@
         "Batting": "0 (0)",
         "Bowling": "–",
         "Fielding": "1 ct",
-        "Match_Slug": "2026-03-08-dolphins-western-province"
+        "Match_Slug": "2026-03-08-dolphins-cobras"
       },
       {
         "Date": "2026/03/01",
@@ -2329,7 +2329,7 @@
         "Batting": "0 (0)",
         "Bowling": "1/13",
         "Fielding": "1 ct",
-        "Match_Slug": "2023-10-01-western-province-dolphins"
+        "Match_Slug": "2023-10-01-cobras-dolphins"
       },
       {
         "Date": "2023/04/02",
@@ -2345,7 +2345,7 @@
         "Batting": "0* (0)",
         "Bowling": "0/13",
         "Fielding": "",
-        "Match_Slug": "2023-03-26-western-province-dolphins"
+        "Match_Slug": "2023-03-26-cobras-dolphins"
       },
       {
         "Date": "2022/12/04",
@@ -2361,7 +2361,7 @@
         "Batting": "0 (0)",
         "Bowling": "0/17",
         "Fielding": "1 ct",
-        "Match_Slug": "2022-11-20-dolphins-western-province"
+        "Match_Slug": "2022-11-20-dolphins-cobras"
       },
       {
         "Date": "2022/10/30",
@@ -2409,7 +2409,7 @@
         "Batting": "0 (0)",
         "Bowling": "3/15",
         "Fielding": "",
-        "Match_Slug": "2022-02-13-dolphins-western-province"
+        "Match_Slug": "2022-02-13-dolphins-cobras"
       },
       {
         "Date": "2022/01/23",
@@ -2457,7 +2457,7 @@
         "Batting": "0 (0)",
         "Bowling": "5/13",
         "Fielding": "1 ct",
-        "Match_Slug": "2019-02-17-western-province-iinyathi"
+        "Match_Slug": "2019-02-17-cobras-iinyathi"
       },
       {
         "Date": "2019/01/27",
@@ -2505,7 +2505,7 @@
         "Batting": "7 (14)",
         "Bowling": "0/19",
         "Fielding": "1 ct",
-        "Match_Slug": "2017-11-26-iinyathi-western-province"
+        "Match_Slug": "2017-11-26-iinyathi-cobras"
       },
       {
         "Date": "2017/11/05",

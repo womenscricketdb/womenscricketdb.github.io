@@ -1,0 +1,534 @@
+{
+  "meta": [
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Tournament": "19-20 CSA Women's Provincial League",
+      "Match_Date": "2020/02/08",
+      "Venue_Name": "Old Mutual Sports Club Ground",
+      "Season": "19/20",
+      "Format": "List A",
+      "Team_Home_Name": "Cobras",
+      "Team_Away_Name": "Lions",
+      "Match_Division": "Div 1"
+    }
+  ],
+  "teams": [
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Team_Name": "Cobras",
+      "Won_Toss": "0",
+      "Toss_Decision": "",
+      "Match_Outcome": "Won",
+      "Win_Margin": "18",
+      "Win_Margin_Type": "Runs",
+      "Team_Runs_Scored": "176",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "48.2",
+      "Innings_Number": ""
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Team_Name": "Lions",
+      "Won_Toss": "1",
+      "Toss_Decision": "Field",
+      "Match_Outcome": "Lost",
+      "Win_Margin": "",
+      "Win_Margin_Type": "",
+      "Team_Runs_Scored": "158",
+      "Team_Wickets_Lost": "10",
+      "Team_Overs_Faced": "47.3",
+      "Innings_Number": ""
+    }
+  ],
+  "topBatting": [
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Innings_Number": "1",
+      "Player": "Jolandi Wilson",
+      "Runs": "21",
+      "Balls": "80"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Innings_Number": "1",
+      "Player": "Saarah Smith",
+      "Runs": "21",
+      "Balls": "30"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Innings_Number": "2",
+      "Player": "Hloni Sardick",
+      "Runs": "27",
+      "Balls": "35"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Innings_Number": "2",
+      "Player": "Palesa Mapoo",
+      "Runs": "25",
+      "Balls": "84"
+    }
+  ],
+  "topBowling": [
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Innings_Number": "1",
+      "Player": "Robyn Searle",
+      "Wickets": "3",
+      "Runs": "11"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Innings_Number": "1",
+      "Player": "Yolani Fourie",
+      "Wickets": "4",
+      "Runs": "46"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Innings_Number": "2",
+      "Player": "Leah Jones",
+      "Wickets": "2",
+      "Runs": "37"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Innings_Number": "2",
+      "Player": "Tatum le Roux",
+      "Wickets": "3",
+      "Runs": "46"
+    }
+  ],
+  "allPlayers": [
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Alysia Rudolph",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "0",
+      "Balls_Faced": "2",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "1",
+      "Runs_Conceded": "32",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "54"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Andrie Steyn",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "18",
+      "Balls_Faced": "41",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "1",
+      "Runs_Conceded": "2",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "9"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Faye Tunnicliffe",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "19",
+      "Balls_Faced": "32",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "22",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": "42"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Hloni Sardick",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "27",
+      "Balls_Faced": "35",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "1",
+      "Runs_Conceded": "26",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "42"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Jameelah Shaikjee",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "15",
+      "Balls_Faced": "28",
+      "Is_Not_Out": "1",
+      "Wickets_Taken": "1",
+      "Runs_Conceded": "18",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "30"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Jenna Searle",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "6",
+      "Balls_Faced": "18",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Jolandi Wilson",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "21",
+      "Balls_Faced": "80",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "0",
+      "Catches_WK": "1",
+      "Stumpings": "0",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Kirstie Thomson",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "19",
+      "Balls_Faced": "31",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "21",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": "60"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Lara Goodall",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "1",
+      "Balls_Faced": "5",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Leah Jones",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "4",
+      "Balls_Faced": "28",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "2",
+      "Runs_Conceded": "37",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": "60"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Nadia Mbokotwana",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "21",
+      "Balls_Faced": "32",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "14",
+      "Catches_Fielder": "0",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": "18"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Nonkhululeko Thabethe",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "10",
+      "Balls_Faced": "12",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Paballo Tshidi",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "0",
+      "Balls_Faced": "7",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Palesa Mapoo",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "25",
+      "Balls_Faced": "84",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "0",
+      "Catches_WK": "1",
+      "Stumpings": "2",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Robyn Appels",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "12",
+      "Balls_Faced": "15",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "2",
+      "Runs_Conceded": "10",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": "60"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Robyn Searle",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "0",
+      "Balls_Faced": "7",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "3",
+      "Runs_Conceded": "11",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": "20"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Saarah Smith",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "21",
+      "Balls_Faced": "30",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Sinalo Jafta",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "8",
+      "Balls_Faced": "8",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "",
+      "Runs_Conceded": "",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": ""
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Stacey Lackay",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "10",
+      "Balls_Faced": "9",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "21",
+      "Catches_Fielder": "0",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": "42"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Tatum le Roux",
+      "Team_Name": "Cobras",
+      "Team_Opposition": "Lions",
+      "Batting_Runs": "6",
+      "Balls_Faced": "12",
+      "Is_Not_Out": "1",
+      "Wickets_Taken": "3",
+      "Runs_Conceded": "46",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "54"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Traci Brest",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "15",
+      "Balls_Faced": "48",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "0",
+      "Runs_Conceded": "22",
+      "Catches_Fielder": "",
+      "Catches_WK": "",
+      "Stumpings": "",
+      "Balls_Bowled": "24"
+    },
+    {
+      "Match_Slug": "2020-02-08-cobras-lions",
+      "Known_Name": "Yolani Fourie",
+      "Team_Name": "Lions",
+      "Team_Opposition": "Western Province",
+      "Batting_Runs": "20",
+      "Balls_Faced": "16",
+      "Is_Not_Out": "0",
+      "Wickets_Taken": "4",
+      "Runs_Conceded": "46",
+      "Catches_Fielder": "1",
+      "Catches_WK": "0",
+      "Stumpings": "0",
+      "Balls_Bowled": "60"
+    }
+  ],
+  "weather": {
+    "windowSource": "default",
+    "onTheDay": {
+      "tempMinC": 21.7,
+      "tempMaxC": 29.2,
+      "rainMM": 0.0,
+      "maxWindKMH": 19.2,
+      "avgHumidityPct": 50.0,
+      "hourly": [
+        {
+          "time": "2020-02-08T09:00",
+          "icon": "sun",
+          "tempC": 23.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T10:00",
+          "icon": "sun",
+          "tempC": 25.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T11:00",
+          "icon": "sun",
+          "tempC": 26.8,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T12:00",
+          "icon": "sun",
+          "tempC": 28.1,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T13:00",
+          "icon": "sun",
+          "tempC": 29.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T14:00",
+          "icon": "sun",
+          "tempC": 27.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T15:00",
+          "icon": "cloud",
+          "tempC": 28.0,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T16:00",
+          "icon": "sun",
+          "tempC": 27.6,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T17:00",
+          "icon": "sun",
+          "tempC": 26.2,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T18:00",
+          "icon": "sun",
+          "tempC": 23.7,
+          "rainMM": 0.0
+        },
+        {
+          "time": "2020-02-08T19:00",
+          "icon": "sun",
+          "tempC": 21.7,
+          "rainMM": 0.0
+        }
+      ]
+    },
+    "leadingIntoMatch": {
+      "rainMM": 0.2,
+      "maxTempC": 27.1,
+      "daily": [
+        {
+          "date": "2020-02-05",
+          "rainMM": 0.2,
+          "tempMaxC": 21.5
+        },
+        {
+          "date": "2020-02-06",
+          "rainMM": 0.0,
+          "tempMaxC": 22.0
+        },
+        {
+          "date": "2020-02-07",
+          "rainMM": 0.0,
+          "tempMaxC": 27.1
+        }
+      ]
+    }
+  }
+}
