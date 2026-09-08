@@ -471,6 +471,12 @@
             linkMatchDate: true,
             matchDateLink: { index: matchLookupIndex || {} },
             seasonLeaderboard: seasonLeaderboardMode,
+            // Type-specific filters beyond the generic Format/Season/Tier
+            // set - currently just Milestone, on the two milestone-crossing
+            // types (see records-manifest.js). Passed straight through;
+            // WCA_TABLE.render already drops any filter whose column turns
+            // out to have no non-blank values in this particular row set.
+            extraFilters: (typeMeta && typeMeta.extraFilters) || undefined,
             // Only meaningful in seasonLeaderboard mode (otherwise the file's
             // own row order, already correctly ranked for the selected
             // Season/Format/Tier combination, is left alone). typeMeta.sortCol
