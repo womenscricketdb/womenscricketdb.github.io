@@ -305,6 +305,10 @@
         const chartOpts = {
             render: (el, rows) => WCA_CHART.renderLineChart(el, rows, { xKey: "Season" }),
             minRows: 2,
+            // Chart is the point of this tab (the arc across a career), the
+            // table is the look-something-up fallback - opens on Chart so
+            // Batting doesn't push Bowling off-screen by default.
+            defaultView: "chart",
         };
         // seasonLeaderboard: true is the same escape hatch records.html's
         // By Season leaderboard view already uses - without it,
@@ -316,6 +320,51 @@
         // season" dropdown - exactly backwards for a table whose entire
         // point is showing every season at once.
         const tableOpts = { compact: true, seasonLeaderboard: true };
+        if (battingRows.length) {
+            WCA_TABLE.renderChartableTable(container, "Batting", battingRows, tableOpts, chartOpts);
+        }
+        if (bowlingRows.length) {
+            WCA_TABLE.renderChartableTable(container, "Bowling", bowlingRows, tableOpts, chartOpts);
+        }
+    }
+
+    /**
+     * Career Prog(ression) tab: progression.batting / progression.bowling,
+     * each row already Format-tagged (List A / T20 / Overall) and
+     * pre-sorted ascending by innings (see
+     * build_player_progression_and_milestones() in consolidate.py). Same
+     * renderChartableTable/WCA_CHART combo the Season tab uses just above,
+     * charted by Innings instead of Season - "Overall" needs no extra
+     * wiring here, it just shows up as a third format-toggle button since
+     * that's all a Format value is to this renderer.
+     * No seasonLeaderboard-style escape hatch needed here the way the
+     * Season tab needs one for its own "Season" column: these rows have
+     * no Season key at all, so WCA.detectStampColumns never flags one to
+     * hide/filter in the first place.
+     */
+    function renderProgressionTab(container, data) {
+        const battingRows = (data.progression && data.progression.batting) || [];
+        const bowlingRows = (data.progression && data.progression.bowling) || [];
+
+        if (!battingRows.length && !bowlingRows.length) {
+            container.innerHTML = `<div class="wca-empty-state">No career progression data recorded for this player.</div>`;
+            return;
+        }
+
+        const chartOpts = {
+            render: (el, rows) => WCA_CHART.renderLineChart(el, rows, { xKey: "Innings" }),
+            minRows: 2,
+            // Same reasoning as Season by Season: opens on Chart so Bowling
+            // isn't buried under however many innings Batting ran to.
+            // Table view (still reachable via the toggle) intentionally
+            // stays a plain full-length list rather than paginated -
+            // DataTables paging on a dataset this uneven in length
+            // (a handful of innings for some players, hundreds for others)
+            // means a lot of players would land on a last page holding one
+            // or two rows, which is worse than one honest scroll.
+            defaultView: "chart",
+        };
+        const tableOpts = { compact: true };
         if (battingRows.length) {
             WCA_TABLE.renderChartableTable(container, "Batting", battingRows, tableOpts, chartOpts);
         }
@@ -567,6 +616,16 @@
         const hasSeasonData = WCA.hasData(data.batting && data.batting.bySeason)
             || WCA.hasData(data.bowling && data.bowling.bySeason);
         if (hasSeasonData) tabs.push({ id: "season", label: "Season by Season" });
+        // Same non-empty check shape as hasSeasonData above, and for the
+        // same reason - a player can have batting/bowling data yet no
+        // qualifying progression (e.g. genuinely zero recorded innings
+        // in a discipline), so this is checked independently rather than
+        // assumed from hasSeasonData. "Career Prog" (not the fuller
+        // "Career Progression") to keep the tab label from being the
+        // widest thing in the tab strip on mobile.
+        const hasProgressionData = WCA.hasData(data.progression && data.progression.batting)
+            || WCA.hasData(data.progression && data.progression.bowling);
+        if (hasProgressionData) tabs.push({ id: "progression", label: "Career Prog" });
         if (WCA.hasData(data.misc)) tabs.push({ id: "misc", label: "Fielding & Misc" });
         if (data.matches && Object.keys(data.matches).length) tabs.push({ id: "matches", label: "Matches" });
         // Only appears for the ~230 players with at least one Division 1
@@ -610,6 +669,7 @@
         if (tabs.some(t => t.id === "batting")) renderBattingBowlingSection("content-batting", data.batting);
         if (tabs.some(t => t.id === "bowling")) renderBattingBowlingSection("content-bowling", data.bowling);
         if (tabs.some(t => t.id === "season")) renderSeasonTab(document.getElementById("content-season"), data);
+        if (tabs.some(t => t.id === "progression")) renderProgressionTab(document.getElementById("content-progression"), data);
         if (tabs.some(t => t.id === "misc")) renderMiscSection("content-misc", data.misc);
         if (tabs.some(t => t.id === "matches")) renderMatchesTab(document.getElementById("content-matches"), data.matches);
         if (tabs.some(t => t.id === "titles")) renderTitlesTab(document.getElementById("content-titles"), titleEntries);
