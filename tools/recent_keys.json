@@ -152,7 +152,7 @@
   {
     "date": "2026-09-08",
     "template": "q_head_to_head",
-    "source_key": "h2h:Boland-Dragons:List A"
+    "source_key": "h2h:Dolphins-Tuskers:List A"
   },
   {
     "date": "2026-09-08",
@@ -162,7 +162,7 @@
   {
     "date": "2026-09-08",
     "template": "q_venue_record",
-    "source_key": "venue:Wanderers"
+    "source_key": "venue:Polokwane Oval"
   },
   {
     "date": "2026-09-08",
@@ -177,7 +177,7 @@
   {
     "date": "2026-09-09",
     "template": "q_venue_record",
-    "source_key": "venue:Boland Park, Paarl"
+    "source_key": "venue:Wanderers"
   },
   {
     "date": "2026-09-09",
@@ -217,11 +217,36 @@
   {
     "date": "2026-09-10",
     "template": "q_head_to_head",
-    "source_key": "h2h:Boland-Warriors:List A"
+    "source_key": "h2h:Badgers-Knights:List A"
   },
   {
     "date": "2026-09-10",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Payton Coppin"
+    "source_key": "career_best_venue:E Conradie"
+  },
+  {
+    "date": "2026-09-11",
+    "template": "q_venue_record",
+    "source_key": "venue:Bloemfontein Oval"
+  },
+  {
+    "date": "2026-09-11",
+    "template": "q_player_record",
+    "source_key": "records/misc/json/Matches_Captained.json"
+  },
+  {
+    "date": "2026-09-11",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Dolphins-Dragons:List A"
+  },
+  {
+    "date": "2026-09-11",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Western Province:Largest Win by Runs:T20"
+  },
+  {
+    "date": "2026-09-11",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Simone Lourens"
   }
 ]

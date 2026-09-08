@@ -1,18 +1,52 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-07T08:12:08.761828Z",
+  "generated_at": "2026-09-08T03:46:55.167316Z",
   "questions": [
     {
-      "type": "reverse_record",
-      "question": "Heat set a database record (06/07 season, List A) with a value of 22. Which record is it?",
+      "type": "team_record_venue",
+      "question": "At which ground did Western Province record their 'Highest Total' (T20)?",
       "options": [
-        "Biggest Win by Runs",
-        "Lowest Team Total (all out or completed innings)",
-        "Highest Team Total",
-        "Most Wins"
+        "UP Main Oval",
+        "Defence Ground",
+        "Cambridge Academy",
+        "Wanderers"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Wanderers — highest total of 198, against Lions on 2024/11/17."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Dolphins or Tuskers?",
+      "options": [
+        "Tuskers",
+        "Dolphins"
       ],
       "answer_index": 1,
-      "explanation": "It's the record for 'Lowest Team Total (all out or completed innings)', held by Heat."
+      "explanation": "Dolphins lead 16-0 across 17 meetings (List A)."
+    },
+    {
+      "type": "curveball",
+      "question": "Who won CSA Women's Cricketer of the Year in the 2024/25 season?",
+      "options": [
+        "Nonkululeko Mlaba",
+        "Marizanne Kapp",
+        "Sune Luus",
+        "Dané van Niekerk"
+      ],
+      "answer_index": 0,
+      "explanation": "Nonkululeko Mlaba won it in 2024/25."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Polokwane Oval, who holds the record for 'Most Runs' (T20)?",
+      "options": [
+        "Robyn Dormehl",
+        "Khushi Mistry",
+        "Koketso Manyaga",
+        "Richelle Lambert"
+      ],
+      "answer_index": 1,
+      "explanation": "Khushi Mistry holds it with 144."
     },
     {
       "type": "player_record",
@@ -27,50 +61,16 @@
       "explanation": "Susan Benade holds it, with a total of 6."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Dragons or Boland?",
+      "type": "reverse_record",
+      "question": "Heat set a database record (06/07 season, List A) with a value of 22. Which record is it?",
       "options": [
-        "Boland",
-        "Dragons"
+        "Biggest Win by Runs",
+        "Lowest Team Total (all out or completed innings)",
+        "Highest Team Total",
+        "Most Wins"
       ],
       "answer_index": 1,
-      "explanation": "Dragons lead 5-3 across 10 meetings (List A)."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Wanderers, who holds the record for 'Most Runs' (T20)?",
-      "options": [
-        "Karabo Meso",
-        "Kirstie Thomson",
-        "Nonkhululeko Thabethe",
-        "Sunette Viljoen-Louw"
-      ],
-      "answer_index": 1,
-      "explanation": "Kirstie Thomson holds it with 488."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Western Province record their 'Highest Total' (T20)?",
-      "options": [
-        "The Vineyard",
-        "Sinovich Park",
-        "Wanderers",
-        "UFS 2 Oval"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Wanderers — highest total of 198, against Lions on 2024/11/17."
-    },
-    {
-      "type": "curveball",
-      "question": "Who won CSA Women's Cricketer of the Year in the 2024/25 season?",
-      "options": [
-        "Nonkululeko Mlaba",
-        "Marizanne Kapp",
-        "Sune Luus",
-        "Dané van Niekerk"
-      ],
-      "answer_index": 0,
-      "explanation": "Nonkululeko Mlaba won it in 2024/25."
+      "explanation": "It's the record for 'Lowest Team Total (all out or completed innings)', held by Heat."
     }
   ]
 }
