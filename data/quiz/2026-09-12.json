@@ -1,42 +1,18 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-09T03:51:37.909948Z",
+  "generated_at": "2026-09-09T08:04:21.380201Z",
   "questions": [
     {
       "type": "career_best_venue",
-      "question": "At which ground did N Njani record their career-best bowling figures (7-24, List A)?",
+      "question": "At which ground did Robin-Leigh Brooker record their career-best bowling figures (5-23, List A)?",
       "options": [
-        "Chatsworth Stadium",
-        "Westering High School",
-        "Khaya Majola Oval",
-        "St. George's Outer Oval"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Khaya Majola Oval, against Tuskers on 2017/02/25."
-    },
-    {
-      "type": "curveball",
-      "question": "\"Tuskers\" is the current name for which former provincial union?",
-      "options": [
-        "KwaZulu-Natal Coastal",
-        "KwaZulu-Natal Inland",
-        "Eastern Province",
-        "Mpumalanga"
+        "Country Club B Field",
+        "City Oval",
+        "CBC Oval",
+        "Recreation Ground"
       ],
       "answer_index": 1,
-      "explanation": "KwaZulu-Natal Inland was rebranded Tuskers (KwaZulu-Natal Coastal became the Dolphins)."
-    },
-    {
-      "type": "player_record",
-      "question": "Who holds the record for 'Fastest 100 (by balls)' in the 24/25 season (combined T20 + List A)?",
-      "options": [
-        "Diedre van Rensburg",
-        "Faye Tunnicliffe",
-        "Dané van Niekerk",
-        "Annerie Dercksen"
-      ],
-      "answer_index": 1,
-      "explanation": "Faye Tunnicliffe holds it, with a total of 63."
+      "explanation": "It was at City Oval, against Tuskers on 2013/11/10."
     },
     {
       "type": "reverse_record",
@@ -51,6 +27,28 @@
       "explanation": "It's the record for 'Most Fours', held by Tazmin Brits."
     },
     {
+      "type": "head_to_head",
+      "question": "In head-to-head T20 meetings, who has the edge, Dolphins or Badgers?",
+      "options": [
+        "Dolphins",
+        "Badgers"
+      ],
+      "answer_index": 0,
+      "explanation": "Dolphins lead 5-4 across 9 meetings (T20)."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Best Batting Average' (combined T20 + List A)?",
+      "options": [
+        "Tazmin Brits",
+        "Chloé Tryon",
+        "Mignon du Preez",
+        "Cri-Zelda Brits"
+      ],
+      "answer_index": 2,
+      "explanation": "Mignon du Preez holds it with 64.90."
+    },
+    {
       "type": "venue_record",
       "question": "At Recreation Ground, who holds the record for 'Most Matches' (T20)?",
       "options": [
@@ -63,14 +61,16 @@
       "explanation": "Micaela Andrews holds it with 26, a joint record shared with Jané Winster."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Dolphins or Badgers?",
+      "type": "curveball",
+      "question": "\"Tuskers\" is the current name for which former provincial union?",
       "options": [
-        "Dolphins",
-        "Badgers"
+        "KwaZulu-Natal Coastal",
+        "KwaZulu-Natal Inland",
+        "Eastern Province",
+        "Mpumalanga"
       ],
-      "answer_index": 0,
-      "explanation": "Dolphins lead 5-4 across 9 meetings (T20)."
+      "answer_index": 1,
+      "explanation": "KwaZulu-Natal Inland was rebranded Tuskers (KwaZulu-Natal Coastal became the Dolphins)."
     }
   ]
 }

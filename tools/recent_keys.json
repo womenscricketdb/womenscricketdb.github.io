@@ -177,17 +177,17 @@
   {
     "date": "2026-09-09",
     "template": "q_venue_record",
-    "source_key": "venue:Bloemfontein Oval"
+    "source_key": "venue:Newlands Stadium"
+  },
+  {
+    "date": "2026-09-09",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Most_5Wickets.json"
   },
   {
     "date": "2026-09-09",
     "template": "q_player_record",
     "source_key": "records/bowling/json/Best_Bowl_Performance.json"
-  },
-  {
-    "date": "2026-09-09",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/Most_Sixes.json"
   },
   {
     "date": "2026-09-09",
@@ -202,7 +202,7 @@
   {
     "date": "2026-09-10",
     "template": "q_player_record",
-    "source_key": "records/batting/json/Fastest_50.json"
+    "source_key": "records/bowling/json/Most_Wickets.json"
   },
   {
     "date": "2026-09-10",
@@ -232,7 +232,7 @@
   {
     "date": "2026-09-11",
     "template": "q_player_record",
-    "source_key": "records/misc/json/Matches_Captained.json"
+    "source_key": "records/misc/json/Most_Matches.json"
   },
   {
     "date": "2026-09-11",
@@ -267,11 +267,11 @@
   {
     "date": "2026-09-12",
     "template": "q_player_record",
-    "source_key": "records/batting/json/Fastest_100.json"
+    "source_key": "records/batting/json/Batting_Average.json"
   },
   {
     "date": "2026-09-12",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:N Njani"
+    "source_key": "career_best_venue:Robin-Leigh Brooker"
   }
 ]
