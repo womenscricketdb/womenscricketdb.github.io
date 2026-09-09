@@ -76,6 +76,7 @@ const WCA_TABLE = (() => {
             // hidden there, regardless of showStampColumns.
             if (stamp.hasSeason && !opts.seasonLeaderboard) hiddenKeys.add("Season");
             if (stamp.tierKey) hiddenKeys.add(stamp.tierKey);
+            if (stamp.milestoneKey) hiddenKeys.add(stamp.milestoneKey);
         }
         // "Career Span" is a real, correct column in Career Totals mode
         // (a player's whole first-to-last-match range), but in
@@ -212,6 +213,7 @@ const WCA_TABLE = (() => {
                 const tierLabel = WCA.friendlyLabel(stamp.tierKey);
                 filterDefs.push({ key: stamp.tierKey, label: tierLabel });
             }
+            if (stamp.milestoneKey) filterDefs.push({ key: stamp.milestoneKey, label: "Milestone" });
         }
 
         const numericCols = (opts.enableThresholdFilter && !opts.noFilters)
@@ -232,12 +234,41 @@ const WCA_TABLE = (() => {
         // which aborted every render() call still queued after this one.
         const filterValues = new Map();
         filterDefs.forEach(f => {
-            const values = Array.from(new Set(rows.map(r => r[f.key]).filter(v => v !== undefined && v !== null && v !== ""))).sort();
+            const values = Array.from(new Set(rows.map(r => r[f.key]).filter(v => v !== undefined && v !== null && v !== "")));
+            // Format/Season/Tier values are strings that happen to already
+            // sort correctly as text ("2005/06" before "2006/07", etc.).
+            // Milestone values ("500", "1000", "1500"...) don't - plain
+            // string sort puts "1000" before "500" - so any filter column
+            // whose values are ALL numeric sorts numerically instead.
+            const allNumeric = values.every(v => v !== "" && !isNaN(Number(v)));
+            values.sort(allNumeric ? (a, b) => Number(a) - Number(b) : undefined);
             filterValues.set(f.key, values);
         });
         const activeFilterDefs = filterDefs.filter(f => filterValues.get(f.key).length > 0);
         filterDefs.length = 0;
         filterDefs.push(...activeFilterDefs);
+
+        // Each select's default is picked to actually agree with the ones
+        // decided before it (Format, then Season, then Tier, then
+        // Milestone) instead of independently defaulting to its own
+        // globally-first value. Two independent "first values" can easily
+        // describe a combination that matches zero rows - e.g. Format
+        // defaults to OVERALL and Milestone's global-smallest value is 500,
+        // but 500 only ever occurs on T20 rows, never OVERALL ones, so that
+        // pairing opened on an empty table. Narrowing the candidate rows as
+        // we go keeps every default combination non-empty by construction.
+        const filterDefaults = new Map();
+        let defaultScopeRows = rows;
+        filterDefs.forEach(f => {
+            const inScope = Array.from(new Set(defaultScopeRows.map(r => r[f.key]).filter(v => v !== undefined && v !== null && v !== "")));
+            const allNumeric = inScope.every(v => v !== "" && !isNaN(Number(v)));
+            inScope.sort(allNumeric ? (a, b) => Number(a) - Number(b) : undefined);
+            const fallback = filterValues.get(f.key);
+            const scoped = inScope.length ? inScope : fallback;
+            const defaultVal = scoped.includes("OVERALL") ? "OVERALL" : scoped[0];
+            filterDefaults.set(f.key, defaultVal);
+            defaultScopeRows = defaultScopeRows.filter(r => r[f.key] === defaultVal);
+        });
 
         let filterLineHtml = "";
         if (filterDefs.length || numericCols.length) {
@@ -247,7 +278,7 @@ const WCA_TABLE = (() => {
                 // as a real, always-present value serving that same role,
                 // so every filter always has a concrete value selected from
                 // first render rather than an unfiltered/blank state.
-                const defaultVal = values.includes("OVERALL") ? "OVERALL" : values[0];
+                const defaultVal = filterDefaults.get(f.key);
                 const options = values.map(v => `<option value="${WCA.escapeHtml(v)}" ${v === defaultVal ? "selected" : ""}>${WCA.escapeHtml(WCA.displayValue(v))}</option>`).join("");
                 // The Opposition Tier filter gets an info icon explaining
                 // "proxy" tiers (seasons with no official division use a

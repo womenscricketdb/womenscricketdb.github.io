@@ -352,13 +352,22 @@ const WCA = (() => {
     // ---------------------------------------------------------------------
 
     function detectStampColumns(rows) {
-        if (!rows || !rows.length) return { hasFormat: false, hasSeason: false, tierKey: null };
+        if (!rows || !rows.length) return { hasFormat: false, hasSeason: false, tierKey: null, milestoneKey: null };
         const keys = Object.keys(rows[0]);
         const tierKey = keys.find(k => /_Tier$/.test(k)) || null;
+        // Runs_Milestones / Wickets_Milestones are the only record files
+        // with a "Milestone" column (the threshold each row's Fastest-to
+        // performance reached, e.g. 1000/2000 runs, 50/100 wickets) - every
+        // step gets dumped into one table otherwise, treating it like
+        // Format/Season/Tier (filterable, hidden from the visible columns)
+        // lets a viewer isolate one threshold at a time with zero new
+        // filter-line/DataTables plumbing.
+        const milestoneKey = keys.includes("Milestone") ? "Milestone" : null;
         return {
             hasFormat: keys.includes("Format"),
             hasSeason: keys.includes("Season"),
             tierKey,
+            milestoneKey,
         };
     }
 
