@@ -227,7 +227,7 @@
   {
     "date": "2026-09-11",
     "template": "q_venue_record",
-    "source_key": "venue:Wanderers"
+    "source_key": "venue:Bloemfontein Oval"
   },
   {
     "date": "2026-09-11",
@@ -262,7 +262,7 @@
   {
     "date": "2026-09-12",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Kimberley Oval"
   },
   {
     "date": "2026-09-12",
@@ -273,5 +273,30 @@
     "date": "2026-09-12",
     "template": "q_career_best_venue",
     "source_key": "career_best_venue:Robin-Leigh Brooker"
+  },
+  {
+    "date": "2026-09-13",
+    "template": "q_venue_record",
+    "source_key": "venue:Khaya Majola Oval"
+  },
+  {
+    "date": "2026-09-13",
+    "template": "q_reverse_record",
+    "source_key": "records/batting/json/50Plus_Scores.json"
+  },
+  {
+    "date": "2026-09-13",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Jenna Bartholomew"
+  },
+  {
+    "date": "2026-09-13",
+    "template": "q_team_record",
+    "source_key": "records/team/json/Win_By_Runs.json"
+  },
+  {
+    "date": "2026-09-13",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/100Plus_Scores.json"
   }
 ]
