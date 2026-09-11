@@ -1,52 +1,28 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T03:47:19.481283Z",
+  "generated_at": "2026-09-11T07:59:14.390229Z",
   "questions": [
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Western Province record their 'Largest Win by Runs' (T20)?",
-      "options": [
-        "Old Greys Sports Ground",
-        "NWU Main Oval",
-        "Recreation Ground",
-        "UP 2 Oval"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Recreation Ground — largest win by runs of 109, against Badgers on 2024/12/15."
-    },
-    {
-      "type": "player_record",
-      "question": "Who holds the record for 'Most Matches Played' (T20)?",
-      "options": [
-        "Delmi Tucker",
-        "Tatum le Roux",
-        "Paulinah Mashishi",
-        "Yolandi Potgieter"
-      ],
-      "answer_index": 2,
-      "explanation": "Paulinah Mashishi holds it, with a total of 67, a joint record shared with Robyn Searle."
-    },
-    {
       "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Dolphins or Dragons?",
+      "question": "In head-to-head List A meetings, who has the edge, Cobras or Dolphins?",
       "options": [
-        "Dragons",
-        "Dolphins"
+        "Dolphins",
+        "Cobras"
       ],
       "answer_index": 1,
-      "explanation": "Dolphins lead 18-6 across 26 meetings (List A)."
+      "explanation": "Cobras lead 12-4 across 19 meetings (List A)."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Simone Lourens record their career-best innings (102, List A)?",
+      "type": "team_record_venue",
+      "question": "At which ground did Iinyathi record their 'Largest Win by Runs' (T20)?",
       "options": [
-        "Sinovich Park",
-        "Bloemfontein Oval",
-        "Wanderers",
-        "Centurion Park"
+        "Paarl Cricket Club Ground",
+        "Yorkshire Cricket Club Ground",
+        "Hammanskraal Oval",
+        "Khaya Majola Oval"
       ],
-      "answer_index": 2,
-      "explanation": "It was at Wanderers, against Lions on 2023/10/14."
+      "answer_index": 3,
+      "explanation": "It was at Khaya Majola Oval — largest win by runs of 129, against Kei on 2019/10/27."
     },
     {
       "type": "curveball",
@@ -61,16 +37,40 @@
       "explanation": "Eastern Province was rebranded Warriors."
     },
     {
-      "type": "venue_record",
-      "question": "At Kimberley Oval, who holds the record for 'Most Wickets' (T20)?",
+      "type": "career_best_venue",
+      "question": "At which ground did Tumi Sekhukhune record their career-best innings (63*, List A)?",
       "options": [
-        "Claudia Velskoen",
-        "Smirvodia Vaarland",
-        "Michaela van Vuuren",
-        "Susan Benade"
+        "Polokwane Oval",
+        "Willowmoore Park Main Oval",
+        "St Andrews A",
+        "Ingwenyama Ground"
+      ],
+      "answer_index": 1,
+      "explanation": "It was at Willowmoore Park Main Oval, against Rhinos on 2016/01/23."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Polokwane Oval, who holds the record for 'Most Wickets' (T20)?",
+      "options": [
+        "Itumeleng Manyaga",
+        "Khushi Mistry",
+        "Thembi Mokgohloa",
+        "Geraldine Mashimbyi"
       ],
       "answer_index": 2,
-      "explanation": "Michaela van Vuuren holds it with 16."
+      "explanation": "Thembi Mokgohloa holds it with 11."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Wickets' in the 15/16 season (List A)?",
+      "options": [
+        "Alicia Smith",
+        "Robyn Appels",
+        "Elriesa Theunissen",
+        "Yolandi Potgieter"
+      ],
+      "answer_index": 3,
+      "explanation": "Yolandi Potgieter holds it, with a total of 19."
     }
   ]
 }
