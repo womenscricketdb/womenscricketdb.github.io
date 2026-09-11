@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-11T03:47:19.865811Z",
+  "questions": [
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Best Batting Average' in the 22/23 season (T20)?",
+      "options": [
+        "Tazmin Brits",
+        "Nomzamo Shabane",
+        "Delmari Hoffman",
+        "Nadine de Klerk"
+      ],
+      "answer_index": 0,
+      "explanation": "Tazmin Brits holds it with 96.50."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Kei record their 'Highest Total' (T20)?",
+      "options": [
+        "St. George's Outer Oval",
+        "Westering High School",
+        "Kimberley Oval",
+        "Cambridge High School"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Kimberley Oval — highest total of 103, against Heat on 2025/10/26."
+    },
+    {
+      "type": "curveball",
+      "question": "Which player is the only one in this database's history to score 200+ runs AND take 3+ wickets in the same match?",
+      "options": [
+        "Susan Benade",
+        "Jana Nell",
+        "Tazmin Brits",
+        "Marizanne Kapp"
+      ],
+      "answer_index": 0,
+      "explanation": "Susan Benade is the sole member of the 200-run/3-wicket club, achieving it in a single match against Kei on 10 February 2018 (212 runs, 3 for 26)."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Sibabalwe Takatshana record their career-best bowling figures (3-44, List A)?",
+      "options": [
+        "Bloemfontein Oval",
+        "Recreation Ground",
+        "Khaya Majola Oval",
+        "Pearson High School"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Khaya Majola Oval, against Badgers on 2017/11/25."
+    },
+    {
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Highest Team Total' in the 16/17 season (T20)?",
+      "options": [
+        "Heat",
+        "Cobras",
+        "Titans",
+        "Badgers"
+      ],
+      "answer_index": 2,
+      "explanation": "Titans — 176."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Kingsmead stadium, who holds the record for 'Most Runs' (List A)?",
+      "options": [
+        "Chloé Tryon",
+        "Dinesha Devnarain",
+        "Alexandra Candler",
+        "Nondumiso Shangase"
+      ],
+      "answer_index": 2,
+      "explanation": "Alexandra Candler holds it with 436."
+    }
+  ]
+}
