@@ -277,7 +277,7 @@
   {
     "date": "2026-09-13",
     "template": "q_venue_record",
-    "source_key": "venue:Buffalo Park"
+    "source_key": "venue:Wanderers"
   },
   {
     "date": "2026-09-13",
@@ -307,7 +307,7 @@
   {
     "date": "2026-09-14",
     "template": "q_venue_record",
-    "source_key": "venue:Bloemfontein Oval"
+    "source_key": "venue:Boland Park, Paarl"
   },
   {
     "date": "2026-09-14",
@@ -348,5 +348,30 @@
     "date": "2026-09-15",
     "template": "q_head_to_head",
     "source_key": "h2h:Kei-Warriors:List A"
+  },
+  {
+    "date": "2026-09-16",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Merece Mackier"
+  },
+  {
+    "date": "2026-09-16",
+    "template": "q_player_record",
+    "source_key": "records/misc/json/Most_Matches.json"
+  },
+  {
+    "date": "2026-09-16",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Fours.json"
+  },
+  {
+    "date": "2026-09-16",
+    "template": "q_reverse_record",
+    "source_key": "records/batting/json/Most_Sixes.json"
+  },
+  {
+    "date": "2026-09-16",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Limpopo Lillies-Lions:List A"
   }
 ]
