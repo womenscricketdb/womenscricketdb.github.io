@@ -377,7 +377,7 @@
   {
     "date": "2026-09-17",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Kimberley Oval"
   },
   {
     "date": "2026-09-17",
@@ -398,5 +398,30 @@
     "date": "2026-09-17",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Kei:Highest Total:List A"
+  },
+  {
+    "date": "2026-09-18",
+    "template": "q_venue_record",
+    "source_key": "venue:Recreation Ground"
+  },
+  {
+    "date": "2026-09-18",
+    "template": "q_reverse_record",
+    "source_key": "records/team/json/Win_By_Runs.json"
+  },
+  {
+    "date": "2026-09-18",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Lerato Kotokoane"
+  },
+  {
+    "date": "2026-09-18",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Badgers:Highest Total:T20"
+  },
+  {
+    "date": "2026-09-18",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Iinyathi-Kei:T20"
   }
 ]
