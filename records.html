@@ -471,6 +471,13 @@
             linkMatchDate: true,
             matchDateLink: { index: matchLookupIndex || {} },
             seasonLeaderboard: seasonLeaderboardMode,
+            // Safe site-wide EXCEPT for the two career-point peak/trough
+            // records (Peak_Batting_Average, Best_Career_Bowling_Average),
+            // which opt out via records-manifest.js's noThresholdFilter -
+            // they're single search-selected rows, not complete aggregates,
+            // so trim_to_necessary_rows's guarantee doesn't cover them. See
+            // that manifest entry for the full reasoning.
+            enableThresholdFilter: !(typeMeta && typeMeta.noThresholdFilter),
             // Type-specific filters beyond the generic Format/Season/Tier
             // set - currently just Milestone, on the two milestone-crossing
             // types (see records-manifest.js). Passed straight through;
@@ -486,6 +493,14 @@
             defaultSort: (seasonLeaderboardMode && typeMeta && typeMeta.sortCol)
                 ? { col: typeMeta.sortCol, dir: typeMeta.lowerIsBetter ? "asc" : "desc" }
                 : undefined,
+            // A "Minimum: X >= value" filter on the column the table is
+            // already ranked by is redundant at best (higher-is-better)
+            // and actively backwards at worst (lower-is-better - e.g.
+            // "Minimum Bowling Average" would surface WORSE bowlers as you
+            // raise it), so it's excluded from the threshold picker's
+            // column choices entirely rather than left in as a confusing
+            // option.
+            thresholdExcludeCol: typeMeta && typeMeta.sortCol,
         });
 
         // The Format/Season selects are rebuilt fresh by WCA_TABLE.render

@@ -69,6 +69,14 @@ const WCA_TABLE = (() => {
     function columnsFromRows(rows, stamp, opts) {
         if (!rows || !rows.length) return [];
         const hiddenKeys = new Set();
+        // Always hidden, regardless of showStampColumns - these aren't a
+        // real stat, just a clean number consolidate.py derived from a
+        // combined display string purely so the threshold filter has
+        // something genuine to work with (see FRIENDLY_LABELS in
+        // data-loader.js for what shows in the filter dropdown instead).
+        for (const key of Object.keys(rows[0])) {
+            if (key.endsWith("_FilterOnly")) hiddenKeys.add(key);
+        }
         if (!opts.showStampColumns) {
             if (stamp.hasFormat) hiddenKeys.add("Format");
             // In seasonLeaderboard mode, Season is the whole point of the
@@ -77,6 +85,7 @@ const WCA_TABLE = (() => {
             if (stamp.hasSeason && !opts.seasonLeaderboard) hiddenKeys.add("Season");
             if (stamp.tierKey) hiddenKeys.add(stamp.tierKey);
             if (stamp.milestoneKey) hiddenKeys.add(stamp.milestoneKey);
+            if (stamp.floorKey) hiddenKeys.add(stamp.floorKey);
         }
         // "Career Span" is a real, correct column in Career Totals mode
         // (a player's whole first-to-last-match range), but in
@@ -127,6 +136,35 @@ const WCA_TABLE = (() => {
         return isNaN(parsed) ? val : parsed;
     }
 
+    // Deliberately stricter than sortValue() below - sortValue reads a
+    // leading run of digits off a string (parseFloat-style), which is
+    // fine for clicking a column header to sort "23/24" or "2007 - 2026"
+    // roughly chronologically, but wrong for deciding whether a column
+    // is a genuine candidate for the "Minimum: X >= value" filter.
+    // sortValue("Season", "23/24") = 23, so a lenient check would offer
+    // Season as a filter column entirely by accident - "Minimum: Season
+    // >= 10" doesn't mean anything close to what it looks like, and every
+    // OVERALL-combined row would silently vanish (it can't be parsed at
+    // all). Same failure hits Date, Career Span, and any "8-2"/"1ct, 4st"
+    // -style combined-figure column not explicitly special-cased below.
+    // Requiring the ENTIRE cleaned value to match, not just a prefix,
+    // excludes all of those while still passing every genuine number
+    // (including not-out asterisks, comma thousands-separators, and BBI
+    // bowling figures, which are complete, self-contained transforms with
+    // nothing left over afterward).
+    function isFullyNumericValue(key, raw) {
+        const val = String(raw).trim();
+        if (val === "" || val === "-") return false;
+        if (/(^BBI$|Best.?Bowl)/i.test(key) && val.includes("/")) {
+            const parts = val.split("/");
+            if (parts.length === 2 && /^\d+$/.test(parts[0]) && /^\d+$/.test(parts[1])) return true;
+        }
+        if (val.includes("*")) {
+            return /^[+-]?\d+(\.\d+)?$/.test(val.replace(/\*/g, "").replace(/,/g, ""));
+        }
+        return /^[+-]?\d+(\.\d+)?$/.test(val.replace(/,/g, ""));
+    }
+
     function isNumericColumn(key, rows) {
         if (LINK_KEYS[key]) return false;
         let numeric = 0, total = 0;
@@ -134,8 +172,7 @@ const WCA_TABLE = (() => {
             const v = row[key];
             if (v === null || v === undefined || v === "" || v === "-") continue;
             total += 1;
-            const parsed = sortValue(key, v);
-            if (typeof parsed === "number") numeric += 1;
+            if (isFullyNumericValue(key, v)) numeric += 1;
         }
         return total > 0 && numeric / total > 0.6;
     }
@@ -214,10 +251,16 @@ const WCA_TABLE = (() => {
                 filterDefs.push({ key: stamp.tierKey, label: tierLabel });
             }
             if (stamp.milestoneKey) filterDefs.push({ key: stamp.milestoneKey, label: "Milestone" });
+            if (stamp.floorKey) filterDefs.push({ key: stamp.floorKey, label: "Minimum Innings" });
         }
 
+        // Excludes the column the table is already ranked by (see
+        // records.html's thresholdExcludeCol) - offering "Minimum: X >=
+        // value" on that same column is redundant when higher is better
+        // and actively backwards when lower is better (it would surface
+        // worse-and-worse entries as the bar is raised).
         const numericCols = (opts.enableThresholdFilter && !opts.noFilters)
-            ? cols.filter(c => isNumericColumn(c.key, rows))
+            ? cols.filter(c => c.key !== opts.thresholdExcludeCol && isNumericColumn(c.key, rows))
             : [];
 
         // A filterDef's column can exist in the schema (detectStampColumns
@@ -309,9 +352,22 @@ const WCA_TABLE = (() => {
             filterLineHtml = `<p class="wca-filter-line">${segments.join(" <span class=\"wca-filter-line-sep\">·</span> ")}</p>`;
         }
 
+        // Records tables backed by trim_to_necessary_rows (consolidate.py)
+        // are only PROVEN correct up to rank 25 of whatever filter is
+        // active - the trimmed data beyond that is a gap-riddled leftover
+        // from OTHER filter combinations, not a real rank-26+ leaderboard.
+        // So wherever enableThresholdFilter is on, the length-changer ("l",
+        // Show 25/50/100/500) and pagination ("p", Next/Previous) controls
+        // must be off too, in the same place, rather than as a separately
+        // toggleable option a future change could enable without the
+        // other and silently reintroduce exactly this bug.
+        const hardCapTop25 = opts.enableThresholdFilter && !opts.noFilters;
+
         const dtDom = opts.compact
             ? "t"
-            : "<'d-flex flex-wrap justify-content-between align-items-center mb-3'lf>rt<'d-flex flex-wrap justify-content-between align-items-center mt-2'ip>";
+            : hardCapTop25
+                ? "<'d-flex flex-wrap justify-content-between align-items-center mb-3'f>rt"
+                : "<'d-flex flex-wrap justify-content-between align-items-center mb-3'lf>rt<'d-flex flex-wrap justify-content-between align-items-center mt-2'ip>";
 
         container.innerHTML = `
         <div class="wca-table-container">
@@ -332,7 +388,7 @@ const WCA_TABLE = (() => {
             container.querySelectorAll('[data-bs-toggle="tooltip"]').forEach(el => new bootstrap.Tooltip(el));
         }
 
-        const pageLength = opts.pageLength || (opts.compact ? rows.length : 25);
+        const pageLength = hardCapTop25 ? 25 : (opts.pageLength || (opts.compact ? rows.length : 25));
 
         const dt = $(`#${tableId}`).DataTable({
             data: rows,
@@ -374,9 +430,9 @@ const WCA_TABLE = (() => {
             searching: true, // must stay on even in compact mode, it gates the whole
                               // custom-filter pipeline (Format/Season/threshold), not just
                               // the visible search box, which is hidden via the dom string instead
-            info: !opts.compact,
+            info: !opts.compact && !hardCapTop25,
             pageLength: pageLength,
-            lengthMenu: [25, 50, 100, 500],
+            lengthMenu: hardCapTop25 ? undefined : [25, 50, 100, 500],
             order: (() => {
                 if (!opts.defaultSort) return [];
                 const idx = cols.findIndex(c => c.key === opts.defaultSort.col);

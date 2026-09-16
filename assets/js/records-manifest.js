@@ -34,6 +34,16 @@
    "Use of Variable" column (e.g. Best_Economy checks Sum(Overs_Calculated),
    Best_Inns_Economy checks Sum(Balls_Bowled)), overs bowled at the
    season/career grain, balls bowled at the single-innings grain.
+
+   `noThresholdFilter: true` opts a type out of the Records page's
+   "Minimum: <column> >= value" filter even though enableThresholdFilter is
+   on site-wide. Only correct for a type whose rows are each a single
+   search-selected best/worst point (currently: Peak_Batting_Average,
+   Best_Career_Bowling_Average) rather than a complete aggregate - raising
+   the bar on a search-selected row doesn't re-run the search, it just
+   hides the row once its own fixed value falls short, even when a real,
+   later point in that player's career would still qualify. Most types
+   don't need this: their rows stay true at any threshold.
    ========================================================================== */
 
 const WCA_RECORD_SECTIONS = {
@@ -47,10 +57,28 @@ const WCA_RECORD_SECTIONS = {
               note: "Showing every player to reach the selected runs milestone, fewest innings first. Milestones step every 1000 runs in List A and Overall, every 500 runs in T20." },
             { file: "Shortest_Runs_Span", grain: "career", label: "Shortest Runs Span", sortCol: "Innings", lowerIsBetter: true,
               qualifier: null,
-              note: "The fewest CONSECUTIVE innings in which a player has ever put together 1000 runs (500 in T20) - a hot streak that can start anywhere in a career, not a from-debut pace like Fastest to Run Milestones above. Showing each player's single best streak." },
+              note: "Fewest consecutive innings to reach 1000 runs (500 in T20), starting anywhere in a career. Showing each player's single best streak." },
             { file: "Batting_Average", grain: "career", label: "Batting Average", sortCol: "Batting Average",
               qualifier: { unit: "innings", seasonal: { "List A": 5, "T20": 3 }, allTime: 20 },
               note: "Showing the top 25 for the selected filters." },
+            { file: "Peak_Batting_Average", grain: "career", label: "Peak Batting Average", sortCol: "Batting Average",
+              qualifier: null,
+              // Each row is the ONE cumulative-average point a player's
+              // career ever peaked at - not a complete aggregate like its
+              // neighbours on this page. A "Minimum: Innings >= X" filter
+              // can't safely narrow this the way it can for e.g. Most_Runs:
+              // raising X doesn't re-run the peak-search with that floor,
+              // it just checks the single already-selected row against X
+              // and hides her if her peak happened before reaching it -
+              // even when a real, later, still-qualifying peak exists in
+              // her career that was simply never written to this file.
+              // trim_to_necessary_rows (consolidate.py) doesn't fix this
+              // either, since it trims complete aggregates, not searches -
+              // there's nothing here to safely trim TO. Needs pre-computed
+              // floor variants (a discrete pick, not a free-value filter)
+              // before this can turn on; don't flip it on without that.
+              noThresholdFilter: true,
+              note: "Showing each player's single best peak at the selected Minimum Innings floor." },
             { file: "Highest_Score", grain: "innings", label: "Highest Individual Score",
               qualifier: { unit: "runs", seasonal: { "List A": 100, "T20": 50 }, allTime: { "List A": 150, "T20": 50 }, innings: true },
               note: "Showing the top 25 for the selected filters." },
@@ -93,10 +121,16 @@ const WCA_RECORD_SECTIONS = {
               note: "Showing every player to reach the selected wickets milestone, fewest innings first. Milestones step every 50 wickets, all formats." },
             { file: "Shortest_Wickets_Span", grain: "career", label: "Shortest Wickets Span", sortCol: "Innings", lowerIsBetter: true,
               qualifier: null,
-              note: "The fewest CONSECUTIVE innings in which a player has ever taken 50 wickets - a hot streak that can start anywhere in a career, not a from-debut pace like Fastest to Wicket Milestones above. Showing each player's single best streak." },
+              note: "Fewest consecutive innings to take 50 wickets, starting anywhere in a career. Showing each player's single best streak." },
             { file: "Best_Bowl_Average", grain: "career", label: "Best Bowling Average", sortCol: "Bowling Average", lowerIsBetter: true,
               qualifier: { unit: "wickets", seasonal: { "List A": 10, "T20": 5 }, allTime: 40 },
               note: "Showing the top 25 for the selected filters." },
+            { file: "Best_Career_Bowling_Average", grain: "career", label: "Peak Bowling Average", sortCol: "Bowling Average", lowerIsBetter: true,
+              qualifier: null,
+              // Inverse of Peak_Batting_Average above - same reason, same
+              // fix needed before this can safely turn on. See that entry.
+              noThresholdFilter: true,
+              note: "Showing each player's single best trough at the selected Minimum Innings floor." },
             { file: "Best_Economy", grain: "career", label: "Best Bowling Economy", sortCol: "Bowling Economy", lowerIsBetter: true,
               qualifier: { unit: "overs bowled", seasonal: { "List A": 30, "T20": 12 }, allTime: 50 },
               note: "Showing the top 25 for the selected filters." },
@@ -138,6 +172,10 @@ const WCA_RECORD_SECTIONS = {
             { file: "Matches_Captained", grain: "career", label: "Matches Captained", sortCol: "Matches Captained", qualifier: null, note: "Showing the top 25 for the selected filters." },
             { file: "Most_Matches_1Team", grain: "career", label: "Most Matches for a Team", sortCol: "Matches", qualifier: null, note: "Showing the top 25 for the selected filters." },
             { file: "Most_TeamsPlayedFor", grain: "career", label: "Most Teams Played For", sortCol: "Team Count", qualifier: null, note: "Showing the top 25 for the selected filters." },
+            // Player-grain: how many Division 1 titles a given player has
+            // been part of. Shares a file name with team's Most_Titles
+            // below (different folder, different data - a team's title
+            // count, not a player's) - not a duplicate, don't merge.
             { file: "Most_Titles", grain: "career", label: "Most Division 1 Titles", sortCol: "Titles", qualifier: null, note: "Showing the top 25 for the selected filters. Division 1 only - Division 2 is promotion-based, not a title." },
         ],
     },
@@ -155,6 +193,8 @@ const WCA_RECORD_SECTIONS = {
         icon: "bi-shield-fill",
         types: [
             { file: "Most_Wins", grain: "career", label: "Most Wins", sortCol: "Wins", qualifier: null, note: "Showing all teams." },
+            // Team-grain counterpart to misc's Most_Titles above - see
+            // that entry's comment.
             { file: "Most_Titles", grain: "career", label: "Most Division 1 Titles", sortCol: "Titles", qualifier: null, note: "Showing every team with at least one Division 1 title. Division 2 is promotion-based, not a title." },
             { file: "Highest_Total", grain: "innings", label: "Highest Total", qualifier: null, note: "Showing the top 25 for the selected filters." },
             { file: "Lowest_Total", grain: "innings", label: "Lowest Total", qualifier: null, note: "Showing the top 25 for the selected filters." },

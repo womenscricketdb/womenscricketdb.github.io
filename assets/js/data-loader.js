@@ -352,7 +352,7 @@ const WCA = (() => {
     // ---------------------------------------------------------------------
 
     function detectStampColumns(rows) {
-        if (!rows || !rows.length) return { hasFormat: false, hasSeason: false, tierKey: null, milestoneKey: null };
+        if (!rows || !rows.length) return { hasFormat: false, hasSeason: false, tierKey: null, milestoneKey: null, floorKey: null };
         const keys = Object.keys(rows[0]);
         const tierKey = keys.find(k => /_Tier$/.test(k)) || null;
         // Runs_Milestones / Wickets_Milestones are the only record files
@@ -363,11 +363,24 @@ const WCA = (() => {
         // lets a viewer isolate one threshold at a time with zero new
         // filter-line/DataTables plumbing.
         const milestoneKey = keys.includes("Milestone") ? "Milestone" : null;
+        // Peak_Batting_Average / Best_Career_Bowling_Average are the only
+        // files with a "Min_Innings" column - each row is a single
+        // search-selected career peak/trough (not a complete aggregate), so
+        // a free-value "Minimum: X >= value" filter can't safely narrow it
+        // (see records-manifest.js's noThresholdFilter) - the underlying
+        // search has to be genuinely re-run per floor, which consolidate.py
+        // now does for a small fixed set of floors (5/10/15/20 innings),
+        // written as separate rows. Treating Min_Innings the same way as
+        // Format/Season/Tier/Milestone (a filterable stamp column, hidden
+        // from the visible columns) exposes that pre-computed choice as an
+        // ordinary select instead of a free-value control.
+        const floorKey = keys.includes("Min_Innings") ? "Min_Innings" : null;
         return {
             hasFormat: keys.includes("Format"),
             hasSeason: keys.includes("Season"),
             tierKey,
             milestoneKey,
+            floorKey,
         };
     }
 
@@ -380,6 +393,21 @@ const WCA = (() => {
         "Part_Opposition_Tier": "Opposition Tier",
         "Strike-Rate": "Strike Rate",
         "BBI": "Best Bowling (Innings)",
+        // Columns consolidate.py derives from a combined display string
+        // (e.g. "8-2" Bowling Figures, "1ct, 4st" Dismissals) purely so
+        // there's a genuine number to offer in the "Minimum: X >= value"
+        // filter - the combined string itself fails the strict numeric
+        // check (isFullyNumericValue above) on purpose, since a partial
+        // parse of it would be misleading. Hidden from the visible table
+        // via the _FilterOnly suffix (see hiddenKeys in table-render.js);
+        // these labels are what shows in the filter dropdown instead of
+        // the raw key.
+        "Wickets_FilterOnly": "Wickets",
+        "RunsConceded_FilterOnly": "Runs Conceded",
+        "Catches_FilterOnly": "Catches",
+        "Stumpings_FilterOnly": "Stumpings",
+        "TotalDismissals_FilterOnly": "Total Dismissals",
+        "Margin_FilterOnly": "Margin",
         // Cosmetic overrides for typos/awkward phrasing already baked into
         // the exported data, fixed here at display time rather than in
         // the export, so this survives a re-export without needing to be
