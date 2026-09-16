@@ -1,7 +1,19 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-15T08:36:07.396042Z",
+  "generated_at": "2026-09-16T04:02:20.064229Z",
   "questions": [
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Fastest 50 (by balls)' in the 08/09 season (List A)?",
+      "options": [
+        "Shandré Fritz",
+        "Claire Terblanche",
+        "Susan Benade",
+        "Kirstie Thomson"
+      ],
+      "answer_index": 0,
+      "explanation": "Shandré Fritz holds it, with a total of 49."
+    },
     {
       "type": "curveball",
       "question": "South Africa Women played their first ODI in August 1997, 25 years after their last Test before an extended absence from international cricket. Who was the opponent, and where was it played?",
@@ -15,40 +27,14 @@
       "explanation": "South Africa's first ODI after readmission to international cricket was against Ireland at Stormont, Belfast, on 5 August 1997."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Kei record their 'Highest Total' (List A)?",
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Badgers or Cobras?",
       "options": [
-        "Fichardtpark",
-        "Kimberley Oval",
-        "SU Main Oval",
-        "St. Andrews Vossie"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Kimberley Oval — highest total of 174, against Heat on 2018/02/10."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Bloemfontein Oval, who holds the record for 'Most Runs' (List A)?",
-      "options": [
-        "Izel Cilliers",
-        "Yolandi Potgieter",
-        "Mianè Smit",
-        "Gezelle Jansen van Rensburg"
-      ],
-      "answer_index": 1,
-      "explanation": "Yolandi Potgieter holds it with 731."
-    },
-    {
-      "type": "player_record",
-      "question": "Who holds the record for 'Fastest 50 (by balls)' in the 08/09 season (List A)?",
-      "options": [
-        "Shandré Fritz",
-        "Claire Terblanche",
-        "Susan Benade",
-        "Kirstie Thomson"
+        "Cobras",
+        "Badgers"
       ],
       "answer_index": 0,
-      "explanation": "Shandré Fritz holds it, with a total of 49."
+      "explanation": "Cobras lead 19-3 across 23 meetings (List A)."
     },
     {
       "type": "player_record",
@@ -63,14 +49,28 @@
       "explanation": "Chris-Mari Bezuidenhout holds it, with a total of 17."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Badgers or Cobras?",
+      "type": "team_record_venue",
+      "question": "At which ground did Tuskers record their 'Largest Win by Runs' (T20)?",
       "options": [
-        "Cobras",
-        "Badgers"
+        "Landau Rec Oval",
+        "Polokwane Oval",
+        "Varsity Oval 2",
+        "Kingsmead stadium"
       ],
-      "answer_index": 0,
-      "explanation": "Cobras lead 19-3 across 23 meetings (List A)."
+      "answer_index": 1,
+      "explanation": "It was at Polokwane Oval — largest win by runs of 30, against Limpopo Lillies on 2022/03/13."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Bloemfontein Oval, who holds the record for 'Most Runs' (List A)?",
+      "options": [
+        "Izel Cilliers",
+        "Yolandi Potgieter",
+        "Mianè Smit",
+        "Gezelle Jansen van Rensburg"
+      ],
+      "answer_index": 1,
+      "explanation": "Yolandi Potgieter holds it with 731."
     }
   ]
 }
