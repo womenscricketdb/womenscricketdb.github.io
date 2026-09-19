@@ -406,23 +406,23 @@
   },
   {
     "date": "2026-09-19",
+    "template": "q_player_record",
+    "source_key": "records/fielding/json/WK_Dismissals.json"
+  },
+  {
+    "date": "2026-09-19",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Knights:Largest Win by Runs:List A"
   },
   {
     "date": "2026-09-19",
+    "template": "q_higher_or_lower",
+    "source_key": "higher_or_lower"
+  },
+  {
+    "date": "2026-09-19",
     "template": "q_venue_record",
     "source_key": "venue:Recreation Ground"
-  },
-  {
-    "date": "2026-09-19",
-    "template": "q_reverse_record",
-    "source_key": "records/bowling/json/Most_Wickets.json"
-  },
-  {
-    "date": "2026-09-19",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Eastern Storm-Heat:List A"
   },
   {
     "date": "2026-09-20",
@@ -431,18 +431,18 @@
   },
   {
     "date": "2026-09-20",
-    "template": "q_reverse_record",
+    "template": "q_player_record",
     "source_key": "records/batting/json/Most_Runs.json"
+  },
+  {
+    "date": "2026-09-20",
+    "template": "q_reverse_record",
+    "source_key": "records/fielding/json/WK_Dismissals.json"
   },
   {
     "date": "2026-09-20",
     "template": "q_venue_record",
     "source_key": "venue:Kimberley Oval"
-  },
-  {
-    "date": "2026-09-20",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/fielding/json/WK_Dismissals.json:List A:OVERALL"
   },
   {
     "date": "2026-09-20",
@@ -461,18 +461,18 @@
   },
   {
     "date": "2026-09-21",
+    "template": "q_venue_record",
+    "source_key": "venue:St George's Park"
+  },
+  {
+    "date": "2026-09-21",
     "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/Most_Runs.json:T20:16/17"
+    "source_key": "magnitude_gap:records/bowling/json/Most_Wickets.json:OVERALL:22/23"
   },
   {
     "date": "2026-09-21",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Eastern Storm:Highest Total:T20"
-  },
-  {
-    "date": "2026-09-21",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Dolphins-Titans:T20"
+    "source_key": "team_record_venue:Dolphins:Largest Win by Runs:List A"
   },
   {
     "date": "2026-09-22",
@@ -491,12 +491,12 @@
   },
   {
     "date": "2026-09-22",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/Most_Sixes.json:T20:21/22"
+    "template": "q_guess_player_from_stats",
+    "source_key": "guess_player_from_stats"
   },
   {
     "date": "2026-09-22",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dragons:Highest Total:List A"
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/batting/json/Most_Sixes.json:T20:21/22"
   }
 ]

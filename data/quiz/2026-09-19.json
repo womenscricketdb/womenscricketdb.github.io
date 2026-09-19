@@ -1,30 +1,28 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T03:51:44.848591Z",
+  "generated_at": "2026-09-19T07:58:49.519051Z",
   "questions": [
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Knights record their 'Largest Win by Runs' (List A)?",
+      "type": "higher_lower",
+      "question": "Who has more runs — Bianca Figeland or Anica Swart? (List A.)",
       "options": [
-        "Langenhoven Gimnasium",
-        "Recreation Ground",
-        "Bloemfontein Oval",
-        "Wanderers"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Bloemfontein Oval — largest win by runs of 371, against Kei on 2018/11/24."
-    },
-    {
-      "type": "reverse_record",
-      "question": "Robyn Appels set a database record (14/15 season, List A) with a value of 22. Which record is it?",
-      "options": [
-        "Most Sixes",
-        "Most Wickets",
-        "Highest Individual Score",
-        "Best Bowling Average"
+        "Bianca Figeland",
+        "Anica Swart"
       ],
       "answer_index": 1,
-      "explanation": "It's the record for 'Most Wickets', held by Robyn Appels."
+      "explanation": "Bianca Figeland: 505 — Anica Swart: 539."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Wicketkeeping Dismissals' (combined T20 + List A)?",
+      "options": [
+        "Mieke de Ridder",
+        "Trisha Chetty",
+        "Yolandi van der Westhuizen",
+        "Tebogo Macheke"
+      ],
+      "answer_index": 1,
+      "explanation": "Trisha Chetty holds it, with a total of 113."
     },
     {
       "type": "venue_record",
@@ -39,6 +37,18 @@
       "explanation": "Jané Winster holds it with 35."
     },
     {
+      "type": "team_record_venue",
+      "question": "At which ground did Knights record their 'Largest Win by Runs' (List A)?",
+      "options": [
+        "Lenasia Stadium",
+        "Grootvlei Oval",
+        "Bloemfontein Oval",
+        "Sinovich Park"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Bloemfontein Oval — largest win by runs of 371, against Kei on 2018/11/24."
+    },
+    {
       "type": "career_best_venue",
       "question": "At which ground did Anele Dilikane record their career-best bowling figures (2-7, T20)?",
       "options": [
@@ -49,16 +59,6 @@
       ],
       "answer_index": 0,
       "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2026/03/08."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Heat or Eastern Storm?",
-      "options": [
-        "Eastern Storm",
-        "Heat"
-      ],
-      "answer_index": 0,
-      "explanation": "Eastern Storm lead 4-3 across 9 meetings (List A)."
     },
     {
       "type": "curveball",

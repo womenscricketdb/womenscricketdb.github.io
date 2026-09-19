@@ -1,18 +1,18 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-19T03:51:45.339758Z",
+  "generated_at": "2026-09-19T07:58:49.916767Z",
   "questions": [
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Bronwyn Sumption record their career-best bowling figures (2-27, List A)?",
+      "type": "guess_player",
+      "question": "Guess the player: 891 runs in 39 innings (average 34.27, high score 65, 0 centuries) for Lions / Titans. (T20 career totals.)",
       "options": [
-        "Capricorn High School",
-        "Nirvana",
-        "Willowmoore Park Main Oval",
-        "Polokwane Outer Oval"
+        "Sunette Viljoen-Louw",
+        "Micaela Andrews",
+        "Mignon du Preez",
+        "Nondumiso Shangase"
       ],
-      "answer_index": 2,
-      "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2011/01/29."
+      "answer_index": 0,
+      "explanation": "It's Sunette Viljoen-Louw."
     },
     {
       "type": "magnitude_gap",
@@ -27,13 +27,25 @@
       "explanation": "Susan Benade: 5 — Kirstie Thomson: 4 — a gap of 1."
     },
     {
+      "type": "career_best_venue",
+      "question": "At which ground did Bronwyn Sumption record their career-best bowling figures (2-27, List A)?",
+      "options": [
+        "Capricorn High School",
+        "Nirvana",
+        "Willowmoore Park Main Oval",
+        "Polokwane Outer Oval"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2011/01/29."
+    },
+    {
       "type": "team_record_venue",
       "question": "At which ground did Kei record their 'Highest Total' (List A)?",
       "options": [
-        "CUT Tokkie Park",
-        "Oudtshoorn High School",
+        "Fort Hare University",
+        "UFS 3 Oval",
         "Kimberley Oval",
-        "Recreation Ground"
+        "Bloemfontein Oval"
       ],
       "answer_index": 2,
       "explanation": "It was at Kimberley Oval — highest total of 174, against Heat on 2018/02/10."
@@ -59,18 +71,6 @@
       ],
       "answer_index": 1,
       "explanation": "KwaZulu-Natal Inland was rebranded Tuskers (KwaZulu-Natal Coastal became the Dolphins)."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Dragons record their 'Highest Total' (List A)?",
-      "options": [
-        "Schoeman Park A Ground",
-        "Chatsworth Stadium",
-        "Potchefstroom Oval",
-        "Wanderers"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Potchefstroom Oval — highest total of 420, against Boland on 2019/02/02."
     }
   ]
 }
