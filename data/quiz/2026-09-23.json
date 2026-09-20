@@ -1,7 +1,19 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-20T04:08:49.556013Z",
+  "generated_at": "2026-09-20T08:30:26.556242Z",
   "questions": [
+    {
+      "type": "curveball",
+      "question": "Which player in the database (2005 onwards) only represented South Africa in the test format?",
+      "options": [
+        "Josephine Barnard",
+        "Leighshe Jacobs",
+        "Ashlyn Kilowan",
+        "Marcia Letsoalo"
+      ],
+      "answer_index": 1,
+      "explanation": "Jacobs played two tests against England in August 2003 and was active in provincial cricket until 2022."
+    },
     {
       "type": "reverse_record",
       "question": "Sunette Loubser set a database record (10/11 season, combined T20 + List A) with a value of 53. Which record is it?",
@@ -13,40 +25,6 @@
       ],
       "answer_index": 3,
       "explanation": "It's the record for 'Fastest 100 (by balls)', held by Sunette Loubser."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Badgers record their 'Largest Win by Runs' (T20)?",
-      "options": [
-        "Recreation Ground",
-        "Ngumbela Park",
-        "Van Riebeeck Stadium",
-        "Witrand Cricket Field"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Recreation Ground — largest win by runs of 146, against Kei on 2018/11/18."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Titans or Boland?",
-      "options": [
-        "Titans",
-        "Boland"
-      ],
-      "answer_index": 1,
-      "explanation": "Boland lead 4-3 across 8 meetings (List A)."
-    },
-    {
-      "type": "magnitude_gap",
-      "question": "How many runs separate the all-time #1 (Delmi Tucker) and #2 (Tazmin Brits) run-scorers (combined T20 + List A) in the 21/22 season?",
-      "options": [
-        "19",
-        "36",
-        "23",
-        "27"
-      ],
-      "answer_index": 0,
-      "explanation": "Delmi Tucker: 409 — Tazmin Brits: 390 — a gap of 19."
     },
     {
       "type": "career_best_venue",
@@ -61,16 +39,40 @@
       "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2019/01/19."
     },
     {
-      "type": "curveball",
-      "question": "Which player in the database (2005 onwards) only represented South Africa in the test format?",
+      "type": "magnitude_gap",
+      "question": "How many runs separate the all-time #1 (Delmi Tucker) and #2 (Tazmin Brits) run-scorers (combined T20 + List A) in the 21/22 season?",
       "options": [
-        "Josephine Barnard",
-        "Leighshe Jacobs",
-        "Ashlyn Kilowan",
-        "Marcia Letsoalo"
+        "19",
+        "36",
+        "23",
+        "27"
       ],
-      "answer_index": 1,
-      "explanation": "Jacobs played two tests against England in August 2003 and was active in provincial cricket until 2022."
+      "answer_index": 0,
+      "explanation": "Delmi Tucker: 409 — Tazmin Brits: 390 — a gap of 19."
+    },
+    {
+      "type": "guess_player",
+      "question": "Guess the player: 1525 runs in 101 innings (average 20.07, high score 118, 2 centuries) for Dragons / Knights / Lions / Tuskers. (combined T20 + List A career totals.)",
+      "options": [
+        "Tanya Cronje",
+        "Nadine de Klerk",
+        "Maryka Kirchoff",
+        "Laura Wolvaardt"
+      ],
+      "answer_index": 0,
+      "explanation": "It's Tanya Cronje."
+    },
+    {
+      "type": "which_union",
+      "question": "Which of these unions has Madison Landsman actually played for?",
+      "options": [
+        "Tuskers",
+        "Titans",
+        "Dolphins",
+        "Eastern Storm"
+      ],
+      "answer_index": 3,
+      "explanation": "Madison Landsman has represented: Eastern Storm, Lions."
     }
   ]
 }

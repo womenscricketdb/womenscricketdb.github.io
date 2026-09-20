@@ -407,17 +407,17 @@
   {
     "date": "2026-09-20",
     "template": "q_player_record",
-    "source_key": "records/batting/json/Most_Runs.json"
-  },
-  {
-    "date": "2026-09-20",
-    "template": "q_reverse_record",
-    "source_key": "records/fielding/json/WK_Dismissals.json"
+    "source_key": "records/partnerships/json/Highest_Partnership.json"
   },
   {
     "date": "2026-09-20",
     "template": "q_venue_record",
     "source_key": "venue:Kimberley Oval"
+  },
+  {
+    "date": "2026-09-20",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/bowling/json/Most_Maidens.json:OVERALL:14/15"
   },
   {
     "date": "2026-09-20",
@@ -436,23 +436,28 @@
   },
   {
     "date": "2026-09-21",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/50Plus_Scores.json"
+  },
+  {
+    "date": "2026-09-21",
+    "template": "q_reverse_record",
+    "source_key": "records/misc/json/Most_Matches.json"
+  },
+  {
+    "date": "2026-09-21",
     "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
-  },
-  {
-    "date": "2026-09-21",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/bowling/json/Most_Wickets.json:OVERALL:22/23"
-  },
-  {
-    "date": "2026-09-21",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dolphins:Largest Win by Runs:List A"
+    "source_key": "venue:Willowmoore Park Main Oval"
   },
   {
     "date": "2026-09-22",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Kei:Highest Total:List A"
+  },
+  {
+    "date": "2026-09-22",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Runs.json"
   },
   {
     "date": "2026-09-22",
@@ -466,13 +471,13 @@
   },
   {
     "date": "2026-09-22",
-    "template": "q_guess_player_from_stats",
-    "source_key": "guess_player_from_stats"
+    "template": "q_venue_record",
+    "source_key": "venue:St George's Park"
   },
   {
-    "date": "2026-09-22",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/Most_Sixes.json:T20:21/22"
+    "date": "2026-09-23",
+    "template": "q_which_union",
+    "source_key": "which_union"
   },
   {
     "date": "2026-09-23",
@@ -491,12 +496,7 @@
   },
   {
     "date": "2026-09-23",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Boland-Titans:List A"
-  },
-  {
-    "date": "2026-09-23",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
+    "template": "q_guess_player_from_stats",
+    "source_key": "guess_player_from_stats"
   }
 ]

@@ -1,55 +1,7 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-20T04:08:49.364965Z",
+  "generated_at": "2026-09-20T08:30:26.406072Z",
   "questions": [
-    {
-      "type": "guess_player",
-      "question": "Guess the player: 891 runs in 39 innings (average 34.27, high score 65, 0 centuries) for Lions / Titans. (T20 career totals.)",
-      "options": [
-        "Sunette Viljoen-Louw",
-        "Micaela Andrews",
-        "Mignon du Preez",
-        "Nondumiso Shangase"
-      ],
-      "answer_index": 0,
-      "explanation": "It's Sunette Viljoen-Louw."
-    },
-    {
-      "type": "magnitude_gap",
-      "question": "How many sixes separate the all-time #1 (Susan Benade) and #2 (Kirstie Thomson) six-hitters (T20) in the 21/22 season?",
-      "options": [
-        "3",
-        "10",
-        "1",
-        "5"
-      ],
-      "answer_index": 2,
-      "explanation": "Susan Benade: 5 — Kirstie Thomson: 4 — a gap of 1."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Bronwyn Sumption record their career-best bowling figures (2-27, List A)?",
-      "options": [
-        "Capricorn High School",
-        "Nirvana",
-        "Willowmoore Park Main Oval",
-        "Polokwane Outer Oval"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2011/01/29."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Kei record their 'Highest Total' (List A)?",
-      "options": [
-        "St. George's Outer Oval",
-        "CUT Tokkie Park",
-        "Kimberley Oval",
-        "St George's Park"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Kimberley Oval — highest total of 174, against Heat on 2018/02/10."
-    },
     {
       "type": "head_to_head",
       "question": "In head-to-head List A meetings, who has the edge, Tuskers or Heat?",
@@ -71,6 +23,54 @@
       ],
       "answer_index": 1,
       "explanation": "KwaZulu-Natal Inland was rebranded Tuskers (KwaZulu-Natal Coastal became the Dolphins)."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Kei record their 'Highest Total' (List A)?",
+      "options": [
+        "Kemsley Park",
+        "UFS 3 Oval",
+        "Kimberley Oval",
+        "Greenbushes-Caledonian Cricket Club"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Kimberley Oval — highest total of 174, against Heat on 2018/02/10."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Bronwyn Sumption record their career-best bowling figures (2-27, List A)?",
+      "options": [
+        "Capricorn High School",
+        "Nirvana",
+        "Willowmoore Park Main Oval",
+        "Polokwane Outer Oval"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2011/01/29."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Runs' in the 18/19 season (List A)?",
+      "options": [
+        "Izel Cilliers",
+        "Yolandi Potgieter",
+        "Andrie Steyn",
+        "Tazmin Brits"
+      ],
+      "answer_index": 3,
+      "explanation": "Tazmin Brits holds it, with a total of 542."
+    },
+    {
+      "type": "venue_record",
+      "question": "At St George's Park, who holds the record for 'Most Matches' (T20)?",
+      "options": [
+        "Aluncedo Dunga",
+        "Aphilile Adonisi",
+        "Jordan Cole",
+        "Chene Arnolds"
+      ],
+      "answer_index": 0,
+      "explanation": "Aluncedo Dunga holds it with 8."
     }
   ]
 }
