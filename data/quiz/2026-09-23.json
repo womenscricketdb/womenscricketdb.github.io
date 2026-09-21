@@ -1,7 +1,67 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-21T04:05:55.855063Z",
+  "generated_at": "2026-09-21T08:50:24.416253Z",
   "questions": [
+    {
+      "type": "which_union",
+      "question": "Which of these unions has Sunette Loubser actually played for?",
+      "options": [
+        "Cobras",
+        "Tuskers",
+        "Limpopo Lillies",
+        "Boland"
+      ],
+      "answer_index": 3,
+      "explanation": "Sunette Loubser has represented: Boland."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many matches played separate the all-time #1 (Nonkhululeko Thabethe) and #2 (Geneveve Fritz) players (List A)?",
+      "options": [
+        "7",
+        "5",
+        "12",
+        "3"
+      ],
+      "answer_index": 3,
+      "explanation": "Nonkhululeko Thabethe: 154 — Geneveve Fritz: 151 — a gap of 3."
+    },
+    {
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Most Wins' (combined T20 + List A)?",
+      "options": [
+        "Dolphins",
+        "Boland",
+        "Lions",
+        "Cobras"
+      ],
+      "answer_index": 3,
+      "explanation": "Cobras — 227."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did S Potgieter record their career-best innings (34, List A)?",
+      "options": [
+        "Varsity Oval",
+        "Braam Fisherville Ground",
+        "Landau Rec Oval",
+        "City Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at City Oval, against Dragons on 2007/01/13."
+    },
+    {
+      "type": "reverse_record",
+      "question": "Nondumiso Shangase set a database record (T20) with a value of 29. Which record is it?",
+      "options": [
+        "Most Catches (Fielding)",
+        "Most Fours",
+        "Most Wicketkeeping Dismissals",
+        "Most Matches Played"
+      ],
+      "answer_index": 0,
+      "explanation": "It's the record for 'Most Catches (Fielding)', held by Nondumiso Shangase."
+    },
     {
       "type": "curveball",
       "question": "Which player in the database (2005 onwards) only represented South Africa in the test format?",
@@ -13,66 +73,6 @@
       ],
       "answer_index": 1,
       "explanation": "Jacobs played two tests against England in August 2003 and was active in provincial cricket until 2022."
-    },
-    {
-      "type": "reverse_record",
-      "question": "Sunette Loubser set a database record (10/11 season, combined T20 + List A) with a value of 53. Which record is it?",
-      "options": [
-        "Most Runs",
-        "Most 50+ Scores",
-        "Most Sixes",
-        "Fastest 100 (by balls)"
-      ],
-      "answer_index": 3,
-      "explanation": "It's the record for 'Fastest 100 (by balls)', held by Sunette Loubser."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did M Motshabi record their career-best bowling figures (4-26, List A)?",
-      "options": [
-        "Chatsworth Stadium",
-        "Polokwane Oval",
-        "Chatsworth Stadium",
-        "Willowmoore Park Main Oval"
-      ],
-      "answer_index": 3,
-      "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2019/01/19."
-    },
-    {
-      "type": "magnitude_gap",
-      "question": "How many runs separate the all-time #1 (Delmi Tucker) and #2 (Tazmin Brits) run-scorers (combined T20 + List A) in the 21/22 season?",
-      "options": [
-        "19",
-        "36",
-        "23",
-        "27"
-      ],
-      "answer_index": 0,
-      "explanation": "Delmi Tucker: 409 — Tazmin Brits: 390 — a gap of 19."
-    },
-    {
-      "type": "guess_player",
-      "question": "Guess the player: 1525 runs in 101 innings (average 20.07, high score 118, 2 centuries) for Dragons / Knights / Lions / Tuskers. (combined T20 + List A career totals.)",
-      "options": [
-        "Tanya Cronje",
-        "Nadine de Klerk",
-        "Maryka Kirchoff",
-        "Laura Wolvaardt"
-      ],
-      "answer_index": 0,
-      "explanation": "It's Tanya Cronje."
-    },
-    {
-      "type": "which_union",
-      "question": "Which of these unions has Madison Landsman actually played for?",
-      "options": [
-        "Tuskers",
-        "Titans",
-        "Dolphins",
-        "Eastern Storm"
-      ],
-      "answer_index": 3,
-      "explanation": "Madison Landsman has represented: Eastern Storm, Lions."
     }
   ]
 }
