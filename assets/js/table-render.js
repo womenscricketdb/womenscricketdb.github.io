@@ -342,7 +342,7 @@ const WCA_TABLE = (() => {
             if (numericCols.length) {
                 segments.push(`<span class="wca-filter-label">Minimum:</span>
                     <select class="wca-inline-select" id="${tableId}ThresholdCol" aria-label="Filter column">
-                    <option value="">no column filter</option>
+                    <option value="">None</option>
                     ${numericCols.map(c => `<option value="${c.key}">${WCA.escapeHtml(c.label)}</option>`).join("")}
                 </select>
                 <span class="wca-filter-line-op">&ge;</span>
@@ -361,7 +361,16 @@ const WCA_TABLE = (() => {
         // must be off too, in the same place, rather than as a separately
         // toggleable option a future change could enable without the
         // other and silently reintroduce exactly this bug.
-        const hardCapTop25 = opts.enableThresholdFilter && !opts.noFilters;
+        // Two genuinely separate concerns that happen to coincide on the
+        // Records page but not on Archive - conflating them by deriving
+        // one from enableThresholdFilter was a real bug: Archive also
+        // sets enableThresholdFilter (it's had that filter for longer
+        // than Records has), but Archive's data is deliberately uncapped
+        // and safe to page through in full, unlike trim_to_necessary_
+        // rows-backed Records data, which is only proven correct up to
+        // rank 25. So this needs its own explicit opt, set only where
+        // it's actually true, not inferred from a flag both pages share.
+        const hardCapTop25 = opts.hardCapTopN && !opts.noFilters;
 
         const dtDom = opts.compact
             ? "t"

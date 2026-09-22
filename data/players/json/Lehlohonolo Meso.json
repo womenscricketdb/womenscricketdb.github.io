@@ -3,27 +3,43 @@
     "byOpposition": [
       {
         "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "2",
+        "Runs": "41",
+        "Average": "41.00",
+        "Strike-Rate": "75.93"
+      },
+      {
+        "Format": "List A",
         "Opposition": "Dolphins",
-        "Innings": "1",
-        "Runs": "6",
+        "Innings": "5",
+        "Runs": "11",
+        "Average": "5.50",
+        "Strike-Rate": "26.83"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Runs": "10",
         "Average": "-",
-        "Strike-Rate": "75.00"
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
+        "Innings": "1",
+        "Runs": "10",
+        "Average": "-",
+        "Strike-Rate": "62.50"
       },
       {
         "Format": "List A",
         "Opposition": "Cobras",
-        "Innings": "1",
-        "Runs": "3",
-        "Average": "3.00",
-        "Strike-Rate": "75.00"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Badgers",
-        "Innings": "0",
-        "Runs": "0",
-        "Average": "-",
-        "Strike-Rate": "-"
+        "Innings": "4",
+        "Runs": "5",
+        "Average": "2.50",
+        "Strike-Rate": "27.78"
       },
       {
         "Format": "List A",
@@ -36,6 +52,22 @@
       {
         "Format": "List A",
         "Opposition": "Titans",
+        "Innings": "2",
+        "Runs": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Badgers",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -43,7 +75,7 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Dolphins",
+        "Opposition": "Dragons",
         "Innings": "0",
         "Runs": "0",
         "Average": "-",
@@ -70,35 +102,116 @@
       {
         "Format": "List A",
         "Venue": "Wanderers",
+        "Innings": "5",
+        "Runs": "51",
+        "Average": "17.00",
+        "Strike-Rate": "61.45"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Dlamini",
+        "Innings": "4",
+        "Runs": "12",
+        "Average": "12.00",
+        "Strike-Rate": "52.17"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Baytopp",
+        "Innings": "1",
+        "Runs": "8",
+        "Average": "-",
+        "Strike-Rate": "61.54"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
         "Innings": "2",
-        "Runs": "9",
-        "Average": "9.00",
-        "Strike-Rate": "75.00"
+        "Runs": "3",
+        "Average": "3.00",
+        "Strike-Rate": "14.29"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Runs": "2",
+        "Average": "-",
+        "Strike-Rate": "28.57"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Braam Fisherville Ground",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "-",
+        "Strike-Rate": "50.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Kingsmead stadium",
+        "Innings": "1",
+        "Runs": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67"
       }
     ],
     "career": [
       {
         "Format": "List A",
-        "Innings": "2",
-        "Runs": "9",
-        "High Score": "6",
-        "Average": "9.00",
+        "Innings": "16",
+        "Runs": "77",
+        "High Score": "40",
+        "Average": "11.00",
         "50s": "0",
         "100s": "0",
-        "Strike Rate*": "75.00"
+        "Strike Rate*": "50.33"
       },
       {
         "Format": "T20",
-        "Innings": "0",
-        "Runs": "0",
-        "High Score": "0",
-        "Average": "-",
+        "Innings": "1",
+        "Runs": "1",
+        "High Score": "1",
+        "Average": "1.00",
         "50s": "0",
         "100s": "0",
-        "Strike Rate*": "-"
+        "Strike Rate*": "16.67"
       }
     ],
     "top5": [
+      {
+        "Format": "List A",
+        "Date": "2022/10/08",
+        "Opposition": "Badgers",
+        "Position": "10",
+        "Runs": "40",
+        "Balls": "52",
+        "Fours": "4",
+        "Sixes": "0",
+        "Strike-Rate": "76.92"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/23",
+        "Opposition": "Eastern Storm",
+        "Position": "10",
+        "Runs": "10*",
+        "Balls": "16",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "62.5"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/27",
+        "Opposition": "Dragons",
+        "Position": "11",
+        "Runs": "8*",
+        "Balls": "13",
+        "Fours": "1",
+        "Sixes": "0",
+        "Strike-Rate": "61.54"
+      },
       {
         "Format": "List A",
         "Date": "2024/04/13",
@@ -122,37 +235,15 @@
         "Strike-Rate": "75"
       },
       {
-        "Format": "List A",
-        "Date": "2023/11/18",
-        "Opposition": "Titans",
-        "Position": "9",
-        "Runs": "0",
-        "Balls": "0",
-        "Fours": "0",
-        "Sixes": "0",
-        "Strike-Rate": ""
-      },
-      {
-        "Format": "List A",
-        "Date": "2023/09/30",
-        "Opposition": "Knights",
+        "Format": "T20",
+        "Date": "2022/10/30",
+        "Opposition": "Dolphins",
         "Position": "10",
-        "Runs": "0",
-        "Balls": "0",
+        "Runs": "1",
+        "Balls": "6",
         "Fours": "0",
         "Sixes": "0",
-        "Strike-Rate": ""
-      },
-      {
-        "Format": "List A",
-        "Date": "2024/10/19",
-        "Opposition": "Badgers",
-        "Position": "11",
-        "Runs": "0",
-        "Balls": "0",
-        "Fours": "0",
-        "Sixes": "0",
-        "Strike-Rate": ""
+        "Strike-Rate": "16.67"
       },
       {
         "Format": "T20",
@@ -201,8 +292,76 @@
     ],
     "bySeason": [
       {
-        "Season": "23/24",
+        "Season": "20/21",
+        "Matches": "3",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Matches": "5",
+        "Innings": "5",
+        "Not Out": "4",
+        "Runs": "20",
+        "Highest Score": "10*",
+        "Average": "20.00",
+        "Strike-Rate": "55.56",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "2",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "22/23",
+        "Matches": "6",
+        "Innings": "5",
+        "Not Out": "2",
+        "Runs": "45",
+        "Highest Score": "40",
+        "Average": "15.00",
+        "Strike-Rate": "51.14",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "4",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "22/23",
         "Matches": "4",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "1",
+        "Highest Score": "1",
+        "Average": "1.00",
+        "Strike-Rate": "16.67",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "T20"
+      },
+      {
+        "Season": "23/24",
+        "Matches": "5",
         "Innings": "2",
         "Not Out": "1",
         "Runs": "9",
@@ -216,6 +375,40 @@
         "6s": "0",
         "Teams": "Lions",
         "Format": "List A"
+      },
+      {
+        "Season": "24/25",
+        "Matches": "3",
+        "Innings": "1",
+        "Not Out": "0",
+        "Runs": "0",
+        "Highest Score": "0",
+        "Average": "0.00",
+        "Strike-Rate": "0.00",
+        "100s": "0",
+        "50s": "0",
+        "0s": "1",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Matches": "4",
+        "Innings": "2",
+        "Not Out": "2",
+        "Runs": "3",
+        "Highest Score": "2*",
+        "Average": "",
+        "Strike-Rate": "23.08",
+        "100s": "0",
+        "50s": "0",
+        "0s": "0",
+        "4s": "0",
+        "6s": "0",
+        "Teams": "Lions",
+        "Format": "List A"
       }
     ]
   },
@@ -223,43 +416,67 @@
     "byOpposition": [
       {
         "Format": "List A",
-        "Opposition": "Knights",
-        "Innings": "1",
-        "Wickets": "2",
-        "Average": "19.50",
-        "Economy": "3.90"
-      },
-      {
-        "Format": "List A",
-        "Opposition": "Badgers",
-        "Innings": "1",
-        "Wickets": "1",
-        "Average": "34.00",
-        "Economy": "8.50"
-      },
-      {
-        "Format": "List A",
         "Opposition": "Dolphins",
-        "Innings": "1",
-        "Wickets": "1",
-        "Average": "37.00",
-        "Economy": "3.70"
+        "Innings": "5",
+        "Wickets": "9",
+        "Average": "15.44",
+        "Economy": "3.66"
       },
       {
         "Format": "List A",
         "Opposition": "Cobras",
-        "Innings": "1",
-        "Wickets": "0",
-        "Average": "-",
-        "Economy": "4.60"
+        "Innings": "6",
+        "Wickets": "8",
+        "Average": "18.13",
+        "Economy": "3.54"
       },
       {
         "Format": "List A",
         "Opposition": "Titans",
+        "Innings": "5",
+        "Wickets": "7",
+        "Average": "19.29",
+        "Economy": "3.07"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Badgers",
+        "Innings": "4",
+        "Wickets": "5",
+        "Average": "15.20",
+        "Economy": "4.47"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Knights",
+        "Innings": "2",
+        "Wickets": "3",
+        "Average": "19.00",
+        "Economy": "3.56"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Dragons",
+        "Innings": "2",
+        "Wickets": "2",
+        "Average": "30.00",
+        "Economy": "4.00"
+      },
+      {
+        "Format": "List A",
+        "Opposition": "Eastern Storm",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
-        "Economy": "2.33"
+        "Economy": "3.20"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dolphins",
+        "Innings": "3",
+        "Wickets": "1",
+        "Average": "53.00",
+        "Economy": "4.42"
       },
       {
         "Format": "T20",
@@ -271,29 +488,101 @@
       },
       {
         "Format": "T20",
-        "Opposition": "Dolphins",
+        "Opposition": "Badgers",
         "Innings": "1",
         "Wickets": "0",
         "Average": "-",
-        "Economy": "5.75"
+        "Economy": "3.50"
+      },
+      {
+        "Format": "T20",
+        "Opposition": "Dragons",
+        "Innings": "1",
+        "Wickets": "0",
+        "Average": "-",
+        "Economy": "5.00"
       },
       {
         "Format": "T20",
         "Opposition": "Titans",
-        "Innings": "1",
+        "Innings": "3",
         "Wickets": "0",
         "Average": "-",
-        "Economy": "8.33"
+        "Economy": "10.00"
       }
     ],
     "byVenue": [
       {
         "Format": "List A",
         "Venue": "Wanderers",
+        "Innings": "9",
+        "Wickets": "11",
+        "Average": "19.27",
+        "Economy": "3.79"
+      },
+      {
+        "Format": "List A",
+        "Venue": "St. Stithians Dlamini",
         "Innings": "4",
-        "Wickets": "4",
-        "Average": "33.25",
-        "Economy": "4.59"
+        "Wickets": "7",
+        "Average": "16.57",
+        "Economy": "3.63"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Kingsmead stadium",
+        "Innings": "2",
+        "Wickets": "6",
+        "Average": "9.00",
+        "Economy": "3.38"
+      },
+      {
+        "Format": "List A",
+        "Venue": "The Vineyard",
+        "Innings": "3",
+        "Wickets": "5",
+        "Average": "15.20",
+        "Economy": "2.81"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Witrand Cricket Field",
+        "Innings": "1",
+        "Wickets": "2",
+        "Average": "19.00",
+        "Economy": "3.80"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Bloemfontein Oval",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "18.00",
+        "Economy": "3.00"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Braam Fisherville Ground",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "14.00",
+        "Economy": "4.67"
+      },
+      {
+        "Format": "List A",
+        "Venue": "Newlands Stadium",
+        "Innings": "1",
+        "Wickets": "1",
+        "Average": "28.00",
+        "Economy": "7.00"
+      },
+      {
+        "Format": "T20",
+        "Venue": "Wanderers",
+        "Innings": "6",
+        "Wickets": "1",
+        "Average": "87.00",
+        "Economy": "5.80"
       },
       {
         "Format": "T20",
@@ -307,21 +596,21 @@
     "career": [
       {
         "Format": "List A",
-        "Innings": "5",
-        "Wickets": "4",
-        "Average": "38.50",
-        "Economy": "4.05",
-        "Best Figures": "2/39",
-        "3-fors": "0",
+        "Innings": "25",
+        "Wickets": "34",
+        "Average": "18.47",
+        "Economy": "3.57",
+        "Best Figures": "3/23",
+        "3-fors": "6",
         "5-fors": "0"
       },
       {
         "Format": "T20",
-        "Innings": "4",
-        "Wickets": "1",
-        "Average": "82.00",
-        "Economy": "7.45",
-        "Best Figures": "1/19",
+        "Innings": "10",
+        "Wickets": "2",
+        "Average": "80.50",
+        "Economy": "5.96",
+        "Best Figures": "1/10",
         "3-fors": "0",
         "5-fors": "0"
       }
@@ -329,43 +618,51 @@
     "top5": [
       {
         "Format": "List A",
-        "Date": "2023/09/30",
-        "Opposition": "Knights",
-        "Figures": "2-39",
+        "Date": "2021/10/28",
+        "Opposition": "Cobras",
+        "Figures": "3-23",
+        "Overs": "10",
+        "Economy": "2.3"
+      },
+      {
+        "Format": "List A",
+        "Date": "2025/12/13",
+        "Opposition": "Dolphins",
+        "Figures": "3-26",
+        "Overs": "6",
+        "Economy": "4.33"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/10/29",
+        "Opposition": "Dolphins",
+        "Figures": "3-28",
+        "Overs": "10",
+        "Economy": "2.8"
+      },
+      {
+        "Format": "List A",
+        "Date": "2022/11/19",
+        "Opposition": "Titans",
+        "Figures": "3-29",
+        "Overs": "10",
+        "Economy": "2.9"
+      },
+      {
+        "Format": "List A",
+        "Date": "2021/10/24",
+        "Opposition": "Titans",
+        "Figures": "3-39",
         "Overs": "10",
         "Economy": "3.9"
       },
       {
-        "Format": "List A",
-        "Date": "2024/10/19",
-        "Opposition": "Badgers",
-        "Figures": "1-34",
-        "Overs": "4",
-        "Economy": "8.5"
-      },
-      {
-        "Format": "List A",
-        "Date": "2024/04/13",
+        "Format": "T20",
+        "Date": "2025/03/09",
         "Opposition": "Dolphins",
-        "Figures": "1-37",
-        "Overs": "10",
-        "Economy": "3.7"
-      },
-      {
-        "Format": "List A",
-        "Date": "2023/11/18",
-        "Opposition": "Titans",
-        "Figures": "0-21",
-        "Overs": "9",
-        "Economy": "2.33"
-      },
-      {
-        "Format": "List A",
-        "Date": "2023/11/04",
-        "Opposition": "Cobras",
-        "Figures": "0-23",
-        "Overs": "5",
-        "Economy": "4.6"
+        "Figures": "1-10",
+        "Overs": "4",
+        "Economy": "2.5"
       },
       {
         "Format": "T20",
@@ -377,43 +674,111 @@
       },
       {
         "Format": "T20",
-        "Date": "2023/10/01",
-        "Opposition": "Knights",
-        "Figures": "0-15",
-        "Overs": "1",
-        "Economy": "15"
+        "Date": "2022/11/27",
+        "Opposition": "Dragons",
+        "Figures": "0-10",
+        "Overs": "2",
+        "Economy": "5"
       },
       {
         "Format": "T20",
-        "Date": "2024/04/14",
-        "Opposition": "Dolphins",
-        "Figures": "0-23",
-        "Overs": "4",
-        "Economy": "5.75"
-      },
-      {
-        "Format": "T20",
-        "Date": "2023/11/19",
+        "Date": "2026/03/01",
         "Opposition": "Titans",
-        "Figures": "0-25",
-        "Overs": "3",
-        "Economy": "8.33"
+        "Figures": "0-10",
+        "Overs": "1",
+        "Economy": "10"
+      },
+      {
+        "Format": "T20",
+        "Date": "2022/10/09",
+        "Opposition": "Badgers",
+        "Figures": "0-14",
+        "Overs": "4",
+        "Economy": "3.5"
       }
     ],
     "bySeason": [
       {
-        "Season": "23/24",
+        "Season": "20/21",
+        "Teams": "Lions",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "27.0",
+        "Maidens": "3",
+        "Runs": "76",
+        "Wickets": "5",
+        "BBI": "3/42",
+        "Average": "15.20",
+        "Economy": "2.81",
+        "Strike-Rate": "32.40",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "21/22",
+        "Teams": "Lions",
+        "Matches": "5",
+        "Innings": "4",
+        "Overs": "32.0",
+        "Maidens": "0",
+        "Runs": "116",
+        "Wickets": "7",
+        "BBI": "3/23",
+        "Average": "16.57",
+        "Economy": "3.63",
+        "Strike-Rate": "27.43",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "22/23",
+        "Teams": "Lions",
+        "Matches": "6",
+        "Innings": "6",
+        "Overs": "41.0",
+        "Maidens": "6",
+        "Runs": "127",
+        "Wickets": "11",
+        "BBI": "3/28",
+        "Average": "11.55",
+        "Economy": "3.10",
+        "Strike-Rate": "22.36",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "22/23",
         "Teams": "Lions",
         "Matches": "4",
         "Innings": "4",
-        "Overs": "34.0",
-        "Maidens": "7",
-        "Runs": "120",
-        "Wickets": "3",
+        "Overs": "11.0",
+        "Maidens": "0",
+        "Runs": "59",
+        "Wickets": "0",
+        "BBI": "0/10",
+        "Average": "-",
+        "Economy": "5.36",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "23/24",
+        "Teams": "Lions",
+        "Matches": "5",
+        "Innings": "5",
+        "Overs": "40.0",
+        "Maidens": "9",
+        "Runs": "138",
+        "Wickets": "4",
         "BBI": "2/39",
-        "Average": "40.00",
-        "Economy": "3.53",
-        "Strike-Rate": "68.00",
+        "Average": "34.50",
+        "Economy": "3.45",
+        "Strike-Rate": "60.00",
         "4 Wickets": "0",
         "5 Wickets": "0",
         "Format": "List A"
@@ -438,48 +803,114 @@
       {
         "Season": "24/25",
         "Teams": "Lions",
+        "Matches": "3",
+        "Innings": "3",
+        "Overs": "18.0",
+        "Maidens": "1",
+        "Runs": "81",
+        "Wickets": "2",
+        "BBI": "1/18",
+        "Average": "40.50",
+        "Economy": "4.50",
+        "Strike-Rate": "54.00",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "List A"
+      },
+      {
+        "Season": "24/25",
+        "Teams": "Lions",
         "Matches": "1",
         "Innings": "1",
         "Overs": "4.0",
         "Maidens": "0",
-        "Runs": "34",
+        "Runs": "10",
         "Wickets": "1",
-        "BBI": "1/34",
-        "Average": "34.00",
-        "Economy": "8.50",
+        "BBI": "1/10",
+        "Average": "10.00",
+        "Economy": "2.50",
         "Strike-Rate": "24.00",
         "4 Wickets": "0",
         "5 Wickets": "0",
+        "Format": "T20"
+      },
+      {
+        "Season": "25/26",
+        "Teams": "Lions",
+        "Matches": "4",
+        "Innings": "4",
+        "Overs": "18.0",
+        "Maidens": "1",
+        "Runs": "90",
+        "Wickets": "5",
+        "BBI": "3/26",
+        "Average": "18.00",
+        "Economy": "5.00",
+        "Strike-Rate": "21.60",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
         "Format": "List A"
+      },
+      {
+        "Season": "25/26",
+        "Teams": "Lions",
+        "Matches": "1",
+        "Innings": "1",
+        "Overs": "1.0",
+        "Maidens": "0",
+        "Runs": "10",
+        "Wickets": "0",
+        "BBI": "0/10",
+        "Average": "-",
+        "Economy": "10.00",
+        "Strike-Rate": "-",
+        "4 Wickets": "0",
+        "5 Wickets": "0",
+        "Format": "T20"
       }
     ]
   },
   "misc": {
-    "career": [],
+    "career": [
+      {
+        "Format": "List A",
+        "Catches": "5",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      },
+      {
+        "Format": "T20",
+        "Catches": "1",
+        "Stumpings": "0",
+        "Matches as Wicketkeeper": "0",
+        "Matches as Captain": "0"
+      }
+    ],
     "span": [
       {
         "Format": "List A",
         "Teams Represented": "Lions",
-        "Total Matches": "5",
-        "First Match": "2023/09/30",
-        "Last Match": "2024/10/19",
-        "Career Span": "2023 - 2024"
+        "Total Matches": "26",
+        "First Match": "2021/03/17",
+        "Last Match": "2026/02/21",
+        "Career Span": "2021 - 2026"
       },
       {
         "Format": "T20",
         "Teams Represented": "Lions",
-        "Total Matches": "4",
-        "First Match": "2023/10/01",
-        "Last Match": "2024/04/14",
-        "Career Span": "2023 - 2024"
+        "Total Matches": "10",
+        "First Match": "2022/10/09",
+        "Last Match": "2026/03/01",
+        "Career Span": "2022 - 2026"
       },
       {
         "Format": "Overall",
         "Teams Represented": "Lions",
-        "Total Matches": "9",
-        "First Match": "2023/09/30",
-        "Last Match": "2024/10/19",
-        "Career Span": "2023 - 2024"
+        "Total Matches": "36",
+        "First Match": "2021/03/17",
+        "Last Match": "2026/03/01",
+        "Career Span": "2021 - 2026"
       }
     ]
   },
