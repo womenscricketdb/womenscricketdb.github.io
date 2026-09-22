@@ -1,52 +1,54 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-22T04:02:48.855892Z",
+  "generated_at": "2026-09-22T08:27:43.533003Z",
   "questions": [
     {
-      "type": "reverse_record",
-      "question": "Marizanne Kapp set a database record (11/12 season, List A) with a value of 8-2. Which record is it?",
+      "type": "guess_player",
+      "question": "Guess the player: 2720 runs in 114 innings (average 32.77, high score 203*, 3 centuries) for Dolphins. (combined T20 + List A career totals.)",
       "options": [
-        "Most Fours",
-        "Best Bowling Figures in an Innings",
-        "Most Catches (Fielding)",
-        "Best Bowling Average"
+        "Dinesha Devnarain",
+        "Dané van Niekerk",
+        "Nadine Moodley",
+        "Yolandi van der Westhuizen"
       ],
-      "answer_index": 1,
-      "explanation": "It's the record for 'Best Bowling Figures in an Innings', held by Marizanne Kapp."
+      "answer_index": 0,
+      "explanation": "It's Dinesha Devnarain."
     },
     {
       "type": "team_record_venue",
-      "question": "At which ground did Badgers record their 'Largest Win by Runs' (T20)?",
+      "question": "At which ground did Knights record their 'Highest Total' (List A)?",
       "options": [
-        "Recreation Ground",
-        "St George's Park",
-        "Van Riebeeck Stadium",
-        "St. George's Outer Oval"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Recreation Ground — largest win by runs of 146, against Kei on 2018/11/18."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Limpopo Lillies or Heat?",
-      "options": [
-        "Limpopo Lillies",
-        "Heat"
+        "Military Ground",
+        "Bloemfontein Oval",
+        "Old Greys Sports Ground",
+        "SASOL Club"
       ],
       "answer_index": 1,
-      "explanation": "Heat lead 5-3 across 8 meetings (List A)."
+      "explanation": "It was at Bloemfontein Oval — highest total of 427, against Kei on 2018/11/24."
     },
     {
       "type": "career_best_venue",
-      "question": "At which ground did Lerato Langa record their career-best innings (71, List A)?",
+      "question": "At which ground did Geraldine Mashimbyi record their career-best innings (33, List A)?",
       "options": [
-        "St. Andrews Hickling",
-        "Willowmoore Park Main Oval",
-        "UFS Oval",
-        "St. Stithians Jameson"
+        "City Oval",
+        "Bloemfontein Oval",
+        "Bridgton Sports Grounds",
+        "City Oval"
       ],
       "answer_index": 1,
-      "explanation": "It was at Willowmoore Park Main Oval, against Heat on 2019/11/30."
+      "explanation": "It was at Bloemfontein Oval, against Knights on 2025/11/01."
+    },
+    {
+      "type": "curveball",
+      "question": "What was the name of the women's rebel team that toured South Africa during the 1970s and 1980s?",
+      "options": [
+        "The Cavaliers",
+        "The Unicorns",
+        "The Wanderers",
+        "The Invincibles"
+      ],
+      "answer_index": 1,
+      "explanation": "The Unicorns toured SA from 1972 to 1985/86."
     },
     {
       "type": "venue_record",
@@ -61,16 +63,14 @@
       "explanation": "Eliz-Mari Marx holds it with 14."
     },
     {
-      "type": "curveball",
-      "question": "What was the name of the women's rebel team that toured South Africa during the 1970s and 1980s?",
+      "type": "head_to_head",
+      "question": "In head-to-head T20 meetings, who has the edge, Tuskers or Limpopo Lillies?",
       "options": [
-        "The Cavaliers",
-        "The Unicorns",
-        "The Wanderers",
-        "The Invincibles"
+        "Tuskers",
+        "Limpopo Lillies"
       ],
       "answer_index": 1,
-      "explanation": "The Unicorns toured SA from 1972 to 1985/86."
+      "explanation": "Limpopo Lillies lead 5-3 across 10 meetings (T20)."
     }
   ]
 }

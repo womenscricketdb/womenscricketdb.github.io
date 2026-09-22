@@ -1,42 +1,18 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-22T04:02:48.483375Z",
+  "generated_at": "2026-09-22T08:27:43.238145Z",
   "questions": [
     {
-      "type": "which_union",
-      "question": "Which of these unions has Sunette Loubser actually played for?",
+      "type": "curveball",
+      "question": "Which player in the database (2005 onwards) only represented South Africa in the test format?",
       "options": [
-        "Cobras",
-        "Tuskers",
-        "Limpopo Lillies",
-        "Boland"
+        "Josephine Barnard",
+        "Leighshe Jacobs",
+        "Ashlyn Kilowan",
+        "Marcia Letsoalo"
       ],
-      "answer_index": 3,
-      "explanation": "Sunette Loubser has represented: Boland."
-    },
-    {
-      "type": "magnitude_gap",
-      "question": "How many matches played separate the all-time #1 (Nonkhululeko Thabethe) and #2 (Geneveve Fritz) players (List A)?",
-      "options": [
-        "7",
-        "5",
-        "12",
-        "3"
-      ],
-      "answer_index": 3,
-      "explanation": "Nonkhululeko Thabethe: 154 — Geneveve Fritz: 151 — a gap of 3."
-    },
-    {
-      "type": "team_record",
-      "question": "Which provincial union holds the record for 'Most Wins' (combined T20 + List A)?",
-      "options": [
-        "Dolphins",
-        "Boland",
-        "Lions",
-        "Cobras"
-      ],
-      "answer_index": 3,
-      "explanation": "Cobras — 227."
+      "answer_index": 1,
+      "explanation": "Jacobs played two tests against England in August 2003 and was active in provincial cricket until 2022."
     },
     {
       "type": "career_best_venue",
@@ -52,27 +28,49 @@
     },
     {
       "type": "reverse_record",
-      "question": "Nondumiso Shangase set a database record (T20) with a value of 29. Which record is it?",
+      "question": "Nondumiso Shangase set a database record (18/19 season, T20) with a value of 9. Which record is it?",
       "options": [
-        "Most Catches (Fielding)",
-        "Most Fours",
-        "Most Wicketkeeping Dismissals",
-        "Most Matches Played"
-      ],
-      "answer_index": 0,
-      "explanation": "It's the record for 'Most Catches (Fielding)', held by Nondumiso Shangase."
-    },
-    {
-      "type": "curveball",
-      "question": "Which player in the database (2005 onwards) only represented South Africa in the test format?",
-      "options": [
-        "Josephine Barnard",
-        "Leighshe Jacobs",
-        "Ashlyn Kilowan",
-        "Marcia Letsoalo"
+        "Highest Individual Score",
+        "Most Wickets",
+        "Most 50+ Scores",
+        "Most Wicketkeeping Dismissals"
       ],
       "answer_index": 1,
-      "explanation": "Jacobs played two tests against England in August 2003 and was active in provincial cricket until 2022."
+      "explanation": "It's the record for 'Most Wickets', held by Nondumiso Shangase."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 3 wickets in a match double more times, Robyn Dormehl or Suné Luus?",
+      "options": [
+        "Robyn Dormehl",
+        "Suné Luus"
+      ],
+      "answer_index": 1,
+      "explanation": "Robyn Dormehl: 1 times. Suné Luus: 2 times."
+    },
+    {
+      "type": "which_union",
+      "question": "Which of these unions has Sunette Loubser actually played for?",
+      "options": [
+        "Cobras",
+        "Tuskers",
+        "Limpopo Lillies",
+        "Boland"
+      ],
+      "answer_index": 3,
+      "explanation": "Sunette Loubser has represented: Boland."
+    },
+    {
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Most Wins' (combined T20 + List A)?",
+      "options": [
+        "Dolphins",
+        "Boland",
+        "Lions",
+        "Cobras"
+      ],
+      "answer_index": 3,
+      "explanation": "Cobras — 227."
     }
   ]
 }
