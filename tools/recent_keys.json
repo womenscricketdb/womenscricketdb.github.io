@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-09-05",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Mieke de Ridder"
-  },
-  {
-    "date": "2026-09-05",
-    "template": "q_doubles_higher_lower",
-    "source_key": "D_50_3"
-  },
-  {
-    "date": "2026-09-05",
-    "template": "q_venue_record",
-    "source_key": "venue:City Oval"
-  },
-  {
-    "date": "2026-09-05",
-    "template": "q_player_record",
-    "source_key": "records/bowling/json/Best_Bowl_Average.json"
-  },
-  {
-    "date": "2026-09-05",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Tuskers:Highest Total:T20"
-  },
-  {
     "date": "2026-09-06",
     "template": "q_player_record",
     "source_key": "records/batting/json/Highest_Score.json"
@@ -498,5 +473,30 @@
     "date": "2026-09-24",
     "template": "q_guess_player_from_stats",
     "source_key": "guess_player_from_stats"
+  },
+  {
+    "date": "2026-09-25",
+    "template": "q_venue_record",
+    "source_key": "venue:Centurion Park"
+  },
+  {
+    "date": "2026-09-25",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Lerato Langa"
+  },
+  {
+    "date": "2026-09-25",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
+  },
+  {
+    "date": "2026-09-25",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Heat-Limpopo Lillies:List A"
+  },
+  {
+    "date": "2026-09-25",
+    "template": "q_reverse_record",
+    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
   }
 ]
