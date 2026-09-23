@@ -1,7 +1,17 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-22T08:27:43.238145Z",
+  "generated_at": "2026-09-23T03:59:40.213499Z",
   "questions": [
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 3 wickets in a match double more times, Zintle Mali or Kirstie Thomson?",
+      "options": [
+        "Zintle Mali",
+        "Kirstie Thomson"
+      ],
+      "answer_index": 1,
+      "explanation": "Zintle Mali: 1 times. Kirstie Thomson: 3 times."
+    },
     {
       "type": "curveball",
       "question": "Which player in the database (2005 onwards) only represented South Africa in the test format?",
@@ -15,38 +25,28 @@
       "explanation": "Jacobs played two tests against England in August 2003 and was active in provincial cricket until 2022."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did S Potgieter record their career-best innings (34, List A)?",
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Most Wins' (combined T20 + List A)?",
       "options": [
-        "Varsity Oval",
-        "Braam Fisherville Ground",
-        "Landau Rec Oval",
-        "City Oval"
+        "Dolphins",
+        "Boland",
+        "Lions",
+        "Cobras"
       ],
       "answer_index": 3,
-      "explanation": "It was at City Oval, against Dragons on 2007/01/13."
+      "explanation": "Cobras — 227."
     },
     {
-      "type": "reverse_record",
-      "question": "Nondumiso Shangase set a database record (18/19 season, T20) with a value of 9. Which record is it?",
+      "type": "magnitude_gap",
+      "question": "How many sixes separate the all-time #1 (Susan Benade) and #2 (Annelie Minny) six-hitters (combined T20 + List A) in the 10/11 season?",
       "options": [
-        "Highest Individual Score",
-        "Most Wickets",
-        "Most 50+ Scores",
-        "Most Wicketkeeping Dismissals"
+        "1",
+        "7",
+        "11",
+        "5"
       ],
       "answer_index": 1,
-      "explanation": "It's the record for 'Most Wickets', held by Nondumiso Shangase."
-    },
-    {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the fifty and 3 wickets in a match double more times, Robyn Dormehl or Suné Luus?",
-      "options": [
-        "Robyn Dormehl",
-        "Suné Luus"
-      ],
-      "answer_index": 1,
-      "explanation": "Robyn Dormehl: 1 times. Suné Luus: 2 times."
+      "explanation": "Susan Benade: 18 — Annelie Minny: 11 — a gap of 7."
     },
     {
       "type": "which_union",
@@ -61,16 +61,16 @@
       "explanation": "Sunette Loubser has represented: Boland."
     },
     {
-      "type": "team_record",
-      "question": "Which provincial union holds the record for 'Most Wins' (combined T20 + List A)?",
+      "type": "career_best_venue",
+      "question": "At which ground did Yolandi Potgieter record their career-best bowling figures (7-6, List A)?",
       "options": [
-        "Dolphins",
-        "Boland",
-        "Lions",
-        "Cobras"
+        "Irene Villagers Ground",
+        "Khaya Majola Oval",
+        "Wanderers",
+        "NWU Main Oval"
       ],
-      "answer_index": 3,
-      "explanation": "Cobras — 227."
+      "answer_index": 1,
+      "explanation": "It was at Khaya Majola Oval, against Kei on 2014/02/15."
     }
   ]
 }
