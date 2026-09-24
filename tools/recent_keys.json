@@ -426,6 +426,11 @@
   },
   {
     "date": "2026-09-25",
+    "template": "q_player_record",
+    "source_key": "records/fielding/json/Field_Catches.json"
+  },
+  {
+    "date": "2026-09-25",
     "template": "q_doubles_higher_lower",
     "source_key": "D_50_3"
   },
@@ -436,18 +441,18 @@
   },
   {
     "date": "2026-09-25",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/bowling/json/Most_5Wickets.json:T20:23/24"
-  },
-  {
-    "date": "2026-09-25",
     "template": "q_venue_record",
     "source_key": "venue:City Oval"
   },
   {
     "date": "2026-09-25",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Kelsey Adams"
+    "source_key": "career_best_venue:Rethabile Motlhanke"
+  },
+  {
+    "date": "2026-09-26",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_100_3"
   },
   {
     "date": "2026-09-26",
@@ -468,11 +473,6 @@
     "date": "2026-09-26",
     "template": "q_head_to_head",
     "source_key": "h2h:Dragons-Lions:T20"
-  },
-  {
-    "date": "2026-09-26",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Rhinos:Largest Win by Runs:T20"
   },
   {
     "date": "2026-09-27",
