@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T04:09:07.830227Z",
+  "generated_at": "2026-09-25T08:44:26.698714Z",
   "questions": [
     {
       "type": "curveball",
@@ -15,62 +15,62 @@
       "explanation": "The Unicorns toured SA from 1972 to 1985/86."
     },
     {
-      "type": "guess_player",
-      "question": "Guess the player: 1910 runs in 85 innings (average 24.18, high score 133, 2 centuries) for Badgers. (combined T20 + List A career totals.)",
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Maidens' in the 20/21 season (combined T20 + List A)?",
       "options": [
-        "Annemie Koen",
+        "Alysia Rudolph",
+        "Jané Winster",
+        "Jameelah Shaikjee",
+        "Haroline Rhodes"
+      ],
+      "answer_index": 0,
+      "explanation": "Alysia Rudolph holds it, with a total of 16."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Catches (Fielding)' (List A)?",
+      "options": [
+        "Nonkhululeko Thabethe",
+        "Sunette Loubser",
+        "Yolandi Potgieter",
+        "Alexis le Breton"
+      ],
+      "answer_index": 3,
+      "explanation": "Alexis le Breton holds it, with a total of 61."
+    },
+    {
+      "type": "guess_player",
+      "question": "Guess the player: 1895 runs in 72 innings (average 31.58, high score 138, 4 centuries) for Boland / Cobras. (List A career totals.)",
+      "options": [
+        "Faye Tunnicliffe",
+        "Lara Goodall",
         "Marizanne Kapp",
-        "Cherri Cannon",
         "Bernadine Bezuidenhout"
       ],
       "answer_index": 0,
-      "explanation": "It's Annemie Koen."
+      "explanation": "It's Faye Tunnicliffe."
     },
     {
       "type": "venue_record",
       "question": "At City Oval, who holds the record for 'Most Wickets' (List A)?",
       "options": [
-        "Gugu Ngcobo",
-        "Jameelah Shaikjee",
+        "Sarena Ferreira",
         "Alexandra Candler",
-        "Sarena Ferreira"
+        "Gugu Ngcobo",
+        "Jameelah Shaikjee"
       ],
-      "answer_index": 0,
+      "answer_index": 2,
       "explanation": "Gugu Ngcobo holds it with 14."
     },
     {
-      "type": "player_record",
-      "question": "Who holds the record for 'Most Catches (Fielding)' (combined T20 + List A)?",
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 3 wickets in a match double more times, Robyn Searle or Suné Luus?",
       "options": [
-        "Nonkhululeko Thabethe",
-        "Yolandi Potgieter",
-        "Alexis le Breton",
-        "Nikita Solé"
+        "Robyn Searle",
+        "Suné Luus"
       ],
       "answer_index": 1,
-      "explanation": "Yolandi Potgieter holds it, with a total of 80."
-    },
-    {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the fifty and 3 wickets in a match double more times, Elriesa Theunissen or Khushi Mistry?",
-      "options": [
-        "Elriesa Theunissen",
-        "Khushi Mistry"
-      ],
-      "answer_index": 0,
-      "explanation": "Elriesa Theunissen: 2 times. Khushi Mistry: 1 times."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Faye Tunnicliffe record their career-best bowling figures (5-30, List A)?",
-      "options": [
-        "Old Mutual Sports Club Ground",
-        "Cecil Payne Stadium",
-        "Newlands Stadium",
-        "Pearson High School"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Newlands Stadium, against Lions on 2024/03/23."
+      "explanation": "Robyn Searle: 1 times. Suné Luus: 2 times."
     }
   ]
 }
