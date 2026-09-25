@@ -1,18 +1,30 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-24T08:22:06.481559Z",
+  "generated_at": "2026-09-25T04:09:07.830227Z",
   "questions": [
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Rethabile Motlhanke record their career-best bowling figures (2-25, T20)?",
+      "type": "curveball",
+      "question": "What was the name of the women's rebel team that toured South Africa during the 1970s and 1980s?",
       "options": [
-        "Kimberley Oval",
-        "Pen Basson Field",
-        "CUT Tokkie Park",
-        "St George's Park"
+        "The Cavaliers",
+        "The Unicorns",
+        "The Wanderers",
+        "The Invincibles"
+      ],
+      "answer_index": 1,
+      "explanation": "The Unicorns toured SA from 1972 to 1985/86."
+    },
+    {
+      "type": "guess_player",
+      "question": "Guess the player: 1910 runs in 85 innings (average 24.18, high score 133, 2 centuries) for Badgers. (combined T20 + List A career totals.)",
+      "options": [
+        "Annemie Koen",
+        "Marizanne Kapp",
+        "Cherri Cannon",
+        "Bernadine Bezuidenhout"
       ],
       "answer_index": 0,
-      "explanation": "It was at Kimberley Oval, against Warriors on 2024/10/27."
+      "explanation": "It's Annemie Koen."
     },
     {
       "type": "venue_record",
@@ -49,28 +61,16 @@
       "explanation": "Elriesa Theunissen: 2 times. Khushi Mistry: 1 times."
     },
     {
-      "type": "curveball",
-      "question": "What was the name of the women's rebel team that toured South Africa during the 1970s and 1980s?",
+      "type": "career_best_venue",
+      "question": "At which ground did Faye Tunnicliffe record their career-best bowling figures (5-30, List A)?",
       "options": [
-        "The Cavaliers",
-        "The Unicorns",
-        "The Wanderers",
-        "The Invincibles"
+        "Old Mutual Sports Club Ground",
+        "Cecil Payne Stadium",
+        "Newlands Stadium",
+        "Pearson High School"
       ],
-      "answer_index": 1,
-      "explanation": "The Unicorns toured SA from 1972 to 1985/86."
-    },
-    {
-      "type": "guess_player",
-      "question": "Guess the player: 1910 runs in 85 innings (average 24.18, high score 133, 2 centuries) for Badgers. (combined T20 + List A career totals.)",
-      "options": [
-        "Annemie Koen",
-        "Marizanne Kapp",
-        "Cherri Cannon",
-        "Bernadine Bezuidenhout"
-      ],
-      "answer_index": 0,
-      "explanation": "It's Annemie Koen."
+      "answer_index": 2,
+      "explanation": "It was at Newlands Stadium, against Lions on 2024/03/23."
     }
   ]
 }

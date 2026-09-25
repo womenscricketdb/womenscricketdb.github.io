@@ -1,51 +1,7 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-24T08:22:06.696603Z",
+  "generated_at": "2026-09-25T04:09:08.017871Z",
   "questions": [
-    {
-      "type": "reverse_record",
-      "question": "Tazmin Brits set a database record (22/23 season, List A) with a value of 478. Which record is it?",
-      "options": [
-        "Best Bowling Figures in an Innings",
-        "Fastest 100 (by balls)",
-        "Most Runs",
-        "Most 100+ Scores"
-      ],
-      "answer_index": 2,
-      "explanation": "It's the record for 'Most Runs', held by Tazmin Brits."
-    },
-    {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the century and 3 wickets in a match double more times, Alicia Smith or Susan Benade?",
-      "options": [
-        "Alicia Smith",
-        "Susan Benade"
-      ],
-      "answer_index": 1,
-      "explanation": "Alicia Smith: 1 times. Susan Benade: 2 times."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Willowmoore Park Main Oval, who holds the record for 'Most Runs' (T20)?",
-      "options": [
-        "Robyn Dormehl",
-        "Carmen Nagel",
-        "Madison Landsman",
-        "Verunissa Reddy"
-      ],
-      "answer_index": 3,
-      "explanation": "Verunissa Reddy holds it with 114."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Lions or Dragons?",
-      "options": [
-        "Dragons",
-        "Lions"
-      ],
-      "answer_index": 1,
-      "explanation": "Lions lead 8-3 across 13 meetings (T20)."
-    },
     {
       "type": "curveball",
       "question": "Which team has finished runner-up more times than any other in this database (7), despite winning the title only twice in that span?",
@@ -59,16 +15,62 @@
       "explanation": "Lions finished runner-up 7 times across List A and T20 Division 1 between 2012/13 and 2025/26, but won the title only twice."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Selaelo Mphahele record their career-best innings (26, T20)?",
+      "type": "magnitude_gap",
+      "question": "How many sixes separate the all-time #1 (Sunette Loubser) and #2 (Susan Benade) six-hitters (combined T20 + List A) in the 11/12 season?",
       "options": [
-        "Willowmoore Park B Field",
-        "Polokwane Oval",
-        "Irene Villagers Ground",
-        "St Andrews A"
+        "7",
+        "5",
+        "3",
+        "1"
+      ],
+      "answer_index": 3,
+      "explanation": "Sunette Loubser: 9 — Susan Benade: 8 — a gap of 1."
+    },
+    {
+      "type": "reverse_record",
+      "question": "Gezelle Jansen van Rensburg set a database record (18/19 season, List A) with a value of 30. Which record is it?",
+      "options": [
+        "Most Wickets",
+        "Most Wicketkeeping Dismissals",
+        "Most Matches as Captain",
+        "Fastest 50 (by balls)"
+      ],
+      "answer_index": 3,
+      "explanation": "It's the record for 'Fastest 50 (by balls)', held by Gezelle Jansen van Rensburg."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the century and 3 wickets in a match double more times, Alicia Smith or Susan Benade?",
+      "options": [
+        "Alicia Smith",
+        "Susan Benade"
       ],
       "answer_index": 1,
-      "explanation": "It was at Polokwane Oval, against Limpopo Lillies on 2013/10/06."
+      "explanation": "Alicia Smith: 1 times. Susan Benade: 2 times."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Willowmoore Park Main Oval, who holds the record for 'Most Wickets' (List A)?",
+      "options": [
+        "Adele van Eck",
+        "Suné Luus",
+        "Zante Steyn",
+        "Sibongile Makamo"
+      ],
+      "answer_index": 0,
+      "explanation": "Adele van Eck holds it with 17."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Gugu Ngcobo record their career-best innings (33*, T20)?",
+      "options": [
+        "UFS 4 Oval",
+        "Potchefstroom Oval",
+        "Uplands College",
+        "City Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at City Oval, against Heat on 2022/02/06."
     }
   ]
 }
