@@ -1,40 +1,18 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-26T04:13:50.472162Z",
+  "generated_at": "2026-09-26T08:30:50.418285Z",
   "questions": [
     {
-      "type": "curveball",
-      "question": "Who was the youngest player to make her ODI debut for South Africa?",
+      "type": "career_best_venue",
+      "question": "At which ground did Wandile Xulu record their career-best innings (32, List A)?",
       "options": [
-        "Marizanne Kapp",
-        "Laura Wolvaardt",
-        "Johmari Logtenberg",
-        "Dané van Niekerk"
-      ],
-      "answer_index": 2,
-      "explanation": "Logtenberg was 14 years, 172 days when she made her ODI debut in 2003"
-    },
-    {
-      "type": "reverse_record",
-      "question": "Cobras set a database record (24/25 season, T20) with a value of 198. Which record is it?",
-      "options": [
-        "Highest Team Total",
-        "Most Wins",
-        "Biggest Win by Runs",
-        "Lowest Team Total (all out or completed innings)"
+        "City Oval",
+        "Recreation Ground",
+        "Northerns Cricket Club A Ground",
+        "Northerns Cricket Club A Ground"
       ],
       "answer_index": 0,
-      "explanation": "It's the record for 'Highest Team Total', held by Cobras."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Heat or Iinyathi?",
-      "options": [
-        "Heat",
-        "Iinyathi"
-      ],
-      "answer_index": 1,
-      "explanation": "Iinyathi lead 8-1 across 9 meetings (List A)."
+      "explanation": "It was at City Oval, against Limpopo Lillies on 2024/11/09."
     },
     {
       "type": "magnitude_gap",
@@ -52,25 +30,47 @@
       "type": "team_record_venue",
       "question": "At which ground did Knights record their 'Highest Total' (List A)?",
       "options": [
-        "Steyn School",
-        "Fichardtpark",
-        "Kingsmead stadium",
+        "Old Mutual Sports Club Ground",
+        "St. Andrews Chapel",
+        "Victory Park",
         "Bloemfontein Oval"
       ],
       "answer_index": 3,
       "explanation": "It was at Bloemfontein Oval — highest total of 427, against Kei on 2018/11/24."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did L Mgijima record their career-best bowling figures (2-8, List A)?",
+      "type": "curveball",
+      "question": "Who was the youngest player to make her ODI debut for South Africa?",
       "options": [
-        "Langenhoven Gimnasium",
-        "Buffalo Park",
-        "Khaya Majola Oval",
-        "Kimberley Boys' High School"
+        "Marizanne Kapp",
+        "Laura Wolvaardt",
+        "Johmari Logtenberg",
+        "Dané van Niekerk"
       ],
       "answer_index": 2,
-      "explanation": "It was at Khaya Majola Oval, against Kei on 2015/02/21."
+      "explanation": "Logtenberg was 14 years, 172 days when she made her ODI debut in 2003"
+    },
+    {
+      "type": "venue_record",
+      "question": "At Willowmoore Park Main Oval, who holds the record for 'Most Runs' (List A)?",
+      "options": [
+        "Marlene Grieb",
+        "Bernadette Greeff",
+        "Nicole Daniels",
+        "Adele van Eck"
+      ],
+      "answer_index": 3,
+      "explanation": "Adele van Eck holds it with 216."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Heat or Iinyathi?",
+      "options": [
+        "Heat",
+        "Iinyathi"
+      ],
+      "answer_index": 1,
+      "explanation": "Iinyathi lead 8-1 across 9 meetings (List A)."
     }
   ]
 }
