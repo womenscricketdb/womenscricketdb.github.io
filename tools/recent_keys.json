@@ -1,105 +1,5 @@
 [
   {
-    "date": "2026-09-06",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/Highest_Score.json"
-  },
-  {
-    "date": "2026-09-06",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Boland:Largest Win by Runs:T20"
-  },
-  {
-    "date": "2026-09-06",
-    "template": "q_reverse_record",
-    "source_key": "records/bowling/json/Most_Maidens.json"
-  },
-  {
-    "date": "2026-09-06",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Limpopo Lillies-Rhinos:List A"
-  },
-  {
-    "date": "2026-09-06",
-    "template": "q_doubles_higher_lower",
-    "source_key": "D_50_5"
-  },
-  {
-    "date": "2026-09-07",
-    "template": "q_reverse_record",
-    "source_key": "records/team/json/Highest_Total.json"
-  },
-  {
-    "date": "2026-09-07",
-    "template": "q_player_record",
-    "source_key": "records/fielding/json/Field_Catches.json"
-  },
-  {
-    "date": "2026-09-07",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dragons:Largest Win by Runs:List A"
-  },
-  {
-    "date": "2026-09-07",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Zintle Kula"
-  },
-  {
-    "date": "2026-09-07",
-    "template": "q_doubles_higher_lower",
-    "source_key": "D_100_3"
-  },
-  {
-    "date": "2026-09-08",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Dolphins-Tuskers:List A"
-  },
-  {
-    "date": "2026-09-08",
-    "template": "q_reverse_record",
-    "source_key": "records/team/json/Lowest_Total.json"
-  },
-  {
-    "date": "2026-09-08",
-    "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
-  },
-  {
-    "date": "2026-09-08",
-    "template": "q_player_record",
-    "source_key": "records/bowling/json/Most_Maidens.json"
-  },
-  {
-    "date": "2026-09-08",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Western Province:Highest Total:T20"
-  },
-  {
-    "date": "2026-09-09",
-    "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
-  },
-  {
-    "date": "2026-09-09",
-    "template": "q_player_record",
-    "source_key": "records/bowling/json/Most_5Wickets.json"
-  },
-  {
-    "date": "2026-09-09",
-    "template": "q_player_record",
-    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
-  },
-  {
-    "date": "2026-09-09",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Dolphins-Knights:T20"
-  },
-  {
-    "date": "2026-09-09",
-    "template": "q_doubles_higher_lower",
-    "source_key": "D_150_3"
-  },
-  {
     "date": "2026-09-10",
     "template": "q_player_record",
     "source_key": "records/misc/json/Matches_Captained.json"
@@ -407,7 +307,7 @@
   {
     "date": "2026-09-22",
     "template": "q_player_record",
-    "source_key": "records/batting/json/Most_Runs.json"
+    "source_key": "records/bowling/json/Best_Bowl_Average.json"
   },
   {
     "date": "2026-09-22",
@@ -422,7 +322,7 @@
   {
     "date": "2026-09-22",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Bronwyn Sumption"
+    "source_key": "career_best_venue:Jenna Evans"
   },
   {
     "date": "2026-09-23",
@@ -441,62 +341,162 @@
   },
   {
     "date": "2026-09-23",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_50_5"
+  },
+  {
+    "date": "2026-09-23",
     "template": "q_reverse_record",
     "source_key": "records/fielding/json/Field_Catches.json"
   },
   {
-    "date": "2026-09-23",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/misc/json/Most_Matches.json:List A:OVERALL"
+    "date": "2026-09-24",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Highest_Score.json"
   },
   {
     "date": "2026-09-24",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Limpopo Lillies:Largest Win by Runs:List A"
+    "source_key": "team_record_venue:Heat:Largest Win by Runs:T20"
+  },
+  {
+    "date": "2026-09-24",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Runs.json"
   },
   {
     "date": "2026-09-24",
     "template": "q_venue_record",
-    "source_key": "venue:Willowmoore Park Main Oval"
+    "source_key": "venue:Centurion Park"
   },
   {
     "date": "2026-09-24",
     "template": "q_head_to_head",
-    "source_key": "h2h:Cobras-Dragons:T20"
+    "source_key": "h2h:Badgers-Titans:List A"
   },
   {
-    "date": "2026-09-24",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Lara Goodall"
+    "date": "2026-09-25",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Most_Maidens.json"
   },
   {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
+    "template": "q_player_record",
+    "source_key": "records/fielding/json/Field_Catches.json"
+  },
+  {
+    "date": "2026-09-25",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_50_3"
+  },
+  {
+    "date": "2026-09-25",
     "template": "q_guess_player_from_stats",
     "source_key": "guess_player_from_stats"
   },
   {
     "date": "2026-09-25",
     "template": "q_venue_record",
-    "source_key": "venue:Centurion Park"
+    "source_key": "venue:City Oval"
   },
   {
-    "date": "2026-09-25",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Lerato Langa"
+    "date": "2026-09-26",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_100_3"
   },
   {
-    "date": "2026-09-25",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
-  },
-  {
-    "date": "2026-09-25",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Heat-Limpopo Lillies:List A"
-  },
-  {
-    "date": "2026-09-25",
-    "template": "q_reverse_record",
+    "date": "2026-09-26",
+    "template": "q_player_record",
     "source_key": "records/bowling/json/Best_Bowl_Performance.json"
+  },
+  {
+    "date": "2026-09-26",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Most_5Wickets.json"
+  },
+  {
+    "date": "2026-09-26",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Gugu Ngcobo"
+  },
+  {
+    "date": "2026-09-26",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/batting/json/Most_Sixes.json:OVERALL:11/12"
+  },
+  {
+    "date": "2026-09-27",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Dolphins:Largest Win by Runs:List A"
+  },
+  {
+    "date": "2026-09-27",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_150_3"
+  },
+  {
+    "date": "2026-09-27",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Melissa van der Merwe"
+  },
+  {
+    "date": "2026-09-27",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/misc/json/Most_Matches.json:OVERALL:OVERALL"
+  },
+  {
+    "date": "2026-09-27",
+    "template": "q_reverse_record",
+    "source_key": "records/bowling/json/Most_Maidens.json"
+  },
+  {
+    "date": "2026-09-28",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Cobras-Titans:List A"
+  },
+  {
+    "date": "2026-09-28",
+    "template": "q_reverse_record",
+    "source_key": "records/batting/json/100Plus_Scores.json"
+  },
+  {
+    "date": "2026-09-28",
+    "template": "q_venue_record",
+    "source_key": "venue:Potchefstroom Oval"
+  },
+  {
+    "date": "2026-09-28",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Anneke Bosch"
+  },
+  {
+    "date": "2026-09-28",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/batting/json/50Plus_Scores.json:T20:22/23"
+  },
+  {
+    "date": "2026-09-29",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/batting/json/100Plus_Scores.json:T20:OVERALL"
+  },
+  {
+    "date": "2026-09-29",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Knights:Highest Total:List A"
+  },
+  {
+    "date": "2026-09-29",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Heat-Iinyathi:List A"
+  },
+  {
+    "date": "2026-09-29",
+    "template": "q_venue_record",
+    "source_key": "venue:Willowmoore Park Main Oval"
+  },
+  {
+    "date": "2026-09-29",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Wandile Xulu"
   }
 ]

@@ -1,31 +1,7 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-22T04:02:48.483375Z",
+  "generated_at": "2026-09-23T08:29:35.104982Z",
   "questions": [
-    {
-      "type": "which_union",
-      "question": "Which of these unions has Sunette Loubser actually played for?",
-      "options": [
-        "Cobras",
-        "Tuskers",
-        "Limpopo Lillies",
-        "Boland"
-      ],
-      "answer_index": 3,
-      "explanation": "Sunette Loubser has represented: Boland."
-    },
-    {
-      "type": "magnitude_gap",
-      "question": "How many matches played separate the all-time #1 (Nonkhululeko Thabethe) and #2 (Geneveve Fritz) players (List A)?",
-      "options": [
-        "7",
-        "5",
-        "12",
-        "3"
-      ],
-      "answer_index": 3,
-      "explanation": "Nonkhululeko Thabethe: 154 — Geneveve Fritz: 151 — a gap of 3."
-    },
     {
       "type": "team_record",
       "question": "Which provincial union holds the record for 'Most Wins' (combined T20 + List A)?",
@@ -39,16 +15,14 @@
       "explanation": "Cobras — 227."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did S Potgieter record their career-best innings (34, List A)?",
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 5 wickets in a match double more times, Natalie Archer or Dané van Niekerk?",
       "options": [
-        "Varsity Oval",
-        "Braam Fisherville Ground",
-        "Landau Rec Oval",
-        "City Oval"
+        "Natalie Archer",
+        "Dané van Niekerk"
       ],
-      "answer_index": 3,
-      "explanation": "It was at City Oval, against Dragons on 2007/01/13."
+      "answer_index": 1,
+      "explanation": "Natalie Archer: 1 times. Dané van Niekerk: 2 times."
     },
     {
       "type": "reverse_record",
@@ -63,6 +37,18 @@
       "explanation": "It's the record for 'Most Catches (Fielding)', held by Nondumiso Shangase."
     },
     {
+      "type": "which_union",
+      "question": "Which of these unions has Sunette Loubser actually played for?",
+      "options": [
+        "Cobras",
+        "Tuskers",
+        "Limpopo Lillies",
+        "Boland"
+      ],
+      "answer_index": 3,
+      "explanation": "Sunette Loubser has represented: Boland."
+    },
+    {
       "type": "curveball",
       "question": "Which player in the database (2005 onwards) only represented South Africa in the test format?",
       "options": [
@@ -73,6 +59,18 @@
       ],
       "answer_index": 1,
       "explanation": "Jacobs played two tests against England in August 2003 and was active in provincial cricket until 2022."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did S Potgieter record their career-best innings (34, List A)?",
+      "options": [
+        "Varsity Oval",
+        "Braam Fisherville Ground",
+        "Landau Rec Oval",
+        "City Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at City Oval, against Dragons on 2007/01/13."
     }
   ]
 }
