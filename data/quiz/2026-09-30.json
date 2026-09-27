@@ -1,18 +1,18 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-27T04:29:21.588857Z",
+  "generated_at": "2026-09-27T09:10:05.673430Z",
   "questions": [
     {
       "type": "venue_record",
-      "question": "At Willowmoore Park Main Oval, who holds the record for 'Most Matches' (List A)?",
+      "question": "At Potchefstroom Oval, who holds the record for 'Most Matches' (List A)?",
       "options": [
-        "Adele van Eck",
-        "Jennifer Hall",
-        "Sibongile Makamo",
-        "Kayleigh Craig"
+        "Alyssa Erxleben",
+        "Lizri de Villiers",
+        "Tazmin Brits",
+        "Nthabiseng Nini"
       ],
       "answer_index": 3,
-      "explanation": "Kayleigh Craig holds it with 9."
+      "explanation": "Nthabiseng Nini holds it with 15."
     },
     {
       "type": "curveball",
@@ -27,6 +27,18 @@
       "explanation": "South Africa beat Australia for the first time in a T20I at Manuka Oval, Canberra, on 28 January 2024, having lost 22 of the previous 23 meetings and tied one, in 2016."
     },
     {
+      "type": "career_best_venue",
+      "question": "At which ground did Megan Wessels record their career-best innings (56, List A)?",
+      "options": [
+        "CUT Tokkie Park",
+        "CBC Oval",
+        "St. Andrews Vossie",
+        "City Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at City Oval, against Limpopo Lillies on 2022/10/29."
+    },
+    {
       "type": "head_to_head",
       "question": "In head-to-head T20 meetings, who has the edge, Eastern Storm or Limpopo Lillies?",
       "options": [
@@ -37,40 +49,26 @@
       "explanation": "Eastern Storm lead 12-0 across 12 meetings (T20)."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Mary-Anne Musonda record their career-best bowling figures (3-18, List A)?",
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the century and 4 wickets in a match double more times, Suné Luus or Mieke van Voorst?",
       "options": [
-        "Victory Park",
-        "City Oval",
-        "UFS 2 Oval",
-        "Kingsmead stadium"
+        "Suné Luus",
+        "Mieke van Voorst"
       ],
-      "answer_index": 1,
-      "explanation": "It was at City Oval, against Knights on 2013/11/09."
-    },
-    {
-      "type": "reverse_record",
-      "question": "Annelie Minny set a database record (13/14 season, T20) with a value of 57. Which record is it?",
-      "options": [
-        "Most Runs",
-        "Fastest 100 (by balls)",
-        "Most Catches (Fielding)",
-        "Most Sixes"
-      ],
-      "answer_index": 1,
-      "explanation": "It's the record for 'Fastest 100 (by balls)', held by Annelie Minny."
+      "answer_index": 0,
+      "explanation": "Suné Luus: 2 times. Mieke van Voorst: 1 times."
     },
     {
       "type": "team_record_venue",
-      "question": "At which ground did Dolphins record their 'Highest Total' (List A)?",
+      "question": "At which ground did Tuskers record their 'Highest Total' (T20)?",
       "options": [
+        "Polokwane Oval",
         "Witrand Cricket Field",
-        "Despatch Oval",
-        "Recreation Ground",
-        "Polokwane Oval"
+        "City Oval",
+        "Recreation Ground"
       ],
-      "answer_index": 3,
-      "explanation": "It was at Polokwane Oval — highest total of 369, against Limpopo Lillies on 2017/11/11."
+      "answer_index": 2,
+      "explanation": "It was at City Oval — highest total of 137, against Rhinos on 2015/03/15."
     }
   ]
 }
