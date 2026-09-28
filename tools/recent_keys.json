@@ -411,18 +411,18 @@
   },
   {
     "date": "2026-09-28",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Most_Wickets.json"
+  },
+  {
+    "date": "2026-09-28",
     "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
+    "source_key": "venue:Potchefstroom Oval"
   },
   {
     "date": "2026-09-28",
     "template": "q_career_best_venue",
     "source_key": "career_best_venue:Anneke Bosch"
-  },
-  {
-    "date": "2026-09-28",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/50Plus_Scores.json:T20:22/23"
   },
   {
     "date": "2026-09-29",
@@ -457,7 +457,7 @@
   {
     "date": "2026-09-30",
     "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
+    "source_key": "venue:St George's Park"
   },
   {
     "date": "2026-09-30",
