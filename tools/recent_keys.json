@@ -406,8 +406,13 @@
   },
   {
     "date": "2026-09-29",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Fastest_100.json"
+  },
+  {
+    "date": "2026-09-29",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Knights:Highest Total:List A"
+    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
   },
   {
     "date": "2026-09-29",
@@ -417,12 +422,7 @@
   {
     "date": "2026-09-29",
     "template": "q_venue_record",
-    "source_key": "venue:Polokwane Oval"
-  },
-  {
-    "date": "2026-09-29",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Wandile Xulu"
+    "source_key": "venue:Kingsmead stadium"
   },
   {
     "date": "2026-09-30",
@@ -497,6 +497,6 @@
   {
     "date": "2026-10-02",
     "template": "q_venue_record",
-    "source_key": "venue:Willowmoore Park Main Oval"
+    "source_key": "venue:St George's Park"
   }
 ]
