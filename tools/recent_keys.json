@@ -422,12 +422,17 @@
   {
     "date": "2026-10-02",
     "template": "q_venue_record",
-    "source_key": "venue:Wanderers"
+    "source_key": "venue:Khaya Majola Oval"
   },
   {
     "date": "2026-10-03",
     "template": "q_head_to_head",
     "source_key": "h2h:Badgers-Warriors:List A"
+  },
+  {
+    "date": "2026-10-03",
+    "template": "q_team_record",
+    "source_key": "records/team/json/Win_By_Runs.json"
   },
   {
     "date": "2026-10-03",
@@ -442,12 +447,7 @@
   {
     "date": "2026-10-03",
     "template": "q_venue_record",
-    "source_key": "venue:Buffalo Park"
-  },
-  {
-    "date": "2026-10-03",
-    "template": "q_reverse_record",
-    "source_key": "records/team/json/Highest_Total.json"
+    "source_key": "venue:Willowmoore Park Main Oval"
   },
   {
     "date": "2026-10-04",
@@ -462,17 +462,17 @@
   {
     "date": "2026-10-04",
     "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
+    "source_key": "venue:Buffalo Park"
   },
   {
     "date": "2026-10-04",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Cobras-Dolphins:T20"
+    "template": "q_reverse_record",
+    "source_key": "records/team/json/Highest_Total.json"
   },
   {
     "date": "2026-10-04",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dragons:Highest Total:List A"
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/misc/json/Most_Matches.json:OVERALL:OVERALL"
   },
   {
     "date": "2026-10-05",
@@ -492,7 +492,7 @@
   {
     "date": "2026-10-05",
     "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
+    "source_key": "venue:Newlands Stadium"
   },
   {
     "date": "2026-10-05",

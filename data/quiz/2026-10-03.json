@@ -1,18 +1,18 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-02T04:48:42.020479Z",
+  "generated_at": "2026-10-02T09:39:29.467648Z",
   "questions": [
     {
-      "type": "venue_record",
-      "question": "At Buffalo Park, who holds the record for 'Most Matches' (T20)?",
+      "type": "career_best_venue",
+      "question": "At which ground did Diyanka Naidoo record their career-best bowling figures (5-48, List A)?",
       "options": [
-        "Siyolise Fawuli",
-        "Sisipho Siswana",
-        "Geneveve Fritz",
-        "Siyamanga Mhletywa"
+        "Kingsmead stadium",
+        "Potchefstroom Oval",
+        "Willowmoore Park B Field",
+        "Sinovich Park"
       ],
-      "answer_index": 2,
-      "explanation": "Geneveve Fritz holds it with 15."
+      "answer_index": 1,
+      "explanation": "It was at Potchefstroom Oval, against Dragons on 2019/11/09."
     },
     {
       "type": "magnitude_gap",
@@ -49,28 +49,28 @@
       "explanation": "Warriors lead 14-6 across 23 meetings (List A)."
     },
     {
-      "type": "reverse_record",
-      "question": "Knights set a database record (09/10 season, combined T20 + List A) with a value of 329. Which record is it?",
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Biggest Win by Runs' in the 17/18 season (combined T20 + List A)?",
       "options": [
-        "Most Wins",
-        "Biggest Win by Runs",
-        "Highest Team Total",
-        "Lowest Team Total (all out or completed innings)"
+        "Eastern Storm",
+        "Heat",
+        "Dolphins",
+        "Boland"
       ],
       "answer_index": 2,
-      "explanation": "It's the record for 'Highest Team Total', held by Knights."
+      "explanation": "Dolphins — 301."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Diyanka Naidoo record their career-best bowling figures (5-48, List A)?",
+      "type": "venue_record",
+      "question": "At Willowmoore Park Main Oval, who holds the record for 'Most Matches' (T20)?",
       "options": [
-        "Kingsmead stadium",
-        "Potchefstroom Oval",
-        "Willowmoore Park B Field",
-        "Sinovich Park"
+        "Verunissa Reddy",
+        "Kayleigh Craig",
+        "Jennifer Hall",
+        "Bernadette Greeff"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Potchefstroom Oval, against Dragons on 2019/11/09."
+      "answer_index": 2,
+      "explanation": "Jennifer Hall holds it with 11."
     }
   ]
 }
