@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-09-17",
-    "template": "q_venue_record",
-    "source_key": "venue:Boland Park, Paarl"
-  },
-  {
-    "date": "2026-09-17",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Badgers-Cobras:List A"
-  },
-  {
-    "date": "2026-09-17",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/Most_Sixes.json"
-  },
-  {
-    "date": "2026-09-17",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/Fastest_50.json"
-  },
-  {
-    "date": "2026-09-17",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Tuskers:Largest Win by Runs:T20"
-  },
-  {
     "date": "2026-09-18",
     "template": "q_venue_record",
     "source_key": "venue:Bloemfontein Oval"
@@ -437,7 +412,7 @@
   {
     "date": "2026-10-04",
     "template": "q_venue_record",
-    "source_key": "venue:Willowmoore Park Main Oval"
+    "source_key": "venue:Wanderers"
   },
   {
     "date": "2026-10-04",
@@ -467,7 +442,7 @@
   {
     "date": "2026-10-05",
     "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
+    "source_key": "venue:Willowmoore Park Main Oval"
   },
   {
     "date": "2026-10-05",
@@ -487,7 +462,7 @@
   {
     "date": "2026-10-06",
     "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
+    "source_key": "venue:Newlands Stadium"
   },
   {
     "date": "2026-10-06",
@@ -498,5 +473,30 @@
     "date": "2026-10-06",
     "template": "q_reverse_record",
     "source_key": "records/batting/json/Fastest_100.json"
+  },
+  {
+    "date": "2026-10-07",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Lions-Rhinos:List A"
+  },
+  {
+    "date": "2026-10-07",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Tuskers:Highest Total:T20"
+  },
+  {
+    "date": "2026-10-07",
+    "template": "q_venue_record",
+    "source_key": "venue:St George's Park"
+  },
+  {
+    "date": "2026-10-07",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/bowling/json/Most_Wickets.json:OVERALL:09/10"
+  },
+  {
+    "date": "2026-10-07",
+    "template": "q_reverse_record",
+    "source_key": "records/batting/json/Fastest_50.json"
   }
 ]

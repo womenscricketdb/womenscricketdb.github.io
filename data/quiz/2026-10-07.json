@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-04T05:03:15.892069Z",
+  "questions": [
+    {
+      "type": "reverse_record",
+      "question": "Susan Benade set a database record (14/15 season, T20) with a value of 28. Which record is it?",
+      "options": [
+        "Fastest 100 (by balls)",
+        "Most Matches Played",
+        "Most Runs",
+        "Fastest 50 (by balls)"
+      ],
+      "answer_index": 3,
+      "explanation": "It's the record for 'Fastest 50 (by balls)', held by Susan Benade."
+    },
+    {
+      "type": "curveball",
+      "question": "Which player is the only one to ever score 150 runs and take 5 wickets in a single match?",
+      "options": [
+        "Shabnim Ismail",
+        "Marizanne Kapp",
+        "Sune Luus",
+        "Susan Benade"
+      ],
+      "answer_index": 1,
+      "explanation": "Marizanne Kapp is the only player in the database to combine a 150-run score with a 5-wicket haul in the same innings, doing so against Kei on 16 January 2011 (163 runs, 6 for 6)."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many wickets separate the all-time #1 (Chloé Tryon) and #2 (Rasika Maharaj) wicket-takers (combined T20 + List A) in the 09/10 season?",
+      "options": [
+        "10",
+        "6",
+        "15",
+        "8"
+      ],
+      "answer_index": 1,
+      "explanation": "Chloé Tryon: 24 — Rasika Maharaj: 18 — a gap of 6."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Tuskers record their 'Highest Total' (T20)?",
+      "options": [
+        "City Oval",
+        "UP 2 Oval",
+        "Woodlands",
+        "The Vineyard"
+      ],
+      "answer_index": 0,
+      "explanation": "It was at City Oval — highest total of 137, against Rhinos on 2015/03/15."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Lions or Rhinos?",
+      "options": [
+        "Lions",
+        "Rhinos"
+      ],
+      "answer_index": 0,
+      "explanation": "Lions lead 11-0 across 15 meetings (List A)."
+    },
+    {
+      "type": "venue_record",
+      "question": "At St George's Park, who holds the record for 'Most Runs' (T20)?",
+      "options": [
+        "Amber Botha",
+        "Jana Nell",
+        "Aluncedo Dunga",
+        "Asakhe Nyovane"
+      ],
+      "answer_index": 1,
+      "explanation": "Jana Nell holds it with 175."
+    }
+  ]
+}
