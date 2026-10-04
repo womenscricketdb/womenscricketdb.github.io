@@ -412,12 +412,12 @@
   {
     "date": "2026-10-04",
     "template": "q_venue_record",
-    "source_key": "venue:Wanderers"
+    "source_key": "venue:Buffalo Park"
   },
   {
     "date": "2026-10-04",
     "template": "q_player_record",
-    "source_key": "records/misc/json/Most_Matches.json"
+    "source_key": "records/batting/json/Fastest_50.json"
   },
   {
     "date": "2026-10-04",
@@ -431,23 +431,23 @@
   },
   {
     "date": "2026-10-05",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Sixes.json"
+  },
+  {
+    "date": "2026-10-05",
+    "template": "q_player_record",
+    "source_key": "records/misc/json/Most_Matches.json"
+  },
+  {
+    "date": "2026-10-05",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Michelle Schoeman"
+    "source_key": "career_best_venue:Shakira Mohammed"
   },
   {
     "date": "2026-10-05",
     "template": "q_head_to_head",
-    "source_key": "h2h:Limpopo Lillies-Tuskers:T20"
-  },
-  {
-    "date": "2026-10-05",
-    "template": "q_venue_record",
-    "source_key": "venue:Willowmoore Park Main Oval"
-  },
-  {
-    "date": "2026-10-05",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Limpopo Lillies:Highest Total:T20"
+    "source_key": "h2h:Knights-Lions:List A"
   },
   {
     "date": "2026-10-06",
@@ -462,7 +462,7 @@
   {
     "date": "2026-10-06",
     "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
+    "source_key": "venue:Wanderers"
   },
   {
     "date": "2026-10-06",
@@ -487,7 +487,7 @@
   {
     "date": "2026-10-07",
     "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
+    "source_key": "venue:Willowmoore Park Main Oval"
   },
   {
     "date": "2026-10-07",
