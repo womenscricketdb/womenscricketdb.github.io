@@ -1,18 +1,16 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T05:35:42.839496Z",
+  "generated_at": "2026-10-06T10:07:44.055017Z",
   "questions": [
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Knights record their 'Largest Win by Runs' (T20)?",
+      "type": "higher_lower",
+      "question": "Who has more wickets — Masabata Klaas or Raessa van der Westhuizen? (T20.)",
       "options": [
-        "Schoeman Park A Ground",
-        "Bloemfontein Oval",
-        "Windmill Park",
-        "Yorkshire Cricket Club Ground"
+        "Masabata Klaas",
+        "Raessa van der Westhuizen"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Bloemfontein Oval — largest win by runs of 136, against Kei on 2018/11/25."
+      "answer_index": 0,
+      "explanation": "Masabata Klaas: 49 — Raessa van der Westhuizen: 8."
     },
     {
       "type": "curveball",
@@ -27,50 +25,50 @@
       "explanation": "That's Sunette Viljoen-Louw, an Olympic silver medallist (Rio 2016) and two-time World Championship medallist in javelin, who returned to domestic cricket over 20 years after her only Test cap."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Amanda Ngcobo record their career-best bowling figures (4-9, T20)?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Wicketkeeping Dismissals' (T20)?",
       "options": [
-        "Uplands College",
-        "Langenhoven Gimnasium",
-        "Willowmoore Park Main Oval",
-        "Recreation Ground"
+        "Babette de Leede",
+        "Palesa Mapoo",
+        "Mieke de Ridder",
+        "Tebogo Macheke"
       ],
       "answer_index": 2,
-      "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2022/10/02."
+      "explanation": "Mieke de Ridder holds it, with a total of 36."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Alacia Giles record their career-best bowling figures (2-6, T20)?",
+      "options": [
+        "Willowmoore Park A Field",
+        "City Oval",
+        "Polokwane Oval",
+        "Columbus Oval"
+      ],
+      "answer_index": 1,
+      "explanation": "It was at City Oval, against Tuskers on 2019/11/03."
     },
     {
       "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Eastern Storm or Rhinos?",
+      "question": "In head-to-head List A meetings, who has the edge, Warriors or Kei?",
       "options": [
-        "Rhinos",
-        "Eastern Storm"
+        "Kei",
+        "Warriors"
       ],
       "answer_index": 1,
-      "explanation": "Eastern Storm lead 14-7 across 23 meetings (List A)."
-    },
-    {
-      "type": "reverse_record",
-      "question": "Kirstie Thomson set a database record (12/13 season, combined T20 + List A) with a value of 58. Which record is it?",
-      "options": [
-        "Fastest 100 (by balls)",
-        "Best Bowling Average",
-        "Most Fours",
-        "Most Matches as Captain"
-      ],
-      "answer_index": 0,
-      "explanation": "It's the record for 'Fastest 100 (by balls)', held by Kirstie Thomson."
+      "explanation": "Warriors lead 19-0 across 19 meetings (List A)."
     },
     {
       "type": "venue_record",
-      "question": "At Newlands Stadium, who holds the record for 'Most Matches' (List A)?",
+      "question": "At Newlands Stadium, who holds the record for 'Most Runs' (T20)?",
       "options": [
+        "Nadine de Klerk",
         "Faye Tunnicliffe",
         "Delmi Tucker",
-        "Nosipho Vezi",
-        "Tatum le Roux"
+        "Kelsey Adams"
       ],
-      "answer_index": 2,
-      "explanation": "Nosipho Vezi holds it with 19, a joint record shared with Leah Jones."
+      "answer_index": 1,
+      "explanation": "Faye Tunnicliffe holds it with 605."
     }
   ]
 }

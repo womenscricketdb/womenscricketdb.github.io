@@ -401,28 +401,28 @@
   },
   {
     "date": "2026-10-06",
+    "template": "q_player_record",
+    "source_key": "records/fielding/json/WK_Dismissals.json"
+  },
+  {
+    "date": "2026-10-06",
     "template": "q_head_to_head",
-    "source_key": "h2h:Eastern Storm-Rhinos:List A"
+    "source_key": "h2h:Kei-Warriors:List A"
   },
   {
     "date": "2026-10-06",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Amanda Ngcobo"
+    "source_key": "career_best_venue:Alacia Giles"
+  },
+  {
+    "date": "2026-10-06",
+    "template": "q_higher_or_lower",
+    "source_key": "higher_or_lower"
   },
   {
     "date": "2026-10-06",
     "template": "q_venue_record",
     "source_key": "venue:Newlands Stadium"
-  },
-  {
-    "date": "2026-10-06",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Knights:Largest Win by Runs:T20"
-  },
-  {
-    "date": "2026-10-06",
-    "template": "q_reverse_record",
-    "source_key": "records/batting/json/Fastest_100.json"
   },
   {
     "date": "2026-10-07",
@@ -437,7 +437,7 @@
   {
     "date": "2026-10-07",
     "template": "q_venue_record",
-    "source_key": "venue:Boland Park, Paarl"
+    "source_key": "venue:Wanderers"
   },
   {
     "date": "2026-10-07",
@@ -457,7 +457,7 @@
   {
     "date": "2026-10-08",
     "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
+    "source_key": "venue:Willowmoore Park Main Oval"
   },
   {
     "date": "2026-10-08",
@@ -482,7 +482,7 @@
   {
     "date": "2026-10-09",
     "template": "q_venue_record",
-    "source_key": "venue:Bloemfontein Oval"
+    "source_key": "venue:Recreation Ground"
   },
   {
     "date": "2026-10-09",
