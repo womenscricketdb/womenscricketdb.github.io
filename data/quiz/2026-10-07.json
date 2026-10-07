@@ -1,30 +1,16 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T05:05:43.211689Z",
+  "generated_at": "2026-10-07T10:09:13.394866Z",
   "questions": [
     {
-      "type": "reverse_record",
-      "question": "Susan Benade set a database record (14/15 season, T20) with a value of 28. Which record is it?",
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Lions or Rhinos?",
       "options": [
-        "Fastest 100 (by balls)",
-        "Most Matches Played",
-        "Most Runs",
-        "Fastest 50 (by balls)"
+        "Lions",
+        "Rhinos"
       ],
-      "answer_index": 3,
-      "explanation": "It's the record for 'Fastest 50 (by balls)', held by Susan Benade."
-    },
-    {
-      "type": "curveball",
-      "question": "Which player is the only one to ever score 150 runs and take 5 wickets in a single match?",
-      "options": [
-        "Shabnim Ismail",
-        "Marizanne Kapp",
-        "Sune Luus",
-        "Susan Benade"
-      ],
-      "answer_index": 1,
-      "explanation": "Marizanne Kapp is the only player in the database to combine a 150-run score with a 5-wicket haul in the same innings, doing so against Kei on 16 January 2011 (163 runs, 6 for 6)."
+      "answer_index": 0,
+      "explanation": "Lions lead 11-0 across 15 meetings (List A)."
     },
     {
       "type": "magnitude_gap",
@@ -39,38 +25,52 @@
       "explanation": "Chloé Tryon: 24 — Rasika Maharaj: 18 — a gap of 6."
     },
     {
+      "type": "player_record",
+      "question": "Who holds the record for 'Highest Partnership' in the 13/14 season (T20)?",
+      "options": [
+        "Cri-Zelda Brits & Nonkhululeko Thabethe",
+        "Annelie Minny & Masabata Klaas",
+        "Lizelle Lee & Sinalo Jafta",
+        "Lizelle Lee & Tazmin Brits"
+      ],
+      "answer_index": 3,
+      "explanation": "Lizelle Lee & Tazmin Brits hold it, with a total of 194."
+    },
+    {
       "type": "team_record_venue",
       "question": "At which ground did Tuskers record their 'Highest Total' (T20)?",
       "options": [
         "City Oval",
-        "Witrand Cricket Field",
-        "Northerns Cricket Club A Ground",
-        "Varsity Oval 2"
+        "Varsity Oval 2",
+        "UP 4 Oval",
+        "Willowmoore Park B Field"
       ],
       "answer_index": 0,
       "explanation": "It was at City Oval — highest total of 137, against Rhinos on 2015/03/15."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Lions or Rhinos?",
+      "type": "curveball",
+      "question": "Which player is the only one to ever score 150 runs and take 5 wickets in a single match?",
       "options": [
-        "Lions",
-        "Rhinos"
+        "Shabnim Ismail",
+        "Marizanne Kapp",
+        "Sune Luus",
+        "Susan Benade"
       ],
-      "answer_index": 0,
-      "explanation": "Lions lead 11-0 across 15 meetings (List A)."
+      "answer_index": 1,
+      "explanation": "Marizanne Kapp is the only player in the database to combine a 150-run score with a 5-wicket haul in the same innings, doing so against Kei on 16 January 2011 (163 runs, 6 for 6)."
     },
     {
       "type": "venue_record",
-      "question": "At St George's Park, who holds the record for 'Most Runs' (T20)?",
+      "question": "At Boland Park, Paarl, who holds the record for 'Most Runs' (T20)?",
       "options": [
-        "Amber Botha",
-        "Jana Nell",
-        "Aluncedo Dunga",
-        "Asakhe Nyovane"
+        "Stacey Lackay",
+        "Alicia Smith",
+        "Andrie Steyn",
+        "Faye Tunnicliffe"
       ],
       "answer_index": 1,
-      "explanation": "Jana Nell holds it with 175."
+      "explanation": "Alicia Smith holds it with 238."
     }
   ]
 }

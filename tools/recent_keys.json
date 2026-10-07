@@ -401,6 +401,11 @@
   },
   {
     "date": "2026-10-07",
+    "template": "q_player_record",
+    "source_key": "records/partnerships/json/Highest_Partnership.json"
+  },
+  {
+    "date": "2026-10-07",
     "template": "q_head_to_head",
     "source_key": "h2h:Lions-Rhinos:List A"
   },
@@ -412,17 +417,12 @@
   {
     "date": "2026-10-07",
     "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
+    "source_key": "venue:Boland Park, Paarl"
   },
   {
     "date": "2026-10-07",
     "template": "q_magnitude_gap",
     "source_key": "magnitude_gap:records/bowling/json/Most_Wickets.json:OVERALL:09/10"
-  },
-  {
-    "date": "2026-10-07",
-    "template": "q_reverse_record",
-    "source_key": "records/batting/json/Fastest_50.json"
   },
   {
     "date": "2026-10-08",
@@ -432,7 +432,7 @@
   {
     "date": "2026-10-08",
     "template": "q_venue_record",
-    "source_key": "venue:Wanderers"
+    "source_key": "venue:St George's Park"
   },
   {
     "date": "2026-10-08",
