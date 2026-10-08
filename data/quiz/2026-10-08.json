@@ -1,52 +1,40 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T05:16:23.448565Z",
+  "generated_at": "2026-10-08T10:26:09.958001Z",
   "questions": [
     {
       "type": "venue_record",
-      "question": "At Wanderers, who holds the record for 'Most Runs' (List A)?",
+      "question": "At Bloemfontein Oval, who holds the record for 'Most Runs' (List A)?",
       "options": [
-        "Sunette Viljoen-Louw",
-        "Nonkhululeko Thabethe",
-        "Jenna Evans",
-        "Kirstie Thomson"
+        "Izel Cilliers",
+        "Yolandi Potgieter",
+        "Mianè Smit",
+        "Gezelle Jansen van Rensburg"
       ],
       "answer_index": 1,
-      "explanation": "Nonkhululeko Thabethe holds it with 540."
+      "explanation": "Yolandi Potgieter holds it with 731."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Selaelo Mphahele record their career-best bowling figures (3-6, T20)?",
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 4 wickets in a match double more times, Lizelle Lee or Fay Cowling?",
       "options": [
-        "Newlands Stadium",
-        "Centurion Park",
-        "Joburg Cricket Club Ground",
-        "Polokwane Oval"
-      ],
-      "answer_index": 3,
-      "explanation": "It was at Polokwane Oval, against Limpopo Lillies on 2013/10/06."
-    },
-    {
-      "type": "curveball",
-      "question": "Which South African bowler has taken the most Test five-wicket hauls in history, with three, all against England or New Zealand in the early 1960s and 1972?",
-      "options": [
-        "Lorna Ward",
-        "Jean McNaughton",
-        "Marizanne Kapp",
-        "Sunette Loubser"
+        "Lizelle Lee",
+        "Fay Cowling"
       ],
       "answer_index": 0,
-      "explanation": "Ward took five-wicket hauls in January 1961 and twice more in 1972, more than any other South African in Test history."
+      "explanation": "Lizelle Lee: 4 times. Fay Cowling: 1 times."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Dragons or Knights?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Most 50+ Scores' in the 14/15 season (T20)?",
       "options": [
-        "Knights",
-        "Dragons"
+        "Annemie Koen",
+        "Jana Nell",
+        "Lizelle Lee",
+        "Trisha Chetty"
       ],
-      "answer_index": 1,
-      "explanation": "Dragons lead 12-6 across 21 meetings (List A)."
+      "answer_index": 0,
+      "explanation": "Annemie Koen holds it, with a total of 3."
     },
     {
       "type": "magnitude_gap",
@@ -62,15 +50,27 @@
     },
     {
       "type": "team_record_venue",
-      "question": "At which ground did Limpopo Lillies record their 'Highest Total' (T20)?",
+      "question": "At which ground did Knights record their 'Highest Total' (T20)?",
       "options": [
-        "Joburg Cricket Club Ground",
-        "Modjadjiskloof Oval",
-        "UKZN 4 Oval",
+        "Gelvandale Oval",
+        "United CC Ground",
+        "Varsity Oval 2",
         "Bloemfontein Oval"
       ],
       "answer_index": 3,
-      "explanation": "It was at Bloemfontein Oval — highest total of 136, against Knights on 2025/11/02."
+      "explanation": "It was at Bloemfontein Oval — highest total of 207, against Kei on 2018/11/25."
+    },
+    {
+      "type": "curveball",
+      "question": "Which South African bowler has taken the most Test five-wicket hauls in history, with three, all against England or New Zealand in the early 1960s and 1972?",
+      "options": [
+        "Lorna Ward",
+        "Jean McNaughton",
+        "Marizanne Kapp",
+        "Sunette Loubser"
+      ],
+      "answer_index": 0,
+      "explanation": "Ward took five-wicket hauls in January 1961 and twice more in 1972, more than any other South African in Test history."
     }
   ]
 }
