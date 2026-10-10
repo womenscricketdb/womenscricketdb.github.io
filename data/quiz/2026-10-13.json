@@ -1,29 +1,7 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-10T05:03:42.736296Z",
+  "generated_at": "2026-10-10T09:43:45.112883Z",
   "questions": [
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Tuskers or Eastern Storm?",
-      "options": [
-        "Tuskers",
-        "Eastern Storm"
-      ],
-      "answer_index": 1,
-      "explanation": "Eastern Storm lead 8-0 across 9 meetings (T20)."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Badgers record their 'Largest Win by Runs' (List A)?",
-      "options": [
-        "Easterns Cricket Club Ground",
-        "The Feathers",
-        "Buffalo Park",
-        "Recreation Ground"
-      ],
-      "answer_index": 3,
-      "explanation": "It was at Recreation Ground — largest win by runs of 332, against Kei on 2018/11/17."
-    },
     {
       "type": "career_best_venue",
       "question": "At which ground did Liane Glass record their career-best bowling figures (4-20, List A)?",
@@ -37,28 +15,28 @@
       "explanation": "It was at Recreation Ground, against Eastern Storm on 2024/04/05."
     },
     {
-      "type": "venue_record",
-      "question": "At Recreation Ground, who holds the record for 'Most Matches' (List A)?",
+      "type": "reverse_record",
+      "question": "Yolandi Potgieter set a database record (combined T20 + List A) with a value of 80. Which record is it?",
       "options": [
-        "Haroline Rhodes",
-        "Micaela Andrews",
-        "Jané Winster",
-        "Marnazelle Rabie"
+        "Fastest 50 (by balls)",
+        "Highest Individual Score",
+        "Fastest 100 (by balls)",
+        "Most Catches (Fielding)"
       ],
-      "answer_index": 2,
-      "explanation": "Jané Winster holds it with 35."
+      "answer_index": 3,
+      "explanation": "It's the record for 'Most Catches (Fielding)', held by Yolandi Potgieter."
     },
     {
-      "type": "reverse_record",
-      "question": "Kirstie Thomson set a database record (12/13 season, combined T20 + List A) with a value of 58. Which record is it?",
+      "type": "team_record_venue",
+      "question": "At which ground did Iinyathi record their 'Highest Total' (List A)?",
       "options": [
-        "Most Matches Played",
-        "Fastest 100 (by balls)",
-        "Most Maidens",
-        "Best Batting Average"
+        "St George's Park",
+        "Kimberley Oval",
+        "Cambridge High School",
+        "The Feathers"
       ],
       "answer_index": 1,
-      "explanation": "It's the record for 'Fastest 100 (by balls)', held by Kirstie Thomson."
+      "explanation": "It was at Kimberley Oval — highest total of 345, against Heat on 2015/10/17."
     },
     {
       "type": "curveball",
@@ -71,6 +49,28 @@
       ],
       "answer_index": 2,
       "explanation": "Both Central Gauteng and Gauteng were folded into the Lions."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Recreation Ground, who holds the record for 'Most Runs' (List A)?",
+      "options": [
+        "Jana Nell",
+        "Micaela Andrews",
+        "Annerie Dercksen",
+        "Tazmin Brits"
+      ],
+      "answer_index": 1,
+      "explanation": "Micaela Andrews holds it with 846."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head T20 meetings, who has the edge, Tuskers or Eastern Storm?",
+      "options": [
+        "Tuskers",
+        "Eastern Storm"
+      ],
+      "answer_index": 1,
+      "explanation": "Eastern Storm lead 8-0 across 9 meetings (T20)."
     }
   ]
 }

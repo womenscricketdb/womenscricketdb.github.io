@@ -1,39 +1,7 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-10T05:03:42.563379Z",
+  "generated_at": "2026-10-10T09:43:44.919215Z",
   "questions": [
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Lions or Dolphins?",
-      "options": [
-        "Lions",
-        "Dolphins"
-      ],
-      "answer_index": 1,
-      "explanation": "Dolphins lead 17-8 across 27 meetings (List A)."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Kimberley Oval, who holds the record for 'Most Runs' (List A)?",
-      "options": [
-        "Stacey Harmse",
-        "Susan Benade",
-        "Tharina van Wyk",
-        "Lene Geyer"
-      ],
-      "answer_index": 1,
-      "explanation": "Susan Benade holds it with 1183."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Titans or Lions?",
-      "options": [
-        "Titans",
-        "Lions"
-      ],
-      "answer_index": 0,
-      "explanation": "Titans lead 8-6 across 17 meetings (T20)."
-    },
     {
       "type": "curveball",
       "question": "Who scored South Africa Women's first-ever Test century, an unbeaten 105 against England in Cape Town in 1961?",
@@ -47,28 +15,60 @@
       "explanation": "Van Mentz's record stood for over 60 years until Marizanne Kapp passed it with 150 against England in 2022."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Dragons record their 'Highest Total' (List A)?",
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 5 wickets in a match double more times, Robyn Searle or Jana Nell?",
       "options": [
-        "Steyn City",
-        "Willowmoore Park B Field",
-        "UFS Oval",
-        "Potchefstroom Oval"
+        "Robyn Searle",
+        "Jana Nell"
       ],
-      "answer_index": 3,
-      "explanation": "It was at Potchefstroom Oval — highest total of 420, against Boland on 2019/02/02."
+      "answer_index": 1,
+      "explanation": "Robyn Searle: 1 times. Jana Nell: 2 times."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many catches separate the all-time #1 (Yolandi Potgieter) and #2 (Alexis le Breton) fielders (combined T20 + List A)?",
+      "options": [
+        "6",
+        "19",
+        "10",
+        "12"
+      ],
+      "answer_index": 2,
+      "explanation": "Yolandi Potgieter: 80 — Alexis le Breton: 70 — a gap of 10."
+    },
+    {
+      "type": "venue_record",
+      "question": "At St George's Park, who holds the record for 'Most Runs' (List A)?",
+      "options": [
+        "Amber Botha",
+        "Jana Nell",
+        "Aluncedo Dunga",
+        "Geneveve Fritz"
+      ],
+      "answer_index": 1,
+      "explanation": "Jana Nell holds it with 279."
     },
     {
       "type": "career_best_venue",
-      "question": "At which ground did Thembela Ngcobo record their career-best bowling figures (3-15, T20)?",
+      "question": "At which ground did Karen Woest record their career-best bowling figures (7-23, List A)?",
       "options": [
-        "Chatsworth Stadium",
-        "Khaya Majola Oval",
-        "Military Ground",
-        "Gelvandale Oval"
+        "Polokwane Oval",
+        "City Oval",
+        "Willowmoore Park Main Oval",
+        "Willowmoore Park Main Oval"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Khaya Majola Oval, against Boland on 2023/11/19."
+      "answer_index": 0,
+      "explanation": "It was at Polokwane Oval, against Limpopo Lillies on 2017/10/21."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head T20 meetings, who has the edge, Titans or Lions?",
+      "options": [
+        "Titans",
+        "Lions"
+      ],
+      "answer_index": 0,
+      "explanation": "Titans lead 8-6 across 17 meetings (T20)."
     }
   ]
 }
