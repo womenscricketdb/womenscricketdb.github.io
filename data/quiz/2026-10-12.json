@@ -1,7 +1,29 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-11T04:52:57.919145Z",
+  "generated_at": "2026-10-11T09:54:35.414783Z",
   "questions": [
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Runs' in the 16/17 season (combined T20 + List A)?",
+      "options": [
+        "Lizelle Lee",
+        "Tazmin Brits",
+        "Andrie Steyn",
+        "Angelique Taai"
+      ],
+      "answer_index": 0,
+      "explanation": "Lizelle Lee holds it, with a total of 483."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Limpopo Lillies or Tuskers?",
+      "options": [
+        "Tuskers",
+        "Limpopo Lillies"
+      ],
+      "answer_index": 0,
+      "explanation": "Tuskers lead 7-6 across 13 meetings (List A)."
+    },
     {
       "type": "curveball",
       "question": "Who scored South Africa Women's first-ever Test century, an unbeaten 105 against England in Cape Town in 1961?",
@@ -15,26 +37,26 @@
       "explanation": "Van Mentz's record stood for over 60 years until Marizanne Kapp passed it with 150 against England in 2022."
     },
     {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the fifty and 5 wickets in a match double more times, Robyn Searle or Jana Nell?",
+      "type": "career_best_venue",
+      "question": "At which ground did Thembela Ngcobo record their career-best bowling figures (3-15, T20)?",
       "options": [
-        "Robyn Searle",
-        "Jana Nell"
+        "Chatsworth Stadium",
+        "Khaya Majola Oval",
+        "Military Ground",
+        "Gelvandale Oval"
       ],
       "answer_index": 1,
-      "explanation": "Robyn Searle: 1 times. Jana Nell: 2 times."
+      "explanation": "It was at Khaya Majola Oval, against Boland on 2023/11/19."
     },
     {
-      "type": "magnitude_gap",
-      "question": "How many catches separate the all-time #1 (Yolandi Potgieter) and #2 (Alexis le Breton) fielders (combined T20 + List A)?",
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 5 wickets in a match double more times, Natalie Archer or Dané van Niekerk?",
       "options": [
-        "6",
-        "19",
-        "10",
-        "12"
+        "Natalie Archer",
+        "Dané van Niekerk"
       ],
-      "answer_index": 2,
-      "explanation": "Yolandi Potgieter: 80 — Alexis le Breton: 70 — a gap of 10."
+      "answer_index": 1,
+      "explanation": "Natalie Archer: 1 times. Dané van Niekerk: 2 times."
     },
     {
       "type": "venue_record",
@@ -42,33 +64,11 @@
       "options": [
         "Amber Botha",
         "Jana Nell",
-        "Aluncedo Dunga",
-        "Geneveve Fritz"
+        "Geneveve Fritz",
+        "Aluncedo Dunga"
       ],
       "answer_index": 1,
       "explanation": "Jana Nell holds it with 279."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Karen Woest record their career-best bowling figures (7-23, List A)?",
-      "options": [
-        "Polokwane Oval",
-        "City Oval",
-        "Willowmoore Park Main Oval",
-        "Willowmoore Park Main Oval"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Polokwane Oval, against Limpopo Lillies on 2017/10/21."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Titans or Lions?",
-      "options": [
-        "Titans",
-        "Lions"
-      ],
-      "answer_index": 0,
-      "explanation": "Titans lead 8-6 across 17 meetings (T20)."
     }
   ]
 }

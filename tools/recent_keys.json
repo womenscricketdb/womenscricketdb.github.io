@@ -416,8 +416,8 @@
   },
   {
     "date": "2026-10-11",
-    "template": "q_reverse_record",
-    "source_key": "records/misc/json/Matches_Captained.json"
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Highest_Score.json"
   },
   {
     "date": "2026-10-11",
@@ -426,8 +426,13 @@
   },
   {
     "date": "2026-10-12",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Runs.json"
+  },
+  {
+    "date": "2026-10-12",
     "template": "q_head_to_head",
-    "source_key": "h2h:Lions-Titans:T20"
+    "source_key": "h2h:Limpopo Lillies-Tuskers:List A"
   },
   {
     "date": "2026-10-12",
@@ -441,13 +446,8 @@
   },
   {
     "date": "2026-10-12",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/fielding/json/Field_Catches.json:OVERALL:OVERALL"
-  },
-  {
-    "date": "2026-10-12",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Karen Woest"
+    "source_key": "career_best_venue:Thembela Ngcobo"
   },
   {
     "date": "2026-10-13",
@@ -472,7 +472,7 @@
   {
     "date": "2026-10-13",
     "template": "q_venue_record",
-    "source_key": "venue:Kimberley Oval"
+    "source_key": "venue:Centurion Park"
   },
   {
     "date": "2026-10-14",
