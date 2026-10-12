@@ -1,28 +1,40 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-12T05:07:26.247091Z",
+  "generated_at": "2026-10-12T10:38:37.215766Z",
   "questions": [
     {
       "type": "player_record",
-      "question": "Who holds the record for 'Most Runs' in the 16/17 season (combined T20 + List A)?",
+      "question": "Who holds the record for 'Most Catches (Fielding)' (T20)?",
       "options": [
-        "Lizelle Lee",
-        "Tazmin Brits",
-        "Andrie Steyn",
-        "Angelique Taai"
+        "Nobulumko Baneti",
+        "Raisibe Ntozakhe",
+        "Tatum le Roux",
+        "Nondumiso Shangase"
       ],
-      "answer_index": 0,
-      "explanation": "Lizelle Lee holds it, with a total of 483."
+      "answer_index": 3,
+      "explanation": "Nondumiso Shangase holds it, with a total of 29."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Limpopo Lillies or Tuskers?",
+      "type": "venue_record",
+      "question": "At St George's Park, who holds the record for 'Most Runs' (List A)?",
       "options": [
-        "Tuskers",
-        "Limpopo Lillies"
+        "Geneveve Fritz",
+        "Aluncedo Dunga",
+        "Jana Nell",
+        "Amber Botha"
+      ],
+      "answer_index": 2,
+      "explanation": "Jana Nell holds it with 279."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 3 wickets in a match double more times, Susan Benade or Dané van Niekerk?",
+      "options": [
+        "Susan Benade",
+        "Dané van Niekerk"
       ],
       "answer_index": 0,
-      "explanation": "Tuskers lead 7-6 across 13 meetings (List A)."
+      "explanation": "Susan Benade: 2 times. Dané van Niekerk: 1 times."
     },
     {
       "type": "curveball",
@@ -37,38 +49,26 @@
       "explanation": "Van Mentz's record stood for over 60 years until Marizanne Kapp passed it with 150 against England in 2022."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Thembela Ngcobo record their career-best bowling figures (3-15, T20)?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Maidens' in the 16/17 season (combined T20 + List A)?",
       "options": [
-        "Chatsworth Stadium",
-        "Khaya Majola Oval",
-        "Military Ground",
-        "Gelvandale Oval"
+        "Michelle Botha",
+        "Alicia Smith",
+        "Shabnim Ismail",
+        "Angelique Taai"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Khaya Majola Oval, against Boland on 2023/11/19."
+      "answer_index": 0,
+      "explanation": "Michelle Botha holds it, with a total of 23."
     },
     {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the fifty and 5 wickets in a match double more times, Natalie Archer or Dané van Niekerk?",
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Limpopo Lillies or Tuskers?",
       "options": [
-        "Natalie Archer",
-        "Dané van Niekerk"
+        "Tuskers",
+        "Limpopo Lillies"
       ],
-      "answer_index": 1,
-      "explanation": "Natalie Archer: 1 times. Dané van Niekerk: 2 times."
-    },
-    {
-      "type": "venue_record",
-      "question": "At St George's Park, who holds the record for 'Most Runs' (List A)?",
-      "options": [
-        "Amber Botha",
-        "Jana Nell",
-        "Geneveve Fritz",
-        "Aluncedo Dunga"
-      ],
-      "answer_index": 1,
-      "explanation": "Jana Nell holds it with 279."
+      "answer_index": 0,
+      "explanation": "Tuskers lead 7-6 across 13 meetings (List A)."
     }
   ]
 }

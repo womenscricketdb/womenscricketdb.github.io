@@ -1,42 +1,62 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-12T05:07:26.390014Z",
+  "generated_at": "2026-10-12T10:38:37.364512Z",
   "questions": [
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Liane Glass record their career-best bowling figures (4-20, List A)?",
+      "type": "head_to_head",
+      "question": "In head-to-head T20 meetings, who has the edge, Badgers or Dolphins?",
       "options": [
-        "Recreation Ground",
-        "SU Main Oval",
-        "Kimberley Oval",
-        "Bloemfontein Oval"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Recreation Ground, against Eastern Storm on 2024/04/05."
-    },
-    {
-      "type": "reverse_record",
-      "question": "Yolandi Potgieter set a database record (combined T20 + List A) with a value of 80. Which record is it?",
-      "options": [
-        "Fastest 50 (by balls)",
-        "Highest Individual Score",
-        "Fastest 100 (by balls)",
-        "Most Catches (Fielding)"
-      ],
-      "answer_index": 3,
-      "explanation": "It's the record for 'Most Catches (Fielding)', held by Yolandi Potgieter."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Iinyathi record their 'Highest Total' (List A)?",
-      "options": [
-        "Langenhoven Gimnasium",
-        "Kimberley Oval",
-        "Fichardtpark",
-        "Top Oval"
+        "Badgers",
+        "Dolphins"
       ],
       "answer_index": 1,
-      "explanation": "It was at Kimberley Oval — highest total of 345, against Heat on 2015/10/17."
+      "explanation": "Dolphins lead 5-4 across 9 meetings (T20)."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 5 wickets in a match double more times, Johmari Logtenberg or Susan Benade?",
+      "options": [
+        "Johmari Logtenberg",
+        "Susan Benade"
+      ],
+      "answer_index": 1,
+      "explanation": "Johmari Logtenberg: 1 times. Susan Benade: 2 times."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Runs' in the 09/10 season (combined T20 + List A)?",
+      "options": [
+        "Olivia Anderson",
+        "Trisha Chetty",
+        "Tharina van Wyk",
+        "Nikita Solé"
+      ],
+      "answer_index": 1,
+      "explanation": "Trisha Chetty holds it, with a total of 437."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many catches separate the all-time #1 (Nondumiso Shangase) and #2 (Tatum le Roux) fielders (T20)?",
+      "options": [
+        "4",
+        "8",
+        "2",
+        "6"
+      ],
+      "answer_index": 3,
+      "explanation": "Nondumiso Shangase: 29 — Tatum le Roux: 23 — a gap of 6."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Robyn Appels record their career-best bowling figures (6-41, List A)?",
+      "options": [
+        "Newlands Stadium",
+        "Boland Park, Paarl",
+        "Witrand Cricket Field",
+        "Joburg Cricket Club Ground"
+      ],
+      "answer_index": 0,
+      "explanation": "It was at Newlands Stadium, against Dragons on 2022/02/26."
     },
     {
       "type": "curveball",
@@ -49,28 +69,6 @@
       ],
       "answer_index": 2,
       "explanation": "Both Central Gauteng and Gauteng were folded into the Lions."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Centurion Park, who holds the record for 'Most Runs' (List A)?",
-      "options": [
-        "Robyn Searle",
-        "Anneke Bosch",
-        "Tebogo Macheke",
-        "Katie Prior"
-      ],
-      "answer_index": 1,
-      "explanation": "Anneke Bosch holds it with 432."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Tuskers or Eastern Storm?",
-      "options": [
-        "Tuskers",
-        "Eastern Storm"
-      ],
-      "answer_index": 1,
-      "explanation": "Eastern Storm lead 8-0 across 9 meetings (T20)."
     }
   ]
 }

@@ -1,18 +1,16 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-12T05:07:26.533751Z",
+  "generated_at": "2026-10-12T10:38:37.478344Z",
   "questions": [
     {
-      "type": "venue_record",
-      "question": "At Recreation Ground, who holds the record for 'Most Wickets' (List A)?",
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Heat or Tuskers?",
       "options": [
-        "Haroline Rhodes",
-        "Micaela Andrews",
-        "Julandi Saayman",
-        "Jané Winster"
+        "Heat",
+        "Tuskers"
       ],
-      "answer_index": 3,
-      "explanation": "Jané Winster holds it with 64."
+      "answer_index": 0,
+      "explanation": "Heat lead 10-7 across 19 meetings (List A)."
     },
     {
       "type": "curveball",
@@ -39,28 +37,6 @@
       "explanation": "It's the record for 'Best Bowling Figures in an Innings', held by Moseline Daniels."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Heat or Tuskers?",
-      "options": [
-        "Heat",
-        "Tuskers"
-      ],
-      "answer_index": 0,
-      "explanation": "Heat lead 10-7 across 19 meetings (List A)."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Cobras record their 'Highest Total' (T20)?",
-      "options": [
-        "Hammondfield",
-        "RJE Burt Oval",
-        "Florida Park",
-        "Wanderers"
-      ],
-      "answer_index": 3,
-      "explanation": "It was at Wanderers — highest total of 198, against Lions on 2024/11/17."
-    },
-    {
       "type": "career_best_venue",
       "question": "At which ground did Izel Cilliers record their career-best innings (103*, T20)?",
       "options": [
@@ -71,6 +47,30 @@
       ],
       "answer_index": 3,
       "explanation": "It was at Bloemfontein Oval, against Kei on 2018/11/25."
+    },
+    {
+      "type": "guess_player",
+      "question": "Guess the player: 1088 runs in 21 innings (average 64.00, high score 169*, 1 centuries) for Dragons / Titans. (T20 career totals.)",
+      "options": [
+        "Delmi Tucker",
+        "Sunette Viljoen-Louw",
+        "Jana Nell",
+        "Lizelle Lee"
+      ],
+      "answer_index": 3,
+      "explanation": "It's Lizelle Lee."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Cobras record their 'Highest Total' (T20)?",
+      "options": [
+        "Khaya Majola Oval",
+        "St. Stithians Jameson",
+        "Ngumbela Park",
+        "Wanderers"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Wanderers — highest total of 198, against Lions on 2024/11/17."
     }
   ]
 }
