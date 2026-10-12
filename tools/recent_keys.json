@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-09-25",
-    "template": "q_player_record",
-    "source_key": "records/bowling/json/Most_Maidens.json"
-  },
-  {
-    "date": "2026-09-25",
-    "template": "q_player_record",
-    "source_key": "records/fielding/json/Field_Catches.json"
-  },
-  {
-    "date": "2026-09-25",
-    "template": "q_doubles_higher_lower",
-    "source_key": "D_50_3"
-  },
-  {
-    "date": "2026-09-25",
-    "template": "q_guess_player_from_stats",
-    "source_key": "guess_player_from_stats"
-  },
-  {
-    "date": "2026-09-25",
-    "template": "q_venue_record",
-    "source_key": "venue:City Oval"
-  },
-  {
     "date": "2026-09-26",
     "template": "q_doubles_higher_lower",
     "source_key": "D_100_3"
@@ -498,5 +473,30 @@
     "date": "2026-10-14",
     "template": "q_venue_record",
     "source_key": "venue:Recreation Ground"
+  },
+  {
+    "date": "2026-10-15",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/fielding/json/WK_Dismissals.json:OVERALL:OVERALL"
+  },
+  {
+    "date": "2026-10-15",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Iinyathi:Highest Total:T20"
+  },
+  {
+    "date": "2026-10-15",
+    "template": "q_venue_record",
+    "source_key": "venue:Kimberley Oval"
+  },
+  {
+    "date": "2026-10-15",
+    "template": "q_reverse_record",
+    "source_key": "records/batting/json/Most_Runs.json"
+  },
+  {
+    "date": "2026-10-15",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Knights-Warriors:List A"
   }
 ]
