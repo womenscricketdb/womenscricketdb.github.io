@@ -1,18 +1,64 @@
 {
   "date": "2026-10-15",
-  "generated_at": "2026-10-13T06:07:10.655948Z",
+  "generated_at": "2026-10-13T10:26:11.846278Z",
   "questions": [
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Iinyathi record their 'Highest Total' (T20)?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Best Bowling Figures in an Innings' in the 13/14 season (T20)?",
       "options": [
-        "Recreation Ground",
-        "Kimberley Oval",
-        "Top Oval",
-        "UFS 4 Oval"
+        "Cara le Roux",
+        "Andrisha Govender",
+        "Nosipho Tayi",
+        "L Morake"
       ],
       "answer_index": 1,
-      "explanation": "It was at Kimberley Oval — highest total of 162, against Heat on 2015/10/18."
+      "explanation": "Andrisha Govender holds it with 5-21."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the fifty and 5 wickets in a match double more times, Robyn Searle or Dané van Niekerk?",
+      "options": [
+        "Robyn Searle",
+        "Dané van Niekerk"
+      ],
+      "answer_index": 1,
+      "explanation": "Robyn Searle: 1 times. Dané van Niekerk: 2 times."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many wickets separate the all-time #1 (Michelle du Preez) and #2 (Selaelo Mphahele) wicket-takers (combined T20 + List A) in the 13/14 season?",
+      "options": [
+        "11",
+        "8",
+        "2",
+        "4"
+      ],
+      "answer_index": 2,
+      "explanation": "Michelle du Preez: 29 — Selaelo Mphahele: 27 — a gap of 2."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Knights record their 'Highest Total' (List A)?",
+      "options": [
+        "Schoeman Park A Ground",
+        "Potchefstroom Oval",
+        "St. Andrews Chapel",
+        "Bloemfontein Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Bloemfontein Oval — highest total of 427, against Kei on 2018/11/24."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Recreation Ground, who holds the record for 'Most Runs' (List A)?",
+      "options": [
+        "Tazmin Brits",
+        "Micaela Andrews",
+        "Annerie Dercksen",
+        "Jana Nell"
+      ],
+      "answer_index": 1,
+      "explanation": "Micaela Andrews holds it with 846."
     },
     {
       "type": "curveball",
@@ -25,52 +71,6 @@
       ],
       "answer_index": 2,
       "explanation": "St George's Park didn't host a Women's ODI until South Africa played Ireland there in December 2025, 65 years later, making it the last of South Africa's major Test venues to do so."
-    },
-    {
-      "type": "magnitude_gap",
-      "question": "How many wicketkeeping dismissals separate the all-time #1 (Trisha Chetty) and #2 (Yolandi van der Westhuizen) wicketkeepers (combined T20 + List A)?",
-      "options": [
-        "4",
-        "2",
-        "11",
-        "6"
-      ],
-      "answer_index": 1,
-      "explanation": "Trisha Chetty: 113 — Yolandi van der Westhuizen: 111 — a gap of 2."
-    },
-    {
-      "type": "reverse_record",
-      "question": "Lizelle Lee set a database record (13/14 season, T20) with a value of 355. Which record is it?",
-      "options": [
-        "Most Wicketkeeping Dismissals",
-        "Most Runs",
-        "Highest Individual Score",
-        "Most Matches Played"
-      ],
-      "answer_index": 1,
-      "explanation": "It's the record for 'Most Runs', held by Lizelle Lee."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Recreation Ground, who holds the record for 'Most Wickets' (T20)?",
-      "options": [
-        "Haroline Rhodes",
-        "Khayakazi Mathe",
-        "Micaela Andrews",
-        "Jané Winster"
-      ],
-      "answer_index": 3,
-      "explanation": "Jané Winster holds it with 23."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Warriors or Knights?",
-      "options": [
-        "Knights",
-        "Warriors"
-      ],
-      "answer_index": 0,
-      "explanation": "Knights lead 9-4 across 14 meetings (List A)."
     }
   ]
 }
