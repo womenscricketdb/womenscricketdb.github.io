@@ -417,7 +417,7 @@
   {
     "date": "2026-10-15",
     "template": "q_player_record",
-    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
+    "source_key": "records/bowling/json/Most_Wickets.json"
   },
   {
     "date": "2026-10-15",
@@ -432,22 +432,22 @@
   {
     "date": "2026-10-16",
     "template": "q_player_record",
+    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
+  },
+  {
+    "date": "2026-10-16",
+    "template": "q_player_record",
     "source_key": "records/misc/json/Matches_Captained.json"
   },
   {
     "date": "2026-10-16",
     "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/Most_Sixes.json:OVERALL:08/09"
+    "source_key": "magnitude_gap:records/batting/json/Most_Sixes.json:List A:11/12"
   },
   {
     "date": "2026-10-16",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Dolphins:Largest Win by Runs:List A"
-  },
-  {
-    "date": "2026-10-16",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Zizipho Mdebuka"
   },
   {
     "date": "2026-10-17",
@@ -496,7 +496,7 @@
   },
   {
     "date": "2026-10-18",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Khushi Mistry"
+    "template": "q_venue_record",
+    "source_key": "venue:Potchefstroom Oval"
   }
 ]
