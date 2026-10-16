@@ -1,40 +1,16 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-16T03:48:34.470507Z",
+  "generated_at": "2026-10-16T08:04:38.144515Z",
   "questions": [
     {
       "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Heat or Dolphins?",
+      "question": "In head-to-head List A meetings, who has the edge, Tuskers or Knights?",
       "options": [
-        "Dolphins",
-        "Heat"
+        "Knights",
+        "Tuskers"
       ],
       "answer_index": 0,
-      "explanation": "Dolphins lead 9-1 across 10 meetings (List A)."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Tamzyn Hartman record their career-best innings (45, T20)?",
-      "options": [
-        "City Oval",
-        "Bloemfontein Oval",
-        "Willowmoore Park Main Oval",
-        "Polokwane Oval"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at City Oval, against Tuskers on 2023/11/19."
-    },
-    {
-      "type": "reverse_record",
-      "question": "Bernadine Bezuidenhout set a database record (13/14 season, List A) with a value of 463. Which record is it?",
-      "options": [
-        "Fastest 100 (by balls)",
-        "Most Runs",
-        "Most 50+ Scores",
-        "Highest Individual Score"
-      ],
-      "answer_index": 1,
-      "explanation": "It's the record for 'Most Runs', held by Bernadine Bezuidenhout."
+      "explanation": "Knights lead 7-3 across 12 meetings (List A)."
     },
     {
       "type": "curveball",
@@ -52,25 +28,49 @@
       "type": "team_record_venue",
       "question": "At which ground did Boland record their 'Highest Total' (List A)?",
       "options": [
-        "Old Mutual Sports Club Ground",
-        "Oude Libertas Ground",
+        "Country Club B Field",
+        "Paul Roos Oval",
         "Boland Park, Paarl",
-        "The Feathers"
+        "SU Main Oval"
       ],
       "answer_index": 2,
       "explanation": "It was at Boland Park, Paarl — highest total of 558, against Kei on 2011/01/29."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Kei record their 'Highest Total' (List A)?",
+      "type": "venue_record",
+      "question": "At City Oval, who holds the record for 'Most Matches' (T20)?",
       "options": [
-        "Buffalo Park",
-        "Kimberley Oval",
-        "Gelvandale Oval",
-        "Kemsley Park"
+        "Gugu Ngcobo",
+        "Megan Wessels",
+        "Amanda Ngcobo",
+        "Phumla Mthalane"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Kimberley Oval — highest total of 174, against Heat on 2018/02/10."
+      "answer_index": 0,
+      "explanation": "Gugu Ngcobo holds it with 20."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Knights record their 'Largest Win by Runs' (List A)?",
+      "options": [
+        "UFS 4 Oval",
+        "Newlands Stadium",
+        "Bloemfontein Oval",
+        "St. Andrews Chapel"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Bloemfontein Oval — largest win by runs of 371, against Kei on 2018/11/24."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Tamzyn Hartman record their career-best innings (45, T20)?",
+      "options": [
+        "City Oval",
+        "Bloemfontein Oval",
+        "Willowmoore Park Main Oval",
+        "Polokwane Oval"
+      ],
+      "answer_index": 0,
+      "explanation": "It was at City Oval, against Tuskers on 2023/11/19."
     }
   ]
 }

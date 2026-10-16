@@ -402,12 +402,12 @@
   {
     "date": "2026-10-16",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Kingsmead stadium"
   },
   {
     "date": "2026-10-16",
     "template": "q_player_record",
-    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
+    "source_key": "records/batting/json/Fastest_100.json"
   },
   {
     "date": "2026-10-16",
@@ -447,32 +447,32 @@
   {
     "date": "2026-10-17",
     "template": "q_venue_record",
+    "source_key": "venue:Recreation Ground"
+  },
+  {
+    "date": "2026-10-18",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
+  },
+  {
+    "date": "2026-10-18",
+    "template": "q_venue_record",
     "source_key": "venue:Centurion Park"
   },
   {
     "date": "2026-10-18",
-    "template": "q_venue_record",
-    "source_key": "venue:City Oval"
-  },
-  {
-    "date": "2026-10-18",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Verunissa Reddy"
+    "source_key": "career_best_venue:Vuyo Bonya"
   },
   {
     "date": "2026-10-18",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Tuskers:Largest Win by Runs:T20"
+    "source_key": "team_record_venue:Knights:Largest Win by Runs:T20"
   },
   {
     "date": "2026-10-18",
     "template": "q_head_to_head",
-    "source_key": "h2h:Boland-Iinyathi:List A"
-  },
-  {
-    "date": "2026-10-18",
-    "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "h2h:Dolphins-Knights:T20"
   },
   {
     "date": "2026-10-19",
@@ -486,17 +486,17 @@
   },
   {
     "date": "2026-10-19",
-    "template": "q_reverse_record",
-    "source_key": "records/batting/json/Most_Runs.json"
+    "template": "q_venue_record",
+    "source_key": "venue:City Oval"
   },
   {
     "date": "2026-10-19",
     "template": "q_head_to_head",
-    "source_key": "h2h:Dolphins-Heat:List A"
+    "source_key": "h2h:Knights-Tuskers:List A"
   },
   {
     "date": "2026-10-19",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Kei:Highest Total:List A"
+    "source_key": "team_record_venue:Knights:Largest Win by Runs:List A"
   }
 ]

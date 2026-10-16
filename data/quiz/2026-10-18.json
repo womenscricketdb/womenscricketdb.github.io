@@ -1,30 +1,30 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-16T03:48:34.291255Z",
+  "generated_at": "2026-10-16T08:04:37.968273Z",
   "questions": [
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Verunissa Reddy record their career-best innings (66, T20)?",
+      "type": "team_record_venue",
+      "question": "At which ground did Knights record their 'Largest Win by Runs' (T20)?",
       "options": [
-        "Willowmoore Park B Field",
-        "Recreation Ground",
-        "Chatsworth Stadium",
-        "Potchefstroom Oval"
+        "TUT Oval",
+        "Bloemfontein Oval",
+        "Yorkshire Cricket Club Ground",
+        "Lenasia Stadium"
       ],
       "answer_index": 1,
-      "explanation": "It was at Recreation Ground, against Badgers on 2024/12/01."
+      "explanation": "It was at Bloemfontein Oval — largest win by runs of 136, against Kei on 2018/11/25."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Tuskers record their 'Largest Win by Runs' (T20)?",
+      "type": "career_best_venue",
+      "question": "At which ground did Vuyo Bonya record their career-best bowling figures (5-9, List A)?",
       "options": [
-        "Correctional Services Ground",
-        "Polokwane Oval",
-        "UP 4 Oval",
-        "Willowmoore Park A Field"
+        "Grey College B Ground",
+        "Bloemfontein Oval",
+        "St George's Park",
+        "Wanderers"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Polokwane Oval — largest win by runs of 30, against Limpopo Lillies on 2022/03/13."
+      "answer_index": 2,
+      "explanation": "It was at St George's Park, against Boland on 2024/03/02."
     },
     {
       "type": "curveball",
@@ -39,38 +39,38 @@
       "explanation": "Mlaba took 4 for 90 and 6 for 67 (10 for 157 in the match) against England at Bloemfontein in December 2024, the best match figures by a South African woman in Test history."
     },
     {
-      "type": "venue_record",
-      "question": "At Potchefstroom Oval, who holds the record for 'Most Matches' (T20)?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Best Bowling Figures in an Innings' in the 13/14 season (T20)?",
       "options": [
-        "Anneke Bosch",
-        "Alyssa Erxleben",
-        "Evodia Yekile",
-        "Nthabiseng Nini"
+        "Cara le Roux",
+        "Nosipho Tayi",
+        "L Morake",
+        "Andrisha Govender"
       ],
       "answer_index": 3,
-      "explanation": "Nthabiseng Nini holds it with 15, a joint record shared with Lizri de Villiers."
+      "explanation": "Andrisha Govender holds it with 5-21."
     },
     {
       "type": "venue_record",
-      "question": "At City Oval, who holds the record for 'Most Matches' (T20)?",
+      "question": "At Centurion Park, who holds the record for 'Most Runs' (List A)?",
       "options": [
-        "Gugu Ngcobo",
-        "Megan Wessels",
-        "Amanda Ngcobo",
-        "Phumla Mthalane"
+        "Robyn Searle",
+        "Tebogo Macheke",
+        "Anneke Bosch",
+        "Katie Prior"
       ],
-      "answer_index": 0,
-      "explanation": "Gugu Ngcobo holds it with 20."
+      "answer_index": 2,
+      "explanation": "Anneke Bosch holds it with 432."
     },
     {
       "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Iinyathi or Boland?",
+      "question": "In head-to-head T20 meetings, who has the edge, Dolphins or Knights?",
       "options": [
-        "Iinyathi",
-        "Boland"
+        "Dolphins",
+        "Knights"
       ],
-      "answer_index": 1,
-      "explanation": "Boland lead 18-8 across 28 meetings (List A)."
+      "answer_index": 0,
+      "explanation": "Dolphins lead 7-1 across 9 meetings (T20)."
     }
   ]
 }
