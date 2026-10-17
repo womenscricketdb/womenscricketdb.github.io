@@ -1,54 +1,30 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T03:38:34.299539Z",
+  "generated_at": "2026-10-17T07:42:16.254471Z",
   "questions": [
     {
-      "type": "magnitude_gap",
-      "question": "How many catches separate the all-time #1 (Alexis le Breton) and #2 (Yolandi Potgieter) fielders (List A)?",
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Lowest Team Total (all out or completed innings)' in the 24/25 season (combined T20 + List A)?",
       "options": [
-        "1",
-        "5",
-        "7",
-        "3"
+        "Rhinos",
+        "Iinyathi",
+        "Kei",
+        "Heat"
       ],
-      "answer_index": 0,
-      "explanation": "Alexis le Breton: 61 — Yolandi Potgieter: 60 — a gap of 1."
+      "answer_index": 2,
+      "explanation": "Kei — 29."
     },
     {
       "type": "team_record_venue",
       "question": "At which ground did Limpopo Lillies record their 'Largest Win by Runs' (List A)?",
       "options": [
         "Polokwane Oval",
-        "City Oval",
-        "Bridgton Sports Grounds",
-        "Capricorn High School"
+        "Chatsworth Stadium",
+        "Ingwenyama Ground",
+        "Kingsmead stadium"
       ],
       "answer_index": 0,
       "explanation": "It was at Polokwane Oval — largest win by runs of 144, against Rhinos on 2022/02/05."
-    },
-    {
-      "type": "curveball",
-      "question": "Where did South Africa Women play their first-ever T20I, in August 2007?",
-      "options": [
-        "County Ground, Taunton",
-        "Kingsmead, Durban",
-        "Nairobi Gymkhana, Nairobi",
-        "The Wanderers, Johannesburg"
-      ],
-      "answer_index": 0,
-      "explanation": "South Africa's first women's T20I was against New Zealand at the County Ground, Taunton, on 10 August 2007, a neutral venue in England."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Jamie-Lee Marais record their career-best bowling figures (3-1, T20)?",
-      "options": [
-        "Buffalo Park",
-        "Kimberley Oval",
-        "Bridgton Sports Grounds",
-        "Hammanskraal Oval"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Kimberley Oval, against Heat on 2015/10/18."
     },
     {
       "type": "player_record",
@@ -63,16 +39,38 @@
       "explanation": "Shabnim Ismail holds it, with a total of 2."
     },
     {
-      "type": "venue_record",
-      "question": "At Potchefstroom Oval, who holds the record for 'Most Wickets' (T20)?",
+      "type": "curveball",
+      "question": "Where did South Africa Women play their first-ever T20I, in August 2007?",
       "options": [
-        "Nthabiseng Nini",
-        "Alyssa Erxleben",
-        "Evodia Yekile",
-        "Esmarelda Olivier"
+        "County Ground, Taunton",
+        "Kingsmead, Durban",
+        "Nairobi Gymkhana, Nairobi",
+        "The Wanderers, Johannesburg"
       ],
       "answer_index": 0,
-      "explanation": "Nthabiseng Nini holds it with 15."
+      "explanation": "South Africa's first women's T20I was against New Zealand at the County Ground, Taunton, on 10 August 2007, a neutral venue in England."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the century and 4 wickets in a match double more times, Suné Luus or Mieke van Voorst?",
+      "options": [
+        "Suné Luus",
+        "Mieke van Voorst"
+      ],
+      "answer_index": 0,
+      "explanation": "Suné Luus: 2 times. Mieke van Voorst: 1 times."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many catches separate the all-time #1 (Alexis le Breton) and #2 (Yolandi Potgieter) fielders (List A)?",
+      "options": [
+        "1",
+        "5",
+        "7",
+        "3"
+      ],
+      "answer_index": 0,
+      "explanation": "Alexis le Breton: 61 — Yolandi Potgieter: 60 — a gap of 1."
     }
   ]
 }
