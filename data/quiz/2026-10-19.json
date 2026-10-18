@@ -1,64 +1,42 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-18T03:44:51.874376Z",
+  "generated_at": "2026-10-18T07:57:25.854642Z",
   "questions": [
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Tuskers or Knights?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Most 100+ Scores' (T20)?",
       "options": [
-        "Knights",
-        "Tuskers"
+        "Kirstie Thomson",
+        "Susan Benade",
+        "Faye Tunnicliffe",
+        "Izel Cilliers"
       ],
-      "answer_index": 0,
-      "explanation": "Knights lead 7-3 across 12 meetings (List A)."
+      "answer_index": 2,
+      "explanation": "Faye Tunnicliffe holds it, with a total of 2, a joint record shared with Tazmin Brits."
     },
     {
-      "type": "curveball",
-      "question": "Which South African bowler took the first-ever hat-trick in the history of the ICC Under-19 Women's T20 World Cup, in 2023?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Best Batting Average' in the 14/15 season (T20)?",
       "options": [
-        "Madison Landsman",
-        "Oluhle Siyo",
-        "Nthabiseng Nini",
-        "Mieke van Voorst"
+        "Shandré Fritz",
+        "Jana Nell",
+        "Trisha Chetty",
+        "Alexis le Breton"
       ],
-      "answer_index": 0,
-      "explanation": "Landsman, then 18, took the first hat-trick in U19 Women's T20 World Cup history against Scotland in 2023."
+      "answer_index": 1,
+      "explanation": "Jana Nell holds it with 176.00."
     },
     {
       "type": "team_record_venue",
       "question": "At which ground did Boland record their 'Highest Total' (List A)?",
       "options": [
-        "Oudtshoorn High School",
+        "Johan Volsteedt Oval",
         "UWC Main Oval",
         "Boland Park, Paarl",
-        "Johan Volsteedt Oval"
+        "Joburg Cricket Club Ground"
       ],
       "answer_index": 2,
       "explanation": "It was at Boland Park, Paarl — highest total of 558, against Kei on 2011/01/29."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Potchefstroom Oval, who holds the record for 'Most Matches' (T20)?",
-      "options": [
-        "Nthabiseng Nini",
-        "Alyssa Erxleben",
-        "Anneke Bosch",
-        "Evodia Yekile"
-      ],
-      "answer_index": 0,
-      "explanation": "Nthabiseng Nini holds it with 15, a joint record shared with Lizri de Villiers."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Knights record their 'Largest Win by Runs' (T20)?",
-      "options": [
-        "Boland Park, Paarl",
-        "St Andrews A",
-        "Bloemfontein Oval",
-        "Schoeman Park A Ground"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Bloemfontein Oval — largest win by runs of 136, against Kei on 2018/11/25."
     },
     {
       "type": "career_best_venue",
@@ -71,6 +49,30 @@
       ],
       "answer_index": 0,
       "explanation": "It was at City Oval, against Tuskers on 2023/11/19."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Centurion Park, who holds the record for 'Most Matches' (T20)?",
+      "options": [
+        "Paulinah Mashishi",
+        "Tebogo Macheke",
+        "Eliz-Mari Marx",
+        "Amogelang Maphangula"
+      ],
+      "answer_index": 0,
+      "explanation": "Paulinah Mashishi holds it with 16."
+    },
+    {
+      "type": "curveball",
+      "question": "Which South African bowler took the first-ever hat-trick in the history of the ICC Under-19 Women's T20 World Cup, in 2023?",
+      "options": [
+        "Madison Landsman",
+        "Oluhle Siyo",
+        "Nthabiseng Nini",
+        "Mieke van Voorst"
+      ],
+      "answer_index": 0,
+      "explanation": "Landsman, then 18, took the first hat-trick in U19 Women's T20 World Cup history against Scotland in 2023."
     }
   ]
 }

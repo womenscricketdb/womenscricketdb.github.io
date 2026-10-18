@@ -401,18 +401,23 @@
   },
   {
     "date": "2026-10-18",
+    "template": "q_reverse_record",
+    "source_key": "records/team/json/Lowest_Total.json"
+  },
+  {
+    "date": "2026-10-18",
+    "template": "q_team_record",
+    "source_key": "records/team/json/Highest_Total.json"
+  },
+  {
+    "date": "2026-10-18",
     "template": "q_player_record",
     "source_key": "records/bowling/json/Best_Bowl_Performance.json"
   },
   {
     "date": "2026-10-18",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/100Plus_Scores.json"
-  },
-  {
-    "date": "2026-10-18",
     "template": "q_venue_record",
-    "source_key": "venue:Centurion Park"
+    "source_key": "venue:City Oval"
   },
   {
     "date": "2026-10-18",
@@ -420,14 +425,14 @@
     "source_key": "career_best_venue:Vuyo Bonya"
   },
   {
-    "date": "2026-10-18",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:T20"
-  },
-  {
     "date": "2026-10-19",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Boland:Highest Total:List A"
+  },
+  {
+    "date": "2026-10-19",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/100Plus_Scores.json"
   },
   {
     "date": "2026-10-19",
@@ -437,17 +442,12 @@
   {
     "date": "2026-10-19",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Centurion Park"
   },
   {
     "date": "2026-10-19",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Knights-Tuskers:List A"
-  },
-  {
-    "date": "2026-10-19",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Knights:Largest Win by Runs:T20"
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Batting_Average.json"
   },
   {
     "date": "2026-10-20",
@@ -477,7 +477,7 @@
   {
     "date": "2026-10-21",
     "template": "q_venue_record",
-    "source_key": "venue:Polokwane Oval"
+    "source_key": "venue:Potchefstroom Oval"
   },
   {
     "date": "2026-10-21",
@@ -487,7 +487,7 @@
   {
     "date": "2026-10-21",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Knights:Largest Win by Runs:List A"
+    "source_key": "team_record_venue:Knights:Largest Win by Runs:T20"
   },
   {
     "date": "2026-10-21",
