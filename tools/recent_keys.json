@@ -421,6 +421,11 @@
   },
   {
     "date": "2026-10-19",
+    "template": "q_reverse_record",
+    "source_key": "records/team/json/Most_Wins.json"
+  },
+  {
+    "date": "2026-10-20",
     "template": "q_player_record",
     "source_key": "records/batting/json/Batting_Average.json"
   },
@@ -443,11 +448,6 @@
     "date": "2026-10-20",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Iinyathi:Largest Win by Runs:List A"
-  },
-  {
-    "date": "2026-10-20",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Badgers-Iinyathi:List A"
   },
   {
     "date": "2026-10-21",

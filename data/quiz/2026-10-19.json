@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T03:54:43.893361Z",
+  "generated_at": "2026-10-19T08:44:46.135656Z",
   "questions": [
     {
       "type": "player_record",
@@ -15,40 +15,16 @@
       "explanation": "Faye Tunnicliffe holds it, with a total of 2, a joint record shared with Tazmin Brits."
     },
     {
-      "type": "player_record",
-      "question": "Who holds the record for 'Best Batting Average' in the 14/15 season (T20)?",
+      "type": "reverse_record",
+      "question": "Cobras set a database record (combined T20 + List A) with a value of 227. Which record is it?",
       "options": [
-        "Shandré Fritz",
-        "Jana Nell",
-        "Trisha Chetty",
-        "Alexis le Breton"
-      ],
-      "answer_index": 1,
-      "explanation": "Jana Nell holds it with 176.00."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Boland record their 'Highest Total' (List A)?",
-      "options": [
-        "Pen Basson Field",
-        "Wine Farm Cricket Field",
-        "Boland Park, Paarl",
-        "Grey College A Ground"
+        "Biggest Win by Runs",
+        "Lowest Team Total (all out or completed innings)",
+        "Most Wins",
+        "Highest Team Total"
       ],
       "answer_index": 2,
-      "explanation": "It was at Boland Park, Paarl — highest total of 558, against Kei on 2011/01/29."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Tamzyn Hartman record their career-best innings (45, T20)?",
-      "options": [
-        "City Oval",
-        "Bloemfontein Oval",
-        "Willowmoore Park Main Oval",
-        "Polokwane Oval"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at City Oval, against Tuskers on 2023/11/19."
+      "explanation": "It's the record for 'Most Wins', held by Cobras."
     },
     {
       "type": "venue_record",
@@ -63,6 +39,18 @@
       "explanation": "Paulinah Mashishi holds it with 16."
     },
     {
+      "type": "career_best_venue",
+      "question": "At which ground did Tamzyn Hartman record their career-best innings (45, T20)?",
+      "options": [
+        "City Oval",
+        "Bloemfontein Oval",
+        "Willowmoore Park Main Oval",
+        "Polokwane Oval"
+      ],
+      "answer_index": 0,
+      "explanation": "It was at City Oval, against Tuskers on 2023/11/19."
+    },
+    {
       "type": "curveball",
       "question": "Which South African bowler took the first-ever hat-trick in the history of the ICC Under-19 Women's T20 World Cup, in 2023?",
       "options": [
@@ -73,6 +61,18 @@
       ],
       "answer_index": 0,
       "explanation": "Landsman, then 18, took the first hat-trick in U19 Women's T20 World Cup history against Scotland in 2023."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Boland record their 'Highest Total' (List A)?",
+      "options": [
+        "Yorkshire Cricket Club Ground",
+        "Oude Libertas Ground",
+        "Boland Park, Paarl",
+        "Country Club B Field"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Boland Park, Paarl — highest total of 558, against Kei on 2011/01/29."
     }
   ]
 }
