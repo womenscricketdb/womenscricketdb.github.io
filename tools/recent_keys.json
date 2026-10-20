@@ -401,6 +401,11 @@
   },
   {
     "date": "2026-10-20",
+    "template": "q_team_record",
+    "source_key": "records/team/json/Win_By_Runs.json"
+  },
+  {
+    "date": "2026-10-20",
     "template": "q_player_record",
     "source_key": "records/batting/json/Batting_Average.json"
   },
@@ -420,11 +425,6 @@
     "source_key": "venue:Khaya Majola Oval"
   },
   {
-    "date": "2026-10-20",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Iinyathi:Largest Win by Runs:List A"
-  },
-  {
     "date": "2026-10-21",
     "template": "q_venue_record",
     "source_key": "venue:Potchefstroom Oval"
@@ -436,18 +436,18 @@
   },
   {
     "date": "2026-10-21",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Fours.json"
+  },
+  {
+    "date": "2026-10-21",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Knights:Largest Win by Runs:T20"
+    "source_key": "team_record_venue:Boland:Largest Win by Runs:List A"
   },
   {
     "date": "2026-10-21",
     "template": "q_head_to_head",
-    "source_key": "h2h:Eastern Storm-Rhinos:T20"
-  },
-  {
-    "date": "2026-10-21",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/bowling/json/Most_5Wickets.json:OVERALL:15/16"
+    "source_key": "h2h:Dolphins-Knights:List A"
   },
   {
     "date": "2026-10-22",
