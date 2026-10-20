@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-10-03",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Badgers-Warriors:List A"
-  },
-  {
-    "date": "2026-10-03",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/Most_Fours.json"
-  },
-  {
-    "date": "2026-10-03",
-    "template": "q_team_record",
-    "source_key": "records/team/json/Win_By_Runs.json"
-  },
-  {
-    "date": "2026-10-03",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/fielding/json/WK_Dismissals.json:List A:OVERALL"
-  },
-  {
-    "date": "2026-10-03",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Diyanka Naidoo"
-  },
-  {
     "date": "2026-10-04",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Cobras:Largest Win by Runs:T20"
@@ -442,7 +417,7 @@
   {
     "date": "2026-10-20",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Khaya Majola Oval"
   },
   {
     "date": "2026-10-20",
@@ -492,11 +467,36 @@
   {
     "date": "2026-10-22",
     "template": "q_venue_record",
-    "source_key": "venue:Polokwane Oval"
+    "source_key": "venue:Recreation Ground"
   },
   {
     "date": "2026-10-22",
     "template": "q_head_to_head",
     "source_key": "h2h:Rhinos-Titans:List A"
+  },
+  {
+    "date": "2026-10-23",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Badgers-Cobras:List A"
+  },
+  {
+    "date": "2026-10-23",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Limpopo Lillies:Highest Total:T20"
+  },
+  {
+    "date": "2026-10-23",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Angel Mgwenya"
+  },
+  {
+    "date": "2026-10-23",
+    "template": "q_venue_record",
+    "source_key": "venue:Polokwane Oval"
+  },
+  {
+    "date": "2026-10-23",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Dolphins-Titans:List A"
   }
 ]
