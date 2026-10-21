@@ -1,64 +1,18 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T03:55:19.557779Z",
+  "generated_at": "2026-10-21T08:28:29.578909Z",
   "questions": [
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Dolphins or Knights?",
+      "type": "reverse_record",
+      "question": "Cobras set a database record (24/25 season, T20) with a value of 198. Which record is it?",
       "options": [
-        "Knights",
-        "Dolphins"
-      ],
-      "answer_index": 1,
-      "explanation": "Dolphins lead 15-3 across 21 meetings (List A)."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Boland record their 'Largest Win by Runs' (List A)?",
-      "options": [
-        "Boland Park, Paarl",
-        "Kimberley Oval",
-        "Ngumbela Park",
-        "Parys A Ground"
+        "Highest Team Total",
+        "Biggest Win by Runs",
+        "Lowest Team Total (all out or completed innings)",
+        "Most Wins"
       ],
       "answer_index": 0,
-      "explanation": "It was at Boland Park, Paarl — largest win by runs of 533, against Kei on 2011/01/29."
-    },
-    {
-      "type": "player_record",
-      "question": "Who holds the record for 'Most Fours' in the 05/06 season (List A)?",
-      "options": [
-        "Johmari Logtenberg",
-        "Yolandie Bronkhorst",
-        "Alicia Smith",
-        "Susan Benade"
-      ],
-      "answer_index": 0,
-      "explanation": "Johmari Logtenberg holds it, with a total of 53."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Nadine de Klerk record their career-best innings (74, T20)?",
-      "options": [
-        "Ingwenyama Ground",
-        "Newlands Stadium",
-        "Willowmoore Park Main Oval",
-        "Wanderers"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Newlands Stadium, against Dolphins on 2025/03/23."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Potchefstroom Oval, who holds the record for 'Most Runs' (T20)?",
-      "options": [
-        "Lizri de Villiers",
-        "Anneke Bosch",
-        "Tazmin Brits",
-        "Mignon du Preez"
-      ],
-      "answer_index": 2,
-      "explanation": "Tazmin Brits holds it with 344."
+      "explanation": "It's the record for 'Highest Team Total', held by Cobras."
     },
     {
       "type": "curveball",
@@ -71,6 +25,54 @@
       ],
       "answer_index": 0,
       "explanation": "Dragons have won 4 titles, the most of any union other than the dominant Western Province."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Buffalo Park, who holds the record for 'Most Runs' (T20)?",
+      "options": [
+        "Zizipho Mdebuka",
+        "Angelique Taai",
+        "Geneveve Fritz",
+        "Siyamanga Mhletywa"
+      ],
+      "answer_index": 2,
+      "explanation": "Geneveve Fritz holds it with 222."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Fours' in the 17/18 season (T20)?",
+      "options": [
+        "Lizelle Lee",
+        "Angelique Taai",
+        "Stacey Lackay",
+        "Susan Benade"
+      ],
+      "answer_index": 2,
+      "explanation": "Stacey Lackay holds it, with a total of 27."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Fastest 50 (by balls)' in the 19/20 season (List A)?",
+      "options": [
+        "Susan Benade",
+        "Carmen Nagel",
+        "Lerato Langa",
+        "Anneke Bosch"
+      ],
+      "answer_index": 0,
+      "explanation": "Susan Benade holds it, with a total of 40."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Nadine de Klerk record their career-best innings (74, T20)?",
+      "options": [
+        "Ingwenyama Ground",
+        "Newlands Stadium",
+        "Willowmoore Park Main Oval",
+        "Wanderers"
+      ],
+      "answer_index": 1,
+      "explanation": "It was at Newlands Stadium, against Dolphins on 2025/03/23."
     }
   ]
 }

@@ -402,7 +402,7 @@
   {
     "date": "2026-10-21",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Buffalo Park"
   },
   {
     "date": "2026-10-21",
@@ -411,18 +411,18 @@
   },
   {
     "date": "2026-10-21",
+    "template": "q_reverse_record",
+    "source_key": "records/team/json/Highest_Total.json"
+  },
+  {
+    "date": "2026-10-21",
     "template": "q_player_record",
     "source_key": "records/batting/json/Most_Fours.json"
   },
   {
     "date": "2026-10-21",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Boland:Largest Win by Runs:List A"
-  },
-  {
-    "date": "2026-10-21",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Dolphins-Knights:List A"
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Fastest_50.json"
   },
   {
     "date": "2026-10-22",
@@ -442,7 +442,7 @@
   {
     "date": "2026-10-22",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Potchefstroom Oval"
   },
   {
     "date": "2026-10-22",
