@@ -1,7 +1,31 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-22T03:55:52.138863Z",
+  "generated_at": "2026-10-22T08:30:49.852160Z",
   "questions": [
+    {
+      "type": "curveball",
+      "question": "Which of these players is tied for the most provincial unions represented in a career in this database, having played for five?",
+      "options": [
+        "Elandri Janse van Rensburg",
+        "Shabnim Ismail",
+        "Marizanne Kapp",
+        "Laura Wolvaardt"
+      ],
+      "answer_index": 0,
+      "explanation": "Janse van Rensburg played for Dolphins, Dragons, Eastern Storm, Knights and Limpopo Lillies, five unions. She's tied for the database record alongside Zizipho Mdebuka, Bernadine Bezuidenhout and Alysia Rudolph."
+    },
+    {
+      "type": "reverse_record",
+      "question": "Badgers set a database record (18/19 season, T20) with a value of 146. Which record is it?",
+      "options": [
+        "Lowest Team Total (all out or completed innings)",
+        "Highest Team Total",
+        "Biggest Win by Runs",
+        "Most Wins"
+      ],
+      "answer_index": 2,
+      "explanation": "It's the record for 'Biggest Win by Runs', held by Badgers."
+    },
     {
       "type": "head_to_head",
       "question": "In head-to-head List A meetings, who has the edge, Badgers or Cobras?",
@@ -11,28 +35,6 @@
       ],
       "answer_index": 0,
       "explanation": "Cobras lead 19-3 across 23 meetings (List A)."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Limpopo Lillies record their 'Highest Total' (T20)?",
-      "options": [
-        "Bloemfontein Oval",
-        "Kimberley Oval",
-        "Recreation Ground",
-        "Langenhoven Gimnasium"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Bloemfontein Oval — highest total of 136, against Knights on 2025/11/02."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Titans or Dolphins?",
-      "options": [
-        "Dolphins",
-        "Titans"
-      ],
-      "answer_index": 1,
-      "explanation": "Titans lead 11-8 across 24 meetings (List A)."
     },
     {
       "type": "venue_record",
@@ -47,16 +49,16 @@
       "explanation": "Alyssa Erxleben holds it with 22."
     },
     {
-      "type": "curveball",
-      "question": "Which of these players is tied for the most provincial unions represented in a career in this database, having played for five?",
+      "type": "team_record_venue",
+      "question": "At which ground did Limpopo Lillies record their 'Largest Win by Runs' (T20)?",
       "options": [
-        "Elandri Janse van Rensburg",
-        "Shabnim Ismail",
-        "Marizanne Kapp",
-        "Laura Wolvaardt"
+        "Kimberley Oval",
+        "Sinovich Park",
+        "St. Andrews Vossie",
+        "UFS 3 Oval"
       ],
       "answer_index": 0,
-      "explanation": "Janse van Rensburg played for Dolphins, Dragons, Eastern Storm, Knights and Limpopo Lillies, five unions. She's tied for the database record alongside Zizipho Mdebuka, Bernadine Bezuidenhout and Alysia Rudolph."
+      "explanation": "It was at Kimberley Oval — largest win by runs of 55, against Heat on 2022/02/20."
     },
     {
       "type": "career_best_venue",
