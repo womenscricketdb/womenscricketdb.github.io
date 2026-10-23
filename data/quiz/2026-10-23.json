@@ -1,7 +1,41 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T03:59:17.108292Z",
+  "generated_at": "2026-10-23T08:27:16.410854Z",
   "questions": [
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Shabnim Ismail record their career-best innings (50, T20)?",
+      "options": [
+        "Boland Park, Paarl",
+        "Ngumbela Park",
+        "Old Mutual Sports Club Ground",
+        "Wanderers"
+      ],
+      "answer_index": 0,
+      "explanation": "It was at Boland Park, Paarl, against Boland on 2017/01/22."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Wicketkeeping Dismissals' (T20)?",
+      "options": [
+        "Mieke de Ridder",
+        "Babette de Leede",
+        "Tebogo Macheke",
+        "Palesa Mapoo"
+      ],
+      "answer_index": 0,
+      "explanation": "Mieke de Ridder holds it, with a total of 36."
+    },
+    {
+      "type": "higher_lower",
+      "question": "Who has more runs — Tanya Cronje or Izel Cilliers? (T20.)",
+      "options": [
+        "Tanya Cronje",
+        "Izel Cilliers"
+      ],
+      "answer_index": 1,
+      "explanation": "Tanya Cronje: 350 — Izel Cilliers: 1344."
+    },
     {
       "type": "curveball",
       "question": "Which of these players is tied for the most provincial unions represented in a career in this database, having played for five?",
@@ -15,62 +49,26 @@
       "explanation": "Janse van Rensburg played for Dolphins, Dragons, Eastern Storm, Knights and Limpopo Lillies, five unions. She's tied for the database record alongside Zizipho Mdebuka, Bernadine Bezuidenhout and Alysia Rudolph."
     },
     {
-      "type": "reverse_record",
-      "question": "Badgers set a database record (18/19 season, T20) with a value of 146. Which record is it?",
-      "options": [
-        "Lowest Team Total (all out or completed innings)",
-        "Highest Team Total",
-        "Biggest Win by Runs",
-        "Most Wins"
-      ],
-      "answer_index": 2,
-      "explanation": "It's the record for 'Biggest Win by Runs', held by Badgers."
-    },
-    {
       "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Badgers or Cobras?",
+      "question": "In head-to-head T20 meetings, who has the edge, Cobras or Knights?",
       "options": [
-        "Cobras",
-        "Badgers"
+        "Knights",
+        "Cobras"
       ],
-      "answer_index": 0,
-      "explanation": "Cobras lead 19-3 across 23 meetings (List A)."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Polokwane Oval, who holds the record for 'Most Wickets' (List A)?",
-      "options": [
-        "Khushi Mistry",
-        "Masingla Khosa",
-        "Richelle Lambert",
-        "Geraldine Mashimbyi"
-      ],
-      "answer_index": 0,
-      "explanation": "Khushi Mistry holds it with 19, a joint record shared with Thembi Mokgohloa."
+      "answer_index": 1,
+      "explanation": "Cobras lead 9-0 across 10 meetings (T20)."
     },
     {
       "type": "team_record_venue",
-      "question": "At which ground did Limpopo Lillies record their 'Largest Win by Runs' (T20)?",
+      "question": "At which ground did Heat record their 'Largest Win by Runs' (T20)?",
       "options": [
         "Kimberley Oval",
-        "Capricorn High School",
-        "Willowmoore Park Main Oval",
-        "Nirvana"
+        "Cambridge Academy",
+        "Despatch Oval",
+        "UP 4 Oval"
       ],
       "answer_index": 0,
-      "explanation": "It was at Kimberley Oval — largest win by runs of 55, against Heat on 2022/02/20."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Angel Mgwenya record their career-best innings (40*, T20)?",
-      "options": [
-        "Uplands College",
-        "City Oval",
-        "Polokwane Oval",
-        "Centurion Park"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Uplands College, against Dragons on 2024/03/10."
+      "explanation": "It was at Kimberley Oval — largest win by runs of 95, against Kei on 2018/02/11."
     }
   ]
 }
