@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-10-06",
-    "template": "q_player_record",
-    "source_key": "records/fielding/json/WK_Dismissals.json"
-  },
-  {
-    "date": "2026-10-06",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Kei-Warriors:List A"
-  },
-  {
-    "date": "2026-10-06",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Alacia Giles"
-  },
-  {
-    "date": "2026-10-06",
-    "template": "q_higher_or_lower",
-    "source_key": "higher_or_lower"
-  },
-  {
-    "date": "2026-10-06",
-    "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
-  },
-  {
     "date": "2026-10-07",
     "template": "q_player_record",
     "source_key": "records/partnerships/json/Highest_Partnership.json"
@@ -442,7 +417,7 @@
   {
     "date": "2026-10-23",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Polokwane Oval"
   },
   {
     "date": "2026-10-23",
@@ -492,11 +467,36 @@
   {
     "date": "2026-10-25",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Potchefstroom Oval"
   },
   {
     "date": "2026-10-25",
     "template": "q_reverse_record",
     "source_key": "records/misc/json/Matches_Captained.json"
+  },
+  {
+    "date": "2026-10-26",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/bowling/json/Most_Maidens.json:List A:22/23"
+  },
+  {
+    "date": "2026-10-26",
+    "template": "q_reverse_record",
+    "source_key": "records/batting/json/100Plus_Scores.json"
+  },
+  {
+    "date": "2026-10-26",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Boland-Cobras:List A"
+  },
+  {
+    "date": "2026-10-26",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
+  },
+  {
+    "date": "2026-10-26",
+    "template": "q_venue_record",
+    "source_key": "venue:Recreation Ground"
   }
 ]
