@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T03:53:46.766778Z",
+  "generated_at": "2026-10-24T08:02:31.120956Z",
   "questions": [
     {
       "type": "reverse_record",
@@ -15,35 +15,25 @@
       "explanation": "It's the record for 'Most Sixes', held by Laura Wolvaardt."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Iinyathi or Warriors?",
+      "type": "magnitude_gap",
+      "question": "How many 50+ scores separate the all-time #1 (Mignon du Preez) and #2 (Alison Hodgkinson) half-century makers (combined T20 + List A) in the 13/14 season?",
       "options": [
-        "Iinyathi",
-        "Warriors"
-      ],
-      "answer_index": 1,
-      "explanation": "Warriors lead 16-8 across 25 meetings (List A)."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Ane Saunderson record their career-best bowling figures (2-12, T20)?",
-      "options": [
-        "St. Andrews Vossie",
-        "City Oval",
-        "Potchefstroom Oval",
-        "Polokwane Oval"
+        "10",
+        "3",
+        "1",
+        "5"
       ],
       "answer_index": 2,
-      "explanation": "It was at Potchefstroom Oval, against Tuskers on 2024/10/13."
+      "explanation": "Mignon du Preez: 5 — Alison Hodgkinson: 4 — a gap of 1."
     },
     {
       "type": "team_record_venue",
       "question": "At which ground did Iinyathi record their 'Highest Total' (T20)?",
       "options": [
-        "Sturrock Park",
-        "UCT Bowl",
+        "Van der Stel Ground",
+        "Wanderers",
         "Kimberley Oval",
-        "Van der Stel Ground"
+        "St. Andrews Chapel"
       ],
       "answer_index": 2,
       "explanation": "It was at Kimberley Oval — highest total of 162, against Heat on 2015/10/18."
@@ -61,16 +51,28 @@
       "explanation": "Ayabonga Khaka won it in 2021/22."
     },
     {
-      "type": "magnitude_gap",
-      "question": "How many 50+ scores separate the all-time #1 (Mignon du Preez) and #2 (Alison Hodgkinson) half-century makers (combined T20 + List A) in the 13/14 season?",
+      "type": "career_best_venue",
+      "question": "At which ground did Ane Saunderson record their career-best bowling figures (2-12, T20)?",
       "options": [
-        "10",
-        "3",
-        "1",
-        "5"
+        "St. Andrews Vossie",
+        "City Oval",
+        "Potchefstroom Oval",
+        "Polokwane Oval"
       ],
       "answer_index": 2,
-      "explanation": "Mignon du Preez: 5 — Alison Hodgkinson: 4 — a gap of 1."
+      "explanation": "It was at Potchefstroom Oval, against Tuskers on 2024/10/13."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Highest Partnership' in the 25/26 season (List A)?",
+      "options": [
+        "Babette de Leede & Mia-Lize van der Vyver",
+        "Elandri Janse van Rensburg & Mieke van Voorst",
+        "Anneke Bosch & Suné Luus",
+        "Faye Tunnicliffe & Kelsey Adams"
+      ],
+      "answer_index": 1,
+      "explanation": "Elandri Janse van Rensburg & Mieke van Voorst hold it, with a total of 231."
     }
   ]
 }
