@@ -406,23 +406,23 @@
   },
   {
     "date": "2026-10-25",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_50_4"
+  },
+  {
+    "date": "2026-10-25",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/batting/json/50Plus_Scores.json:List A:10/11"
+  },
+  {
+    "date": "2026-10-25",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/50Plus_Scores.json"
+  },
+  {
+    "date": "2026-10-25",
     "template": "q_head_to_head",
-    "source_key": "h2h:Badgers-Kei:List A"
-  },
-  {
-    "date": "2026-10-25",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Knights:Largest Win by Runs:T20"
-  },
-  {
-    "date": "2026-10-25",
-    "template": "q_venue_record",
-    "source_key": "venue:Polokwane Oval"
-  },
-  {
-    "date": "2026-10-25",
-    "template": "q_reverse_record",
-    "source_key": "records/misc/json/Matches_Captained.json"
+    "source_key": "h2h:Rhinos-Tuskers:T20"
   },
   {
     "date": "2026-10-26",
@@ -447,7 +447,7 @@
   {
     "date": "2026-10-26",
     "template": "q_venue_record",
-    "source_key": "venue:Boland Park, Paarl"
+    "source_key": "venue:Newlands Stadium"
   },
   {
     "date": "2026-10-27",
@@ -492,7 +492,7 @@
   {
     "date": "2026-10-28",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Boland Park, Paarl"
   },
   {
     "date": "2026-10-28",
