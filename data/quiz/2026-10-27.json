@@ -1,19 +1,7 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-26T03:57:12.131694Z",
+  "generated_at": "2026-10-26T08:47:02.565061Z",
   "questions": [
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Megan-Lee Mans record their career-best innings (27*, T20)?",
-      "options": [
-        "SASOL Club",
-        "City Oval",
-        "Polokwane Oval",
-        "City Oval"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Polokwane Oval, against Eastern Storm on 2022/10/09."
-    },
     {
       "type": "head_to_head",
       "question": "In head-to-head List A meetings, who has the edge, Heat or Badgers?",
@@ -25,16 +13,16 @@
       "explanation": "Badgers lead 7-2 across 10 meetings (List A)."
     },
     {
-      "type": "venue_record",
-      "question": "At Bloemfontein Oval, who holds the record for 'Most Wickets' (List A)?",
+      "type": "career_best_venue",
+      "question": "At which ground did Megan-Lee Mans record their career-best innings (27*, T20)?",
       "options": [
-        "Masabata Klaas",
-        "Zintle Kula",
-        "Yolandi Potgieter",
-        "Gezelle Jansen van Rensburg"
+        "SASOL Club",
+        "City Oval",
+        "Polokwane Oval",
+        "City Oval"
       ],
-      "answer_index": 3,
-      "explanation": "Gezelle Jansen van Rensburg holds it with 19."
+      "answer_index": 2,
+      "explanation": "It was at Polokwane Oval, against Eastern Storm on 2022/10/09."
     },
     {
       "type": "reverse_record",
@@ -61,16 +49,28 @@
       "explanation": "Kapp took her 44th World Cup wicket during South Africa's 2025 semi-final win over England, surpassing India's Jhulan Goswami."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Iinyathi record their 'Largest Win by Runs' (List A)?",
+      "type": "season_leader",
+      "question": "Who topped the wickets charts in the 24/25 season (List A)?",
       "options": [
-        "Cambridge High School",
-        "Sinovich Park",
-        "Khaya Majola Oval",
-        "United CC Ground"
+        "Kgomotso Rapoo",
+        "Geraldine Mashimbyi",
+        "Ane Saunderson",
+        "Alyssa Erxleben"
       ],
-      "answer_index": 2,
-      "explanation": "It was at Khaya Majola Oval — largest win by runs of 262, against Kei on 2015/02/21."
+      "answer_index": 3,
+      "explanation": "Alyssa Erxleben led with 22 wickets."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Willowmoore Park Main Oval, who holds the record for 'Most Wickets' (List A)?",
+      "options": [
+        "Sibongile Makamo",
+        "Suné Luus",
+        "Zante Steyn",
+        "Adele van Eck"
+      ],
+      "answer_index": 3,
+      "explanation": "Adele van Eck holds it with 17."
     }
   ]
 }

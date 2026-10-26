@@ -411,23 +411,28 @@
   },
   {
     "date": "2026-10-26",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Best_Bowl_Average.json"
+  },
+  {
+    "date": "2026-10-26",
     "template": "q_head_to_head",
-    "source_key": "h2h:Boland-Cobras:List A"
+    "source_key": "h2h:Cobras-Knights:List A"
   },
   {
     "date": "2026-10-26",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Badgers:Largest Win by Runs:T20"
+    "source_key": "team_record_venue:Tuskers:Largest Win by Runs:T20"
   },
   {
-    "date": "2026-10-26",
-    "template": "q_venue_record",
-    "source_key": "venue:Polokwane Oval"
+    "date": "2026-10-27",
+    "template": "q_season_leader",
+    "source_key": "season_leader"
   },
   {
     "date": "2026-10-27",
     "template": "q_venue_record",
-    "source_key": "venue:Bloemfontein Oval"
+    "source_key": "venue:Willowmoore Park Main Oval"
   },
   {
     "date": "2026-10-27",
@@ -443,11 +448,6 @@
     "date": "2026-10-27",
     "template": "q_reverse_record",
     "source_key": "records/team/json/Win_By_Runs.json"
-  },
-  {
-    "date": "2026-10-27",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Iinyathi:Largest Win by Runs:List A"
   },
   {
     "date": "2026-10-28",
@@ -467,7 +467,7 @@
   {
     "date": "2026-10-28",
     "template": "q_venue_record",
-    "source_key": "venue:Boland Park, Paarl"
+    "source_key": "venue:Polokwane Oval"
   },
   {
     "date": "2026-10-28",
@@ -477,7 +477,7 @@
   {
     "date": "2026-10-29",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Bloemfontein Oval"
   },
   {
     "date": "2026-10-29",
@@ -487,7 +487,7 @@
   {
     "date": "2026-10-29",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Iinyathi:Largest Win by Runs:T20"
+    "source_key": "team_record_venue:Iinyathi:Largest Win by Runs:List A"
   },
   {
     "date": "2026-10-29",
@@ -497,6 +497,6 @@
   {
     "date": "2026-10-29",
     "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
+    "source_key": "venue:Potchefstroom Oval"
   }
 ]
