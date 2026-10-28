@@ -1,52 +1,64 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-28T04:48:33.217153Z",
+  "generated_at": "2026-10-28T09:33:16.483185Z",
   "questions": [
     {
-      "type": "venue_record",
-      "question": "At Potchefstroom Oval, who holds the record for 'Most Wickets' (T20)?",
+      "type": "team_record_venue",
+      "question": "At which ground did Eastern Storm record their 'Largest Win by Runs' (T20)?",
       "options": [
-        "Alyssa Erxleben",
-        "Esmarelda Olivier",
-        "Nthabiseng Nini",
-        "Evodia Yekile"
+        "Victory Park",
+        "Polokwane Oval",
+        "Wanderers",
+        "White River Country Club"
       ],
-      "answer_index": 2,
-      "explanation": "Nthabiseng Nini holds it with 15."
+      "answer_index": 1,
+      "explanation": "It was at Polokwane Oval — largest win by runs of 90, against Limpopo Lillies on 2013/10/12."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Andrie Steyn record their career-best innings (66, T20)?",
+      "options": [
+        "Kingsmead stadium",
+        "Potchefstroom Oval",
+        "TUT Oval",
+        "Recreation Ground"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Recreation Ground, against Badgers on 2022/11/27."
     },
     {
       "type": "venue_record",
-      "question": "At Willowmoore Park Main Oval, who holds the record for 'Most Matches' (List A)?",
+      "question": "At Recreation Ground, who holds the record for 'Most Runs' (List A)?",
       "options": [
-        "Adele van Eck",
-        "Kayleigh Craig",
-        "Sibongile Makamo",
-        "Jennifer Hall"
+        "Tazmin Brits",
+        "Micaela Andrews",
+        "Annerie Dercksen",
+        "Jana Nell"
       ],
       "answer_index": 1,
-      "explanation": "Kayleigh Craig holds it with 9."
+      "explanation": "Micaela Andrews holds it with 846."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Boland Park, Paarl, who holds the record for 'Most Wickets' (T20)?",
+      "options": [
+        "Alicia Smith",
+        "Maudeen Dampies",
+        "Chantelle van Schoor",
+        "Gail Abrahams"
+      ],
+      "answer_index": 2,
+      "explanation": "Chantelle van Schoor holds it with 13."
     },
     {
       "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Badgers or Kei?",
+      "question": "In head-to-head List A meetings, who has the edge, Titans or Rhinos?",
       "options": [
-        "Kei",
-        "Badgers"
+        "Titans",
+        "Rhinos"
       ],
-      "answer_index": 1,
-      "explanation": "Badgers lead 16-0 across 16 meetings (List A)."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Iinyathi record their 'Largest Win by Runs' (List A)?",
-      "options": [
-        "Old Mutual Sports Club Ground",
-        "Khaya Majola Oval",
-        "Cambridge High School",
-        "Fort Hare University"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Khaya Majola Oval — largest win by runs of 262, against Kei on 2015/02/21."
+      "answer_index": 0,
+      "explanation": "Titans lead 14-0 across 16 meetings (List A)."
     },
     {
       "type": "curveball",
@@ -59,18 +71,6 @@
       ],
       "answer_index": 1,
       "explanation": "Eastern Province was rebranded Warriors."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Zenande Nonqayi record their career-best innings (55, List A)?",
-      "options": [
-        "Pearson High School",
-        "Kimberley Oval",
-        "Buffalo Park",
-        "Westering High School"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Buffalo Park, against Iinyathi on 2024/03/16."
     }
   ]
 }
