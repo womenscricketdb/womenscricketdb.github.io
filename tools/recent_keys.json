@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-10-13",
-    "template": "q_doubles_higher_lower",
-    "source_key": "D_100_3"
-  },
-  {
-    "date": "2026-10-13",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/Most_Runs.json"
-  },
-  {
-    "date": "2026-10-13",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/bowling/json/Most_Wickets.json:OVERALL:22/23"
-  },
-  {
-    "date": "2026-10-13",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Heat-Warriors:List A"
-  },
-  {
-    "date": "2026-10-13",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Kayla Ferreira"
-  },
-  {
     "date": "2026-10-14",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Cobras:Highest Total:T20"
@@ -427,7 +402,7 @@
   {
     "date": "2026-10-30",
     "template": "q_venue_record",
-    "source_key": "venue:Willowmoore Park Main Oval"
+    "source_key": "venue:Boland Park, Paarl"
   },
   {
     "date": "2026-10-30",
@@ -462,7 +437,7 @@
   {
     "date": "2026-10-31",
     "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
+    "source_key": "venue:Willowmoore Park Main Oval"
   },
   {
     "date": "2026-10-31",
@@ -492,11 +467,36 @@
   {
     "date": "2026-11-01",
     "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
+    "source_key": "venue:Recreation Ground"
   },
   {
     "date": "2026-11-01",
     "template": "q_career_best_venue",
     "source_key": "career_best_venue:Bianca Figeland"
+  },
+  {
+    "date": "2026-11-02",
+    "template": "q_reverse_record",
+    "source_key": "records/batting/json/Most_Runs.json"
+  },
+  {
+    "date": "2026-11-02",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Dragons:Highest Total:List A"
+  },
+  {
+    "date": "2026-11-02",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Megan Fourie"
+  },
+  {
+    "date": "2026-11-02",
+    "template": "q_venue_record",
+    "source_key": "venue:St George's Park"
+  },
+  {
+    "date": "2026-11-02",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Dolphins-Dragons:List A"
   }
 ]

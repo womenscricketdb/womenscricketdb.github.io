@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-10-30T04:58:42.486055Z",
+  "questions": [
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Dragons or Dolphins?",
+      "options": [
+        "Dragons",
+        "Dolphins"
+      ],
+      "answer_index": 1,
+      "explanation": "Dolphins lead 18-6 across 26 meetings (List A)."
+    },
+    {
+      "type": "reverse_record",
+      "question": "Elandri Janse van Rensburg set a database record (25/26 season, List A) with a value of 380. Which record is it?",
+      "options": [
+        "Most Runs",
+        "Most Sixes",
+        "Most Matches as Captain",
+        "Most Fours"
+      ],
+      "answer_index": 0,
+      "explanation": "It's the record for 'Most Runs', held by Elandri Janse van Rensburg."
+    },
+    {
+      "type": "venue_record",
+      "question": "At St George's Park, who holds the record for 'Most Matches' (List A)?",
+      "options": [
+        "Jana Nell",
+        "Aphilile Adonisi",
+        "Chene Arnolds",
+        "Aluncedo Dunga"
+      ],
+      "answer_index": 0,
+      "explanation": "Jana Nell holds it with 8."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Dragons record their 'Highest Total' (List A)?",
+      "options": [
+        "Grey College B Ground",
+        "Hammanskraal Oval",
+        "Potchefstroom Oval",
+        "UP 2 Oval"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Potchefstroom Oval — highest total of 420, against Boland on 2019/02/02."
+    },
+    {
+      "type": "curveball",
+      "question": "Ayabonga Khaka has played 95 List A matches for South African provincial sides. How many T20 matches has she played, per this database?",
+      "options": [
+        "9",
+        "19",
+        "29",
+        "39"
+      ],
+      "answer_index": 1,
+      "explanation": "Khaka's List A to T20 ratio (95 to 19, roughly 5 to 1) is far more lopsided than most of her national teammates, several of whom sit closer to 1.5 to 1."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Megan Fourie record their career-best bowling figures (3-7, List A)?",
+      "options": [
+        "St. George's Outer Oval",
+        "Buffalo Park",
+        "Gelvandale Oval",
+        "Gelvandale Oval"
+      ],
+      "answer_index": 1,
+      "explanation": "It was at Buffalo Park, against Iinyathi on 2022/03/12."
+    }
+  ]
+}
