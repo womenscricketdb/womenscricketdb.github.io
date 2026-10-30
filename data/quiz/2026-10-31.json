@@ -1,7 +1,19 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-30T04:58:42.184985Z",
+  "generated_at": "2026-10-30T09:54:14.741705Z",
   "questions": [
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Iinyathi record their 'Highest Total' (List A)?",
+      "options": [
+        "UFS Oval",
+        "UFS 2 Oval",
+        "CUT Tokkie Park",
+        "Kimberley Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Kimberley Oval — highest total of 345, against Heat on 2015/10/17."
+    },
     {
       "type": "head_to_head",
       "question": "In head-to-head T20 meetings, who has the edge, Knights or Titans?",
@@ -11,6 +23,28 @@
       ],
       "answer_index": 0,
       "explanation": "Titans lead 5-4 across 9 meetings (T20)."
+    },
+    {
+      "type": "curveball",
+      "question": "Who won CSA Women's Cricketer of the Year in the 2017 season?",
+      "options": [
+        "Ayabonga Khaka",
+        "Marizanne Kapp",
+        "Sune Luus",
+        "Shabnim Ismail"
+      ],
+      "answer_index": 2,
+      "explanation": "Sune Luus won it in 2017."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the century and 3 wickets in a match double more times, Alicia Smith or Susan Benade?",
+      "options": [
+        "Alicia Smith",
+        "Susan Benade"
+      ],
+      "answer_index": 1,
+      "explanation": "Alicia Smith: 1 times. Susan Benade: 2 times."
     },
     {
       "type": "venue_record",
@@ -25,50 +59,16 @@
       "explanation": "Adele van Eck holds it with 216."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Iinyathi record their 'Highest Total' (List A)?",
-      "options": [
-        "The Feathers",
-        "The Vineyard",
-        "Oudtshoorn High School",
-        "Kimberley Oval"
-      ],
-      "answer_index": 3,
-      "explanation": "It was at Kimberley Oval — highest total of 345, against Heat on 2015/10/17."
-    },
-    {
       "type": "career_best_venue",
-      "question": "At which ground did Daneli Boshoff record their career-best bowling figures (5-10, T20)?",
+      "question": "At which ground did K Tjiane record their career-best innings (54, List A)?",
       "options": [
-        "St George's Park",
-        "Pen Basson Field",
-        "Kimberley Oval",
-        "UFS 4 Oval"
+        "Sinovich Park",
+        "Polokwane Oval",
+        "Willowmoore Park Main Oval",
+        "Sinovich Park"
       ],
-      "answer_index": 0,
-      "explanation": "It was at St George's Park, against Warriors on 2026/02/08."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Tuskers or Limpopo Lillies?",
-      "options": [
-        "Limpopo Lillies",
-        "Tuskers"
-      ],
-      "answer_index": 0,
-      "explanation": "Limpopo Lillies lead 5-3 across 10 meetings (T20)."
-    },
-    {
-      "type": "curveball",
-      "question": "Who won CSA Women's Cricketer of the Year in the 2017 season?",
-      "options": [
-        "Ayabonga Khaka",
-        "Marizanne Kapp",
-        "Sune Luus",
-        "Shabnim Ismail"
-      ],
-      "answer_index": 2,
-      "explanation": "Sune Luus won it in 2017."
+      "answer_index": 1,
+      "explanation": "It was at Polokwane Oval, against Limpopo Lillies on 2013/11/23."
     }
   ]
 }

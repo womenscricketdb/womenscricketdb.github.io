@@ -402,7 +402,7 @@
   {
     "date": "2026-10-30",
     "template": "q_venue_record",
-    "source_key": "venue:Boland Park, Paarl"
+    "source_key": "venue:Polokwane Oval"
   },
   {
     "date": "2026-10-30",
@@ -421,8 +421,8 @@
   },
   {
     "date": "2026-10-30",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Susan Benade"
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Runs.json"
   },
   {
     "date": "2026-10-31",
@@ -441,13 +441,13 @@
   },
   {
     "date": "2026-10-31",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Daneli Boshoff"
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_100_3"
   },
   {
     "date": "2026-10-31",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Limpopo Lillies-Tuskers:T20"
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:K Tjiane"
   },
   {
     "date": "2026-11-01",
@@ -467,7 +467,7 @@
   {
     "date": "2026-11-01",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Boland Park, Paarl"
   },
   {
     "date": "2026-11-01",
@@ -492,7 +492,7 @@
   {
     "date": "2026-11-02",
     "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
+    "source_key": "venue:Recreation Ground"
   },
   {
     "date": "2026-11-02",
