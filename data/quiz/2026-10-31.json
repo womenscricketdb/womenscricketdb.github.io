@@ -1,19 +1,7 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T04:45:44.248061Z",
+  "generated_at": "2026-10-31T09:31:23.844775Z",
   "questions": [
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Iinyathi record their 'Highest Total' (List A)?",
-      "options": [
-        "CUT Tokkie Park",
-        "Langenhoven Gimnasium",
-        "Bloemfontein Oval",
-        "Kimberley Oval"
-      ],
-      "answer_index": 3,
-      "explanation": "It was at Kimberley Oval — highest total of 345, against Heat on 2015/10/17."
-    },
     {
       "type": "head_to_head",
       "question": "In head-to-head T20 meetings, who has the edge, Knights or Titans?",
@@ -23,28 +11,6 @@
       ],
       "answer_index": 0,
       "explanation": "Titans lead 5-4 across 9 meetings (T20)."
-    },
-    {
-      "type": "curveball",
-      "question": "Who won CSA Women's Cricketer of the Year in the 2017 season?",
-      "options": [
-        "Ayabonga Khaka",
-        "Marizanne Kapp",
-        "Sune Luus",
-        "Shabnim Ismail"
-      ],
-      "answer_index": 2,
-      "explanation": "Sune Luus won it in 2017."
-    },
-    {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the century and 3 wickets in a match double more times, Alicia Smith or Susan Benade?",
-      "options": [
-        "Alicia Smith",
-        "Susan Benade"
-      ],
-      "answer_index": 1,
-      "explanation": "Alicia Smith: 1 times. Susan Benade: 2 times."
     },
     {
       "type": "venue_record",
@@ -59,16 +25,50 @@
       "explanation": "Adele van Eck holds it with 216."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did K Tjiane record their career-best innings (54, List A)?",
+      "type": "guess_player",
+      "question": "Guess the player: 581 runs in 36 innings (average 20.03, high score 52, 0 centuries) for Dragons. (T20 career totals.)",
       "options": [
-        "Sinovich Park",
-        "Polokwane Oval",
-        "Willowmoore Park Main Oval",
-        "Sinovich Park"
+        "Nicolien Janse van Rensburg",
+        "Asakhe Nyovane",
+        "Nikita Solé",
+        "Lizri de Villiers"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Polokwane Oval, against Limpopo Lillies on 2013/11/23."
+      "answer_index": 3,
+      "explanation": "It's Lizri de Villiers."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the 150 runs and 3 wickets in a match double more times, Lanette Pienaar or Susan Benade?",
+      "options": [
+        "Lanette Pienaar",
+        "Susan Benade"
+      ],
+      "answer_index": 0,
+      "explanation": "Lanette Pienaar: 2 times. Susan Benade: 1 times."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Iinyathi record their 'Highest Total' (List A)?",
+      "options": [
+        "Bridgton Sports Grounds",
+        "Chatsworth Stadium",
+        "Paul Roos Oval",
+        "Kimberley Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Kimberley Oval — highest total of 345, against Heat on 2015/10/17."
+    },
+    {
+      "type": "curveball",
+      "question": "Who won CSA Women's Cricketer of the Year in the 2017 season?",
+      "options": [
+        "Ayabonga Khaka",
+        "Marizanne Kapp",
+        "Sune Luus",
+        "Shabnim Ismail"
+      ],
+      "answer_index": 2,
+      "explanation": "Sune Luus won it in 2017."
     }
   ]
 }
