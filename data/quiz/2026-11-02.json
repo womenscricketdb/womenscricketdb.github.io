@@ -1,16 +1,28 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-01T05:08:25.178898Z",
+  "generated_at": "2026-11-01T10:20:58.975226Z",
   "questions": [
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Dragons or Dolphins?",
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the century and 3 wickets in a match double more times, Yolandi Potgieter or Susan Benade?",
       "options": [
-        "Dragons",
-        "Dolphins"
+        "Yolandi Potgieter",
+        "Susan Benade"
       ],
       "answer_index": 1,
-      "explanation": "Dolphins lead 18-6 across 26 meetings (List A)."
+      "explanation": "Yolandi Potgieter: 1 times. Susan Benade: 2 times."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Megan Fourie record their career-best bowling figures (3-7, List A)?",
+      "options": [
+        "St. George's Outer Oval",
+        "Buffalo Park",
+        "Gelvandale Oval",
+        "Gelvandale Oval"
+      ],
+      "answer_index": 1,
+      "explanation": "It was at Buffalo Park, against Iinyathi on 2022/03/12."
     },
     {
       "type": "reverse_record",
@@ -37,18 +49,6 @@
       "explanation": "Nthabiseng Nini holds it with 15."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Dragons record their 'Highest Total' (List A)?",
-      "options": [
-        "Carter High School",
-        "Langenhoven Gimnasium",
-        "Potchefstroom Oval",
-        "St. Andrews Vossie"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Potchefstroom Oval — highest total of 420, against Boland on 2019/02/02."
-    },
-    {
       "type": "curveball",
       "question": "Ayabonga Khaka has played 95 List A matches for South African provincial sides. How many T20 matches has she played, per this database?",
       "options": [
@@ -61,16 +61,16 @@
       "explanation": "Khaka's List A to T20 ratio (95 to 19, roughly 5 to 1) is far more lopsided than most of her national teammates, several of whom sit closer to 1.5 to 1."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Megan Fourie record their career-best bowling figures (3-7, List A)?",
+      "type": "team_record_venue",
+      "question": "At which ground did Dragons record their 'Highest Total' (List A)?",
       "options": [
-        "St. George's Outer Oval",
-        "Buffalo Park",
-        "Gelvandale Oval",
-        "Gelvandale Oval"
+        "Oudtshoorn High School",
+        "Willowmoore Park Main Oval",
+        "Potchefstroom Oval",
+        "Schoeman Park A Ground"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Buffalo Park, against Iinyathi on 2022/03/12."
+      "answer_index": 2,
+      "explanation": "It was at Potchefstroom Oval — highest total of 420, against Boland on 2019/02/02."
     }
   ]
 }
