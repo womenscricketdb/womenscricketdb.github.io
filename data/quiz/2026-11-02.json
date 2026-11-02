@@ -1,52 +1,52 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T05:08:37.715604Z",
+  "generated_at": "2026-11-02T10:54:07.375258Z",
   "questions": [
     {
-      "type": "doubles_higher_lower",
-      "question": "Who has achieved the century and 3 wickets in a match double more times, Yolandi Potgieter or Susan Benade?",
+      "type": "team_record_venue",
+      "question": "At which ground did Eastern Storm record their 'Largest Win by Runs' (List A)?",
       "options": [
-        "Yolandi Potgieter",
+        "Polokwane Oval",
+        "St Andrews A",
+        "Uplands College",
+        "Chatsworth Stadium"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Uplands College — largest win by runs of 218, against Rhinos on 2025/03/01."
+    },
+    {
+      "type": "doubles_higher_lower",
+      "question": "Who has achieved the century and 3 wickets in a match double more times, Lanette Pienaar or Susan Benade?",
+      "options": [
+        "Lanette Pienaar",
         "Susan Benade"
       ],
       "answer_index": 1,
-      "explanation": "Yolandi Potgieter: 1 times. Susan Benade: 2 times."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Megan Fourie record their career-best bowling figures (3-7, List A)?",
-      "options": [
-        "St. George's Outer Oval",
-        "Buffalo Park",
-        "Gelvandale Oval",
-        "Gelvandale Oval"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Buffalo Park, against Iinyathi on 2022/03/12."
+      "explanation": "Lanette Pienaar: 1 times. Susan Benade: 2 times."
     },
     {
       "type": "reverse_record",
-      "question": "Elandri Janse van Rensburg set a database record (25/26 season, List A) with a value of 380. Which record is it?",
+      "question": "Nicolien Janse van Rensburg set a database record (24/25 season, combined T20 + List A) with a value of 2. Which record is it?",
       "options": [
-        "Most Runs",
-        "Most Sixes",
-        "Most Matches as Captain",
-        "Most Fours"
+        "Fastest 50 (by balls)",
+        "Most 5-Wicket Hauls",
+        "Most Fours",
+        "Most Matches as Captain"
       ],
-      "answer_index": 0,
-      "explanation": "It's the record for 'Most Runs', held by Elandri Janse van Rensburg."
+      "answer_index": 1,
+      "explanation": "It's the record for 'Most 5-Wicket Hauls', held by Nicolien Janse van Rensburg."
     },
     {
-      "type": "venue_record",
-      "question": "At Kimberley Oval, who holds the record for 'Most Matches' (List A)?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Fastest 100 (by balls)' in the 17/18 season (List A)?",
       "options": [
         "Susan Benade",
-        "Claudia Velskoen",
-        "Kelebogile Moraki",
-        "Shumayya Florence"
+        "Dinesha Devnarain",
+        "Nicole de Klerk",
+        "Nadine de Klerk"
       ],
       "answer_index": 0,
-      "explanation": "Susan Benade holds it with 18."
+      "explanation": "Susan Benade holds it, with a total of 70."
     },
     {
       "type": "curveball",
@@ -61,16 +61,16 @@
       "explanation": "Khaka's List A to T20 ratio (95 to 19, roughly 5 to 1) is far more lopsided than most of her national teammates, several of whom sit closer to 1.5 to 1."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Dragons record their 'Highest Total' (List A)?",
+      "type": "career_best_venue",
+      "question": "At which ground did C Jansen record their career-best bowling figures (3-44, List A)?",
       "options": [
-        "UFS 4 Oval",
-        "Old Mutual Sports Club Ground",
-        "Potchefstroom Oval",
-        "Nirvana"
+        "UKZN 4 Oval",
+        "Alan Lawson Oval",
+        "Willowmoore Park Main Oval",
+        "NMMU Main Oval"
       ],
       "answer_index": 2,
-      "explanation": "It was at Potchefstroom Oval — highest total of 420, against Boland on 2019/02/02."
+      "explanation": "It was at Willowmoore Park Main Oval, against Heat on 2019/11/30."
     }
   ]
 }
