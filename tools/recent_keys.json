@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/fielding/json/Field_Catches.json:List A:OVERALL"
-  },
-  {
-    "date": "2026-10-17",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Limpopo Lillies:Largest Win by Runs:List A"
-  },
-  {
-    "date": "2026-10-17",
-    "template": "q_player_record",
-    "source_key": "records/bowling/json/Most_5Wickets.json"
-  },
-  {
-    "date": "2026-10-17",
-    "template": "q_team_record",
-    "source_key": "records/team/json/Lowest_Total.json"
-  },
-  {
-    "date": "2026-10-17",
-    "template": "q_doubles_higher_lower",
-    "source_key": "D_100_4"
-  },
-  {
     "date": "2026-10-18",
     "template": "q_reverse_record",
     "source_key": "records/team/json/Lowest_Total.json"
@@ -457,7 +432,7 @@
   {
     "date": "2026-11-04",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Kimberley Oval"
   },
   {
     "date": "2026-11-04",
@@ -487,7 +462,7 @@
   {
     "date": "2026-11-05",
     "template": "q_venue_record",
-    "source_key": "venue:Kingsmead stadium"
+    "source_key": "venue:Newlands Stadium"
   },
   {
     "date": "2026-11-05",
@@ -498,5 +473,30 @@
     "date": "2026-11-05",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Cobras:Largest Win by Runs:T20"
+  },
+  {
+    "date": "2026-11-06",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Fay Cowling"
+  },
+  {
+    "date": "2026-11-06",
+    "template": "q_venue_record",
+    "source_key": "venue:Potchefstroom Oval"
+  },
+  {
+    "date": "2026-11-06",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/batting/json/100Plus_Scores.json:T20:OVERALL"
+  },
+  {
+    "date": "2026-11-06",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Kei-Warriors:T20"
+  },
+  {
+    "date": "2026-11-06",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Dragons:Largest Win by Runs:List A"
   }
 ]
