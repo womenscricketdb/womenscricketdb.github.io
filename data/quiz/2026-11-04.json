@@ -1,52 +1,18 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-04T05:29:51.244865Z",
+  "generated_at": "2026-11-04T10:46:28.442227Z",
   "questions": [
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Boland or Warriors?",
-      "options": [
-        "Warriors",
-        "Boland"
-      ],
-      "answer_index": 1,
-      "explanation": "Boland lead 18-8 across 27 meetings (List A)."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Hlumelo Mati record their career-best bowling figures (2-1, List A)?",
-      "options": [
-        "Uplands College",
-        "Bloemfontein Oval",
-        "SASOL Club",
-        "Alan Lawson Oval"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Bloemfontein Oval, against Knights on 2015/10/17."
-    },
-    {
-      "type": "magnitude_gap",
-      "question": "How many catches separate the all-time #1 (Nondumiso Shangase) and #2 (Tatum le Roux) fielders (T20)?",
-      "options": [
-        "8",
-        "6",
-        "4",
-        "12"
-      ],
-      "answer_index": 1,
-      "explanation": "Nondumiso Shangase: 29 — Tatum le Roux: 23 — a gap of 6."
-    },
-    {
       "type": "venue_record",
-      "question": "At Kimberley Oval, who holds the record for 'Most Matches' (T20)?",
+      "question": "At Kingsmead stadium, who holds the record for 'Most Matches' (T20)?",
       "options": [
-        "Susan Benade",
-        "Kelebogile Moraki",
-        "Claudia Velskoen",
-        "Shumayya Florence"
+        "Jade de Figueiredo",
+        "Courtney Gounden",
+        "Alexandra Candler",
+        "Nondumiso Shangase"
       ],
       "answer_index": 0,
-      "explanation": "Susan Benade holds it with 18."
+      "explanation": "Jade de Figueiredo holds it with 21."
     },
     {
       "type": "curveball",
@@ -61,16 +27,50 @@
       "explanation": "Ismail's 5 for 30 against India in February 2018 made her the second South African to take a T20I five-wicket haul, after Sune Luus."
     },
     {
-      "type": "player_record",
-      "question": "Who holds the record for 'Most 5-Wicket Hauls' in the 13/14 season (combined T20 + List A)?",
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Boland or Warriors?",
       "options": [
-        "Andrisha Govender",
-        "M Quinn",
-        "Michelle du Preez",
-        "Lauren Booysen"
+        "Warriors",
+        "Boland"
+      ],
+      "answer_index": 1,
+      "explanation": "Boland lead 18-8 across 27 meetings (List A)."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many catches separate the all-time #1 (Nondumiso Shangase) and #2 (Tatum le Roux) fielders (T20)?",
+      "options": [
+        "8",
+        "6",
+        "4",
+        "12"
+      ],
+      "answer_index": 1,
+      "explanation": "Nondumiso Shangase: 29 — Tatum le Roux: 23 — a gap of 6."
+    },
+    {
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Highest Team Total' in the 19/20 season (List A)?",
+      "options": [
+        "Boland",
+        "Dragons",
+        "Warriors",
+        "Badgers"
       ],
       "answer_index": 2,
-      "explanation": "Michelle du Preez holds it, with a total of 2, a joint record shared with Yolandi Potgieter, Maryka Kirchoff and Selaelo Mphahele."
+      "explanation": "Warriors — 348."
+    },
+    {
+      "type": "reverse_record",
+      "question": "Kei set a database record (19/20 season, combined T20 + List A) with a value of 20. Which record is it?",
+      "options": [
+        "Lowest Team Total (all out or completed innings)",
+        "Most Wins",
+        "Biggest Win by Runs",
+        "Highest Team Total"
+      ],
+      "answer_index": 0,
+      "explanation": "It's the record for 'Lowest Team Total (all out or completed innings)', held by Kei."
     }
   ]
 }

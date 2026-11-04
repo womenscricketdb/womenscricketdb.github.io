@@ -1,28 +1,54 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-04T05:29:51.468610Z",
+  "generated_at": "2026-11-04T10:46:28.577356Z",
   "questions": [
     {
-      "type": "venue_record",
-      "question": "At Recreation Ground, who holds the record for 'Most Runs' (T20)?",
+      "type": "career_best_venue",
+      "question": "At which ground did Angelique Taai record their career-best innings (63*, T20)?",
       "options": [
-        "Tazmin Brits",
-        "Jana Nell",
-        "Micaela Andrews",
-        "Nadine Moodley"
+        "Buffalo Park",
+        "Bohemians Ground",
+        "Old Mutual Sports Club Ground",
+        "CUT Tokkie Park"
       ],
-      "answer_index": 2,
-      "explanation": "Micaela Andrews holds it with 350."
+      "answer_index": 0,
+      "explanation": "It was at Buffalo Park, against Kei on 2016/02/14."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Heat or Rhinos?",
+      "type": "venue_record",
+      "question": "At City Oval, who holds the record for 'Most Runs' (T20)?",
       "options": [
-        "Rhinos",
-        "Heat"
+        "Gugu Ngcobo",
+        "Mithelle Jeena",
+        "Megan Wessels",
+        "Nicole de Klerk"
       ],
-      "answer_index": 1,
-      "explanation": "Heat lead 4-2 across 10 meetings (List A)."
+      "answer_index": 2,
+      "explanation": "Megan Wessels holds it with 203."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Best Bowling Figures in an Innings' in the 23/24 season (combined T20 + List A)?",
+      "options": [
+        "Thembela Ngcobo",
+        "Imam Bonnasse",
+        "Jana Nell",
+        "Susan Benade"
+      ],
+      "answer_index": 2,
+      "explanation": "Jana Nell holds it with 8-12."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Cobras record their 'Highest Total' (T20)?",
+      "options": [
+        "Grey College A Ground",
+        "St. Andrews Hickling",
+        "Easterns Cricket Club Ground",
+        "Wanderers"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Wanderers — highest total of 198, against Lions on 2024/11/17."
     },
     {
       "type": "curveball",
@@ -37,40 +63,16 @@
       "explanation": "WP were the t20 champions every season from 2014/15 to 2017/18"
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Angelique Taai record their career-best innings (63*, T20)?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Most 5-Wicket Hauls' in the 16/17 season (combined T20 + List A)?",
       "options": [
-        "Buffalo Park",
-        "Bohemians Ground",
-        "Old Mutual Sports Club Ground",
-        "CUT Tokkie Park"
+        "Katie Prior",
+        "N Njani",
+        "Shabnim Ismail",
+        "Gezelle Jansen van Rensburg"
       ],
-      "answer_index": 0,
-      "explanation": "It was at Buffalo Park, against Kei on 2016/02/14."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Cobras record their 'Highest Total' (T20)?",
-      "options": [
-        "Grey College A Ground",
-        "RJE Burt Oval",
-        "Hammondfield",
-        "Wanderers"
-      ],
-      "answer_index": 3,
-      "explanation": "It was at Wanderers — highest total of 198, against Lions on 2024/11/17."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Cobras record their 'Largest Win by Runs' (T20)?",
-      "options": [
-        "Recreation Ground",
-        "Cecil Payne Stadium",
-        "Ngumbela Park",
-        "St. Stithians Baytopp"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Recreation Ground — largest win by runs of 109, against Badgers on 2024/12/15."
+      "answer_index": 2,
+      "explanation": "Shabnim Ismail holds it, with a total of 2."
     }
   ]
 }
