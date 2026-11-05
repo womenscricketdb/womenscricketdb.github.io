@@ -402,7 +402,7 @@
   {
     "date": "2026-11-05",
     "template": "q_player_record",
-    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
+    "source_key": "records/batting/json/100Plus_Scores.json"
   },
   {
     "date": "2026-11-05",
@@ -432,7 +432,7 @@
   {
     "date": "2026-11-06",
     "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
+    "source_key": "venue:Potchefstroom Oval"
   },
   {
     "date": "2026-11-06",
@@ -441,13 +441,13 @@
   },
   {
     "date": "2026-11-06",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Kei-Warriors:T20"
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
   },
   {
     "date": "2026-11-06",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dragons:Largest Win by Runs:List A"
+    "template": "q_head_to_head",
+    "source_key": "h2h:Kei-Warriors:T20"
   },
   {
     "date": "2026-11-07",
@@ -457,7 +457,7 @@
   {
     "date": "2026-11-07",
     "template": "q_venue_record",
-    "source_key": "venue:Kimberley Oval"
+    "source_key": "venue:Newlands Stadium"
   },
   {
     "date": "2026-11-07",
