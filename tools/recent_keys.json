@@ -407,7 +407,12 @@
   {
     "date": "2026-11-06",
     "template": "q_venue_record",
-    "source_key": "venue:Boland Park, Paarl"
+    "source_key": "venue:Centurion Park"
+  },
+  {
+    "date": "2026-11-06",
+    "template": "q_team_record",
+    "source_key": "records/team/json/Win_By_Runs.json"
   },
   {
     "date": "2026-11-06",
@@ -417,12 +422,7 @@
   {
     "date": "2026-11-06",
     "template": "q_player_record",
-    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
-  },
-  {
-    "date": "2026-11-06",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Kei-Warriors:T20"
+    "source_key": "records/batting/json/Batting_Average.json"
   },
   {
     "date": "2026-11-07",
@@ -432,7 +432,7 @@
   {
     "date": "2026-11-07",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Khaya Majola Oval"
   },
   {
     "date": "2026-11-07",
@@ -441,13 +441,13 @@
   },
   {
     "date": "2026-11-07",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Limpopo Lillies-Tuskers:T20"
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
   },
   {
     "date": "2026-11-07",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Sarah Barber"
+    "template": "q_head_to_head",
+    "source_key": "h2h:Limpopo Lillies-Tuskers:T20"
   },
   {
     "date": "2026-11-08",
@@ -477,7 +477,7 @@
   {
     "date": "2026-11-09",
     "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
+    "source_key": "venue:Boland Park, Paarl"
   },
   {
     "date": "2026-11-09",

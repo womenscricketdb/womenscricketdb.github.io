@@ -1,7 +1,31 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-06T05:46:27.768484Z",
+  "generated_at": "2026-11-06T10:43:40.838425Z",
   "questions": [
+    {
+      "type": "venue_record",
+      "question": "At Centurion Park, who holds the record for 'Most Runs' (List A)?",
+      "options": [
+        "Anneke Bosch",
+        "Tebogo Macheke",
+        "Katie Prior",
+        "Robyn Searle"
+      ],
+      "answer_index": 0,
+      "explanation": "Anneke Bosch holds it with 432."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Best Batting Average' in the 14/15 season (T20)?",
+      "options": [
+        "Alexis le Breton",
+        "Shandré Fritz",
+        "Trisha Chetty",
+        "Jana Nell"
+      ],
+      "answer_index": 3,
+      "explanation": "Jana Nell holds it with 176.00."
+    },
     {
       "type": "magnitude_gap",
       "question": "How many 100+ scores separate the all-time #1 (Tazmin Brits) and #2 (Cri-Zelda Brits) century-makers (T20)?",
@@ -13,40 +37,6 @@
       ],
       "answer_index": 2,
       "explanation": "Tazmin Brits: 2 — Cri-Zelda Brits: 1 — a gap of 1."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Kei or Warriors?",
-      "options": [
-        "Kei",
-        "Warriors"
-      ],
-      "answer_index": 1,
-      "explanation": "Warriors lead 11-0 across 12 meetings (T20)."
-    },
-    {
-      "type": "player_record",
-      "question": "Who holds the record for 'Best Bowling Figures in an Innings' in the 14/15 season (T20)?",
-      "options": [
-        "Robyn Appels",
-        "Lanette Pienaar",
-        "L Cohen",
-        "Lauren Havenga"
-      ],
-      "answer_index": 3,
-      "explanation": "Lauren Havenga holds it with 5-24."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Fay Cowling record their career-best bowling figures (4-38, List A)?",
-      "options": [
-        "Wanderers",
-        "Centurion Park",
-        "Kingsmead stadium",
-        "Hammanskraal Oval"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Wanderers, against Badgers on 2024/10/19."
     },
     {
       "type": "curveball",
@@ -61,16 +51,28 @@
       "explanation": "South Western Districts was rebranded Badgers."
     },
     {
-      "type": "venue_record",
-      "question": "At Boland Park, Paarl, who holds the record for 'Most Runs' (List A)?",
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Biggest Win by Runs' in the 15/16 season (T20)?",
       "options": [
-        "Alicia Smith",
-        "Yolandi Potgieter",
-        "Alison Hodgkinson",
-        "Sunette Loubser"
+        "Iinyathi",
+        "Warriors",
+        "Cobras",
+        "Dolphins"
       ],
       "answer_index": 0,
-      "explanation": "Alicia Smith holds it with 718."
+      "explanation": "Iinyathi — 98."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Fay Cowling record their career-best bowling figures (4-38, List A)?",
+      "options": [
+        "Wanderers",
+        "Centurion Park",
+        "Kingsmead stadium",
+        "Hammanskraal Oval"
+      ],
+      "answer_index": 0,
+      "explanation": "It was at Wanderers, against Badgers on 2024/10/19."
     }
   ]
 }
