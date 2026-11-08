@@ -427,12 +427,12 @@
   {
     "date": "2026-11-09",
     "template": "q_player_record",
-    "source_key": "records/batting/json/Most_Fours.json"
+    "source_key": "records/batting/json/Most_Sixes.json"
   },
   {
     "date": "2026-11-09",
     "template": "q_venue_record",
-    "source_key": "venue:Kimberley Oval"
+    "source_key": "venue:Boland Park, Paarl"
   },
   {
     "date": "2026-11-09",
@@ -442,7 +442,7 @@
   {
     "date": "2026-11-09",
     "template": "q_player_record",
-    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
+    "source_key": "records/batting/json/Most_Fours.json"
   },
   {
     "date": "2026-11-09",
@@ -451,28 +451,28 @@
   },
   {
     "date": "2026-11-10",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
+  },
+  {
+    "date": "2026-11-10",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Limpopo Lillies:Highest Total:T20"
+    "source_key": "team_record_venue:Dragons:Highest Total:List A"
   },
   {
     "date": "2026-11-10",
     "template": "q_reverse_record",
-    "source_key": "records/fielding/json/WK_Dismissals.json"
+    "source_key": "records/bowling/json/Most_Maidens.json"
   },
   {
     "date": "2026-11-10",
     "template": "q_head_to_head",
-    "source_key": "h2h:Iinyathi-Kei:T20"
+    "source_key": "h2h:Dolphins-Knights:List A"
   },
   {
     "date": "2026-11-10",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Alysia Rudolph"
-  },
-  {
-    "date": "2026-11-10",
-    "template": "q_venue_record",
-    "source_key": "venue:St George's Park"
+    "template": "q_player_record",
+    "source_key": "records/misc/json/Most_Matches.json"
   },
   {
     "date": "2026-11-11",
@@ -487,7 +487,7 @@
   {
     "date": "2026-11-11",
     "template": "q_venue_record",
-    "source_key": "venue:Khaya Majola Oval"
+    "source_key": "venue:Kimberley Oval"
   },
   {
     "date": "2026-11-11",
