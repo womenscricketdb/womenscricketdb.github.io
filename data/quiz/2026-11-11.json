@@ -1,31 +1,7 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-09T05:25:45.514557Z",
+  "generated_at": "2026-11-09T11:21:13.405523Z",
   "questions": [
-    {
-      "type": "curveball",
-      "question": "Who scored the first century by a South African woman at a Women's T20 World Cup, 101 off 60 balls against Thailand in 2020?",
-      "options": [
-        "Lizelle Lee",
-        "Dane van Niekerk",
-        "Chloe Tryon",
-        "Sune Luus"
-      ],
-      "answer_index": 0,
-      "explanation": "Lee's century, sharing a 131-run stand with Sune Luus, helped South Africa to a big win at the 2020 tournament in Australia."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Kei record their 'Highest Total' (List A)?",
-      "options": [
-        "Bloemfontein Oval",
-        "Fort Hare University",
-        "Kimberley Oval",
-        "Ngumbela Park"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Kimberley Oval — highest total of 174, against Heat on 2018/02/10."
-    },
     {
       "type": "career_best_venue",
       "question": "At which ground did Cayleigh Wanckel record their career-best bowling figures (5-22, List A)?",
@@ -39,16 +15,28 @@
       "explanation": "It was at St George's Park, against Heat on 2025/11/08."
     },
     {
-      "type": "reverse_record",
-      "question": "Michaela van Vuuren set a database record (19/20 season, T20) with a value of 4.71. Which record is it?",
+      "type": "team_record_venue",
+      "question": "At which ground did Kei record their 'Highest Total' (List A)?",
       "options": [
-        "Most Wicketkeeping Dismissals",
-        "Best Bowling Average",
-        "Most Matches Played",
-        "Most Catches (Fielding)"
+        "Bridgton Sports Grounds",
+        "Gelvandale Oval",
+        "Kimberley Oval",
+        "Kemsley Park"
       ],
-      "answer_index": 1,
-      "explanation": "It's the record for 'Best Bowling Average', held by Michaela van Vuuren."
+      "answer_index": 2,
+      "explanation": "It was at Kimberley Oval — highest total of 174, against Heat on 2018/02/10."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Wicketkeeping Dismissals' (List A)?",
+      "options": [
+        "Yolandi van der Westhuizen",
+        "Trisha Chetty",
+        "Mieke de Ridder",
+        "Olivia Anderson"
+      ],
+      "answer_index": 0,
+      "explanation": "Yolandi van der Westhuizen holds it, with a total of 104."
     },
     {
       "type": "magnitude_gap",
@@ -63,16 +51,28 @@
       "explanation": "Michelle Botha: 23 — Shabnim Ismail: 17 — a gap of 6."
     },
     {
-      "type": "venue_record",
-      "question": "At Potchefstroom Oval, who holds the record for 'Most Matches' (List A)?",
+      "type": "curveball",
+      "question": "Who scored the first century by a South African woman at a Women's T20 World Cup, 101 off 60 balls against Thailand in 2020?",
       "options": [
-        "Nthabiseng Nini",
-        "Tazmin Brits",
-        "Lizri de Villiers",
-        "Alyssa Erxleben"
+        "Lizelle Lee",
+        "Dane van Niekerk",
+        "Chloe Tryon",
+        "Sune Luus"
       ],
       "answer_index": 0,
-      "explanation": "Nthabiseng Nini holds it with 15."
+      "explanation": "Lee's century, sharing a 131-run stand with Sune Luus, helped South Africa to a big win at the 2020 tournament in Australia."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Khaya Majola Oval, who holds the record for 'Most Matches' (List A)?",
+      "options": [
+        "Zizo Madikane",
+        "Coceka Mtshizana",
+        "Thembela Ngcobo",
+        "Zonke Ndimangele"
+      ],
+      "answer_index": 0,
+      "explanation": "Zizo Madikane holds it with 17, a joint record shared with Sethu Ngume."
     }
   ]
 }

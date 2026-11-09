@@ -1,53 +1,7 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T05:25:45.285639Z",
+  "generated_at": "2026-11-09T11:21:13.143584Z",
   "questions": [
-    {
-      "type": "curveball",
-      "question": "Who won CSA Women's Cricketer of the Year in the 2015 season?",
-      "options": [
-        "Laura Wolvaardt",
-        "Marizanne Kapp",
-        "Dané van Niekerk",
-        "Shabnim Ismail"
-      ],
-      "answer_index": 3,
-      "explanation": "Shabnim Ismail won it in 2015."
-    },
-    {
-      "type": "player_record",
-      "question": "Who holds the record for 'Most Fours' in the 14/15 season (T20)?",
-      "options": [
-        "Susan Benade",
-        "Lizelle Lee",
-        "Annemie Koen",
-        "Tazmin Brits"
-      ],
-      "answer_index": 1,
-      "explanation": "Lizelle Lee holds it, with a total of 22."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Dragons or Rhinos?",
-      "options": [
-        "Rhinos",
-        "Dragons"
-      ],
-      "answer_index": 1,
-      "explanation": "Dragons lead 7-2 across 9 meetings (List A)."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Newlands Stadium, who holds the record for 'Most Runs' (T20)?",
-      "options": [
-        "Delmi Tucker",
-        "Nadine de Klerk",
-        "Kelsey Adams",
-        "Faye Tunnicliffe"
-      ],
-      "answer_index": 3,
-      "explanation": "Faye Tunnicliffe holds it with 605."
-    },
     {
       "type": "career_best_venue",
       "question": "At which ground did Kay-Leigh Tapp record their career-best innings (35, List A)?",
@@ -61,6 +15,40 @@
       "explanation": "It was at Kingsmead stadium, against Heat on 2013/02/09."
     },
     {
+      "type": "curveball",
+      "question": "Who won CSA Women's Cricketer of the Year in the 2015 season?",
+      "options": [
+        "Laura Wolvaardt",
+        "Marizanne Kapp",
+        "Dané van Niekerk",
+        "Shabnim Ismail"
+      ],
+      "answer_index": 3,
+      "explanation": "Shabnim Ismail won it in 2015."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Boland Park, Paarl, who holds the record for 'Most Runs' (T20)?",
+      "options": [
+        "Stacey Lackay",
+        "Andrie Steyn",
+        "Faye Tunnicliffe",
+        "Alicia Smith"
+      ],
+      "answer_index": 3,
+      "explanation": "Alicia Smith holds it with 238."
+    },
+    {
+      "type": "higher_lower",
+      "question": "Who has more wickets — Alicia Farinha or Kiara Fisher? (combined T20 + List A.)",
+      "options": [
+        "Alicia Farinha",
+        "Kiara Fisher"
+      ],
+      "answer_index": 1,
+      "explanation": "Alicia Farinha: 22 — Kiara Fisher: 97."
+    },
+    {
       "type": "player_record",
       "question": "Who holds the record for 'Most Sixes' in the 18/19 season (T20)?",
       "options": [
@@ -71,6 +59,18 @@
       ],
       "answer_index": 1,
       "explanation": "Susan Benade holds it, with a total of 4."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Fours' in the 14/15 season (T20)?",
+      "options": [
+        "Susan Benade",
+        "Lizelle Lee",
+        "Annemie Koen",
+        "Tazmin Brits"
+      ],
+      "answer_index": 1,
+      "explanation": "Lizelle Lee holds it, with a total of 22."
     }
   ]
 }
