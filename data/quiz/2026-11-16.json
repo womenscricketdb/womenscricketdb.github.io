@@ -1,16 +1,30 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-14T05:37:48.352075Z",
+  "generated_at": "2026-11-14T10:11:41.103124Z",
   "questions": [
     {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Iinyathi or Kei?",
+      "type": "reverse_record",
+      "question": "Jané Winster set a database record (21/22 season, combined T20 + List A) with a value of 20. Which record is it?",
       "options": [
-        "Iinyathi",
-        "Kei"
+        "Most 5-Wicket Hauls",
+        "Best Batting Average",
+        "Most Maidens",
+        "Most Matches Played"
+      ],
+      "answer_index": 2,
+      "explanation": "It's the record for 'Most Maidens', held by Jané Winster."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Heat record their 'Largest Win by Runs' (List A)?",
+      "options": [
+        "Kimberley Oval",
+        "Willowmoore Park B Field",
+        "Bridgton Sports Grounds",
+        "Potchefstroom Oval"
       ],
       "answer_index": 0,
-      "explanation": "Iinyathi lead 10-0 across 11 meetings (T20)."
+      "explanation": "It was at Kimberley Oval — largest win by runs of 375, against Dragons on 2011/03/12."
     },
     {
       "type": "curveball",
@@ -25,52 +39,38 @@
       "explanation": "A result of the partnership between Titans Cricket Union and Japan Cricket Association."
     },
     {
-      "type": "reverse_record",
-      "question": "Boland set a database record (13/14 season, List A) with a value of 400. Which record is it?",
+      "type": "head_to_head",
+      "question": "In head-to-head T20 meetings, who has the edge, Iinyathi or Kei?",
       "options": [
-        "Biggest Win by Runs",
-        "Highest Team Total",
-        "Most Wins",
-        "Lowest Team Total (all out or completed innings)"
+        "Iinyathi",
+        "Kei"
       ],
-      "answer_index": 1,
-      "explanation": "It's the record for 'Highest Team Total', held by Boland."
+      "answer_index": 0,
+      "explanation": "Iinyathi lead 10-0 across 11 meetings (T20)."
     },
     {
-      "type": "venue_record",
-      "question": "At Bloemfontein Oval, who holds the record for 'Most Matches' (List A)?",
+      "type": "team_record",
+      "question": "Which provincial union holds the record for 'Most Wins' (T20)?",
       "options": [
-        "Yolandi Potgieter",
-        "Gezelle Jansen van Rensburg",
-        "Zintle Kula",
-        "Izel Cilliers"
+        "Dragons",
+        "Lions",
+        "Cobras",
+        "Dolphins"
       ],
-      "answer_index": 1,
-      "explanation": "Gezelle Jansen van Rensburg holds it with 18."
+      "answer_index": 2,
+      "explanation": "Cobras — 71."
     },
     {
       "type": "career_best_venue",
-      "question": "At which ground did Thabelani Metu record their career-best innings (40, List A)?",
+      "question": "At which ground did Anele Dilikane record their career-best bowling figures (2-7, T20)?",
       "options": [
-        "Recreation Ground",
-        "Buffalo Park",
-        "Oudtshoorn High School",
-        "Military Ground"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Buffalo Park, against Kei on 2024/03/16."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Iinyathi record their 'Highest Total' (T20)?",
-      "options": [
-        "Bloemfontein Oval",
-        "The Vineyard",
-        "Paarl Cricket Club Ground",
-        "Kimberley Oval"
+        "St. Andrews Vossie",
+        "Polokwane Oval",
+        "UFS Oval",
+        "Willowmoore Park Main Oval"
       ],
       "answer_index": 3,
-      "explanation": "It was at Kimberley Oval — highest total of 162, against Heat on 2015/10/18."
+      "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2026/03/08."
     }
   ]
 }
