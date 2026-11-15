@@ -1,7 +1,31 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-15T05:35:51.637079Z",
+  "generated_at": "2026-11-15T10:42:24.104652Z",
   "questions": [
+    {
+      "type": "reverse_record",
+      "question": "Jané Winster set a database record (21/22 season, combined T20 + List A) with a value of 20. Which record is it?",
+      "options": [
+        "Most 5-Wicket Hauls",
+        "Best Batting Average",
+        "Most Maidens",
+        "Most Matches Played"
+      ],
+      "answer_index": 2,
+      "explanation": "It's the record for 'Most Maidens', held by Jané Winster."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Heat record their 'Largest Win by Runs' (List A)?",
+      "options": [
+        "Kimberley Oval",
+        "Khaya Majola Oval",
+        "Bridgton Sports Grounds",
+        "City Oval"
+      ],
+      "answer_index": 0,
+      "explanation": "It was at Kimberley Oval — largest win by runs of 375, against Dragons on 2011/03/12."
+    },
     {
       "type": "curveball",
       "question": "Which South African provincial union has a team playing in the Women's Japan Premier League?",
@@ -15,62 +39,38 @@
       "explanation": "A result of the partnership between Titans Cricket Union and Japan Cricket Association."
     },
     {
-      "type": "reverse_record",
-      "question": "Trisha Chetty set a database record (combined T20 + List A) with a value of 113. Which record is it?",
+      "type": "head_to_head",
+      "question": "In head-to-head T20 meetings, who has the edge, Iinyathi or Kei?",
       "options": [
-        "Most Maidens",
-        "Most Runs",
-        "Most Wicketkeeping Dismissals",
-        "Fastest 50 (by balls)"
+        "Iinyathi",
+        "Kei"
       ],
-      "answer_index": 2,
-      "explanation": "It's the record for 'Most Wicketkeeping Dismissals', held by Trisha Chetty."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Jemma Botha record their career-best innings (43, List A)?",
-      "options": [
-        "Centurion Park",
-        "Newlands Stadium",
-        "Bloemfontein Oval",
-        "Kingsmead stadium"
-      ],
-      "answer_index": 2,
-      "explanation": "It was at Bloemfontein Oval, against Knights on 2024/02/17."
+      "answer_index": 0,
+      "explanation": "Iinyathi lead 10-0 across 11 meetings (T20)."
     },
     {
       "type": "team_record",
-      "question": "Which provincial union holds the record for 'Most Wins' (List A)?",
+      "question": "Which provincial union holds the record for 'Most Wins' (T20)?",
       "options": [
-        "Dolphins",
-        "Boland",
-        "Titans",
-        "Cobras"
+        "Dragons",
+        "Lions",
+        "Cobras",
+        "Dolphins"
+      ],
+      "answer_index": 2,
+      "explanation": "Cobras — 71."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Anele Dilikane record their career-best bowling figures (2-7, T20)?",
+      "options": [
+        "St. Andrews Vossie",
+        "Polokwane Oval",
+        "UFS Oval",
+        "Willowmoore Park Main Oval"
       ],
       "answer_index": 3,
-      "explanation": "Cobras — 156."
-    },
-    {
-      "type": "team_record_venue",
-      "question": "At which ground did Dragons record their 'Highest Total' (List A)?",
-      "options": [
-        "Potchefstroom Oval",
-        "Grey College B Ground",
-        "St Andrews A",
-        "Stapelberg Stadium"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Potchefstroom Oval — highest total of 420, against Boland on 2019/02/02."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Eastern Storm or Rhinos?",
-      "options": [
-        "Rhinos",
-        "Eastern Storm"
-      ],
-      "answer_index": 1,
-      "explanation": "Eastern Storm lead 14-7 across 23 meetings (List A)."
+      "explanation": "It was at Willowmoore Park Main Oval, against Eastern Storm on 2026/03/08."
     }
   ]
 }

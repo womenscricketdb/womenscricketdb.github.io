@@ -402,32 +402,32 @@
   {
     "date": "2026-11-15",
     "template": "q_head_to_head",
-    "source_key": "h2h:Dragons-Titans:T20"
+    "source_key": "h2h:Knights-Titans:List A"
   },
   {
     "date": "2026-11-15",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/50Plus_Scores.json:OVERALL:19/20"
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_50_3"
   },
   {
     "date": "2026-11-15",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Cobras:Largest Win by Runs:T20"
+    "source_key": "team_record_venue:Iinyathi:Largest Win by Runs:T20"
+  },
+  {
+    "date": "2026-11-15",
+    "template": "q_player_record",
+    "source_key": "records/fielding/json/Field_Catches.json"
   },
   {
     "date": "2026-11-15",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Renske Jansen"
-  },
-  {
-    "date": "2026-11-15",
-    "template": "q_venue_record",
-    "source_key": "venue:Kimberley Oval"
+    "source_key": "career_best_venue:Suné Luus"
   },
   {
     "date": "2026-11-16",
     "template": "q_head_to_head",
-    "source_key": "h2h:Eastern Storm-Rhinos:List A"
+    "source_key": "h2h:Iinyathi-Kei:T20"
   },
   {
     "date": "2026-11-16",
@@ -437,42 +437,42 @@
   {
     "date": "2026-11-16",
     "template": "q_reverse_record",
-    "source_key": "records/fielding/json/WK_Dismissals.json"
+    "source_key": "records/bowling/json/Most_Maidens.json"
   },
   {
     "date": "2026-11-16",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dragons:Highest Total:List A"
+    "source_key": "team_record_venue:Heat:Largest Win by Runs:List A"
   },
   {
     "date": "2026-11-16",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Jemma Botha"
+    "source_key": "career_best_venue:Anele Dilikane"
   },
   {
     "date": "2026-11-17",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Courtney Gounden"
+    "source_key": "career_best_venue:Boipelo Seane"
   },
   {
     "date": "2026-11-17",
     "template": "q_reverse_record",
-    "source_key": "records/batting/json/Fastest_100.json"
+    "source_key": "records/batting/json/100Plus_Scores.json"
   },
   {
     "date": "2026-11-17",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
-  },
-  {
-    "date": "2026-11-17",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/50Plus_Scores.json:OVERALL:08/09"
+    "source_key": "venue:Kimberley Oval"
   },
   {
     "date": "2026-11-17",
     "template": "q_head_to_head",
-    "source_key": "h2h:Cobras-Knights:List A"
+    "source_key": "h2h:Badgers-Kei:List A"
+  },
+  {
+    "date": "2026-11-17",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Dolphins:Highest Total:List A"
   },
   {
     "date": "2026-11-18",
@@ -482,21 +482,21 @@
   {
     "date": "2026-11-18",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Rhinos:Largest Win by Runs:T20"
+    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:T20"
   },
   {
     "date": "2026-11-18",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Wanderers"
   },
   {
     "date": "2026-11-18",
     "template": "q_head_to_head",
-    "source_key": "h2h:Kei-Warriors:T20"
+    "source_key": "h2h:Badgers-Dolphins:List A"
   },
   {
     "date": "2026-11-18",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Paulinah Mashishi"
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/batting/json/100Plus_Scores.json:OVERALL:22/23"
   }
 ]
