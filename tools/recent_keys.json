@@ -412,17 +412,22 @@
   {
     "date": "2026-11-16",
     "template": "q_reverse_record",
-    "source_key": "records/bowling/json/Most_Maidens.json"
+    "source_key": "records/fielding/json/Field_Catches.json"
   },
   {
     "date": "2026-11-16",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Heat:Largest Win by Runs:List A"
+    "source_key": "team_record_venue:Iinyathi:Highest Total:T20"
   },
   {
     "date": "2026-11-16",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Anele Dilikane"
+    "source_key": "career_best_venue:Lebogang Nkadimeng"
+  },
+  {
+    "date": "2026-11-17",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Most_Runs.json"
   },
   {
     "date": "2026-11-17",
@@ -437,17 +442,12 @@
   {
     "date": "2026-11-17",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Bloemfontein Oval"
   },
   {
     "date": "2026-11-17",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Badgers-Kei:List A"
-  },
-  {
-    "date": "2026-11-17",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dolphins:Highest Total:List A"
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Most_Maidens.json"
   },
   {
     "date": "2026-11-18",
