@@ -401,13 +401,18 @@
   },
   {
     "date": "2026-11-18",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_50_5"
+  },
+  {
+    "date": "2026-11-18",
     "template": "q_reverse_record",
     "source_key": "records/team/json/Win_By_Runs.json"
   },
   {
     "date": "2026-11-18",
     "template": "q_player_record",
-    "source_key": "records/bowling/json/Most_Maidens.json"
+    "source_key": "records/bowling/json/Most_Wickets.json"
   },
   {
     "date": "2026-11-18",
@@ -417,12 +422,12 @@
   {
     "date": "2026-11-18",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Polokwane Oval"
   },
   {
-    "date": "2026-11-18",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Cobras-Dolphins:T20"
+    "date": "2026-11-19",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Most_Maidens.json"
   },
   {
     "date": "2026-11-19",
@@ -442,12 +447,7 @@
   {
     "date": "2026-11-19",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Cobras:Largest Win by Runs:T20"
-  },
-  {
-    "date": "2026-11-19",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Dolphins-Dragons:List A"
+    "source_key": "team_record_venue:Titans:Largest Win by Runs:List A"
   },
   {
     "date": "2026-11-20",
@@ -472,7 +472,7 @@
   {
     "date": "2026-11-20",
     "template": "q_reverse_record",
-    "source_key": "records/batting/json/Fastest_50.json"
+    "source_key": "records/misc/json/Matches_Captained.json"
   },
   {
     "date": "2026-11-21",
@@ -487,7 +487,7 @@
   {
     "date": "2026-11-21",
     "template": "q_venue_record",
-    "source_key": "venue:Bloemfontein Oval"
+    "source_key": "venue:Kimberley Oval"
   },
   {
     "date": "2026-11-21",

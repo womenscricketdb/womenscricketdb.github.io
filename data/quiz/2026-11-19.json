@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-18T06:36:51.304959Z",
+  "generated_at": "2026-11-18T11:29:57.180720Z",
   "questions": [
     {
       "type": "magnitude_gap",
@@ -15,16 +15,16 @@
       "explanation": "Robyn Appels: 22 — Odine Kirsten: 18 — a gap of 4."
     },
     {
-      "type": "curveball",
-      "question": "Who won CSA Women's Cricketer of the Year in the 2013 season?",
+      "type": "team_record_venue",
+      "question": "At which ground did Titans record their 'Largest Win by Runs' (List A)?",
       "options": [
-        "Shabnim Ismail",
-        "Marizanne Kapp",
-        "Dané van Niekerk",
-        "Sune Luus"
+        "Collegians Ground",
+        "Sir Lionel Phillips Park",
+        "Polokwane Oval",
+        "Groenkloof Oval"
       ],
-      "answer_index": 1,
-      "explanation": "Marizanne Kapp won it in 2013."
+      "answer_index": 2,
+      "explanation": "It was at Polokwane Oval — largest win by runs of 421, against Limpopo Lillies on 2011/02/27."
     },
     {
       "type": "reverse_record",
@@ -39,14 +39,16 @@
       "explanation": "It's the record for 'Most Wickets', held by Stacey Lackay."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Dragons or Dolphins?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Most Maidens' in the 12/13 season (T20)?",
       "options": [
-        "Dolphins",
-        "Dragons"
+        "Moseline Daniels",
+        "Vuyo Bonya",
+        "Raisibe Ntozakhe",
+        "Michelle Botha"
       ],
-      "answer_index": 0,
-      "explanation": "Dolphins lead 18-6 across 26 meetings (List A)."
+      "answer_index": 2,
+      "explanation": "Raisibe Ntozakhe holds it, with a total of 6."
     },
     {
       "type": "career_best_venue",
@@ -61,16 +63,16 @@
       "explanation": "It was at Centurion Park, against Dragons on 2022/02/12."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Cobras record their 'Largest Win by Runs' (T20)?",
+      "type": "curveball",
+      "question": "Who won CSA Women's Cricketer of the Year in the 2013 season?",
       "options": [
-        "Bridgton Sports Grounds",
-        "Khaya Majola Oval",
-        "Recreation Ground",
-        "Sinovich Park"
+        "Shabnim Ismail",
+        "Marizanne Kapp",
+        "Dané van Niekerk",
+        "Sune Luus"
       ],
-      "answer_index": 2,
-      "explanation": "It was at Recreation Ground — largest win by runs of 109, against Badgers on 2024/12/15."
+      "answer_index": 1,
+      "explanation": "Marizanne Kapp won it in 2013."
     }
   ]
 }
