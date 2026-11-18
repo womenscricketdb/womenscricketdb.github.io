@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-11-01",
-    "template": "q_player_record",
-    "source_key": "records/bowling/json/Most_Wickets.json"
-  },
-  {
-    "date": "2026-11-01",
-    "template": "q_reverse_record",
-    "source_key": "records/misc/json/Matches_Captained.json"
-  },
-  {
-    "date": "2026-11-01",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Dragons-Titans:List A"
-  },
-  {
-    "date": "2026-11-01",
-    "template": "q_doubles_higher_lower",
-    "source_key": "D_50_5"
-  },
-  {
-    "date": "2026-11-01",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Titans:Largest Win by Runs:List A"
-  },
-  {
     "date": "2026-11-02",
     "template": "q_player_record",
     "source_key": "records/batting/json/Fastest_100.json"
@@ -442,7 +417,7 @@
   {
     "date": "2026-11-18",
     "template": "q_venue_record",
-    "source_key": "venue:Kimberley Oval"
+    "source_key": "venue:Potchefstroom Oval"
   },
   {
     "date": "2026-11-18",
@@ -498,5 +473,30 @@
     "date": "2026-11-20",
     "template": "q_reverse_record",
     "source_key": "records/batting/json/Fastest_50.json"
+  },
+  {
+    "date": "2026-11-21",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Boitumelo Seikaneng"
+  },
+  {
+    "date": "2026-11-21",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Boland:Highest Total:List A"
+  },
+  {
+    "date": "2026-11-21",
+    "template": "q_venue_record",
+    "source_key": "venue:Bloemfontein Oval"
+  },
+  {
+    "date": "2026-11-21",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Knights-Lions:T20"
+  },
+  {
+    "date": "2026-11-21",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/fielding/json/WK_Dismissals.json:T20:OVERALL"
   }
 ]
