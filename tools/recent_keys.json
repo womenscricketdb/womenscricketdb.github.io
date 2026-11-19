@@ -401,6 +401,11 @@
   },
   {
     "date": "2026-11-19",
+    "template": "q_doubles_higher_lower",
+    "source_key": "D_100_3"
+  },
+  {
+    "date": "2026-11-19",
     "template": "q_player_record",
     "source_key": "records/bowling/json/Most_Maidens.json"
   },
@@ -416,13 +421,8 @@
   },
   {
     "date": "2026-11-19",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/bowling/json/Most_Wickets.json:List A:14/15"
-  },
-  {
-    "date": "2026-11-19",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Titans:Largest Win by Runs:List A"
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Fastest_100.json"
   },
   {
     "date": "2026-11-20",
@@ -457,12 +457,12 @@
   {
     "date": "2026-11-21",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Boland:Highest Total:List A"
+    "source_key": "team_record_venue:Titans:Largest Win by Runs:List A"
   },
   {
     "date": "2026-11-21",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Newlands Stadium"
   },
   {
     "date": "2026-11-21",
@@ -482,7 +482,7 @@
   {
     "date": "2026-11-22",
     "template": "q_venue_record",
-    "source_key": "venue:Kimberley Oval"
+    "source_key": "venue:Willowmoore Park Main Oval"
   },
   {
     "date": "2026-11-22",
