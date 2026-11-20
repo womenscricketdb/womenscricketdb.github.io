@@ -1,7 +1,53 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-20T06:26:17.424283Z",
+  "generated_at": "2026-11-20T11:24:19.918059Z",
   "questions": [
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Refilwe Moncho record their career-best bowling figures (2-11, T20)?",
+      "options": [
+        "Newlands Stadium",
+        "Centurion Park",
+        "Recreation Ground",
+        "Wanderers"
+      ],
+      "answer_index": 1,
+      "explanation": "It was at Centurion Park, against Titans on 2025/11/09."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Wanderers, who holds the record for 'Most Matches' (T20)?",
+      "options": [
+        "Sunette Viljoen-Louw",
+        "Kirstie Thomson",
+        "Kgomotso Rapoo",
+        "Raisibe Ntozakhe"
+      ],
+      "answer_index": 2,
+      "explanation": "Kgomotso Rapoo holds it with 15, a joint record shared with Sarah Nettleton."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head List A meetings, who has the edge, Boland or Cobras?",
+      "options": [
+        "Boland",
+        "Cobras"
+      ],
+      "answer_index": 1,
+      "explanation": "Cobras lead 16-10 across 26 meetings (List A)."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many 50+ scores separate the all-time #1 (Susan Benade) and #2 (Cri-Zelda Brits) half-century makers (List A) in the 07/08 season?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "1"
+      ],
+      "answer_index": 3,
+      "explanation": "Susan Benade: 5 — Cri-Zelda Brits: 4 — a gap of 1."
+    },
     {
       "type": "curveball",
       "question": "Who has scored the most ducks for the South African Women's team in ODI's?",
@@ -16,61 +62,15 @@
     },
     {
       "type": "team_record_venue",
-      "question": "At which ground did Dolphins record their 'Highest Total' (List A)?",
+      "question": "At which ground did Boland record their 'Largest Win by Runs' (List A)?",
       "options": [
-        "Polokwane Oval",
-        "Kingsmead stadium",
-        "Walter Milton Oval",
-        "Potch Boys High Oval"
+        "Kimberley Oval",
+        "Newlands Stadium",
+        "Boland Park, Paarl",
+        "United CC Ground"
       ],
-      "answer_index": 0,
-      "explanation": "It was at Polokwane Oval — highest total of 369, against Limpopo Lillies on 2017/11/11."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Ashlyn Kilowan record their career-best bowling figures (3-13, T20)?",
-      "options": [
-        "UP Main Oval",
-        "Recreation Ground",
-        "Brackenfell Sports Fields",
-        "Buffalo Park"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Recreation Ground, against Badgers on 2013/10/13."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Bianca Botha record their career-best bowling figures (3-33, List A)?",
-      "options": [
-        "Buffalo Park",
-        "Paarl Cricket Club Ground",
-        "Potchefstroom Oval",
-        "Witrand Cricket Field"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at Buffalo Park, against Iinyathi on 2018/11/03."
-    },
-    {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Kei or Boland?",
-      "options": [
-        "Boland",
-        "Kei"
-      ],
-      "answer_index": 0,
-      "explanation": "Boland lead 14-1 across 16 meetings (List A)."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Bloemfontein Oval, who holds the record for 'Most Runs' (T20)?",
-      "options": [
-        "Mianè Smit",
-        "Tazmin Brits",
-        "Yolandi Potgieter",
-        "Izel Cilliers"
-      ],
-      "answer_index": 3,
-      "explanation": "Izel Cilliers holds it with 355."
+      "answer_index": 2,
+      "explanation": "It was at Boland Park, Paarl — largest win by runs of 533, against Kei on 2011/01/29."
     }
   ]
 }

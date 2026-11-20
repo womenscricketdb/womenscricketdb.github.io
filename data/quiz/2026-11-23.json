@@ -1,16 +1,52 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-20T06:26:17.536817Z",
+  "generated_at": "2026-11-20T11:24:20.094294Z",
   "questions": [
     {
       "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Titans or Eastern Storm?",
+      "question": "In head-to-head List A meetings, who has the edge, Dragons or Titans?",
       "options": [
         "Titans",
-        "Eastern Storm"
+        "Dragons"
       ],
-      "answer_index": 0,
-      "explanation": "Titans lead 13-2 across 15 meetings (List A)."
+      "answer_index": 1,
+      "explanation": "Dragons lead 11-7 across 19 meetings (List A)."
+    },
+    {
+      "type": "magnitude_gap",
+      "question": "How many maidens separate the all-time #1 (Stacey Lackay) and #2 (Ashlyn Kilowan) bowlers (List A) in the 12/13 season?",
+      "options": [
+        "11",
+        "2",
+        "6",
+        "8"
+      ],
+      "answer_index": 1,
+      "explanation": "Stacey Lackay: 20 — Ashlyn Kilowan: 18 — a gap of 2."
+    },
+    {
+      "type": "venue_record",
+      "question": "At Potchefstroom Oval, who holds the record for 'Most Runs' (T20)?",
+      "options": [
+        "Anneke Bosch",
+        "Tazmin Brits",
+        "Lizri de Villiers",
+        "Mignon du Preez"
+      ],
+      "answer_index": 1,
+      "explanation": "Tazmin Brits holds it with 344."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Gugu Ngcobo record their career-best innings (33*, T20)?",
+      "options": [
+        "Varsity Oval",
+        "Potchefstroom Oval",
+        "NMMU Main Oval",
+        "City Oval"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at City Oval, against Heat on 2022/02/06."
     },
     {
       "type": "curveball",
@@ -26,51 +62,15 @@
     },
     {
       "type": "reverse_record",
-      "question": "Micaela Andrews set a database record (15/16 season, T20) with a value of 4. Which record is it?",
+      "question": "Yolandi van der Westhuizen set a database record (List A) with a value of 104. Which record is it?",
       "options": [
-        "Fastest 100 (by balls)",
+        "Most 5-Wicket Hauls",
+        "Best Batting Average",
         "Fastest 50 (by balls)",
-        "Most Sixes",
-        "Most Catches (Fielding)"
+        "Most Wicketkeeping Dismissals"
       ],
-      "answer_index": 2,
-      "explanation": "It's the record for 'Most Sixes', held by Micaela Andrews."
-    },
-    {
-      "type": "venue_record",
-      "question": "At Potchefstroom Oval, who holds the record for 'Most Wickets' (List A)?",
-      "options": [
-        "Nthabiseng Nini",
-        "Alyssa Erxleben",
-        "Evodia Yekile",
-        "Raessa van der Westhuizen"
-      ],
-      "answer_index": 1,
-      "explanation": "Alyssa Erxleben holds it with 22."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Geneveve Fritz record their career-best bowling figures (2-11, T20)?",
-      "options": [
-        "Khaya Majola Oval",
-        "Buffalo Park",
-        "Recreation Ground",
-        "Bridgton Sports Grounds"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Buffalo Park, against Heat on 2014/11/23."
-    },
-    {
-      "type": "magnitude_gap",
-      "question": "How many 100+ scores separate the all-time #1 (Trisha Chetty) and #2 (Susan Benade) century-makers (List A) in the 09/10 season?",
-      "options": [
-        "1",
-        "5",
-        "7",
-        "3"
-      ],
-      "answer_index": 0,
-      "explanation": "Trisha Chetty: 2 — Susan Benade: 1 — a gap of 1."
+      "answer_index": 3,
+      "explanation": "It's the record for 'Most Wicketkeeping Dismissals', held by Yolandi van der Westhuizen."
     }
   ]
 }
