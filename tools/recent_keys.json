@@ -402,52 +402,52 @@
   {
     "date": "2026-11-22",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Refilwe Moncho"
+    "source_key": "career_best_venue:Cynthia Naidoo"
   },
   {
     "date": "2026-11-22",
     "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/50Plus_Scores.json:List A:07/08"
+    "source_key": "magnitude_gap:records/fielding/json/WK_Dismissals.json:List A:OVERALL"
   },
   {
     "date": "2026-11-22",
     "template": "q_venue_record",
-    "source_key": "venue:Kimberley Oval"
+    "source_key": "venue:Bloemfontein Oval"
   },
   {
     "date": "2026-11-22",
     "template": "q_head_to_head",
-    "source_key": "h2h:Boland-Cobras:List A"
+    "source_key": "h2h:Cobras-Dolphins:T20"
   },
   {
     "date": "2026-11-22",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Boland:Largest Win by Runs:List A"
+    "source_key": "team_record_venue:Cobras:Highest Total:T20"
   },
   {
     "date": "2026-11-23",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Gugu Ngcobo"
+    "source_key": "career_best_venue:Z Dlungwane"
+  },
+  {
+    "date": "2026-11-23",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/100Plus_Scores.json"
   },
   {
     "date": "2026-11-23",
     "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/bowling/json/Most_Maidens.json:List A:12/13"
+    "source_key": "magnitude_gap:records/batting/json/50Plus_Scores.json:OVERALL:09/10"
   },
   {
     "date": "2026-11-23",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Kimberley Oval"
   },
   {
     "date": "2026-11-23",
     "template": "q_head_to_head",
-    "source_key": "h2h:Dragons-Titans:List A"
-  },
-  {
-    "date": "2026-11-23",
-    "template": "q_reverse_record",
-    "source_key": "records/fielding/json/WK_Dismissals.json"
+    "source_key": "h2h:Cobras-Dragons:T20"
   },
   {
     "date": "2026-11-24",
@@ -457,46 +457,46 @@
   {
     "date": "2026-11-24",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Khushi Mistry"
+    "source_key": "career_best_venue:Joline Smit"
   },
   {
     "date": "2026-11-24",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Recreation Ground"
   },
   {
     "date": "2026-11-24",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Badgers:Highest Total:T20"
+    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:T20"
   },
   {
     "date": "2026-11-24",
     "template": "q_head_to_head",
-    "source_key": "h2h:Dragons-Rhinos:List A"
+    "source_key": "h2h:Dragons-Lions:List A"
+  },
+  {
+    "date": "2026-11-25",
+    "template": "q_player_record",
+    "source_key": "records/bowling/json/Most_5Wickets.json"
   },
   {
     "date": "2026-11-25",
     "template": "q_venue_record",
-    "source_key": "venue:Wanderers"
+    "source_key": "venue:City Oval"
   },
   {
     "date": "2026-11-25",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Tuskers:Highest Total:T20"
+    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:List A"
   },
   {
     "date": "2026-11-25",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Audrey Petersen"
+    "source_key": "career_best_venue:Marlene Steenkamp"
   },
   {
     "date": "2026-11-25",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Rhinos-Titans:List A"
-  },
-  {
-    "date": "2026-11-25",
-    "template": "q_venue_record",
-    "source_key": "venue:Newlands Stadium"
+    "template": "q_reverse_record",
+    "source_key": "records/fielding/json/WK_Dismissals.json"
   }
 ]

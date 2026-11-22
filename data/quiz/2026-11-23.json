@@ -1,52 +1,52 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-22T05:49:22.425649Z",
+  "generated_at": "2026-11-22T11:08:55.660552Z",
   "questions": [
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Dragons or Titans?",
+      "type": "career_best_venue",
+      "question": "At which ground did Z Dlungwane record their career-best bowling figures (2-24, List A)?",
       "options": [
-        "Titans",
-        "Dragons"
+        "Alan Lawson Oval",
+        "Irene Villagers Ground",
+        "Kimberley Oval",
+        "Khaya Majola Oval"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at Kimberley Oval, against Heat on 2019/11/16."
+    },
+    {
+      "type": "head_to_head",
+      "question": "In head-to-head T20 meetings, who has the edge, Cobras or Dragons?",
+      "options": [
+        "Dragons",
+        "Cobras"
       ],
       "answer_index": 1,
-      "explanation": "Dragons lead 11-7 across 19 meetings (List A)."
+      "explanation": "Cobras lead 7-4 across 11 meetings (T20)."
     },
     {
       "type": "magnitude_gap",
-      "question": "How many maidens separate the all-time #1 (Stacey Lackay) and #2 (Ashlyn Kilowan) bowlers (List A) in the 12/13 season?",
+      "question": "How many 50+ scores separate the all-time #1 (Nikita Solé) and #2 (Thandile Cordes) half-century makers (combined T20 + List A) in the 09/10 season?",
       "options": [
-        "11",
-        "2",
-        "6",
-        "8"
+        "10",
+        "7",
+        "3",
+        "1"
       ],
-      "answer_index": 1,
-      "explanation": "Stacey Lackay: 20 — Ashlyn Kilowan: 18 — a gap of 2."
+      "answer_index": 3,
+      "explanation": "Nikita Solé: 3 — Thandile Cordes: 2 — a gap of 1."
     },
     {
       "type": "venue_record",
-      "question": "At Recreation Ground, who holds the record for 'Most Runs' (T20)?",
+      "question": "At Kimberley Oval, who holds the record for 'Most Runs' (T20)?",
       "options": [
-        "Tazmin Brits",
-        "Micaela Andrews",
-        "Nadine Moodley",
-        "Jana Nell"
-      ],
-      "answer_index": 1,
-      "explanation": "Micaela Andrews holds it with 350."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Gugu Ngcobo record their career-best innings (33*, T20)?",
-      "options": [
-        "Varsity Oval",
-        "Potchefstroom Oval",
-        "NMMU Main Oval",
-        "City Oval"
+        "Shumayya Florence",
+        "Yolandi Potgieter",
+        "Bernadette Greeff",
+        "Susan Benade"
       ],
       "answer_index": 3,
-      "explanation": "It was at City Oval, against Heat on 2022/02/06."
+      "explanation": "Susan Benade holds it with 721."
     },
     {
       "type": "curveball",
@@ -61,16 +61,16 @@
       "explanation": "Marizanne Kapp won it in 2013."
     },
     {
-      "type": "reverse_record",
-      "question": "Yolandi van der Westhuizen set a database record (List A) with a value of 104. Which record is it?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Most 100+ Scores' in the 21/22 season (combined T20 + List A)?",
       "options": [
-        "Most 5-Wicket Hauls",
-        "Best Batting Average",
-        "Fastest 50 (by balls)",
-        "Most Wicketkeeping Dismissals"
+        "Sunette Viljoen-Louw",
+        "Tazmin Brits",
+        "Stacey Lackay",
+        "Nadine Moodley"
       ],
-      "answer_index": 3,
-      "explanation": "It's the record for 'Most Wicketkeeping Dismissals', held by Yolandi van der Westhuizen."
+      "answer_index": 1,
+      "explanation": "Tazmin Brits holds it, with a total of 2, a joint record shared with Mieke de Ridder."
     }
   ]
 }
