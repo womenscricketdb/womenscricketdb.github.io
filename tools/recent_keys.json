@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-11-06",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Fay Cowling"
-  },
-  {
-    "date": "2026-11-06",
-    "template": "q_venue_record",
-    "source_key": "venue:Centurion Park"
-  },
-  {
-    "date": "2026-11-06",
-    "template": "q_team_record",
-    "source_key": "records/team/json/Win_By_Runs.json"
-  },
-  {
-    "date": "2026-11-06",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/100Plus_Scores.json:T20:OVERALL"
-  },
-  {
-    "date": "2026-11-06",
-    "template": "q_player_record",
-    "source_key": "records/batting/json/Batting_Average.json"
-  },
-  {
     "date": "2026-11-07",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Kei:Highest Total:T20"
@@ -427,7 +402,7 @@
   {
     "date": "2026-11-23",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Z Dlungwane"
+    "source_key": "career_best_venue:Gugu Ngcobo"
   },
   {
     "date": "2026-11-23",
@@ -437,17 +412,17 @@
   {
     "date": "2026-11-23",
     "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/50Plus_Scores.json:OVERALL:09/10"
+    "source_key": "magnitude_gap:records/batting/json/Most_Runs.json:List A:11/12"
   },
   {
     "date": "2026-11-23",
     "template": "q_venue_record",
-    "source_key": "venue:Kimberley Oval"
+    "source_key": "venue:Newlands Stadium"
   },
   {
     "date": "2026-11-23",
     "template": "q_head_to_head",
-    "source_key": "h2h:Cobras-Dragons:T20"
+    "source_key": "h2h:Rhinos-Tuskers:T20"
   },
   {
     "date": "2026-11-24",
@@ -457,22 +432,22 @@
   {
     "date": "2026-11-24",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Joline Smit"
+    "source_key": "career_best_venue:Khushi Mistry"
   },
   {
     "date": "2026-11-24",
     "template": "q_venue_record",
-    "source_key": "venue:Recreation Ground"
+    "source_key": "venue:Potchefstroom Oval"
   },
   {
     "date": "2026-11-24",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:T20"
+    "source_key": "team_record_venue:Badgers:Highest Total:T20"
   },
   {
     "date": "2026-11-24",
     "template": "q_head_to_head",
-    "source_key": "h2h:Dragons-Lions:List A"
+    "source_key": "h2h:Dragons-Rhinos:List A"
   },
   {
     "date": "2026-11-25",
@@ -487,16 +462,41 @@
   {
     "date": "2026-11-25",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:List A"
+    "source_key": "team_record_venue:Tuskers:Highest Total:T20"
   },
   {
     "date": "2026-11-25",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Marlene Steenkamp"
+    "source_key": "career_best_venue:Audrey Petersen"
   },
   {
     "date": "2026-11-25",
-    "template": "q_reverse_record",
-    "source_key": "records/fielding/json/WK_Dismissals.json"
+    "template": "q_head_to_head",
+    "source_key": "h2h:Rhinos-Titans:List A"
+  },
+  {
+    "date": "2026-11-26",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Dragons:Largest Win by Runs:List A"
+  },
+  {
+    "date": "2026-11-26",
+    "template": "q_venue_record",
+    "source_key": "venue:Kimberley Oval"
+  },
+  {
+    "date": "2026-11-26",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Kei-Warriors:T20"
+  },
+  {
+    "date": "2026-11-26",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:K Tjiane"
+  },
+  {
+    "date": "2026-11-26",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/batting/json/Most_Fours.json:T20:23/24"
   }
 ]
