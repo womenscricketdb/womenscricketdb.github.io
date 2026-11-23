@@ -1,30 +1,42 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-23T06:36:28.227046Z",
+  "generated_at": "2026-11-23T12:17:31.033560Z",
   "questions": [
+    {
+      "type": "venue_record",
+      "question": "At Willowmoore Park Main Oval, who holds the record for 'Most Runs' (T20)?",
+      "options": [
+        "Robyn Dormehl",
+        "Carmen Nagel",
+        "Verunissa Reddy",
+        "Madison Landsman"
+      ],
+      "answer_index": 2,
+      "explanation": "Verunissa Reddy holds it with 114."
+    },
     {
       "type": "team_record_venue",
       "question": "At which ground did Badgers record their 'Highest Total' (T20)?",
       "options": [
-        "Buffalo Park",
-        "Bloemfontein Oval",
         "Recreation Ground",
-        "Yorkshire Cricket Club Ground"
+        "Bloemfontein Oval",
+        "UCT Bowl",
+        "St. George's Outer Oval"
       ],
       "answer_index": 1,
       "explanation": "It was at Bloemfontein Oval — highest total of 207, against Knights on 2023/11/26."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Khushi Mistry record their career-best bowling figures (4-26, List A)?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Best Batting Average' in the 14/15 season (List A)?",
       "options": [
-        "Chatsworth Stadium",
-        "Polokwane Oval",
-        "Willowmoore Park B Field",
-        "Uplands College"
+        "Dinesha Devnarain",
+        "Lanette Pienaar",
+        "Mignon du Preez",
+        "Trisha Chetty"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Polokwane Oval, against Rhinos on 2023/10/28."
+      "answer_index": 2,
+      "explanation": "Mignon du Preez holds it with 69.17."
     },
     {
       "type": "magnitude_gap",
@@ -39,16 +51,6 @@
       "explanation": "Anneke Bosch: 5 — Yolandi Potgieter: 4 — a gap of 1."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head List A meetings, who has the edge, Rhinos or Dragons?",
-      "options": [
-        "Rhinos",
-        "Dragons"
-      ],
-      "answer_index": 1,
-      "explanation": "Dragons lead 7-2 across 9 meetings (List A)."
-    },
-    {
       "type": "curveball",
       "question": "Laura Wolvaardt became the first South African woman to reach 5,000 ODI runs. In how many innings did she reach the milestone, the second-fastest ever?",
       "options": [
@@ -61,16 +63,16 @@
       "explanation": "Wolvaardt reached 5,000 ODI runs in 117 innings, second only to India's Smriti Mandhana (112 innings)."
     },
     {
-      "type": "venue_record",
-      "question": "At Potchefstroom Oval, who holds the record for 'Most Runs' (T20)?",
+      "type": "career_best_venue",
+      "question": "At which ground did Khushi Mistry record their career-best bowling figures (4-26, List A)?",
       "options": [
-        "Lizri de Villiers",
-        "Anneke Bosch",
-        "Tazmin Brits",
-        "Mignon du Preez"
+        "Chatsworth Stadium",
+        "Polokwane Oval",
+        "Willowmoore Park B Field",
+        "Uplands College"
       ],
-      "answer_index": 2,
-      "explanation": "Tazmin Brits holds it with 344."
+      "answer_index": 1,
+      "explanation": "It was at Polokwane Oval, against Rhinos on 2023/10/28."
     }
   ]
 }

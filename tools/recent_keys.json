@@ -421,13 +421,18 @@
   },
   {
     "date": "2026-11-23",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Rhinos-Tuskers:T20"
+    "template": "q_team_record",
+    "source_key": "records/team/json/Win_By_Runs.json"
   },
   {
     "date": "2026-11-24",
     "template": "q_magnitude_gap",
     "source_key": "magnitude_gap:records/batting/json/Most_Sixes.json:T20:19/20"
+  },
+  {
+    "date": "2026-11-24",
+    "template": "q_player_record",
+    "source_key": "records/batting/json/Batting_Average.json"
   },
   {
     "date": "2026-11-24",
@@ -437,17 +442,12 @@
   {
     "date": "2026-11-24",
     "template": "q_venue_record",
-    "source_key": "venue:Potchefstroom Oval"
+    "source_key": "venue:Willowmoore Park Main Oval"
   },
   {
     "date": "2026-11-24",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Badgers:Highest Total:T20"
-  },
-  {
-    "date": "2026-11-24",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Dragons-Rhinos:List A"
   },
   {
     "date": "2026-11-25",
@@ -457,7 +457,7 @@
   {
     "date": "2026-11-25",
     "template": "q_venue_record",
-    "source_key": "venue:City Oval"
+    "source_key": "venue:Recreation Ground"
   },
   {
     "date": "2026-11-25",
@@ -482,7 +482,7 @@
   {
     "date": "2026-11-26",
     "template": "q_venue_record",
-    "source_key": "venue:Kimberley Oval"
+    "source_key": "venue:Centurion Park"
   },
   {
     "date": "2026-11-26",
