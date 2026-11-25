@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-11-08",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Cobras-Warriors:List A"
-  },
-  {
-    "date": "2026-11-08",
-    "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/Most_Fours.json:T20:13/14"
-  },
-  {
-    "date": "2026-11-08",
-    "template": "q_reverse_record",
-    "source_key": "records/misc/json/Most_Matches.json"
-  },
-  {
-    "date": "2026-11-08",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Limpopo Lillies:Largest Win by Runs:List A"
-  },
-  {
-    "date": "2026-11-08",
-    "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Jané Winster"
-  },
-  {
     "date": "2026-11-09",
     "template": "q_player_record",
     "source_key": "records/batting/json/Most_Sixes.json"
@@ -432,12 +407,12 @@
   {
     "date": "2026-11-25",
     "template": "q_venue_record",
-    "source_key": "venue:Centurion Park"
+    "source_key": "venue:Recreation Ground"
   },
   {
     "date": "2026-11-25",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Tuskers:Highest Total:T20"
+    "source_key": "team_record_venue:Eastern Storm:Largest Win by Runs:T20"
   },
   {
     "date": "2026-11-25",
@@ -447,12 +422,12 @@
   {
     "date": "2026-11-25",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Rifqah Esau"
+    "source_key": "career_best_venue:Marlene Steenkamp"
   },
   {
     "date": "2026-11-26",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dragons:Largest Win by Runs:List A"
+    "source_key": "team_record_venue:Badgers:Largest Win by Runs:List A"
   },
   {
     "date": "2026-11-26",
@@ -462,41 +437,66 @@
   {
     "date": "2026-11-26",
     "template": "q_head_to_head",
-    "source_key": "h2h:Kei-Warriors:T20"
+    "source_key": "h2h:Eastern Storm-Lions:List A"
   },
   {
     "date": "2026-11-26",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:K Tjiane"
+    "source_key": "career_best_venue:Jennifer Hall"
   },
   {
     "date": "2026-11-26",
     "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/Most_Fours.json:T20:23/24"
+    "source_key": "magnitude_gap:records/batting/json/100Plus_Scores.json:OVERALL:13/14"
   },
   {
     "date": "2026-11-27",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Titans:Largest Win by Runs:List A"
+    "source_key": "team_record_venue:Kei:Highest Total:T20"
   },
   {
     "date": "2026-11-27",
     "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/Most_Fours.json:List A:12/13"
+    "source_key": "magnitude_gap:records/batting/json/Most_Sixes.json:OVERALL:09/10"
   },
   {
     "date": "2026-11-27",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Koketso Mhlanga"
+    "source_key": "career_best_venue:Lauren Havenga"
   },
   {
     "date": "2026-11-27",
     "template": "q_venue_record",
-    "source_key": "venue:Willowmoore Park Main Oval"
+    "source_key": "venue:City Oval"
   },
   {
     "date": "2026-11-27",
     "template": "q_head_to_head",
-    "source_key": "h2h:Eastern Storm-Limpopo Lillies:T20"
+    "source_key": "h2h:Heat-Tuskers:List A"
+  },
+  {
+    "date": "2026-11-28",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Rhinos-Tuskers:T20"
+  },
+  {
+    "date": "2026-11-28",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/bowling/json/Most_Wickets.json:List A:09/10"
+  },
+  {
+    "date": "2026-11-28",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Mochelle May"
+  },
+  {
+    "date": "2026-11-28",
+    "template": "q_venue_record",
+    "source_key": "venue:Buffalo Park"
+  },
+  {
+    "date": "2026-11-28",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Rhinos:Largest Win by Runs:T20"
   }
 ]
