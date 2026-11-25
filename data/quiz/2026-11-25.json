@@ -1,7 +1,43 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-25T07:42:16.705596Z",
+  "generated_at": "2026-11-25T12:40:52.912081Z",
   "questions": [
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Rifqah Esau record their career-best bowling figures (3-17, T20)?",
+      "options": [
+        "Newlands Stadium",
+        "Newlands Stadium",
+        "Cecil Payne Stadium",
+        "Recreation Ground"
+      ],
+      "answer_index": 3,
+      "explanation": "It was at Recreation Ground, against Badgers on 2024/12/15."
+    },
+    {
+      "type": "team_record_venue",
+      "question": "At which ground did Tuskers record their 'Highest Total' (T20)?",
+      "options": [
+        "CUT Main Oval",
+        "Recreation Ground",
+        "City Oval",
+        "Potchefstroom Oval"
+      ],
+      "answer_index": 2,
+      "explanation": "It was at City Oval — highest total of 137, against Rhinos on 2015/03/15."
+    },
+    {
+      "type": "player_record",
+      "question": "Who holds the record for 'Fastest 50 (by balls)' in the 19/20 season (combined T20 + List A)?",
+      "options": [
+        "Trisha Chetty",
+        "Carmen Nagel",
+        "Tazmin Brits",
+        "Jana Nell"
+      ],
+      "answer_index": 3,
+      "explanation": "Jana Nell holds it, with a total of 27."
+    },
     {
       "type": "curveball",
       "question": "Which of these players went on to be a match referee in a women's test match?",
@@ -15,64 +51,28 @@
       "explanation": "Fritz was the match referee in the test match between South Africa and England, December 2024."
     },
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Eastern Storm record their 'Largest Win by Runs' (T20)?",
+      "type": "player_record",
+      "question": "Who holds the record for 'Most 5-Wicket Hauls' in the 12/13 season (T20)?",
       "options": [
-        "TUT Oval",
-        "Polokwane Oval",
-        "Oudtshoorn High School",
-        "Lenasia Stadium"
+        "A Ludidi",
+        "A Ntoyabo",
+        "Alexis le Breton",
+        "Yumna Plowker"
       ],
-      "answer_index": 1,
-      "explanation": "It was at Polokwane Oval — largest win by runs of 90, against Limpopo Lillies on 2013/10/12."
-    },
-    {
-      "type": "career_best_venue",
-      "question": "At which ground did Marlene Steenkamp record their career-best innings (90*, List A)?",
-      "options": [
-        "City Oval",
-        "Country Club B Field",
-        "Willowmoore Park A Field",
-        "Buffalo Park"
-      ],
-      "answer_index": 0,
-      "explanation": "It was at City Oval, against Knights on 2013/11/09."
+      "answer_index": 3,
+      "explanation": "Yumna Plowker holds it, with a total of 1, a joint record shared with Kaylee Stadler."
     },
     {
       "type": "venue_record",
-      "question": "At Recreation Ground, who holds the record for 'Most Matches' (List A)?",
+      "question": "At Willowmoore Park Main Oval, who holds the record for 'Most Matches' (List A)?",
       "options": [
-        "Haroline Rhodes",
-        "Marnazelle Rabie",
-        "Micaela Andrews",
-        "Jané Winster"
+        "Jennifer Hall",
+        "Sibongile Makamo",
+        "Adele van Eck",
+        "Kayleigh Craig"
       ],
       "answer_index": 3,
-      "explanation": "Jané Winster holds it with 35."
-    },
-    {
-      "type": "player_record",
-      "question": "Who holds the record for 'Most 5-Wicket Hauls' in the 22/23 season (combined T20 + List A)?",
-      "options": [
-        "Masingla Khosa",
-        "Nhlanhla Shabangu",
-        "Gabsile Nkosi",
-        "Ricea Coetzer"
-      ],
-      "answer_index": 3,
-      "explanation": "Ricea Coetzer holds it, with a total of 2."
-    },
-    {
-      "type": "player_record",
-      "question": "Who holds the record for 'Fastest 50 (by balls)' in the 19/20 season (combined T20 + List A)?",
-      "options": [
-        "Trisha Chetty",
-        "Carmen Nagel",
-        "Tazmin Brits",
-        "Jana Nell"
-      ],
-      "answer_index": 3,
-      "explanation": "Jana Nell holds it, with a total of 27."
+      "explanation": "Kayleigh Craig holds it with 9."
     }
   ]
 }
