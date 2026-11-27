@@ -1,62 +1,52 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-26T12:16:17.284285Z",
+  "generated_at": "2026-11-27T07:29:48.226988Z",
   "questions": [
     {
-      "type": "team_record_venue",
-      "question": "At which ground did Dolphins record their 'Highest Total' (List A)?",
-      "options": [
-        "SASOL Club",
-        "Polokwane Oval",
-        "St. Stithians Dlamini",
-        "Parys A Ground"
-      ],
-      "answer_index": 1,
-      "explanation": "It was at Polokwane Oval — highest total of 369, against Limpopo Lillies on 2017/11/11."
-    },
-    {
       "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Eastern Storm or Tuskers?",
+      "question": "In head-to-head List A meetings, who has the edge, Tuskers or Heat?",
       "options": [
-        "Eastern Storm",
+        "Heat",
         "Tuskers"
       ],
       "answer_index": 0,
-      "explanation": "Eastern Storm lead 8-0 across 9 meetings (T20)."
+      "explanation": "Heat lead 10-7 across 19 meetings (List A)."
     },
     {
-      "type": "head_to_head",
-      "question": "In head-to-head T20 meetings, who has the edge, Knights or Cobras?",
+      "type": "magnitude_gap",
+      "question": "How many wickets separate the all-time #1 (Chloé Tryon) and #2 (Rasika Maharaj) wicket-takers (List A) in the 09/10 season?",
       "options": [
-        "Cobras",
-        "Knights"
+        "8",
+        "12",
+        "4",
+        "6"
       ],
-      "answer_index": 0,
-      "explanation": "Cobras lead 9-0 across 10 meetings (T20)."
+      "answer_index": 3,
+      "explanation": "Chloé Tryon: 24 — Rasika Maharaj: 18 — a gap of 6."
     },
     {
       "type": "venue_record",
-      "question": "At Centurion Park, who holds the record for 'Most Runs' (T20)?",
+      "question": "At Potchefstroom Oval, who holds the record for 'Most Runs' (List A)?",
       "options": [
+        "Lizelle Lee",
+        "Diedre van Rensburg",
         "Tazmin Brits",
-        "Faye Tunnicliffe",
-        "Tebogo Macheke",
         "Anneke Bosch"
       ],
-      "answer_index": 3,
-      "explanation": "Anneke Bosch holds it with 269."
+      "answer_index": 2,
+      "explanation": "Tazmin Brits holds it with 537."
     },
     {
-      "type": "career_best_venue",
-      "question": "At which ground did Shumayya Florence record their career-best innings (28*, T20)?",
+      "type": "team_record_venue",
+      "question": "At which ground did Rhinos record their 'Largest Win by Runs' (T20)?",
       "options": [
-        "NMMU Main Oval",
-        "Muir Old Boys Club Ground",
-        "Buffalo Park",
-        "Willowmoore Park B Field"
+        "UP Main Oval",
+        "Bridgton Sports Grounds",
+        "Polokwane Oval",
+        "Wanderers"
       ],
       "answer_index": 2,
-      "explanation": "It was at Buffalo Park, against Iinyathi on 2025/03/09."
+      "explanation": "It was at Polokwane Oval — largest win by runs of 46, against Limpopo Lillies on 2019/02/03."
     },
     {
       "type": "curveball",
@@ -69,6 +59,18 @@
       ],
       "answer_index": 0,
       "explanation": "Lions finished runner-up 7 times across List A and T20 Division 1 between 2012/13 and 2025/26, but won the title only twice."
+    },
+    {
+      "type": "career_best_venue",
+      "question": "At which ground did Mochelle May record their career-best innings (50*, T20)?",
+      "options": [
+        "Khaya Majola Oval",
+        "Bloemfontein Oval",
+        "Chatsworth Stadium",
+        "Wanderers Club 2"
+      ],
+      "answer_index": 0,
+      "explanation": "It was at Khaya Majola Oval, against Kei on 2014/11/30."
     }
   ]
 }

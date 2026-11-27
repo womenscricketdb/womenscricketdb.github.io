@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-11-10",
-    "template": "q_player_record",
-    "source_key": "records/misc/json/Most_Matches.json"
-  },
-  {
-    "date": "2026-11-10",
-    "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Limpopo Lillies:Largest Win by Runs:T20"
-  },
-  {
-    "date": "2026-11-10",
-    "template": "q_reverse_record",
-    "source_key": "records/team/json/Most_Wins.json"
-  },
-  {
-    "date": "2026-11-10",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Badgers-Boland:List A"
-  },
-  {
-    "date": "2026-11-10",
-    "template": "q_player_record",
-    "source_key": "records/bowling/json/Best_Bowl_Performance.json"
-  },
-  {
     "date": "2026-11-11",
     "template": "q_team_record_venue",
     "source_key": "team_record_venue:Kei:Highest Total:List A"
@@ -427,17 +402,17 @@
   {
     "date": "2026-11-27",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Titans:Largest Win by Runs:List A"
+    "source_key": "team_record_venue:Kei:Highest Total:T20"
   },
   {
     "date": "2026-11-27",
     "template": "q_magnitude_gap",
-    "source_key": "magnitude_gap:records/batting/json/Most_Fours.json:List A:12/13"
+    "source_key": "magnitude_gap:records/batting/json/Most_Sixes.json:OVERALL:09/10"
   },
   {
     "date": "2026-11-27",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Jané Winster"
+    "source_key": "career_best_venue:Lauren Havenga"
   },
   {
     "date": "2026-11-27",
@@ -452,27 +427,27 @@
   {
     "date": "2026-11-28",
     "template": "q_head_to_head",
-    "source_key": "h2h:Cobras-Knights:T20"
+    "source_key": "h2h:Heat-Tuskers:List A"
+  },
+  {
+    "date": "2026-11-28",
+    "template": "q_magnitude_gap",
+    "source_key": "magnitude_gap:records/bowling/json/Most_Wickets.json:List A:09/10"
   },
   {
     "date": "2026-11-28",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Shumayya Florence"
+    "source_key": "career_best_venue:Mochelle May"
   },
   {
     "date": "2026-11-28",
     "template": "q_venue_record",
-    "source_key": "venue:Centurion Park"
+    "source_key": "venue:Potchefstroom Oval"
   },
   {
     "date": "2026-11-28",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dolphins:Highest Total:List A"
-  },
-  {
-    "date": "2026-11-28",
-    "template": "q_head_to_head",
-    "source_key": "h2h:Eastern Storm-Tuskers:T20"
+    "source_key": "team_record_venue:Rhinos:Largest Win by Runs:T20"
   },
   {
     "date": "2026-11-29",
@@ -482,21 +457,46 @@
   {
     "date": "2026-11-29",
     "template": "q_venue_record",
-    "source_key": "venue:City Oval"
+    "source_key": "venue:Centurion Park"
   },
   {
     "date": "2026-11-29",
     "template": "q_career_best_venue",
-    "source_key": "career_best_venue:Makhotso Sesing"
+    "source_key": "career_best_venue:Kgomotso Rapoo"
   },
   {
     "date": "2026-11-29",
     "template": "q_team_record_venue",
-    "source_key": "team_record_venue:Dragons:Highest Total:List A"
+    "source_key": "team_record_venue:Iinyathi:Largest Win by Runs:List A"
   },
   {
     "date": "2026-11-29",
     "template": "q_head_to_head",
-    "source_key": "h2h:Dragons-Knights:List A"
+    "source_key": "h2h:Dolphins-Tuskers:List A"
+  },
+  {
+    "date": "2026-11-30",
+    "template": "q_venue_record",
+    "source_key": "venue:Kimberley Oval"
+  },
+  {
+    "date": "2026-11-30",
+    "template": "q_head_to_head",
+    "source_key": "h2h:Heat-Limpopo Lillies:List A"
+  },
+  {
+    "date": "2026-11-30",
+    "template": "q_team_record_venue",
+    "source_key": "team_record_venue:Titans:Largest Win by Runs:List A"
+  },
+  {
+    "date": "2026-11-30",
+    "template": "q_career_best_venue",
+    "source_key": "career_best_venue:Tanita van Zyl"
+  },
+  {
+    "date": "2026-11-30",
+    "template": "q_venue_record",
+    "source_key": "venue:Boland Park, Paarl"
   }
 ]
